@@ -3,4 +3,5 @@
 // Para adicionar uma matéria nova, crie a pasta e acrescente o nome aqui.
 window.MATERIAS = [
   "DireitosHumanos",
+  "PesquisaTecnologiaEInovação",
 ];

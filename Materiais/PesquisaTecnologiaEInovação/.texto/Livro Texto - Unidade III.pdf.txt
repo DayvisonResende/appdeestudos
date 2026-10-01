@@ -1,0 +1,761 @@
+===== Página 1 =====
+70
+Unidade III
+Unidade III
+5 CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA
+Em um trabalho acadêmico longo, sempre precisamos fazer citações. Mas o que exatamente isso 
+significa? Uma citação é a utilização de trechos, de dados ou de ideias de outros autores em nosso 
+trabalho. Se você, em determinada porção do seu texto, utilizou dados do IBGE, você acabou de fazer 
+uma citação. Se, em outro trecho, você trouxe informações técnicas a respeito de um microprocessador 
+oriundas do fabricante do dispositivo, você fez outra citação. Se um estudante do instituto de ciências 
+humanas utilizou uma frase de Machado de Assis em parte de seu texto, ele também fez uma citação.
+De modo geral, podemos dizer que uma citação é qualquer conteúdo que buscamos em outras obras 
+e utilizamos em nosso texto.
+Por que devemos fazer citações em nossos trabalhos acadêmicos? As citações mostram que nossa 
+pesquisa está baseada em fontes confiáveis e em estudos anteriores. Elas também mostram que 
+conhecemos a literatura da área, e isso ajuda a fortalecer a nossa argumentação.
+Além disso, citar trabalhos anteriores ajuda a situar a nossa pesquisa dentro de um campo de estudo, 
+mostrando como ela se relaciona com o que já foi produzido. Isso possibilita ao leitor identificar as bases 
+teóricas e metodológicas do trabalho.
+Podemos considerar, assim, que um trabalho acadêmico bem fundamentado é um trabalho repleto 
+de citações provenientes de fontes confiáveis.
+E como fazemos para creditar os autores que nos trouxeram as ideias, os dados ou os trechos das 
+citações que fizemos em nosso texto? A cada uma das citações deve ser associada uma referência.
+Uma referência é uma disposição padronizada das informações que identificam a obra da qual 
+extraímos as informações que compuseram uma citação do nosso texto. Segundo Brasileiro (2021), 
+uma referência é constituída de elementos indispensáveis à identificação do documento, como autoria, 
+título, ano de publicação, entre outras informações.
+O modo pelo qual “unimos” as citações que fazemos em nosso texto às referências é denominado 
+chamada. Uma chamada é uma indicação que fazemos no texto, próxima à citação, que indica de qual 
+referência aquele conteúdo mencionado foi extraído.
+Utilizar corretamente os recursos de citações, referências e chamadas proporciona o uso de ideias, 
+dados e até mesmo trechos de outros autores sem cometer plágio.
+
+===== Página 2 =====
+71
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Lembrete
+Uma citação é a utilização de trechos, dados ou ideias de outros autores 
+em nosso trabalho. Uma referência traz as informações que identificam 
+a obra da qual extraímos as informações que compuseram a citação do 
+nosso texto. Uma chamada é a forma como indicamos de qual referência o 
+conteúdo daquela citação foi extraído.
+5.1 Tipos de citações
+De acordo com Brasileiro (2021), há três tipos de citação utilizadas em trabalhos acadêmicos: a direta,  
+a indireta e a citação de citação.
+5.1.1 Citação direta
+Fazemos uma citação direta quando realizamos uma transcrição textual de parte da obra de 
+terceiros (livro, artigo científico, documento etc.). Ou seja, a citação direta é feita quando, em nosso texto, 
+utilizamos as exatas palavras utilizadas em uma parte de outra publicação.
+Na citação direta, então, fazemos a reprodução literal de um trecho de uma obra de terceiros, sem 
+qualquer modificação nas palavras ou na pontuação do autor original.
+Citações diretas são amplamente utilizadas em trabalhos acadêmicos da área de ciências jurídicas 
+e da área de ciências humanas, em geral. Por exemplo, quem cita Machado de Assis não vai querer 
+modificar suas palavras.
+Na área de ciências naturais e tecnológicas, as citações diretas são usadas com menos frequência e 
+em casos mais pontuais.
+Seja qual for a natureza do trabalho, a transcrição textual é um recurso valioso para preservar a 
+voz do autor original e para fundamentar nossa pesquisa com precisão. Entretanto, seu uso deve ser 
+estratégico e sempre acompanhado de referências, para mantermos a integridade acadêmica. Além 
+disso, há dois tipos de citação direta: a curta e a longa.
+Citação direta curta
+É considerada uma citação direta curta aquela cuja extensão ocupa até três linhas. Nesse caso, 
+devemos posicionar a transcrição textual entre aspas duplas. A formatação do texto segue a mesma 
+formatação do corpo do trabalho acadêmico. No parágrafo a seguir, há um exemplo de citação 
+direta curta.
+
+===== Página 3 =====
+72
+Unidade III
+De acordo com Perkovic (2016, p. 3), “Um algoritmo é uma sequência de instruções, não muito 
+diferente de uma receita culinária” .
+Repare que, nesse exemplo que criamos, podemos reconhecer a chamada, representada pelo trecho 
+“de acordo com Perkovic (2016, p. 3)”, além de distinguir a citação em si, que foi posta entre aspas 
+duplas no parágrafo anterior.
+Essa chamada indica que o sobrenome do autor é Perkovic e a obra foi publicada em 2016, bem 
+como sendo a página 3 da qual a citação foi extraída. Para consultar outros detalhes da obra, você 
+pode se direcionar à referência, que se encontra na seção pós‑textual Referências deste livro‑texto. 
+Para isso, basta reconhecer o sobrenome do autor, já que as referências desta obra foram colocadas em 
+ordem alfabética.
+Em relação à citação em si, note que as palavras e a formatação original do autor foram mantidas, 
+e, por isso, a letra U (em maiúsculo) foi mantida como na obra original, mesmo que tenha aparecido no 
+meio da frase aqui. A pontuação adotada por ele também foi respeitada.
+Uma outra maneira de fazer a mesma citação é posicionar a chamada ao final do texto citado. Nesse 
+caso, o sobrenome do autor deve aparecer dentro dos parênteses. Isso é feito no exemplo a seguir.
+“Um algoritmo é uma sequência de instruções, não muito diferente de uma receita culinária” 
+(Perkovic, 2016, p. 3).
+Citação direta longa
+É considerada uma citação direta longa aquela cuja extensão ocupa mais de três linhas. Segundo 
+Brasileiro (2021), nesse caso, é necessário aplicar ao trecho citado um recuo de 4 cm da margem esquerda, 
+adotar espaçamento simples entre as linhas e diminuir o tamanho da fonte original. Geralmente, o 
+tamanho de fonte adotado para citações diretas longas é o tamanho 10, mas a ABNT, na NBR 10520 
+(2023), não estipula um tamanho específico.
+Por se tratar de um trecho longo citado com transcrição literal, as modificações indicadas pela ABNT 
+separam claramente o texto citado do conteúdo do próprio trabalho acadêmico em questão, evitando 
+confusão entre a voz do autor original e a do trabalho que está sendo produzido. Esse destaque, portanto, 
+deixa muito claro ao leitor que aquela sequência de palavras não é de sua autoria, apenas está sendo 
+usada no texto. Isso contribui, inclusive, com a honestidade intelectual do trabalho.
+Para exemplificar, vamos fazer uma citação direta longa. Note que o destaque visual é bem 
+característico e chamativo. Você, provavelmente, já o encontrou em outros trabalhos, mesmo que não 
+soubesse do que se tratava:
+
+===== Página 4 =====
+73
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Segundo Perkovic (2016, p. 4),
+Ainda que o desenvolvimento de aplicações certamente seja um fator 
+fundamental do campo da ciência da computação, seu escopo é mais amplo. 
+As técnicas computacionais desenvolvidas pelos cientistas da computação 
+são utilizadas para estudar questões sobre a natureza da informação, 
+computação e inteligência. Elas também são usadas em outras disciplinas 
+para entender os fenômenos naturais e artificiais ao nosso redor, como 
+as transições de fase na física ou as redes sociais na sociologia. De fato, alguns 
+cientistas da computação agora estão trabalhando em alguns dos problemas 
+mais desafiadores na ciência, matemática, economia e outros campos.
+De modo semelhante, podemos fazer a citação com a chamada ao final, e não no início da citação. 
+Esse método é até mesmo mais comum de ser encontrado em citações diretas longas. Veja:
+Ainda que o desenvolvimento de aplicações certamente seja um fator 
+fundamental do campo da ciência da computação, seu escopo é mais amplo. 
+As técnicas computacionais desenvolvidas pelos cientistas da computação são 
+utilizadas para estudar questões sobre a natureza da informação, computação 
+e inteligência. Elas também são usadas em outras disciplinas para entender os 
+fenômenos naturais e artificiais ao nosso redor, como as transições de fase na 
+física ou as redes sociais na sociologia. De fato, alguns cientistas da computação 
+agora estão trabalhando em alguns dos problemas mais desafiadores na ciência, 
+matemática, economia e outros campos (Perkovic, 2016, p. 4).
+ Observação
+No caso de citações diretas longas, o destaque visual adotado dispensa 
+o uso das aspas.
+5.1.2 Citação indireta
+Se você é atento, notou que, ao longo deste livro‑texto, apareceram diversas chamadas, indicando 
+que foram feitas diversas citações. No entanto, a grande maioria delas não adotou qualquer destaque 
+visual, seja com aspas duplas, seja com a formatação exigida para citações diretas longas. Isso significa 
+que utilizamos majoritariamente as citações indiretas.
+Uma citação indireta é um tipo de citação em que o autor do texto usa dados ou ideias extraídas 
+de outras publicações, mas não faz uma transcrição textual exata do conteúdo. Desse modo, quando 
+fazemos uma citação indireta, mencionamos o conteúdo de outro trabalho, mas o registramos com 
+nossas próprias palavras em nosso texto.
+
+===== Página 5 =====
+74
+Unidade III
+As citações indiretas não dispensam as chamadas a referências, mas, nesse caso, não é obrigatório 
+incluirmos o número da página da qual o conteúdo citado foi extraído. Além disso, como dessa vez 
+estamos escrevendo o nosso próprio texto, mesmo com base em conteúdo de terceiros, não precisamos 
+fazer qualquer destaque visual. Simplesmente, seguimos com a mesma formatação do corpo do trabalho.
+Por mais que já tenhamos feito diversas citações indiretas neste livro‑texto, vamos fazer uma 
+de exemplo, com base no conteúdo da citação direta longa, feita na seção anterior. Acompanhe no 
+parágrafo a seguir:
+De acordo com Perkovic (2016), a ciência da computação não se limita ao desenvolvimento de 
+aplicações, mas expande‑se para outras áreas do conhecimento. Seus métodos são utilizados para 
+investigar desde fenômenos naturais (como transições de fase na física) até questões sociais (como redes 
+virtuais), ajudando a resolver problemas complexos da matemática, da economia e de outras ciências.
+Assim como a chamada, a referência associada à citação indireta precisa integrar a lista de referências 
+do trabalho.
+Citações indiretas são particularmente interessantes para integrar a ideia do trabalho original ao 
+nosso contexto ou para adaptar a linguagem original ao nosso público. Podemos, por exemplo, simplificar 
+uma linguagem muito técnica para tornar o conteúdo mais acessível, ou reescrever um conteúdo com 
+linguagem arcaica em um estilo mais moderno.
+Além disso, as citações indiretas são muito utilizadas para trazermos dados estatísticos ao nosso 
+trabalho, como taxas percentuais levantadas por institutos de pesquisa.
+ Lembrete
+Mesmo para uma citação indireta, a chamada e a referência são obrigatórias.  
+Se o dado não é nosso, ele precisa ser atribuído à fonte original. Estamos 
+dispensados apenas de indicar o número da página na chamada.
+ Observação
+Neste livro‑texto, utilizamos alguns padrões da ABNT, como o padrão 
+de citações e o sistema de chamada. No entanto, este livro‑texto não é 
+considerado um documento padronizado de acordo com as regras da ABNT 
+para trabalhos acadêmicos, pois obedece a outras normas institucionais de 
+padronização, de formatação e de diagramação. Sempre consulte o guia 
+de normalização disponibilizado para a obra que você está produzindo!
+
+===== Página 6 =====
+75
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+5.1.3 Citação de citação
+A citação de citação ocorre quando fazemos uma citação, seja direta ou indireta, que foi retirada 
+de um trabalho que não é a origem da ideia citada.
+Imagine que você está escrevendo um texto sobre ética aplicada a sistemas digitais e encontra 
+uma ideia relevante no livro (hipotético) Ética na Era da Tecnologia, publicado pela autora Maria Silva, 
+em 2025. Você quer citar essa ideia em seu texto. No entanto, você percebe que Silva não é autora 
+original da ideia, já que, ao apresentá‑la, ela deixa claro que está citando um estudo clássico do professor 
+João Souza, publicado em 1983, em um livro esgotado e de difícil acesso. A citação que Maria Silva faz 
+é uma citação direta.
+Nesse caso, o ideal seria você procurar e consultar o livro do próprio autor da ideia, João Souza, 
+antes de fazer sua citação. No entanto, você não conseguiu acessar a obra original, pois ela está 
+indisponível atualmente.
+Você, então, opta por recorrer ao recurso de citação de citação. De acordo com a ABNT NBR 10520 (2023), 
+diante disso, a sua chamada deve incluir o sobrenome dos dois autores, usando a expressão apud, que 
+significa “citado por”, para indicar a fonte intermediária. Em seu texto, encontraremos algo parecido 
+com o indicado a seguir:
+Segundo Souza (1983, p. 297, apud Silva, 2025, p. 32), “A tecnologia deve ser guiada por princípios 
+éticos que priorizem a dignidade humana acima da eficiência técnica” .
+Caso você tenha optado por fazer a chamada no final da citação, teríamos o exposto a seguir:
+“A tecnologia deve ser guiada por princípios éticos que priorizem a dignidade humana acima da 
+eficiência técnica” (Souza, 1983, p. 297, apud Silva, 2025, p. 32).
+Em relação à inserção da chamada nas referências, você deve incluir apenas a obra consultada, e 
+não a obra original. Dessa maneira, encontraríamos a referência do livro de Maria da Silva, que pode ser 
+exposta conforme o que segue:
+SILVA, M. Ética na Era da Tecnologia. São Paulo: Techbooks, 2025.
+5.2 Sistemas de chamada
+De acordo com a ABNT NBR 10520 (2023), as citações devem ser indicadas no texto por um sistema 
+de chamada: ou autor‑data ou numérico. Devemos escolher um (e apenas um) desses dois sistemas. 
+Qualquer que seja o sistema adotado, ele deve ser seguido consistentemente no decorrer do texto, 
+propiciando a correlação de cada citação com a sua respectiva referência.
+
+===== Página 7 =====
+76
+Unidade III
+5.2.1 Sistema autor‑data
+O sistema autor-data foi o sistema que utilizamos em todos os exemplos de chamada que fizemos 
+até agora. No entanto, alguns detalhes foram omitidos e serão discutidos agora.
+Pessoa física
+A situação mais comum quando elaboramos um trabalho acadêmico é consultarmos obras cuja 
+autoria seja de uma pessoa física. Em tal caso, devemos trazer, na chamada, o sobrenome do autor e o 
+ano de publicação da obra – e, em caso de citações diretas, o número da página do conteúdo citado. 
+Conforme já vimos, a chamada pode ocorrer antes ou depois da citação. Considere os exemplos a seguir, 
+extraídos da ABNT NBR 10520 (2023, p. 4‑5):
+• Exemplo de chamada autor-data em citação indireta
+A ironia seria assim uma forma implícita de heterogeneidade mostrada, conforme a classificação 
+proposta por Authier‑Revuz (1982).
+• Exemplo de chamada autor-data em citação direta
+“Apesar das aparências, a desconstrução do logocentrismo não é uma psicanálise da filosofia [...]” 
+(Derrida, 1967, p. 293).
+No último exemplo, o símbolo “[...]” indica que parte do texto original foi omitida na transcrição textual. 
+O objetivo de seu uso é encurtar a citação, removendo partes não essenciais para o argumento exposto.
+Pessoa jurídica
+Por outro lado, quando citamos pessoas jurídicas, devemos incluir na chamada o nome completo ou 
+a sigla da instituição. No caso de usar siglas, a ABNT recomenda que sejam utilizadas letras maiúsculas. 
+Os dois exemplos a seguir, extraídos da ABNT NBR 10520 (2023, p. 5) utilizam citações diretas:
+• Exemplo de chamada autor-data com nome completo da instituição jurídica
+“A promoção e proteção da saúde são essenciais para o bem‑estar do homem e para o desenvolvimento 
+econômico e social sustentável” (Organização Mundial da Saúde, 2010, p. xi).
+• Exemplo de chamada autor-data com sigla da instituição jurídica
+“Durante o século XV, os portugueses decidiram que a melhor maneira para prosperar economicamente 
+era acabar com o monopólio das cidades italianas, passando a negociar diretamente com o Oriente” 
+(IBGE, 2011, p. 3).
+
+===== Página 8 =====
+77
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Instituição governamental
+Quando a instituição for governamental da administração direta, ou seja, um órgão ou uma entidade 
+integrada à estrutura do Estado, devemos usar na chamada autor‑data o nome do órgão ou da jurisdição 
+ao qual ele pertence. O exemplo a seguir foi extraído da ABNT NBR 10520 (2023, p. 5), e traz uma citação 
+indireta. Para tornar mais clara a origem do documento, foi incluída a referência, em sequência:
+• No texto
+O mecanismo proposto para viabilizar esta concepção é o chamado Contrato de Gestão, que 
+conduziria à captação de recursos privados como forma de reduzir os investimentos públicos no ensino 
+superior (Brasil, 1995).
+• Na lista de referências
+BRASIL. Ministério da Administração Federal e da Reforma do Estado. Plano diretor da reforma do 
+aparelho do Estado. Brasília: Ministério da Administração Federal e da Reforma do Estado, 1995.
+Sem autoria
+Quando houver citações de trabalhos cuja autoria ou responsabilidade não seja explicitada, então 
+devemos fazer a chamada autor‑data pelo título da obra. Acompanhe os exemplos a seguir, extraídos 
+da ABNT NBR 10520 (2023, p. 5‑6):
+• Exemplo de título composto de única palavra
+— No texto:
+“O inglês é uma língua germânica” (Inglês, 2012, p. 7).
+— Na lista de referências:
+INGLÊS: guia de conversação. São Paulo: Lonely Planet; Globo Livros, 2012.
+• Exemplo de título composto de múltiplas palavras
+— No texto:
+“As IES implementarão mecanismos democráticos, legítimos e transparentes de avaliação sistemática 
+das suas atividades, levando em conta seus objetivos institucionais e seus compromissos para com a 
+sociedade” (Anteprojeto [...], 1987, p. 55).
+
+===== Página 9 =====
+78
+Unidade III
+— Na lista de referências:
+ANTEPROJETO de lei. Estudos e Debates, Brasília, DF, n. 13, p. 51‑60, jan. 1987.
+Note que, no último exemplo, o símbolo “[...]” indica que o resto do título foi omitido, na chamada.
+Obras com múltiplos autores
+Muitas vezes, queremos citar trechos de obras, como livros ou artigos científicos, que foram 
+produzidas por dois ou mais autores. A chamada autor‑data precisa incluir todos os autores. No caso de 
+haver pelo menos quatro autores, é possível indicar apenas o primeiro deles e inserir o termo et al., que 
+indica que há outros autores não mencionados.
+• Exemplo com menos de quatro autores
+— No texto:
+De acordo com Souza e Oliveira (2023, p. 45), “a sustentabilidade urbana depende de políticas 
+integradas entre o poder público e a sociedade civil” .
+Na lista de referências:
+SOUZA, A.; OLIVEIRA, B. Cidades sustentáveis. 2. ed. São Paulo: Ambiental, 2023.
+• Exemplo com quatro ou mais autores
+— No texto:
+Lima et al. (2024) argumentam que a sustentabilidade hídrica não pode ser dissociada de práticas 
+agrícolas responsáveis.
+— Na lista de referências:
+LIMA, A.; SOUZA, B.; OLIVEIRA, C.; SANTOS, D.; PEREIRA, E. Gestão sustentável de recursos hídricos. 
+3. ed. Rio de Janeiro: Água, 2024.
+ Saiba mais
+Não esgotamos, todas as possíveis situações com as quais podemos 
+deparar quando fazemos chamadas em sistema autor‑data. Para consultar 
+outros exemplos, consulte o livro:
+APPOLINÁRIO, F.; GIL, I. Como escrever um texto científico : teses, 
+dissertações, artigos e TCC. São Paulo: Trevisan, 2013.
+
+===== Página 10 =====
+79
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Observação
+Ao optarmos por utilizar o sistema autor‑data, devemos ordenar a lista 
+de referências do trabalho em ordem alfabética, levando em consideração 
+o sobrenome do primeiro autor de cada trabalho referenciado.
+5.2.2 Sistema numérico
+Além do sistema autor‑data, que costuma ser o protagonista em trabalhos acadêmicos padronizados 
+pela ABNT, a ABNT NBR 10520 (2023) prevê a utilização do sistema numérico de chamadas. Dessa 
+forma, a chamada ocorre de forma mais discreta, apontando apenas o número da citação (no caso de 
+citações indiretas) ou o número da citação e a página (quando citações diretas).
+Nesse sistema, devemos numerar as citações de forma consecutiva, em algarismos arábicos, que 
+remetem à lista de referências ao final do documento, do capítulo ou da parte, obedecendo à ordem na 
+qual aparecem no texto.
+A fonte consultada, quando repetida, deve ser representada pelo mesmo número. Isso significa que, 
+quando mais de uma citação for feita com base na mesma referência, todas essas citações terão o 
+mesmo número no corpo do trabalho.
+A indicação do número pode ser feita entre parênteses, alinhada ao texto, ou sobrescrita (desse 
+modo, não usamos parênteses).
+• Exemplo de chamada numérica em citação indireta
+— No texto:
+A sustentabilidade hídrica não pode ser dissociada de práticas agrícolas responsáveis4.
+Na lista de referências:
+4 LIMA, A.; SOUZA, B.; OLIVEIRA, C.; SANTOS, D.; PEREIRA, E. Gestão sustentável de recursos hídricos. 
+3. ed. Rio de Janeiro: Água, 2024.
+• Exemplo de chamada numérica em citação direta
+— No texto:
+“No Brasil, o Amapá foi um estado pioneiro no reconhecimento dos direitos territoriais indígenas” (5, p. 30).
+
+===== Página 11 =====
+80
+Unidade III
+Na lista de referências:
+⁵ GALLOIS, D. T.; GRUPIONI, D. F. Povos indígenas no Amapá e norte do Pará: quem são, onde estão, 
+quantos são, como vivem e o que pensam? São Paulo: lepé, 2005.
+ Observação
+Quando optamos pelo sistema numérico de chamada, a lista de 
+referências deve ser ordenada pela ordem na qual suas citações acontecem 
+no texto. Por exemplo, a referência numerada como 5 traz informações a 
+respeito da quinta obra citada no texto.
+ Saiba mais
+Por mais que não sejam padronizados de acordo com as normas da ABNT, 
+os artigos da Wikipedia utilizam o sistema numérico de chamada para unir 
+suas citações às referências.
+Consulte, por exemplo, o artigo intitulado “Ciência”:
+CIÊNCIA. In:  Wikipédia, a enciclopédia livre. [s.d.]. Flórida: Wikimedia 
+Foundation, 2025. Disponível em: https://tinyurl.com/3jpz223b. Acesso em: 
+18 jun. 2025.
+5.3 Padronização para referências
+A ABNT NBR 6023 (2018) também elenca informações a respeito da elaboração de referências em 
+trabalhos acadêmicos. De acordo com a norma, a referência deve ser constituída de elementos essenciais 
+e, quando necessário, de elementos complementares.
+Os elementos essenciais são as informações indispensáveis à identificação da obra. Já os 
+complementares possibilitam que as obras sejam mais bem caracterizadas.
+ Observação
+Se optarmos por utilizar elementos complementares, eles devem ser 
+incluídos em todas as referências do mesmo tipo de documento.
+Veja alguns exemplos de referências para os tipos mais comuns de documentos. Todos eles foram 
+extraídos da própria ABNT NBR 6023 (2018) e utilizam apenas elementos essenciais.
+
+===== Página 12 =====
+81
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Monografia no todo
+Pela ABNT NBR 6023 (2018), são consideradas monografias livros e/ou folhetos (manuais, guias, 
+catálogos, enciclopédias, dicionários, entre outros) e trabalhos acadêmicos (teses, dissertações, trabalhos 
+de conclusão de curso etc.).
+Os elementos essenciais para livro e/ou folheto são: autor, título, subtítulo (se houver), edição (se 
+houver), local, editora e ano de publicação.
+O título deve aparecer com destaque em negrito ou itálico, a depender também da norma da 
+instituição a qual o trabalho será submetido. Os prenomes dos autores podem vir por extenso ou ser 
+identificados apenas por suas iniciais. Os autores devem ser separados entre si por ponto e vírgula. 
+Acompanhe os exemplos de referência de livros:
+LUCK, Heloisa. Liderança em gestão escolar. 4. ed. Petrópolis: Vozes, 2010.
+GOMES, A. C.; VECHI, C. A. Estática romântica: textos doutrinários comentados. São Paulo: Atlas, 1992.
+Para trabalhos acadêmicos, os elementos considerados essenciais são: autor, título, subtítulo (se 
+houver), ano de depósito, tipo do trabalho (tese, dissertação, trabalho de conclusão de curso e outros), 
+grau (especialização, doutorado, entre outros) e curso entre parênteses, vinculação acadêmica, local e 
+data de apresentação ou defesa. Acompanhe os exemplos:
+AGUIAR, André Andrade de. Avaliação da microbiota bucal em pacientes sob uso crônico de penicilina 
+e benzatina . 2009. Tese (Doutorado em Cardiologia) – Faculdade de Medicina, Universidade de São 
+Paulo, São Paulo, 2009.
+ALVES, Daian Péricles. Implementação de conceitos de manufatura colaborativa: um projeto virtual. 
+2008. Trabalho de Conclusão de Curso (Bacharelado em Engenharia Industrial Mecânica) – Universidade 
+Tecnológica Federal do Paraná, Curitiba, 2008.
+Monografia no todo em meio eletrônico
+Nessa categoria, estão os livros e/ou folhetos e trabalhos acadêmicos consultados em meio digital 
+ou eletrônico (CD‑ROM, DVD, online, entre outros).
+Para documentos em meio eletrônico obtidos por uma mídia física (como CD, DVD, pen‑drive, blu‑ray 
+disc etc.), as referências devem obedecer aos padrões indicados para os documentos monográficos no 
+todo, acrescidas da descrição física do suporte. Veja o exemplo:
+GODINHO, Thais. Vida organizada: como definir prioridades e transformar seus sonhos em objetivos. 
+São Paulo: Gente, 2008. CD‑ROM.
+
+===== Página 13 =====
+82
+Unidade III
+Para documentos online, além dos elementos essenciais para documentos monográficos, devemos 
+registrar o endereço eletrônico, precedido da expressão “Disponível em:” e a data de acesso sob o uso 
+da expressão “Acesso em:”:
+BAVARESCO, Agemir; BARBOSA, Evandro; ETCHEVERRY, Katia Martin (org.). Projetos de filosofia. Porto 
+Alegre: EDIPUCRS, 2011. E‑book. Disponível em: https://tinyurl.com/2wcd3783. Acesso em: 21 ago. 2011.
+SAYERS, R. Principles of awareness‑raising: for information literacy, a case study. Bangkok: Unesco 
+Bangkok, 2006. Disponível em: https://tinyurl.com/yc6ednbn. Acesso em: 23 abr. 2010.
+ Observação
+Para elaborar a referência de uma monografia, é muito útil consultar a 
+ficha catalográfica da obra em questão. As informações que precisam ser 
+levadas às referências estão concentradas ali.
+Artigo, seção e/ou matéria de publicação periódica
+Nessa categoria, consideramos partes de publicação periódica, artigo, comunicação, editorial, 
+entrevista, recensão, reportagem, resenha e outros. Os artigos científicos, por exemplo, se enquadram aqui.
+Os elementos essenciais, nesse caso, são: autor, título do artigo ou da matéria, subtítulo (se houver), 
+título do periódico, subtítulo (se houver), local de publicação, numeração do ano e/ou volume, número 
+e/ou edição, tomo (se houver), páginas inicial e final, e data ou período de publicação.
+O destaque em negrito ou itálico deve ser feito ao título do periódico. Veja os exemplos:
+DOREA, R. D.; COSTA, J. N.; BATITA, J. M.; FERREIRA, M. M.; MENEZES, R. V.; SOUZA, T. S. Reticuloperitonite 
+traumática associada à esplenite e hepatite em bovino: relato de caso. Veterinária e zootecnia , São 
+Paulo, v. 18, n. 4, p. 199‑202, 2011. Supl. 3.
+SEKEFF, Gisela. O emprego dos sonhos. Domingo, Rio de Janeiro, ano 26, n. 1344, p. 30‑36, 3 fev. 2002.
+Artigo, seção e/ou matéria de publicação periódica em meio eletrônico
+As referências devem obedecer aos padrões indicados para artigo e/ou matéria de publicação 
+periódica, vistas anteriormente, acrescidos do DOI (se houver) e de informações relativas à descrição 
+física do meio eletrônico (CD‑ROM, DVD e outros).
+Quando se tratar de artigos consultados em ambiente virtual, além dos elementos essenciais, 
+devemos registrar o endereço eletrônico, precedido da expressão “Disponível em:”, e a data de acesso, 
+precedida da expressão “Acesso em:”:
+
+===== Página 14 =====
+83
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+VIEIRA, Cássio Leite; LOPES, Marcelo. A queda do cometa. Neo Interativa , Rio de Janeiro, n. 2, 
+inverno 1994. 1 CD‑ROM.
+SILVA, M. M. L. Crimes da era digital. Net, Rio de Janeiro, nov. 1998. Seção Ponto de Vista. Disponível 
+em: https://tinyurl.com/yckbrh2j. Acesso em: 28 nov. 1998.
+WINDOWS 98: o melhor caminho para atualização. PC World, São Paulo, n. 75, set. 1998. Disponível em: 
+http://www.idg.com.br/abre.htm. Acesso em: 10 set. 1998.
+DANTAS, José Alves et al. Regulação da auditoria em sistemas bancários: análise do cenário internacional 
+e fatores determinantes. Revista Contabilidade & Finanças, São Paulo, v. 25, n. 64, p. 7‑18, jan./abr. 2014. 
+DOI: http://dx.doi.org/10.1590/S1519‑70772014000100002. Disponível em: https://tinyurl.com/24wv5h3d. 
+Acesso em: 20 maio 2014.
+Documento de acesso exclusivo em meio eletrônico
+Essa categoria abrange bases de dados, listas de discussão, programas de computador, redes sociais, 
+mensagens eletrônicas, entre outros.
+Os elementos essenciais são: autor, título da informação ou serviço ou produto, versão ou edição 
+(se houver), local, data e descrição física do meio eletrônico.
+Quando o assunto é documento online, além dos elementos essenciais, devemos registrar o endereço 
+eletrônico, precedido da expressão “Disponível em:”, e a data de acesso, precedida da expressão “Acesso 
+em:” . Veja os exemplos:
+APPLE. OS X El Capitan. Versão 10.11.6. [Cupertino]: Apple, c2017. 1 CD‑Rom.
+FUNDAÇÃO BIBLIOTECA NACIONAL (Brasil). BNDIGITAL I: Coleção Casa dos Contos. Rio de Janeiro, 
+23 fev. 2015. Facebook: bibliotecanacional.br. Disponível em: https://tinyurl.com/yc44tvn2. Acesso 
+em: 26 fev. 2015.
+ Observação
+Há diversos outros tipos de documentos cobertos pela ABNT NBR 6023 
+(2018), como documentos cartográficos, partituras, documentos sonoros, 
+documentos audiovisuais, documentos jurídicos, entre outros. Para consultar 
+regras mais específicas, verifique o guia de normalização disponibilizado  
+para o seu trabalho.
+
+===== Página 15 =====
+84
+Unidade III
+6 FERRAMENTAS DE PESQUISA
+Agora, vamos conhecer alguns catálogos de obras interessantes para trabalhos acadêmicos e 
+abordaremos também um tema muito importante no mundo da pesquisa: o plágio.
+6.1 Catálogos de consulta de obras de interesse acadêmico
+Há diversas bases de dados que concentram obras de interesse para autores que buscam referências 
+para fundamentar seus trabalhos acadêmicos, que estão além das bibliotecas físicas. Essas bases são 
+importantes ferramentas de pesquisa, em que podemos encontrar referências confiáveis.
+Minha Biblioteca
+A Minha Biblioteca é um sistema de biblioteca digital que reúne milhares de livros eletrônicos, em 
+português, nas mais diversas áreas do conhecimento. O acesso às obras é integral, ou seja, conseguimos 
+acessar o livro completo por meio do sistema.
+Algumas das editoras participantes são: LTC, Érica, Saraiva, Atlas, AMGH, Cengage e Learning.
+O portal pode ser acessado pelo endereço https://minhabiblioteca.com.br/.
+ Observação
+Para alunos da Universidade Paulista, o acesso ao sistema da Minha 
+Biblioteca pode ser feito mediante a Área do Aluno ou do próprio aplicativo  
+da UNIP.
+Biblioteca Virtual Pearson
+A Biblioteca Virtual da Pearson Higher Education também é um sistema de biblioteca digital que 
+reúne milhares de livros eletrônicos, em nosso idioma.
+Além dos títulos da própria editora Pearson, algumas das editoras parceiras são: Contexto, 
+InterSaberes, Rideel, Interciência, Blucher, entre outras.
+O site da biblioteca pode ser acessado pelo endereço https://www.bvirtual.com.br/.
+ Observação
+Para alunos da Universidade Paulista, o acesso ao sistema da Biblioteca 
+Virtual Pearson por ser feito por meio da Área do Aluno ou do aplicativo  
+da UNIP.
+
+===== Página 16 =====
+85
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Biblioteca Digital Brasileira de Teses e Dissertações
+A Biblioteca Digital Brasileira de Teses e Dissertações (BDTD) é um repositório destinado à busca de 
+monografias relativas a trabalhos de pós‑graduação stricto sensu. A base de dados da BDTD é composta 
+de trabalhos de mais de uma centena de instituições do Brasil, como a Universidade de São Paulo (USP), 
+a Universidade Estadual de Campinas (Unicamp), diversas universidades federais e alguns grupos de 
+universidades particulares.
+A BDTD foi desenvolvida e é coordenada pelo Instituto Brasileiro de Informação em Ciência e 
+Tecnologia (Ibict). A BDTD, em parceria com as instituições de ensino e de pesquisa, possibilita que a 
+comunidade brasileira de ciência e de tecnologia publique e difunda suas teses e dissertações produzidas 
+no país e no exterior, dando maior visibilidade à produção científica nacional.
+A página inicial da BDTD possibilita a você a busca de monografias por título, autor, ano de publicação, 
+assunto ou resumo. Você pode acessá‑la pelo endereço https://bdtd.ibict.br/vufind/.
+Figura 25 – Página inicial da BDTD
+Fonte: Ibict, [s.d].
+
+===== Página 17 =====
+86
+Unidade III
+Portal de periódicos da Capes
+O Portal de periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) é 
+um grande acervo científico virtual do país. Ele reúne e disponibiliza conteúdos de interesse científico 
+a instituições de ensino e de pesquisa do Brasil. O portal dispõe de milhares de periódicos científicos de 
+texto completo e centenas de bases de dados de tópicos diversos, como artigos, patentes, estatísticas, 
+material audiovisual, normas técnicas, teses, dissertações, livros e obras de referência.
+A página inicial do Portal de Periódicos da Capes propicia a busca por periódicos ou livros. Você pode 
+acessá‑la pelo endereço https://www‑periodicos‑capes‑gov‑br.ez346.periodicos.capes.gov.br/.
+Assim, é possível visualizar a lista completa das revistas científicas disponíveis no acervo, inclusive a 
+Nature e a Science.
+Figura 26 – Página inicial do Portal de Periódicos da Capes
+Fonte: Capes, [s.d.].
+
+===== Página 18 =====
+87
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Saiba mais
+Outras bases de dados disponíveis à comunidade universitária da UNIP 
+podem ser consultadas em:
+UNIP. Bases de dados on‑line. Disponível em: https://tinyurl.com/44ex3d4e. 
+Acesso em: 20 jun. 2025.
+6.2 Detecção de plágio
+O plágio costuma ser um dos temas de grande preocupação para autores de trabalhos acadêmicos e 
+para instituições de ensino e de pesquisa.
+Assim, discutiremos a definição do termo e os tipos de plágio. Também apresentaremos algumas 
+ferramentas de detecção de plágio disponíveis no mercado.
+6.2.1 O que é plágio?
+De acordo com Krokoscz (2015, p. 14), “o plágio é entendido como uma modalidade de fraude, 
+caracterizado pela apropriação de obra alheia, na qual estão envolvidos basicamente dois sujeitos: o 
+autor original e o plagiário reprodutor” .
+O plágio, então, consiste na indevida apropriação, parcial ou integral, do conteúdo de terceiros. Em 
+outras palavras, o plágio é a cópia de ideias, de textos, de dados ou de materiais criados por outra pessoa, 
+sem dar os devidos créditos ao autor original, apresentando‑os como se fossem de sua própria autoria.
+A Lei n. 9.610 (Brasil, 1998) regula os direitos autorais de obras literárias, artísticas ou científicas. 
+A lei assegura ao autor o direito ao uso e à distribuição de sua própria obra. De acordo com seu texto, 
+a apropriação integral ou parcial de obras alheias pode resultar no recolhimento dos materiais que 
+contenham plágio e/ou na indenização ao autor cuja obra foi plagiada.
+Tipos de plágio
+Há formas distintas de apropriação da propriedade intelectual alheia no meio acadêmico. Alguns dos 
+principais tipos, elencados por Krokoscz (2015), são expostos a seguir:
+• Plágio direto: consiste na reprodução literal de uma obra original, sem identificação da fonte. 
+Desse modo, o autor que publica a obra plagiada “finge” que aquela sequência de palavras é sua, 
+e não da fonte original.
+• Plágio indireto: consiste na reprodução de ideia de uma obra original sem identificação da fonte, 
+mas com palavras diferentes. Nesse caso, o autor que publica a obra plagiada “finge” que a ideia 
+é sua, e não do autor original.
+
+===== Página 19 =====
+88
+Unidade III
+• Plágio mosaico: é definido como a reprodução de trechos de obras diferentes misturados com 
+outras palavras, para que o texto final tenha sentido.
+• Plágio consentido: consiste na apresentação de trabalhos como próprios, mas que foram cedidos 
+por terceiros (como amigos ou colegas), ou mesmo que tenham sido comprados.
+• Autoplágio: é definido pela reprodução de trabalhos próprios já publicados em outras 
+circunstâncias, mas que são publicados novamente como trabalhos originais. Nesse caso, não há 
+terceiros envolvidos, mas a originalidade do trabalho, ainda assim, é comprometida. Algumas áreas, 
+no entanto, aceitam esse procedimento por meio de suas diretrizes e, nesses casos específicos, 
+não há caracterização de plágio.
+Com tantos tipos de plágio, para embasar nosso texto com conteúdos de terceiros e, ainda assim, 
+evitar o plágio é necessário utilizarmos os recursos de citações, de chamadas e de referências. São eles 
+que permitem que dados, ideias e até mesmo trechos de outros autores possam ser legitimamente 
+usados por nós. Esses recursos garantem que não haverá apropriação da propriedade intelectual alheia, 
+já que deixam clara a autoria original do dado, da ideia ou do trecho.
+ Lembrete
+Utilizar conteúdos de terceiros para fundamentar o seu trabalho 
+acadêmico não apenas é permitido, como é mandatório. Para isso, usamos 
+os recursos de citações, de chamadas e de referências.
+O plágio consiste em “fingir” que um trecho, um dado ou uma ideia é 
+seu, quando foi produzida por outro indivíduo. O que constitui o plágio, de 
+forma geral, é a omissão das fontes.
+6.2.2 Ferramentas de detecção de plágio
+Há diversas ferramentas que podem ser usadas para verificar a existência de cópias indevidas em 
+trabalhos acadêmicos. Mesmo que você tenha certeza de que não cometeu plágio em sua escrita, 
+esses instrumentos podem ser utilizados em caso da realização de trabalhos em grupo, como projetos 
+integrados multidisciplinares, por exemplo.
+CopySpider
+O CopySpider é um software que pode ser utilizado para verificar a existência de cópia indevida em 
+um trabalho acadêmico ou em qualquer outro texto. Para uso pessoal, a licença freeware garante uso 
+gratuito da ferramenta.
+O modo padrão de utilização do CopySpider é comparar o arquivo de entrada (aquele que queremos 
+verificar) com outros documentos disponíveis na internet.
+
+===== Página 20 =====
+89
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Figura 27 – Tela do software CopySpider, versão 3.1.
+Fonte: CopySpider, [s.d.].
+De acordo com os fabricantes (CopySpider, 2025), o programa, a partir da versão 2.6.0, compara 
+o texto do documento de entrada e gera um índice de semelhança (S), que é representado por uma 
+taxa percentual.
+A interpretação de S é feita da forma a seguir.
+Semelhança baixa: (S < 10%)
+Semelhança moderada: (10% ≤ S < 30%)
+Semelhança alta: (30% ≤ S)
+O índice S representa a porcentagem do número de termos em comum encontrados no arquivo de 
+entrada em relação ao número de termos pesquisados no documento com o qual ele foi comparado. 
+Desse modo, S = 15% significa que 15 em cada 100 dos trechos do documento de entrada foram 
+encontrados no documento com o qual ele está sendo comparado. Em outras palavras, 15% do texto de 
+entrada aparece no outro documento.
+Idealmente, o relatório do CopySpider deve mostrar apenas semelhança “baixa” com outros documentos, 
+mas a análise humana do relatório é indispensável para garantir a integridade acadêmica do texto.
+
+===== Página 21 =====
+90
+Unidade III
+ Observação
+Os softwares de verificação de plágio podem mudar seus métodos de 
+análise e de apresentação de resultados ao longo do tempo. Isso aconteceu, 
+igualmente, com as diferentes versões do CopySpider. O índice de similaridade 
+antigo, que era apresentado nas versões anteriores à 2.6.0, idealmente tinha 
+que ser menor do que 3%, devido ao método de análise utilizada.
+Por isso, é sempre importante verificar as instruções do fabricante para 
+a versão que você está utilizando.
+Plagium
+O Plagium é um verificador de similaridade que pode ser utilizado online. Em sua versão gratuita, 
+possibilita a inserção de um texto de entrada (texto a ser verificado) na caixa disponível na página 
+inicial. O texto, nesse caso, é limitado a 1000 caracteres. A partir daí, é possível realizar a busca rápida.
+Figura 28 – Página inicial do Plagium
+Fonte: Septet Systems, [s.d.].
+O relatório da pesquisa traz a similaridade percentual do texto de entrada com os documentos 
+utilizados para comparação. De acordo com o fabricante (Septet Systems, [s.d.]), pesquisas eventuais 
+não são cobradas.
+
+===== Página 22 =====
+91
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Para fazer upload de arquivos de texto, performar múltiplas pesquisas e utilizar modos de busca mais 
+sofisticados, é necessário pagar por uma licença.
+SafeAssign
+O SafeAssign é um verificador de originalidade administrado pela Anthology Inc e integrado à 
+plataforma Blackboard. O SafeAssign utiliza um algoritmo capaz de detectar correspondências diretas e 
+indiretas entre um documento de entrada e um material a ele comparado.
+O trabalho de entrada é comparado não apenas a documentos disponíveis na internet, mas também 
+a um banco de dados institucional que, geralmente, é alimentado com outros trabalhos acadêmicos da 
+mesma instituição.
+Após a comparação, é gerado um relatório com informações detalhadas sobre as correspondências 
+encontradas, que deve ser avaliado pela pessoa que realiza a análise.
+O SafeAssign é acessado pela plataforma Blackboard e, comumente, não está disponível gratuitamente 
+aos alunos da instituição.
+
+===== Página 23 =====
+92
+Unidade III
+ Resumo
+A unidade III do nosso livro‑texto abordou a utilização correta de 
+materiais produzidos por outros indivíduos em nosso trabalho acadêmico.
+Começamos com algumas definições importante. Vimos que uma 
+citação é a utilização de trechos, de dados ou de ideias de outros autores 
+em nosso trabalho. Uma referência traz as informações que identificam 
+a obra da qual extraímos as considerações que compuseram a citação do 
+nosso texto. Uma chamada é a forma como indicamos de qual referência o 
+conteúdo daquela citação foi extraído.
+A partir daí, conhecemos os tipos de citação. Aprendemos que uma 
+citação direta é uma transcrição textual de um trecho de outra obra, e que 
+uma citação indireta é a utilização de dados ou ideias extraídas de outras 
+publicações, mas sem transcrição textual. Vimos também o conceito de 
+citação de citação, que ocorre quando fazemos uma citação, seja direta ou 
+indireta, que foi retirada de um trabalho que não é a origem da ideia citada.
+Seguimos, posteriomente, para o estudo dos sistemas de chamada, 
+trecho no qual conhecemos as diferenças entre o sistema autor‑data e o 
+sistema numérico, ambos previstos pelas normas ABNT.
+Por fim, vimos alguns exemplos de padronização para referências, 
+elaboradas também de acordo com as normas vigentes.
+Além disso, apresentamos alguns catálogos de consulta de obras 
+de interesse acadêmico, pelos quais podemos encontrar livros, artigos 
+científicos e outros materiais relevantes. Os catálogos abordados foram: 
+Minha Biblioteca, Biblioteca Virtual Pearson, Biblioteca Digital Brasileira de 
+Teses e Dissertações e Portal de Periódicos da Capes.
+Em seguida, falamos em um tema muito importante para trabalhos 
+acadêmicos: o plágio. Ele consiste na indevida apropriação, parcial ou 
+integral, do conteúdo de terceiros. Abordamos, assim, alguns tipos de 
+plágio: direto, indireto, mosaico, consentido e autoplágio.
+Por fim, conhecemos algumas ferramentas de detecção de plágio, muito 
+úteis especialmente para quando desenvolvemos trabalhos em grupo. As 
+ferramentas abordadas foram: CopySpider, Plagium e SafeAssign.
+
+===== Página 24 =====
+93
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Exercícios
+Questão 1. Vimos que, em um trabalho acadêmico longo, as citações são sempre necessárias. 
+Também fomos apresentados aos significados de referência e de chamada.
+Em relação a esse assunto, avalie as afirmativas.
+I – As citações correspondem à utilização de trechos, de dados ou de ideias de outros autores no 
+trabalho produzido e demonstram que o texto não passa de um plágio, sem valor acadêmico.
+II – Uma referência é uma disposição padronizada das informações que identificam a obra da qual 
+elas foram extraídas.
+III – Uma chamada é uma indicação inserida sempre antes da introdução do trabalho acadêmico, na 
+lista de siglas.
+É correto o que se afirma em:
+A) I e II, apenas.
+B) II e III, apenas.
+C) I e III, apenas.
+D) II, apenas.
+E) I, II e III.
+Resposta correta: alternativa D.
+Análise das afirmativas
+I – Afirmativa incorreta.
+Justificativa: uma citação é a utilização de trechos, de dados ou de ideias de outros autores no 
+trabalho produzido. De modo geral, podemos dizer que uma citação é qualquer conteúdo buscado em 
+outras obras e utilizado no texto. As citações mostram que a pesquisa está baseada em fontes confiáveis 
+e em estudos anteriores. Elas também revelam o conhecimento da literatura existente na área, e isso 
+ajuda a fortalecer a argumentação.
+
+===== Página 25 =====
+94
+Unidade III
+II – Afirmativa correta.
+Justificativa: de fato, uma referência é uma disposição padronizada das informações que identificam 
+a obra da qual elas foram extraídas. Segundo Brasileiro (2021), uma referência deve ser constituída de 
+elementos indispensáveis à identificação do documento, como autoria, título e ano de publicação.
+III – Afirmativa incorreta.
+Justificativa: uma chamada é uma indicação feita no texto, próxima à citação, que indica de qual 
+referência o conteúdo citado foi extraído.
+Questão 2. Vimos que, de acordo com Brasileiro (2021), há três tipos de citação utilizadas em 
+trabalhos acadêmicos: a citação direta, a citação indireta e a citação de citação.
+Em relação aos tipos de citação, avalie as afirmativas.
+I – Na citação direta, o autor do trabalho replica as exatas palavras utilizadas em uma parte de outra 
+publicação, ou seja, nela, é realizada a transcrição textual de parte da obra de terceiros.
+II – Na citação indireta, o autor do trabalho usa dados ou ideias extraídos de outras publicações, mas 
+sem fazer a transcrição textual do conteúdo.
+III – A citação de citação refere‑se ao fato de o autor fazer a citação de outro trabalho da sua 
+própria autoria.
+É correto o que se afirma em:
+A) I e II, apenas.
+B) II e III, apenas.
+C) I e III, apenas.
+D) II, apenas.
+E) I, II e III.
+Resposta correta: alternativa A.
+
+===== Página 26 =====
+95
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Análise das afirmativas
+I – Afirmativa correta.
+Justificativa: fazemos uma citação direta quando realizamos a transcrição textual de parte da obra 
+de terceiros (livro, artigo científico, documento etc.). Isto é, a citação direta é feita quando utilizamos 
+as exatas palavras utilizadas em uma parte de outra publicação. Na citação direta, portanto, fazemos a 
+reprodução literal de um trecho de uma obra de terceiros, sem qualquer modificação nas palavras nem 
+na pontuação do autor original.
+II – Afirmativa correta.
+Justificativa: fazemos uma citação indireta quando usamos dados ou ideias extraídos de outras 
+publicações, mas sem fazer uma transcrição textual do conteúdo. Desse modo, quando fazemos uma 
+citação indireta, buscamos o conteúdo citado em outro trabalho, mas o registramos com nossas próprias 
+palavras em nosso texto.
+III – Afirmativa incorreta.
+Justificativa: a citação de citação ocorre quando fazemos uma citação, seja direta ou indireta, que 
+foi retirada de um trabalho que não é a origem da ideia citada.

@@ -1,0 +1,1334 @@
+===== Página 1 =====
+Autora: Profa. Larissa Rodrigues Damiani
+Colaboradores: Prof. Roberto Macias
+      Profa. Christiane Mazur Doi 
+      
+Pesquisa, Tecnologia 
+e Inovação
+
+===== Página 2 =====
+Professora conteudista: Larissa Rodrigues Damiani 
+Doutora e mestra em Ciências pelo programa de Engenharia Elétrica – Microeletrônica da Universidade  de 
+São  Paulo  (USP), graduou‑se em Engenharia Elétrica, na modalidade eletrônica, com ênfase em telemática pela 
+Universidade Santa Cecília. Professora titular da Universidade Paulista (UNIP) desde 2015, atua como docente 
+principalmente em cursos do Instituto de Ciências Exatas e Tecnologia (ICET). Também é integrante da Comissão 
+de Qualificação e Avaliação de Cursos (CQA) da UNIP desde 2021.
+© Todos os direitos reservados. Nenhuma parte desta obra pode ser reproduzida ou transmitida por qualquer forma e/ou 
+quaisquer meios (eletrônico, incluindo fotocópia e gravação) ou arquivada em qualquer sistema ou banco de dados sem 
+permissão escrita da Universidade Paulista.
+Dados Internacionais de Catalogação na Publicação (CIP)
+D158p Damiani, Larissa Rodrigues.
+Pesquisa, Tecnologia e Inovação / Larissa Rodrigues Damiani. – 
+São Paulo: Editora Sol, 2025.
+120 p., il.
+Nota: este volume está publicado nos Cadernos de Estudos e 
+Pesquisas da UNIP, Série Didática, ISSN 1517‑9230.
+1. Conhecimento. 2. Estrutura. 3. Pesquisa. I. Título.
+681.3
+U522.45 – 25
+
+===== Página 3 =====
+Prof. João Carlos Di Genio
+Fundador
+Profa. Sandra Rejane Gomes Miessa
+Reitora
+Profa. Dra. Marilia Ancona Lopez
+Vice-Reitora de Graduação
+Profa. Dra. Marina Ancona Lopez Soligo
+Vice-Reitora de Pós-Graduação e Pesquisa
+Profa. Dra. Claudia Meucci Andreatini
+Vice-Reitora de Administração e Finanças
+Profa. M. Marisa Regina Paixão
+Vice-Reitora de Extensão
+Prof. Fábio Romeu de Carvalho
+Vice-Reitor de Planejamento
+Prof. Marcus Vinícius Mathias
+Vice-Reitor das Unidades Universitárias
+Profa. Silvia Renata Gomes Miessa
+Vice-Reitora de Recursos Humanos e de Pessoal
+Profa. Laura Ancona Lee
+Vice-Reitora de Relações Internacionais
+Profa. Melânia Dalla Torre
+Vice-Reitora de Assuntos da Comunidade Universitária
+UNIP EaD
+Profa. Elisabete Brihy
+Profa. M. Isabel Cristina Satie Yoshida Tonetto
+Material Didático
+Comissão editorial: 
+ Profa. Dra. Christiane Mazur Doi
+ Profa. Dra. Ronilda Ribeiro
+Apoio:
+ Profa. Cláudia Regina Baptista
+ Profa. M. Deise Alcantara Carreiro
+ Profa. Ana Paula Tôrres de Novaes Menezes
+Projeto gráfico: Revisão:
+ Prof. Alexandre Ponzetto  Marcela Muniz
+   Auriana Malaquias
+
+===== Página 4 =====
+
+
+===== Página 5 =====
+Sumário
+Pesquisa, Tecnologia e Inovação
+APRESENTAÇÃO ......................................................................................................................................................7
+INTRODUÇÃO ...........................................................................................................................................................8
+Unidade I
+1 INTRODUÇÃO AO CONHECIMENTO CIENTÍFICO .....................................................................................9
+1.1 Tipos de conhecimento ......................................................................................................................10
+1.1.1 Conhecimento popular .........................................................................................................................10
+1.1.2 Conhecimento filosófico .......................................................................................................................11
+1.1.3 Conhecimento teológico .....................................................................................................................12
+1.1.4 Conhecimento científico .....................................................................................................................13
+1.2 Raciocínio dedutivo e raciocínio indutivo .................................................................................15
+1.3 Hipótese, lei e teoria ...........................................................................................................................17
+1.4 Método científico .................................................................................................................................19
+1.5 Tipos de pesquisa ..................................................................................................................................21
+1.5.1 Quanto à abordagem do problema .................................................................................................21
+1.5.2 Quanto à natureza da pesquisa ........................................................................................................22
+1.5.3 Quanto aos procedimentos técnicos ..............................................................................................23
+2 MODALIDADES DE TRABALHOS ACADÊMICOS ...................................................................................24
+2.1 Monografias............................................................................................................................................24
+2.1.1 Trabalhos de graduação .......................................................................................................................25
+2.1.2 Trabalhos de conclusão de curso (graduação) ............................................................................26
+2.1.3 Trabalhos para especialização ............................................................................................................27
+2.1.4 Dissertações de mestrado ....................................................................................................................28
+2.1.5 Teses de doutorado ................................................................................................................................29
+2.2 Artigos científicos ................................................................................................................................29
+2.2.1 Estrutura padrão de um artigo científico .....................................................................................31
+2.3 Comunicação científica .....................................................................................................................33
+Unidade II
+3 ESTRUTURA DE UMA MONOGRAFIA: ELEMENTOS PRÉ‑TEXTUAIS ..............................................43
+3.1 Estrutura geral de elementos obrigatórios e opcionais ........................................................44
+3.2 Parte externa: capa e lombada .......................................................................................................44
+3.3 Parte interna: elementos pré‑textuais.........................................................................................46
+3.3.1 Folha de rosto ...........................................................................................................................................46
+3.3.2 Errata ...........................................................................................................................................................48
+3.3.3 Folha de aprovação ................................................................................................................................48
+3.3.4 Dedicatória ................................................................................................................................................49
+3.3.5 Agradecimentos .......................................................................................................................................50
+
+===== Página 6 =====
+3.3.6 Epígrafe .......................................................................................................................................................51
+3.3.7 Resumo em língua vernácula ............................................................................................................51
+3.3.8 Resumo em língua estrangeira .........................................................................................................52
+3.3.9 Lista de ilustrações .................................................................................................................................53
+3.3.10 Lista de tabelas ......................................................................................................................................53
+3.3.11 Lista de abreviaturas e siglas ............................................................................................................54
+3.3.12 Lista de símbolos ..................................................................................................................................54
+3.3.13 Sumário ....................................................................................................................................................55
+4 ESTRUTURA DE UMA MONOGRAFIA: ELEMENTOS TEXTUAIS E PÓS‑TEXTUAIS .....................56
+4.1 Elementos textuais ..............................................................................................................................56
+4.1.1 Introdução .................................................................................................................................................56
+4.1.2 Desenvolvimento ....................................................................................................................................59
+4.1.3 Conclusão ...................................................................................................................................................60
+4.2 Elementos pós‑textuais .....................................................................................................................61
+4.2.1 Referências ................................................................................................................................................62
+4.2.2 Glossário .....................................................................................................................................................62
+4.2.3 Apêndice .....................................................................................................................................................62
+4.2.4 Anexo ...........................................................................................................................................................63
+4.2.5 Índice ...........................................................................................................................................................64
+Unidade III
+5 CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA .........................................................................70
+5.1 Tipos de citações ...................................................................................................................................71
+5.1.1 Citação direta ...........................................................................................................................................71
+5.1.2 Citação indireta .......................................................................................................................................73
+5.1.3 Citação de citação ..................................................................................................................................75
+5.2 Sistemas de chamada .........................................................................................................................75
+5.2.1 Sistema autor‑data ................................................................................................................................76
+5.2.2 Sistema numérico ...................................................................................................................................79
+5.3 Padronização para referências ........................................................................................................80
+6 FERRAMENTAS DE PESQUISA .....................................................................................................................84
+6.1 Catálogos de consulta de obras de interesse acadêmico.....................................................84
+6.2 Detecção de plágio ..............................................................................................................................87
+6.2.1 O que é plágio? ........................................................................................................................................87
+6.2.2 Ferramentas de detecção de plágio ................................................................................................88
+Unidade IV
+7 PESQUISA, INOVAÇÃO E PRÁTICA DE MERCADO ...............................................................................96
+7.1 Conceitos gerais ....................................................................................................................................96
+7.1.1 Pesquisa ......................................................................................................................................................96
+7.1.2 Inovação .....................................................................................................................................................96
+7.1.3 Prática de mercado ................................................................................................................................97
+7.2 Exemplos gerais de inovações .........................................................................................................98
+8 INOVAÇÕES COMPUTACIONAIS ORIUNDAS DE PESQUISAS CIENTÍFICAS..............................101
+8.1 Exemplos de inovações na área de hardware .........................................................................102
+8.2 Exemplos de inovações na área de software ..........................................................................106
+
+===== Página 7 =====
+7
+APRESENTAÇÃO
+A disciplina Pesquisa, Tecnologia e Inovação  tem como objetivo apresentar os fundamentos da 
+pesquisa científica e sua aplicação na inovação tecnológica. Além disso, ela busca capacitar você, 
+estudante, a estruturar e a elaborar trabalhos acadêmicos, assim como promover a reflexão crítica sobre 
+o papel da pesquisa e da inovação no desenvolvimento tecnológico e na prática de mercado.
+Ao longo deste livro‑texto, serão abordados diversos conceitos, normas, técnicas e ferramentas 
+destinados à compreensão e à elaboração de trabalhos acadêmicos, contemplando exemplos de aplicação 
+do conteúdo estudado. Esses elementos, certamente, contribuirão para desenvolver o pensamento 
+crítico e promover o letramento científico dos leitores.
+Praticamente todos os temas relevantes para cursos de tecnologia, como a eletrônica aplicada ao 
+hardware computacional, as linguagens de programação, os sistemas de bancos de dados e as redes de 
+computadores usam conhecimentos oriundos de pesquisas científicas em suas implementações. Estar 
+familiarizado com tais conceitos é, portanto, fundamental para os profissionais da área tecnológica.
+Espero que você tenha uma boa experiência de leitura e se sinta motivado a conhecer mais sobre o 
+mundo da pesquisa científica aplicada ao desenvolvimento tecnológico.
+Boa leitura!
+
+===== Página 8 =====
+8
+INTRODUÇÃO
+A ciência está presente em tudo ao nosso redor, mesmo que, às vezes, possa passar despercebida. 
+A  computação, por exemplo, é uma área que se baseia em diversos campos da ciência, como a 
+matemática, a física, a lógica e a teoria da informação. Por isso, sempre que utilizamos computadores, 
+estamos lidando com dispositivos comerciais desenvolvidos a partir de pesquisas científicas.
+Aprender a respeito de metodologia científica pode ser extremamente benéfico para profissionais 
+da área de tecnologia, pois ela fornece uma base sólida para resolver problemas de maneira sistemática, 
+tomar decisões consolidadas e melhorar a qualidade de nossos trabalhos acadêmicos e de nossos 
+projetos profissionais.
+Ao ler este livro‑texto, esperamos que você compreenda e reconheça a relevância do conteúdo da 
+disciplina para sua vida acadêmica e para sua vida profissional. Além disso, almejamos que você, como 
+tecnólogo, seja capaz de aplicar as técnicas aqui abordadas.
+Este livro‑texto foi dividido em quatro unidades. Na primeira unidade, faremos uma introdução ao 
+conhecimento científico, abordando os tipos de conhecimento, os métodos científicos e os tipos de 
+pesquisa. Em seguida, falaremos sobre as modalidades de trabalhos acadêmicos, citando as variedades 
+de monografias, além de apresentarmos a estrutura de um artigo científico e os métodos de comunicação 
+utilizados entre cientistas.
+A segunda unidade será dedicada à estrutura de uma monografia. Primeiro, veremos um diagrama 
+contendo a estrutura geral dos elementos componentes, destacando itens obrigatórios e itens opcionais, 
+de acordo com a Associação Brasileira de Normas Técnicas (ABNT). Depois, veremos a finalidade e a 
+configuração de cada um dos elementos da monografia, classificados como pré‑textuais, textuais 
+e pós‑textuais, que, em conjunto, compõem esse trabalho.
+Na terceira unidade, entenderemos a forma correta de lidarmos com informações oriundas de outras 
+obras, que gostaríamos de utilizar em um trabalho de nossa autoria. Teremos um título dedicado às 
+citações, às referências e aos sistemas de chamada que, obrigatoriamente, encontramos em monografias. 
+Em seguida, falaremos a respeito de ferramentas utilizadas em trabalhos de pesquisa, como os catálogos 
+de consulta de obras de interesse acadêmico e as ferramentas de detecção de plágio. Essas ferramentas 
+são muito utilizadas por instituições acadêmicas e científicas.
+A quarta unidade será dedicada a reconhecermos alguns exemplos de inovações que surgiram a 
+partir de pesquisas científicas. Veremos alguns exemplos de inovações em áreas diversas, cujas práticas 
+de mercado fazem parte do nosso cotidiano e, posteriormente, focaremos nas inovações voltadas ao 
+setor computacional. Com isso, esperamos evidenciar a importância da ciência para sua vida cotidiana, 
+acadêmica e profissional.
+Bom estudo!
+
+===== Página 9 =====
+9
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Unidade I
+1 INTRODUÇÃO AO CONHECIMENTO CIENTÍFICO
+Você já se perguntou o que, exatamente, significa conhecimento? O conhecimento pode ser definido 
+como a percepção ou a compreensão de algo, obtida por meio da experiência, da reflexão, da prática 
+ou do estudo.
+De acordo com Barbosa, Quintaneiro e Rivero (2012), nós, seres humanos, não somos os únicos 
+habitantes do planeta capazes de transferir conhecimento aos nossos semelhantes, visto que diversos 
+animais ensinam aos seus descendentes estratégias essenciais à sobrevivência.
+No entanto, o fato de podermos registrar conhecimento na forma escrita, gravada ou filmada (ou 
+seja, por meio de símbolos) cria a possibilidade de acumulação, de acesso e de utilização, por parte de 
+outros seres humanos, ao que um dia foi descoberto ou inventado. A importância desse conhecimento, 
+passado de geração em geração, é essencial para a evolução da humanidade.
+Segundo Bacchi (2024), a palavra “ciência” tem origem no termo em latim scientia, que significa, 
+justamente, conhecimento. No entanto, essa tradução literal pode nos passar a ideia de que “ciência” e 
+“conhecimento” são sinônimos. Esses termos têm significados relacionados, mas não iguais.
+A ciência se refere a um grande empreendimento coletivo da humanidade, que organiza nossos 
+conhecimentos e previsões sobre o universo que nos cerca. Esses conhecimentos científicos são obtidos, 
+confrontados e atualizados por meio de um método próprio e transparente, que nos ajuda a reduzir as 
+incertezas que temos sobre a realidade. Além disso, esses conhecimentos são analisados e interpretados 
+de modo contextual, levando em conta o ecossistema científico existente.
+De forma simples, a ciência pode ser vista como um “par de óculos” que aprimora a nitidez da 
+nossa visão da realidade, melhorando nossa capacidade de registrá‑la e, até mesmo, de modificá‑la com 
+mais precisão.
+A ciência criou formas de construção e de acumulação de conhecimento baseada em regras 
+universais, que possibilitam que pessoas que não participaram de sua produção possam compreender 
+tais conhecimentos e fazer uso deles. Estudaremos esses métodos ao longo desta unidade.
+
+===== Página 10 =====
+10
+Unidade I
+1.1 Tipos de conhecimento
+O conhecimento científico é apenas um dos tipos de conhecimento do qual a humanidade tem 
+se utilizado ao longo da sua existência. De maneira geral, o conhecimento, conforme ilustrado na 
+figura 1, pode ser pensado a partir de quatro grupos principais: popular, filosófico, teológico e científico. 
+Abordaremos cada um deles a seguir.
+Filosófico
+Popular
+Teológico
+Científico
+Tipos de conhecimento
+Figura 1 – Quatro tipos principais de conhecimento
+1.1.1 Conhecimento popular
+Segundo Marconi e Lakatos (2021), o conhecimento popular é aquele atrelado ao que chamamos 
+de “senso comum” . Esse tipo de conhecimento é adquirido de forma espontânea, no trato direto com as 
+coisas e com as outras pessoas. O conhecimento popular constitui um saber que possuímos sem que, 
+necessariamente, o tenhamos procurado ou estudado, sem que tenhamos aplicado um método e sem 
+que tenhamos refletido profundamente sobre algo. O conhecimento popular é, portanto, baseado na 
+experiência cotidiana e nas percepções do mundo.
+Imagine que um avô ensina seu neto a fazer pão caseiro. O avô mostra quais são os ingredientes, 
+como misturá‑los, diz que “a massa tem que estar com uma certa textura” e que é preciso esperar até 
+que a massa “dobre de tamanho” . Nesse cenário, o neto aprende pela observação e pela prática, sem se 
+preocupar com as proporções exatas, com os fundamentos científicos da fermentação ou com as reações 
+físicas e químicas que ocorrem enquanto o pão assa. Desse modo, o avô transmitiu conhecimento 
+popular ao seu neto.
+
+===== Página 11 =====
+11
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Podemos elencar algumas importantes características do conhecimento popular a seguir:
+• Superficialidade: o conhecimento popular pode ser considerado superficial, pois se conforma 
+com a aparência, com aquilo que é possível comprovar simplesmente ao vivenciar as coisas. Ele 
+se expressa por termos como “porque eu vi”, “porque eu senti”, “porque me disseram”, “porque é 
+o que todo mundo diz” .
+• Sensitividade: é referente a experiências vividas, estados de ânimo e emoções.
+• Subjetividade: é a própria pessoa, portadora do conhecimento, que organiza seus saberes, sem 
+seguir um método específico para isso.
+Para Bacchi (2024), embora esse seja um tipo de conhecimento prático e que nos oriente no cotidiano, 
+por não ser testado, verificado ou analisado por uma metodologia científica, sua validade permanece 
+incerta. Desse modo, o conhecimento popular é tradicionalmente bem aceito, mas pode ou não estar 
+correto. Por exemplo: por muito tempo, o senso comum nos disse que tomar leite com manga fazia mal. 
+No entanto, isso não passa de um mito, assim como muitos outros, ensinados e perpetuados pela força 
+da tradição.
+ Observação
+O conhecimento popular também pode ser chamado de conhecimento  
+empírico.
+1.1.2 Conhecimento filosófico
+De acordo com Marconi e Lakatos (2021), o conhecimento filosófico é caracterizado pelo uso da 
+razão para questionar os problemas humanos e poder discernir entre o que é certo e o que é errado. Ele 
+é baseado na reflexão racional, na argumentação lógica e, muitas vezes, em questionamentos que não 
+têm respostas definitivas. Alguns desses possíveis questionamentos são elencados a seguir:
+• O que é a verdade?
+• Há um sentido para a vida?
+• Como sabemos o que é certo e o que é errado?
+Desse modo, o conhecimento filosófico é um tipo de saber que busca compreender as questões 
+fundamentais sobre a existência, a realidade, a verdade, a moral, e outros temas relativos à experiência 
+humana, por meio de debates e de análises conceituais.
+Suponha que duas estudantes de filosofia, Joana e Teresa, estejam discutindo se é eticamente 
+aceitável mentir em determinadas situações.
+
+===== Página 12 =====
+12
+Unidade I
+Durante o debate, Joana argumenta que mentir é sempre errado, já que, ao fazê‑lo, quebramos a 
+confiança, um valor fundamental para a convivência.
+Teresa, no entanto, defende que a ética é relativa às circunstâncias e que, em certas situações, mentir 
+pode ser a melhor escolha. Ela cita um exemplo em que mentir pode salvar uma vida, como esconder 
+uma pessoa em perigo.
+Ao longo do debate, Joana e Teresa compartilharam suas perspectivas, baseadas em reflexões 
+éticas. Cada uma ouviu os argumentos da outra, confrontou‑os com suas próprias crenças e saberes e, 
+potencialmente, refinaram sua visão a respeito do tema. Mesmo que não tenham chegado a um acordo, 
+ambas ampliaram sua compreensão sobre a complexidade da ética.
+Esse processo de troca de ideias, de reflexão e de busca por coerência é característico do conhecimento 
+filosófico, que não busca respostas definitivas, mas sim promover o aprofundamento da compreensão 
+de temas relativos à experiência humana.
+1.1.3 Conhecimento teológico
+O conhecimento teológico é um tipo de saber relacionado à compreensão e à experiência de 
+aspectos transcendentais, espirituais e sagrados da realidade, muitas vezes ligado a crenças e a tradições 
+religiosas específicas. Esse saber busca interpretar e entender a relação entre o ser humano e o divino ou 
+o sobrenatural e está presente em muitas culturas ao redor do mundo.
+O conhecimento teológico depende da fé, ou seja, da crença em dogmas que não são necessariamente 
+verificáveis por meios científicos. Esses dogmas são sustentados pela confiança em ensinamentos sagrados,  
+como textos religiosos e experiências espirituais.
+ Observação
+Um dogma é uma afirmação religiosa que é aceita como verdadeira, 
+sem dúvida ou questionamento. Dogmas são considerados incontestáveis  
+e imutáveis.
+Muitas religiões têm escrituras sagradas, que servem como uma fonte de autoridade para o conhecimento  
+religioso. Esses textos são considerados revelações ou instruções divinas, cuja intenção é guiar os fiéis 
+em suas vidas cotidianas e espirituais.
+O conhecimento teológico não é universal, pois ele está profundamente ligado a práticas, a crenças 
+e a tradições específicas que variam de uma religião para outra. Cada religião tem seus próprios dogmas, 
+textos sagrados, rituais e interpretações sobre questões fundamentais como a existência de seres divinos, 
+o sentido da vida, o destino da alma, entre outros. Assim, esse tipo de conhecimento é, em grande parte, 
+determinado pela tradição religiosa que uma pessoa segue. Uma verdade religiosa para os seguidores de 
+uma fé pode ser vista de maneira diferente pelos seguidores de outra fé.
+
+===== Página 13 =====
+13
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Suponha que, em certa manhã, um grupo de fiéis de determinada religião esteja reunido no templo 
+de costume. Uma autoridade religiosa se posiciona no púlpito e começa a pregar sobre um trecho 
+específico da escritura sagrada associada a essa crença. Além de realizar a leitura, a autoridade explica o 
+contexto histórico e cultural da passagem, oferecendo uma interpretação teológica sobre o significado 
+do texto. Por fim, ela incentiva os fiéis a refletirem sobre como podem aplicar esses ensinamentos em 
+suas vidas cotidianas.
+Nesse exemplo, o conhecimento teológico específico daquela crença é transmitido por meio da 
+leitura e da interpretação de um trecho da escritura sagrada e da reflexão pessoal incentivada pela 
+autoridade religiosa.
+ Observação
+O conhecimento teológico também pode ser chamado de conhecimento  
+religioso.
+1.1.4 Conhecimento científico
+O conhecimento científico, que é o foco do nosso estudo, é um tipo de saber que se fundamenta 
+em métodos sistemáticos e rigorosos para investigar e descrever fenômenos naturais e sociais. Esses 
+métodos são chamados de métodos científicos, e serão nosso objeto de estudo na próxima seção deste 
+livro‑texto.
+A aplicação dos métodos científicos na geração do saber procura garantir que o conhecimento 
+científico seja o mais imparcial possível, ou seja, o objetivo é minimizar vieses pessoais dos pesquisadores. 
+Desse modo, gostos pessoais, opiniões, crenças ou costumes das pessoas que participam da produção do 
+saber são deixados “de lado”, em prol da objetividade e da universalidade do conhecimento.
+Considere que Márcia é uma engenheira de materiais que trabalha na empresa PetroFuture. Ela 
+está encarregada de desenvolver um revestimento para oleodutos destinados a transportar petróleo. 
+A intenção é deixar os oleodutos mais resistentes à corrosão, aumentando a durabilidade e a segurança 
+do transporte.
+Márcia passa a observar os problemas atuais dos revestimentos de oleodutos usados pela PetroFuture. 
+Ela coleta dados sobre falhas e pontos de corrosão ao longo de certo período. Em seguida, ela revisa 
+artigos científicos e relatórios técnicos sobre materiais de revestimento, buscando entender as soluções 
+possíveis. Com base nas observações e na revisão da literatura, Márcia formula a hipótese de que um 
+novo composto polimérico pode oferecer melhor resistência à corrosão.
+Com a ajuda de uma equipe, Márcia desenvolve várias amostras do novo revestimento polimérico 
+em laboratório. Com o objetivo de testar a resistência do material, ela submete as amostras a ambientes 
+corrosivos simulados. Depois, as amostras são testadas em condições que simulam o fluxo de petróleo, 
+para avaliar a durabilidade.
+
+===== Página 14 =====
+14
+Unidade I
+Márcia e sua equipe analisam os dados dos testes, comparando o desempenho das amostras com 
+os revestimentos atuais. Aparentemente, os resultados são animadores, mas, ainda assim, eles utilizam 
+métodos estatísticos para verificar a significância dos resultados.
+Para confirmar os achados, a equipe repete os experimentos e realiza testes em condições reais, 
+aplicando o novo revestimento em um pequeno segmento de oleodutos em operação.
+Após confirmar a eficácia do novo revestimento, Márcia e sua equipe apresentam suas conclusões 
+à PetroFuture, que decide implementar o revestimento polimérico em todos os oleodutos. A pesquisa 
+resultou em um revestimento mais durável e seguro, reduzindo os custos de manutenção e aumentando 
+a segurança das operações da empresa.
+Por fim, Márcia e sua equipe publicam seus achados em um periódico científico, para que outros 
+pesquisadores tenham acesso a esse conhecimento.
+Você percebeu que a produção desse saber passou por várias etapas e envolveu um rigoroso 
+trabalho de pesquisa? Pois bem, sem pesquisa, não há progresso no conhecimento científico. A geração 
+do conhecimento científico é sistemática, minuciosa e busca responder a uma pergunta ou resolver 
+um problema.
+O desenvolvimento do conhecimento científico começa com uma pergunta ou com um problema 
+específico que os pesquisadores querem entender ou resolver. Essa situação inicial orienta o processo de 
+pesquisa, ajudando a definir hipóteses, planejar experimentos e interpretar os resultados.
+ Observação
+Uma hipótese é uma proposição formulada como possível solução 
+para um problema ou como possível explicação para um fenômeno. Por 
+meio da aplicação de métodos científicos, buscamos confirmar ou refutar  
+as hipóteses.
+Ao contrário de um dogma, uma hipótese deve estar sempre sujeita a 
+testes, análises e à refutação. Portanto, ela está aberta à mudança, conforme 
+novas evidências científicas apareçam.
+Vamos, agora, elencar algumas características do conhecimento científico, de acordo com Marconi 
+e Lakatos (2021).
+• Factualidade: o conhecimento científico lida com ocorrências ou com fatos. Isso significa que 
+ele está fundamentado em observações, em medições e em evidências empíricas que podem ser 
+analisadas objetivamente.
+• Contingência: as proposições ou hipóteses têm sua veracidade ou falsidade conhecida por meio 
+da experimentação, e não apenas pela razão, como ocorre no conhecimento filosófico.
+
+===== Página 15 =====
+15
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+• Sistematicidade: trata‑se de um saber ordenado logicamente, que forma um sistema de ideias 
+obtidas por um método.
+• Verificabilidade: afirmações que não podem ser comprovadas, como dogmas, não pertencem ao 
+âmbito da ciência.
+• Falibilidade: em virtude de suas hipóteses não serem incontestáveis ou imutáveis, o conhecimento 
+científico é considerado falível.
+ Lembrete
+O conhecimento é a percepção ou a compreensão de algo e pode ser 
+obtido por meio da experiência, da reflexão, da prática ou do estudo. Ele 
+pode ser dividido nos itens elencados a seguir.
+Popular: baseado na experiência cotidiana e nas percepções do mundo.
+Filosófico: baseia‑se em debates e análises conceituais, realizados por 
+meio da razão e da reflexão crítica, a respeito da experiência humana.
+Teológico: conhecimento considerado divino ou sagrado, transmitido por 
+autoridades religiosas, textos sagrados ou experiências espirituais.
+Científico: tipo específico de conhecimento sistemático, baseado 
+em métodos rigorosos de observação, de formulação de hipóteses, de 
+experimentação e de formulação de teorias.
+1.2 Raciocínio dedutivo e raciocínio indutivo
+Para extrair suas conclusões, a ciência utiliza, em seus métodos, duas modalidades principais de 
+raciocínio lógico: o raciocínio dedutivo e o raciocínio indutivo.
+O raciocínio dedutivo parte de premissas gerais para chegar a conclusões específicas. Se as premissas 
+forem verdadeiras, e o raciocínio for válido, a conclusão será necessariamente verdadeira. Esse método 
+é frequentemente associado à lógica formal e à matemática.
+ Observação
+Uma premissa é uma afirmação ou proposição que serve como base 
+para um argumento ou raciocínio lógico. Em outras palavras, é uma ideia 
+ou fato que é assumido como verdadeiro, a partir do qual se chega a uma 
+conclusão. As premissas são fundamentais em argumentos dedutivos e 
+indutivos, pois sustentam a validade ou a probabilidade da conclusão.
+
+===== Página 16 =====
+16
+Unidade I
+Um clássico exemplo de raciocínio dedutivo é apresentado, a seguir (Machado; Cunha, 2019, p. 99):
+Premissa 1: Todo homem é mortal.
+Premissa 2: Sócrates é um homem.
+Conclusão: Portanto, Sócrates é mortal.
+Nesse exemplo, as premissas são afirmações tidas como verdadeiras. A partir da combinação dessas 
+afirmações, foi elaborada uma nova afirmação, também verdadeira, que corresponde à conclusão 
+do argumento. Aqui, as duas premissas são afirmações que, se aceitas como verdadeiras, levam 
+necessariamente à conclusão também verdadeira.
+ Saiba mais
+A lógica formal é a área que estuda os raciocínios dedutivos. Ela traz 
+técnicas e formatos válidos para extrairmos conclusões a partir de premissas. 
+Essas técnicas não serão estudadas em nosso livro‑texto, mas, caso queira 
+compreender melhor o assunto, consulte o livro:
+MACHADO, N. J.; CUNHA, M. O. da . Lógica e linguagem cotidiana : 
+linguagem, coerência e comunicação. Belo Horizonte: Autêntica, 2019.
+O raciocínio indutivo, por sua vez, parte de premissas específicas para chegar a conclusões gerais. No 
+entanto, nesse caso, a conclusão deriva das premissas por probabilidade. Acompanhe o exemplo, a seguir:
+Premissa 1: O remédio R curou a doença D do paciente A.
+Premissa 2: O remédio R curou a doença D do paciente B.
+Premissa 3: O remédio R curou a doença D do paciente C.
+Premissa 4: O remédio R curou a doença D do paciente D.
+Premissa 5: O remédio R curou a doença D do paciente E.
+Conclusão: Portanto, o remédio R cura a doença D.
+A força de um argumento indutivo depende do grau de apoio que as premissas oferecem para a 
+conclusão. Quanto mais premissas suportarem a conclusão, mais forte é considerado o argumento. 
+Em um argumento indutivo forte, é altamente provável que a conclusão seja verdadeira. Desse modo, 
+as premissas são afirmações que, se aceitas como verdadeiras, levam provavelmente à conclusão 
+também verdadeira.
+
+===== Página 17 =====
+17
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Os raciocínios dedutivo e indutivo são ferramentas que sustentam o processo científico. Eles são  
+complementares: a indução ajuda a gerar premissas que servirão de base para novas conclusões 
+dedutivas. Juntos, formam a base lógica para a construção do conhecimento científico.
+1.3 Hipótese, lei e teoria
+Antes de prosseguirmos, vamos definir alguns termos que fazem parte do método científico, que 
+abordaremos na próxima seção deste livro‑texto. Como são conceitos importantes, daremos destaque a 
+eles para, então, abordar o método científico como um todo. Assim, são eles: hipótese, lei e teoria.
+Já mencionamos que uma hipótese é uma proposição formulada como possível solução para um 
+problema ou como possível explicação para um fenômeno. Desse modo, ela é uma tentativa de responder 
+a uma pergunta ou de explicar um padrão observado, mas que ainda precisa ser testada e validada.
+Uma lei científica é comumente definida como uma descrição precisa de um padrão ou comportamento  
+observado na natureza. De modo geral, ela descreve o que acontece, mas não explica por que o fenômeno 
+acontece. Leis científicas são baseadas em evidências empíricas e são amplamente aceitas como verdades 
+fundamentais em sua área de estudo. Uma lei científica, portanto, descreve um padrão constante da 
+natureza. Também é muito comum que leis científicas sejam expressas de forma matemática, por meio 
+de uma “fórmula”, e não apenas por uma sentença.
+ Observação
+A ciência que mais costuma formular leis é a física, que é a ciência que 
+estuda os fenômenos naturais mais fundamentais, como movimento, energia, 
+força, matéria e suas interações. As leis da física descrevem comportamentos 
+que são universais e altamente reproduzíveis. Isso contrasta com outras 
+ciências da natureza, como a biologia, em que os fenômenos podem ser mais 
+complexos e variáveis. A física é altamente quantitativa e utiliza a linguagem 
+matemática para expressar suas leis de maneira precisa e universal.
+Por sua vez, as ciências sociais, como a sociologia, raramente produzem  
+leis no sentido científico tradicional, devido à complexidade e à imprevisibilidade  
+do comportamento humano.
+Na ciência, uma teoria tem um significado distinto do popular, no qual, muitas vezes, utilizamos o 
+termo com o sentido de hipótese. No dia a dia, é comum dizermos coisas como “minha teoria é que ele 
+esqueceu o celular em casa porque estava com pressa” . Mas, na ciência, o que esse termo significa?
+Uma teoria científica pode ser definida como uma explicação abrangente e bem fundamentada 
+para um conjunto de fenômenos observados. Ela vai além da simples descrição de padrões (como as 
+leis) e busca explicar por qual motivo e como esses fenômenos ocorrem. Teorias são apoiadas por
+
+===== Página 18 =====
+18
+Unidade I
+evidências e são capazes de fazer previsões testáveis. Enquanto uma hipótese é o ponto de partida 
+para a investigação científica, uma teoria é o resultado de um longo processo de teste, validação e 
+integração de ideias.
+Para que o conteúdo fique mais claro, vamos propor uma situação fictícia utilizando a área da 
+biologia como exemplo. Assim, imagine que um grupo de biólogos observa que uma espécie de inseto, 
+chamada Aedes rapidus, parece se mover mais rápido em dias quentes do que em dias frios. Eles notam 
+que os insetos são mais ativos em temperaturas acima de 25 °C, enquanto em temperaturas abaixo de 
+15 °C, eles ficam quase imóveis.
+Com base na observação, os biólogos propõem uma hipótese: “se a temperatura ambiente aumentar, 
+então a velocidade de movimento do Aedes rapidus também aumentará” .
+Em laboratório, os biólogos realizam experimentos controlados para testar a hipótese. Os resultados 
+indicam que a velocidade média de movimentação dos insetos aumenta de forma linear até os 40 °C, 
+mas diminui após esse ponto. Os biólogos estabelecem uma relação entre a velocidade média (v) e 
+o aumento de temperatura (T), limitado até 40 ºC. Essa relação é expressa por meio de uma função 
+matemática: v = 0,4⋅T−2.
+Outro grupo de cientistas que estuda a mesma espécie elabora outra função que modela 
+matematicamente a velocidade média dos insetos após os 40 ºC. Com isso, foi elaborada uma 
+lei matemática, descrita como uma função por partes, que modela por completo a velocidade média em 
+função da temperatura.
+Esses resultados foram replicados e corroborados por outros pesquisadores mundialmente. Diante 
+do consenso da comunidade científica, a função por partes fica conhecida como lei de rapidus.
+Com base na lei de rapidus e em outras evidências a respeito do comportamento dos insetos, os 
+biólogos propõem uma teoria que explica o comportamento observado. Essa teoria diz que “a velocidade 
+do Aedes rapidus é determinada pela taxa metabólica, que aumenta linearmente com a temperatura até 
+um ponto ótimo de 40 °C. Acima desse ponto, o estresse térmico causa danos às proteínas e enzimas, 
+reduzindo a eficiência metabólica e, consequentemente, a velocidade de movimento” .
+Se pensarmos na relação entre os três termos que acabamos de estudar – hipótese, lei e teoria –, 
+podemos enxergar uma hipótese como um “ponto de partida”, ou uma suposição inicial. Uma hipótese 
+testada e confirmada é capaz de levar à descoberta de padrões ou relações, que podem ser descritas como 
+leis. As leis, então, retratam o que acontece, mas não explicam o motivo. Elas podem ser incorporadas 
+em teorias, as quais, por sua vez, explicam por qual motivo e como os fenômenos ocorrem, integrando 
+leis, hipóteses e evidências em um quadro explicativo mais amplo.
+
+===== Página 19 =====
+19
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Lembrete
+Hipótese: é uma suposição testável que tenta explicar ou descrever  
+um fenômeno.
+Lei: é uma descrição de um padrão ou de um comportamento observado  
+na natureza.
+Teoria: é uma explicação abrangente e bem fundamentada para um 
+conjunto de fenômenos.
+Os raciocínios dedutivo e indutivo estão intimamente relacionados com a formulação de hipóteses, 
+leis e teorias. O raciocínio indutivo, que parte de premissas específicas para chegar a conclusões gerais, 
+é essencial para a formulação de hipóteses e de leis científicas. O raciocínio dedutivo, que parte de 
+premissas gerais para chegar a conclusões específicas, é essencial para testar hipóteses, aplicar leis e 
+validar teorias.
+1.4 Método científico
+De acordo com Severino (2017), ao observarmos a prática científica, nos parece evidente a aplicação de 
+atividades que expressam um rigoroso caráter técnico. Vemos laboratórios com aparelhos tecnológicos e 
+diversos procedimentos de observação, de experimentação, de coleta de dados, de cálculos estatísticos, 
+e assim por diante.
+Temos que entender que essas técnicas não são aplicadas aleatoriamente. Ao contrário: elas são 
+aplicadas seguindo um rigoroso plano de utilização, que podemos entender como um “roteiro”, ao qual 
+damos o nome de método científico. É a partir da prática desse método que o conhecimento científico 
+é acumulado e aprimorado, ou seja, é ele que diferencia o conhecimento científico dos demais.
+O método científico completo é ilustrado por meio do diagrama da figura 2. Ao trabalhar com esse 
+método, a primeira atividade do cientista é a observação de fatos. A princípio, essa observação pode ser 
+espontânea e despretensiosa, como perceber que um objeto, quando é levantado e posteriormente solto, 
+cai no chão. No entanto, os fatos que observamos não são autoexplicativos. Por mais que saibamos que 
+o objeto cai, podemos não entender por que ele cai.
+Depois da observação, o cientista costuma reunir o máximo de informação possível já publicada (em 
+artigos científicos ou em monografias, por exemplo) a respeito do assunto que pretende explorar. Essa 
+etapa é conhecida como pesquisa bibliográfica.
+Por meio da utilização do raciocínio e das informações levantadas na pesquisa bibliográfica, o 
+cientista, então, formula uma hipótese que propõe uma possível explicação para o fato observado.
+
+===== Página 20 =====
+20
+Unidade I
+Formulada a hipótese, o cientista precisa partir para a verificação experimental de sua suposição. Ao 
+longo dessa verificação, a hipótese formulada deve ser testada. Para isso, o cientista isola, em condições 
+controladas, as variáveis que se relacionam com o fenômeno testado e observa o seu  comportamento. Caso 
+a hipótese seja confirmada experimentalmente, é possível que ela se encaminhe para se tornar uma lei.
+Desse modo, ela depende, de forma geral, da replicação de seus resultados e do consenso da 
+comunidade científica. As leis, portanto, são obtidas basicamente como conclusões de um processo 
+indutivo: vários fatos particulares se resumem em um único princípio.
+Posteriormente, diversas leis referentes a vários setores de fenômenos têm a possibilidade de se 
+unificarem em algo mais abrangente, que é a teoria.
+Finalmente, é possível que várias teorias se resumam em uma única explicação que dite o funcionamento  
+do universo. Esse seria o sistema, que ainda não foi estabelecido, mas que é almejado pelos cientistas.
+Método científico
+Fase indutiva Fase dedutiva
+Método experimental Método matemático
+Hipóteses 
+gerais
+Fatos Leis Teorias Sistemas
+Hipóteses 
++ gerais
+Hipótese 
+universal
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+...
+Fn
+Hn
+Hd
+Hc
+Hb
+Ha L1
+L2
+L3
+L4
+Ln
+Ha
+Hb
+Hn
+Hu Su
+Tn
+T2
+T1
+Observação ExperimentalVerificação VerificaçãoDedutiva DedutivaVerificação
+Formulação FormulaçãoFormulação
+Figura 2 – Estrutura lógica do método científico
+Fonte: Severino (2017, p. 107).
+A figura 2 subdivide o método científico em dois segmentos: o método experimental e o método  
+matemático.
+
+===== Página 21 =====
+21
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+O método experimental, dominado pelo raciocínio indutivo, envolve a observação de fatos e 
+a formulação de hipóteses gerais com base nessas observações. Essas hipóteses podem ou não se 
+transformar em leis. O método experimental é uma abordagem científica que abrange a realização de 
+atividades controladas para testar hipóteses.
+Já o método matemático, dominado pelo raciocínio dedutivo, parte das leis para a elaboração de 
+hipóteses ainda mais abrangentes que, caso confirmadas, se transformam em teorias. Essas teorias 
+podem servir como base para a formulação de uma hipótese universal, ou seja, que explica todo o 
+funcionamento do universo. O método matemático envolve o uso de modelos matemáticos, fórmulas e 
+teorias para descrever e prever fenômenos.
+Com o método científico, a ciência teve pleno êxito na Era Moderna, construindo sua base de 
+conhecimento. O conhecimento científico serve de suporte para a indústria, o que amplia a capacidade 
+de o homem manipular a natureza.
+1.5 Tipos de pesquisa
+Segundo Severino (2017), por mais que o método científico seja universal para todas as áreas da 
+ciência, ocorrem diferenças significativas no modo de praticar a pesquisa científica para que seja possível 
+a verificação de hipóteses. Além da possível divisão entre ciências naturais e ciências humanas, essas 
+diferenças surgem da diversidade de perspectivas que podemos adotar e de enfoques diferenciados que 
+podemos assumir no trato com os objetos pesquisados.
+Por essa razão, há várias modalidades de pesquisa que podemos praticar, as quais podem ser classificadas  
+de diversas maneiras. A seguir, abordaremos algumas dessas classificações.
+1.5.1 Quanto à abordagem do problema
+De acordo com Nascimento (2015), se levarmos em consideração a abordagem dada à pesquisa, 
+podemos destacar dois tipos essenciais: a quantitativa e a qualitativa.
+Em uma pesquisa quantitativa, utilizamos primariamente dados numéricos e métodos estatísticos 
+para sua análise. Nesse tipo de pesquisa, lidamos com porcentagens, médias, frequências, correlações, 
+entre outras métricas. O grande objetivo de pesquisas quantitativas é mensurar fenômenos, testar 
+hipóteses e generalizar resultados para uma população maior.
+Como exemplo, imagine uma pesquisa que, para testar uma hipótese, busca medir a relação entre 
+o tempo gasto em redes sociais e as notas médias de estudantes. Para isso, foi selecionado um grupo 
+de 1000 estudantes de Ensino Médio, e aplicado a eles um questionário estruturado, com perguntas 
+fechadas, como “quantas horas por dia você passa nas redes sociais?” e “qual foi a sua média de notas 
+no último ano?” . A partir da coleta de dados, foram utilizadas técnicas estatísticas que mostraram que 
+estudantes que passaram mais de 4 horas por dia em redes sociais apresentaram um decréscimo de 20% 
+na média das notas em relação àqueles que não utilizam redes sociais com regularidade. Essa pesquisa, 
+que lidou primariamente com números, usou a abordagem quantitativa.
+
+===== Página 22 =====
+22
+Unidade I
+Por sua vez, em uma pesquisa qualitativa, trabalhamos fundamentalmente com dados não 
+numéricos, como textos, entrevistas e observações. A pesquisa qualitativa busca compreender fenômenos 
+complexos, explorando motivações, percepções, comportamentos e experiências subjetivas. Com isso, 
+ela busca compreender significados, motivações, percepções e contextos.
+Assim, suponha uma pesquisa que, para testar uma hipótese, buscou explorar como os estudantes 
+percebem e utilizam as redes sociais em seu processo de aprendizagem. Para isso, foi selecionado um 
+grupo de 50 estudantes para o qual foi aplicado um questionário com perguntar abertas, do tipo “Como 
+você descreve sua experiência com o uso de redes sociais para os estudos?” e “Na sua opinião, quais são 
+os benefícios de usar as redes sociais na aprendizagem?” . Adiante, foi feita uma análise das respostas 
+para identificar temas e padrões recorrentes, o que mostrou que as redes sociais têm um papel ambíguo 
+na aprendizagem, sendo tanto uma ferramenta de apoio quanto um objeto de distração. Nesse caso, a 
+pesquisa optou pela abordagem qualitativa.
+A partir desses exemplos, podemos perceber que a pesquisa quantitativa busca medir e generalizar 
+fenômenos, enquanto a pesquisa qualitativa busca compreender e explorar significados e experiências. 
+Ambos os tipos são valiosos e podem, inclusive, ser combinados em um estudo de abordagem mista.
+1.5.2 Quanto à natureza da pesquisa
+Podemos, também, classificar as pesquisas quanto à sua natureza. Há duas categorias principais: 
+pesquisa básica (ou pura) e pesquisa aplicada.
+Uma pesquisa básica visa ampliar o conhecimento científico de sua área, sem se preocupar com 
+uma aplicação prática imediata. Ela busca, de forma geral, aperfeiçoar as leis ou teorias científicas 
+daquele campo de estudo.
+Considere um estudo que busca entender como os processos bioquímicos do cérebro contribuem 
+para o armazenamento de memórias de longo prazo. Esse estudo colabora para o entendimento teórico 
+dos processos bioquímicos cerebrais, sem se preocupar com uma aplicação prática imediata.
+Uma pesquisa aplicada, por sua vez, tem como objetivo resolver problemas específicos ou 
+desenvolver tecnologias a partir do conhecimento científico. A pesquisa aplicada, geralmente, utiliza o 
+conhecimento gerado a partir de pesquisas básicas como ferramenta para desenvolver suas aplicações.
+Assim, pense em uma pesquisa que busca desenvolver um medicamento para tratar pacientes 
+diagnosticados com a doença de Alzheimer. Nesse caso, a aplicação dos resultados da pesquisa é 
+perceptível e imediata.
+Pesquisas de ambas as naturezas são essenciais para o avanço da ciência e da sociedade, já que 
+pesquisas básicas geram bases teóricas que possibilitam o desenvolvimento de pesquisas aplicadas.
+
+===== Página 23 =====
+23
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+1.5.3 Quanto aos procedimentos técnicos
+Além disso, podemos classificar as pesquisas de acordo com os procedimentos técnicos adotados 
+pelos cientistas. É comum que autores da área, como Giacon, Fontes e Grazzia (2017), refiram‑se a esses 
+procedimentos técnicos como metodologias de pesquisa.
+Os procedimentos técnicos são, portanto, os métodos específicos utilizados para realizar a pesquisa. 
+Eles variam de acordo com o tipo de estudo e os objetivos da pesquisa. Alguns exemplos comuns incluem 
+os elencados a seguir:
+• Pesquisa bibliográfica: nesse tipo, realizamos uma revisão de materiais já publicados, como livros,  
+artigos científicos, dissertações, teses e documentos em geral. As pesquisas bibliográficas são 
+usadas para embasar teoricamente um estudo ou para revisar o estado da arte sobre um tema.
+• Pesquisa experimental: nesse caso, lidamos com a manipulação de variáveis em um ambiente 
+controlado, como um laboratório, para observar seus efeitos. Esse tipo de pesquisa é comum em 
+ciências da natureza.
+• Pesquisa de levantamento: aqui, ocorre a coleta de dados por meio de questionários ou entrevistas  
+a uma amostra ou a uma população de indivíduos. É utilizada para obter informações quantitativas 
+ou qualitativas a respeito de determinado tema.
+• Pesquisa documental: nesse tipo, são utilizados documentos oficiais, documentos pessoais ou 
+registros históricos como fontes de dados para seus achados. É comum em pesquisas históricas, 
+jurídicas ou sociológicas.
+• Estudo de caso: aqui, procuramos estudar profundamente determinada situação de interesse. 
+Seu objetivo é descobrir um detalhamento a respeito de um assunto específico. Os estudos de 
+caso são uma metodologia de pesquisa versátil e podem ser aplicados em diversas áreas do 
+conhecimento. Além disso, um estudo desse tipo pode aplicar outros procedimentos técnicos 
+vistos anteriormente. Como exemplo, podemos pensar em um estudo de caso sobre o tratamento 
+de um paciente com uma doença rara, utilizando uma nova terapia experimental.
+• Pesquisa-ação: nesse caso, os pesquisadores e os participantes da situação ou do problema se 
+envolvem de modo cooperativo ou participativo. Em tal contexto, certa situação‑problema é 
+investigada para que, em discussão com as pessoas atingidas pelo problema, se chegue à resolução, 
+e, assim, seja possível gerar conhecimento a partir do que foi tratado. Como exemplo, podemos 
+imaginar uma pesquisa que visa implementar e avaliar um programa de gestão de resíduos sólidos 
+em uma escola, envolvendo a comunidade escolar no processo.
+
+===== Página 24 =====
+24
+Unidade I
+2 MODALIDADES DE TRABALHOS ACADÊMICOS
+No título anterior, falamos de diversos tipos de pesquisa que podem ser classificados de maneiras 
+distintas. Mas como essas pesquisas são documentadas e publicadas, para que haja interação entre os 
+membros da comunidade científica? Trataremos agora desse assunto.
+Um trabalho acadêmico é uma produção de cunho científico que é desenvolvida no âmbito de uma 
+instituição de ensino superior ou de pesquisa.
+Abordaremos primeiro os trabalhos acadêmicos longos, que conhecemos como monografias. Você, 
+como estudante em uma universidade, provavelmente precisará produzir uma ou mais monografias ao 
+longo de sua vida acadêmica.
+Depois, falaremos dos artigos científicos, que são considerados o tipo mais importante de publicação 
+para a ciência. Eles podem “nascer” de estudos que foram publicados em monografias, assim como 
+monografias podem conter trechos que já foram publicados em artigos científicos. Um tipo de publicação, 
+portanto, não exclui o outro, ou seja, são apenas formas diferentes de publicar conhecimento.
+Por fim, falaremos um pouco sobre como se dá a comunicação científica e como ocorrem as 
+interações que acontecem entre seus membros e a comunidade em geral.
+2.1 Monografias
+Uma monografia é um trabalho acadêmico textual que tem como objetivo trazer a documentação do 
+estudo de um tema específico. Ela é criada como um produto de investigações científicas desenvolvidas 
+em cursos de graduação ou de pós‑graduação. Monografias são trabalhos acadêmicos longos, isto é, 
+são compostos de algumas dezenas ou centenas de páginas, a depender do título acadêmico almejado.
+Monografias são comumente exigidas como o principal elemento a ser entregue em um trabalho de 
+conclusão de curso (TCC) ou para a obtenção do título de mestre em um programa de pós‑graduação, 
+por exemplo.
+É importante destacar que um TCC não é em si uma monografia. Dessa maneira, um TCC pode ser 
+composto de diversas etapas: a produção e a entrega da monografia, a apresentação para a banca 
+e, em alguns casos, o desenvolvimento de protótipos ou outros elementos práticos, dependendo da 
+área de estudo.
+Em vista disso, a monografia corresponde à principal documentação geralmente exigida para a 
+conclusão de um curso.
+Monografias devem quase sempre ser formatadas seguindo guias de normalização. Esses guias são 
+documentos produzidos pelas próprias universidades vinculadas ao trabalho acadêmico, que geralmente 
+seguem as diretrizes estipuladas pelas Normas Brasileiras Regulamentadoras (NBRs), publicadas 
+pela Associação Brasileira de Normas Técnicas (ABNT). Os guias de normalização estipulam como a
+
+===== Página 25 =====
+25
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+monografia deve ser produzida: qual é o padrão da capa, qual é o tamanho da fonte, como a paginação 
+deve ser inserida, quais são os elementos obrigatórios do texto, como as citações devem ser feitas e 
+referenciadas, entre outras normas.
+ Observação
+Dependendo do contexto ou do autor da área, a definição do 
+termo monografia pode variar. Alguns consideram monografias apenas 
+trabalhos acadêmicos em nível de especialização. Outros, consideram que 
+monografias são trabalhos acadêmicos longos e padronizados, desenvolvidos 
+sob um tema. Essa definição mais abrangente é a que utilizamos em nosso 
+livro‑texto. Desse modo, vamos considerar que uma tese de doutorado é 
+uma monografia, por exemplo.
+A ABNT NBR 6023 (2018) utiliza o termo “monografia” para se referir a 
+livros, a folhetos e a trabalhos acadêmicos (teses, dissertações, trabalhos de 
+conclusão de curso, entre outros).
+A seguir, vamos comentar alguns tipos de trabalhos que exigem monografias.
+2.1.1 Trabalhos de graduação
+Um trabalho de graduação é aquele desenvolvido por alunos de cursos superiores ao longo de sua 
+formação. Nessa categoria, encontramos os projetos integrados multidisciplinares, que são comumente 
+exigidos em cursos superiores tecnológicos, os quais unem pesquisa ao conhecimento obtido nas 
+disciplinas do curso.
+Um trabalho de graduação normalmente exige pesquisas de tipo bibliográfica, de levantamento, 
+estudos de caso ou pesquisa‑ação, podendo combinar diversos procedimentos técnicos no mesmo 
+material. Uma das principais intenções desse tipo de trabalho é iniciar os alunos ao universo da pesquisa, 
+assim como exigir a aplicação dos conhecimentos adquiridos em sala de aula em um projeto, muitas 
+vezes desenvolvido em grupo.
+A monografia, nesse caso, é comumente exigida e deve ser redigida seguindo o guia de normalização 
+vigente da universidade. Nesse nível acadêmico, esse tipo de documento é geralmente composto de 
+algumas dezenas de páginas, o que já é suficiente para o cumprimento dos objetivos do projeto.
+Geralmente, trabalhos de graduação não seguem um tema definido pelos próprios alunos que o 
+desenvolvem. O mais comum é que um projeto de pesquisa seja entregue aos alunos pelo corpo docente 
+responsável, e que os alunos tenham apenas que cumprir as demandas feitas nesse projeto, sob a orientação  
+de um ou mais professores.
+
+===== Página 26 =====
+26
+Unidade I
+Além da monografia, é comum que os trabalhos de graduação exijam uma apresentação, com a 
+demonstração de produtos ou elementos práticos elaborados durante sua confecção.
+2.1.2 Trabalhos de conclusão de curso (graduação)
+Nesta seção, focaremos em trabalhos de conclusão voltados à obtenção de um título de graduação, 
+os famosos TCCs. Eles são desenvolvidos ao fim da jornada do graduando na obtenção do seu diploma. 
+TCCs são comumente exigidos por cursos de licenciatura ou de bacharelado, mas nem sempre por cursos 
+superiores de tecnologia. Assim como trabalhos de graduação, TCCs são desenvolvidos sob a orientação 
+de um ou mais professores do curso.
+Em seu formato tradicional, o TCC é constituído principalmente por uma monografia, que será mais 
+longa e mais elaborada do que a produzida em um trabalho de graduação. É necessário também realizar 
+uma apresentação, geralmente, chamada de defesa, que será avaliada por uma banca examinadora.
+Assim que são concluídas e aprovadas, as monografias produzidas nesse nível acadêmico, normalmente, 
+integram o sistema de biblioteca da instituição ao qual estão atreladas, o que raramente acontece  
+com trabalhos de graduação.
+Para cursos que exigem o TCC, sua aprovação é imprescindível para que o aluno passe da situação de 
+graduando para graduado e obtenha o diploma.
+ Saiba mais
+A Universidade de São Paulo (USP) mantém uma biblioteca digital 
+de  trabalhos acadêmicos. Nela, é possível buscarmos especificamente por 
+trabalhos de conclusão de curso em nível de graduação. Para conhecer melhor 
+alguns exemplos desses trabalhos publicados, visite o endereço a seguir:
+UNIVERSIDADE DE SÃO PAULO. Biblioteca digital de trabalhos acadêmicos da 
+USP. Disponível em: https://bdta.abcd.usp.br/index.php. Acesso em: 17 jun. 2025.
+
+===== Página 27 =====
+27
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Observação
+Há, basicamente, três títulos distintos distribuídos por cursos em nível 
+de graduação superior: bacharel, licenciado ou tecnólogo.
+Bacharelado: é uma formação generalista que prepara o estudante para 
+atuar em uma área específica do conhecimento, com foco no mercado de 
+trabalho ou na pesquisa. Alguns cursos que concedem o título de bacharel 
+ao concluinte são: direito, engenharias ou administração.
+Licenciatura: tem a intenção de formar educadores com conhecimentos 
+teóricos e práticos para lecionar em escolas. Além das disciplinas específicas 
+da área, o curso inclui matérias relacionadas à pedagogia e à didática. Alguns 
+cursos que concedem o título de licenciado ao concluinte são: matemática,  
+física ou biologia.
+Curso tecnológico: é uma formação de nível superior com foco prático 
+e técnico, voltada para atender demandas específicas do mercado de 
+trabalho. Alguns cursos que concedem o título de tecnólogo ao concluinte 
+são: análise e desenvolvimento de sistemas ou gestão de tecnologia  
+da informação.
+2.1.3 Trabalhos para especialização
+Já abordamos os trabalhos desenvolvidos para a obtenção de um diploma de graduação, seja ele 
+com o título de tecnólogo, bacharel ou licenciado. Vamos, agora, entrar no “mundo” da pós‑graduação.
+O curso de pós‑graduação lato sensu tem como objetivo aperfeiçoar conhecimentos e habilidades 
+profissionais, ou seja, é uma etapa de especialização. O termo lato sensu significa “em sentido amplo”, 
+e refere‑se a cursos de pós‑graduação que têm foco na aplicação prática do conhecimento profissional 
+no mercado de trabalho.
+Os trabalhos para especialização também podem ser chamados de TCCs, mas, obviamente, visam à 
+obtenção de um título distinto: o de especialista. Esse título já pertence à categoria de pós‑graduado, 
+como já comentamos.
+Nem sempre os cursos de especialização exigem um trabalho de conclusão, mas, quando exigem, 
+é comum que solicitem a elaboração de uma monografia. Em comparação com o TCC de graduação, o 
+TCC de especialização, em geral, foca em temas mais específicos, e prioriza mais a aplicação prática dos 
+conhecimentos no mercado de trabalho.
+
+===== Página 28 =====
+28
+Unidade I
+Por mais que o objetivo dos cursos de especialização seja a aplicação do conhecimento no mercado 
+industrial ou corporativo, diversos especialistas atuam também como docentes em cursos de graduação 
+em instituições privadas. No entanto, cada universidade ou faculdade pode definir critérios adicionais 
+para a contratação de professores, além disso, algumas podem exigir que o profissional tenha concluído 
+uma pós‑graduação stricto sensu.
+2.1.4 Dissertações de mestrado
+Um programa de pós‑graduação stricto sensu  refere‑se aos cursos de pós‑graduação com foco 
+acadêmico e científico, como os programas de mestrado e doutorado. O termo stricto sensu significa 
+“em sentido restrito” e faz alusão ao fato de que esse tipo de curso de pós‑graduação explora com 
+grande profundidade um objeto de estudo bastante delimitado.
+A dissertação de mestrado é o tipo de monografia destinada à conclusão do curso de mestrado, com 
+a qual o concluinte obtém o título de mestre. Além da monografia em si, o autor precisa também fazer 
+uma apresentação – chamada de defesa – mediante uma banca examinadora.
+Dissertações de mestrado podem ser frutos de diversos tipos de pesquisa, mas, na área de ciências 
+da natureza, destaca‑se a pesquisa experimental, juntamente à pesquisa bibliográfica.
+De acordo com Nascimento (2012), em uma dissertação, é exigido que o autor aborde aspectos 
+variados sobre o objeto de estudo e desenvolva uma pesquisa aprofundada sobre o assunto. É solicitado 
+também que o mestrando tenha domínio de um idioma estrangeiro (comumente o inglês), além do seu 
+idioma vernáculo (nativo).
+Quando comparamos uma dissertação de mestrado com uma monografia produzida para uma 
+pós‑graduação lato sensu, de modo geral, o rigor científico exigido para a produção da dissertação é 
+muito mais amplo e evidente. É esperado, por exemplo, que a lista de referências de uma dissertação 
+seja  vasta, e composta majoritariamente de artigos científicos relevantes para a área.
+No entanto, na dissertação de mestrado, não é obrigatório que o autor apresente originalidade sobre 
+o assunto abordado em seu trabalho, como uma descoberta científica ou uma grande contribuição 
+inédita para sua área de estudo. Essa exigência é feita para teses de doutorado.
+ Observação
+Títulos obtidos em programas de pós‑graduação stricto sensu , como 
+mestre ou doutor, são amplamente valorizados na área acadêmica. Diversas 
+universidades exigem que pelo menos parte de seu corpo docente seja 
+formada por mestres ou doutores.
+
+===== Página 29 =====
+29
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+2.1.5 Teses de doutorado
+A tese de doutorado é uma monografia apresentada na conclusão de um curso de pós‑graduação 
+stricto sensu destinada à obtenção do título de doutor, conforme trata Nascimento (2012).
+Além de cumprir as exigências feitas para mestrandos, os doutorandos têm uma tarefa adicional: 
+é pedido que seu trabalho contribua de forma inédita para a ciência. A originalidade é um dos pilares 
+fundamentais de um trabalho de doutorado, e essa contribuição pode se manifestar de várias maneiras, 
+dependendo da área de estudo.
+O autor pode apresentar novas descobertas, novos métodos para realizar algo já conhecido, 
+novas perspectivas sobre um tema, novas aplicações práticas para determinado conhecimento, 
+aprimoramentos de uma teoria vigente, a refutação de uma hipótese defendida por outros autores, 
+entre outras possibilidades.
+A contribuição inédita não precisa ser revolucionária, mas deve representar um avanço na área de 
+estudo. Ademais, a tese deve demonstrar um alto nível de rigor acadêmico, com uma revisão bibliográfica 
+muito abrangente, métodos bem definidos e análise crítica dos resultados.
+ Saiba mais
+Para conhecer mais sobre as monografias relativas a trabalhos de 
+pós‑graduação stricto sensu , acesse o repositório da Biblioteca Digital 
+Brasileira de Teses e Dissertações, do Instituto Brasileiro de Informação em 
+Ciência e Tecnologia (Ibict), que reúne a base de dados de mais de uma 
+centena de instituições:
+IBICT. Biblioteca Digital Brasileira de Teses e Dissertações. [s.d.]. Disponível 
+em: https://bdtd.ibict.br/vufind/. Acesso em: 17 jun. 2025.
+2.2 Artigos científicos
+Agora que já conhecemos as monografias, vamos conhecer o tipo mais importante de publicação 
+para o mundo da ciência: o artigo científico.
+Um artigo científico é um documento que apresenta os resultados de uma pesquisa original, realizada 
+de acordo com o método científico, com o objetivo de comunicar descobertas, análises ou revisões de 
+conhecimento para a comunidade científica e para o público interessado.
+É muito comum que, ao longo do desenvolvimento de seu trabalho de mestrado ou de doutorado, o 
+pesquisador publique alguns artigos científicos antes de defender sua dissertação ou tese.
+
+===== Página 30 =====
+30
+Unidade I
+Um artigo é uma das principais formas de compartilhamento do conhecimento científico e, portanto, é 
+considerado a principal ferramenta de comunicação entre membros da comunidade científica do mundo todo.
+Quando comparado a uma monografia, um artigo científico é consideravelmente mais curto: sua 
+extensão varia de algumas unidades a algumas dezenas de páginas. No entanto, seu conteúdo costuma 
+ser denso, de modo a transmitir uma grande quantidade de informações em pouco espaço.
+Eles são publicados principalmente em periódicos científicos (também chamados de revistas 
+científicas), que são veículos especializados para a divulgação de pesquisas acadêmicas, sendo assim 
+chamados porque publicam periodicamente (com frequência mensal, trimestral etc.) seus conteúdos, os 
+quais reúnem artigos revisados por pares de uma área específica do conhecimento.
+ Observação
+A revisão por pares ( peer review) faz parte do “processo seletivo” pelo 
+qual o artigo passa para que seja aceito para publicação em um periódico.
+Ela consiste na análise crítica do texto por outros especialistas da 
+mesma área de conhecimento (os “pares”), que avaliam a qualidade, a 
+originalidade, a validade e a relevância do trabalho.
+Os pares, então, enviam comentários e sugestões aos autores do artigo, 
+que fazem a revisão do material com base nessas observações.
+Esse processo é essencial para garantir a credibilidade e a integridade 
+da pesquisa científica.
+ Saiba mais
+Science e Nature são dois dos periódicos de maior renome na comunidade 
+científica. O acesso integral aos artigos científicos é pago, mas você pode 
+visualizar resumos estruturados e informações a respeito das publicações. 
+Para saber mais a respeito, visite:
+AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science. 
+Disponível em: https://www.science.org/. Acesso em: 17 jun. 2025.
+PRINGER NATURE LIMITED. Nature. Disponível em: https://www.nature.com/. 
+Acesso em: 17 jun. 2025.
+
+===== Página 31 =====
+31
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+É importante frisar que a maior parte dos artigos científicos, principalmente os de maior relevância, 
+são publicados em periódicos que adotam o inglês como idioma. O inglês foi, de certa forma, padronizado 
+como o idioma oficial do conhecimento científico. Isso favorece, por exemplo, que um cientista chinês 
+leia o artigo publicado por uma pesquisadora alemã sem grandes dificuldades. Ainda assim, encontramos 
+diversos periódicos cujas publicações são feitas em português.
+ Saiba mais
+A Amazônia é um periódico nacional semestral editado pelo Programa 
+de Pós‑Graduação em Educação em Ciências e Matemáticas do Instituto de 
+Educação Matemática e Científica (IEMCI), da Universidade Federal do Pará (UFPA).  
+É uma revista aberta à comunidade científica, destinada à publicação de 
+pesquisas sobre formação de professores e processos de ensino e aprendizagem 
+nas áreas de educação em ciências, matemática e educação ambiental.  
+Suas publicações são feitas em português.
+Confira o conteúdo da revista no endereço:
+AMAZÔNIA – Revista de Educação em Ciências e Matemáticas. [s.d.]. Pará. 
+Disponível em: https://tinyurl.com/5bek2bz8. Acesso em: 17 jun. 2025.
+De acordo com Aquino (2010), qualquer pessoa, independentemente de estar envolvida no mundo 
+acadêmico ou de pesquisa, pode se acostumar a ler artigos científicos. Para isso, é importante que 
+conheçamos um pouco a respeito da estrutura de um artigo.
+2.2.1 Estrutura padrão de um artigo científico
+Aquino (2010) expõe que um artigo científico costuma apresentar padrões estruturais e características 
+básicas, quer seja publicado em periódico nacional quer seja internacional. As partes que geralmente o 
+compõem são as elencadas a seguir:
+• Título: primeira porção do artigo, apresentada com tamanho de fonte maior do que a do texto.
+• Autores e afiliação: identificam os autores da pesquisa e as instituições às quais cada um deles 
+está afiliado.
+• Resumo: é uma “miniatura” do artigo completo, em que devemos encontrar todas as partes 
+importantes do artigo científico (geralmente, da introdução até a conclusão).
+• Palavras-chave: seção importante para a alimentação de bases de dados científicas. Com essas 
+palavras, facilmente se identificam artigos relacionados ao trabalho.
+
+===== Página 32 =====
+32
+Unidade I
+• Introdução: geralmente os autores relatam pesquisas anteriores relativas ao tema e focam na 
+importância do desenvolvimento da pesquisa vigente. Em artigos científicos, a revisão bibliográfica  
+está contida na introdução, assim como o objetivo, que aparece, normalmente, no último parágrafo.
+• Material e métodos: detalha quais materiais (equipamentos, reagentes, ferramentas etc.) foram 
+utilizados para realizar a pesquisa e quais foram os procedimentos metodológicos adotados com 
+esses materiais. Dessa forma, os autores devem explicar todo o procedimento praticado na pesquisa,  
+de modo que outros pesquisadores consigam replicar o estudo, se assim desejarem.
+• Resultados e discussão: relata quais foram os resultados obtidos pela pesquisa (geralmente 
+utiliza tabelas ou gráficos para isso). Além disso, na parte de discussão, é feita a interpretação 
+dos resultados apresentados, de acordo com análise estatística ou confronto com a literatura 
+existente sobre o tema. Na discussão, o autor busca mostrar concordância ou discordância com 
+outros trabalhos já publicados.
+• Conclusão: essa seção é de extrema importância para o artigo científico. Aqui, os autores incluem 
+todas as inferências feitas ao longo do desenvolvimento do trabalho, reunindo todo o aprendizado 
+gerado por seu estudo. Muito comumente, os autores fazem sugestões de novos estudos que 
+podem ser feitos a partir dali, como ampliar o conhecimento científico daquela área.
+• Agradecimentos: essa é a parte em que os autores agradecem a outros pesquisadores ou a 
+instituições de pesquisa. Também é comum que os autores agradeçam a instituições de fomento 
+(ou seja, que financiaram o trabalho).
+• Referências bibliográficas: são listados todos os trabalhos (frequentemente, outros artigos 
+científicos) que foram citados ao longo do texto do artigo. A maior parte das citações, em geral, 
+é feita na Introdução e na Discussão. As referências devem, portanto, trazer as fontes de todas 
+essas citações.
+A figura a seguir traz a porção inicial do artigo “Aprendizagem tecnológica ativa no ensino de 
+Química no contexto do ensino médio”, da autoria de Sebastião Luiz da Silva Neto e Bruno Silva Leite. 
+O artigo foi publicado pela Amazônia – Revista de Educação em Ciências e Matemáticas , em 2024. Na 
+figura, é possível ver o título, os autores, o resumo e as palavras‑chave. A afiliação dos autores não está 
+visível na figura, mas é indicada como nota de rodapé no artigo.
+
+===== Página 33 =====
+33
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Figura 3 – Porção inicial de um artigo científico publicado em um periódico nacional
+Fonte: Silva Neto e Leite (2024, p. 195).
+2.3 Comunicação científica
+Como os cientistas trocam informações entre si? Já vimos que a principal forma de transferência 
+de conhecimento científico ocorre por meio de artigos publicados em periódicos. Além disso, o 
+conhecimento também é transferido por intermédio de monografias publicadas por instituições de 
+ensino e pesquisa.
+
+===== Página 34 =====
+34
+Unidade I
+No entanto, essa comunicação nem sempre ocorre indiretamente, apenas pela leitura de trabalhos 
+publicados por outros pesquisadores. No mundo acadêmico, ocorrem diversos eventos nos quais 
+pesquisadores têm a oportunidade de encontrar pessoalmente cientistas de suas áreas, com o intuito de 
+absorver informações, atualizar‑se e expandir suas redes de contatos.
+O principal formato de evento científico é o congresso, que costuma reunir pesquisadores de várias 
+áreas relacionadas a um tema geral. Um congresso tem, em média, duração de três a cinco dias e traz 
+uma variedade de interações: palestras, sessões de apresentações orais, sessões de apresentações por 
+pôsteres, mesas‑redondas, entre outras.
+As palestras são conduzidas, comumente, por pesquisadores convidados pela organização do evento. 
+Esses pesquisadores são, muitas vezes, especialistas renomados na área.
+Nas apresentações orais, cada participante é selecionado por meio da submissão de seu trabalho. 
+Nela, o autor expõe seu trabalho científico a uma plateia e, ao final de sua fala, esta pode interagir com 
+o participante por meio de perguntas ou sugestões. Essas exposições costumam ser bem mais breves do 
+que as palestras dos pesquisadores convidados.
+Nas sessões de pôsteres, cada pesquisador expõe um pôster que contém um resumo visual de 
+sua pesquisa. Esse formato é mais dinâmico, pois não há apresentações individuais. Os autores ficam 
+próximos ao pôster para explicar o trabalho aos interessados. Os participantes, então, circulam, leem 
+os pôsteres e conversam com os autores. A figura a seguir mostra a apresentação de pôsteres do XXXI 
+Congresso de Iniciação Científica da Unesp, ocorrido em São Paulo.
+Figura 4 – Apresentação de pôsteres durante o XXXI Congresso de Iniciação Científica da Unesp
+Fonte: Pierro (2019).
+
+===== Página 35 =====
+35
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Um mesa‑redonda também é um formato de discussão comum em congressos, na qual especialistas 
+debatem um tema sob mediação, favorecendo a troca de ideias aprofundadas e a interação com o público.
+Congressos podem receber cientistas de diversas partes do mundo e, por isso, muitos deles exigem 
+que as sessões sejam conduzidas em inglês.
+ Saiba mais
+O Congresso Brasileiro de Química é um evento anual promovido pela 
+Associação Brasileira de Química. A cada ano, o evento ocorre em um estado 
+do país. Conheça mais sobre o evento vigente no endereço:
+ABQ. 64º Congresso Brasileiro de Química . [s.d.]. Disponível em:  
+https://www.abq.org.br/cbq/. Acesso em 17 jun. 2025.
+Além dos congressos, os simpósios também são eventos científicos muito comuns. Nesse caso, 
+o evento costuma ter um tema mais delimitado. Ou seja: simpósios habitualmente são menos abrangentes 
+do que congressos. A duração dos simpósios pode ser mais curta ou se equiparar à de congressos, com 
+eventos ocorrendo geralmente de um a cinco dias.
+ Saiba mais
+O BrazMedChem é um simpósio brasileiro em química medicinal, que 
+conta com atividades organizadas pelo Instituto Oswaldo Cruz (IOC/Fiocruz), 
+Universidade Federal do Rio de Janeiro (UFRJ) e Universidade Federal Rural 
+do Rio de Janeiro (UFRRJ). Leia mais sobre a edição vigente do evento 
+no endereço:
+JORNALISMO IOC. Simpósio Brasileiro em Química Medicinal: inscrições 
+abertas para a 12ª edição. Fiocruz,  5 nov. 2024. Rio de Janeiro, 2024. Disponível 
+em: https://tinyurl.com/y4xbnt45. Acesso em: 18 jun. 2025.
+A comunicação entre cientistas, portanto, envolve principalmente a troca de conhecimento por 
+meio de publicações, como artigos científicos, e encontros, como congressos ou simpósios. Mas como 
+essas informações podem atingir o público em geral?
+Nesse caso, para que a população receba essas informações de forma confiável, é importante 
+reconhecer fontes idôneas de divulgação científica. De acordo com um artigo publicado pela ProEC 
+UFABC (2014), “a divulgação científica tem a função de popularizar a ciência, democratizar o acesso ao 
+conhecimento científico e estabelecer condições para a alfabetização científica” .
+
+===== Página 36 =====
+36
+Unidade I
+Em geral, conteúdos produzidos com a intenção de divulgar a ciência para o público traz vocabulário 
+mais simples e algumas simplificações do argumento científico original, pois são destinados a pessoas 
+que não são profissionais da área.
+Reconhecer publicações de divulgação científica confiáveis exige atenção a critérios como fontes, 
+transparência e qualidade da informação. Aqui estão algumas diretrizes essenciais:
+• Verifique quem publica: de modo geral, instituições reconhecidas, como universidades, centros 
+de pesquisa (como Fiocruz ou Inpe), agências públicas (como Nasa ou CNPq) e as próprias revistas 
+científicas (como Nature ou Science) apenas publicam artigos de divulgação científica confiáveis.
+• Identifique a autoria: pesquisadores, professores, jornalistas especializados em divulgação científica 
+ou profissionais renomados na área costumam trazer conteúdos confiáveis, mesmo que publicados 
+em páginas pessoais. Para ter certeza de que não está caindo em armadilhas, verifique o currículo do 
+profissional e certifique‑se de que ele traz informações com ampla aceitação da comunidade científica.
+• Verifique as referências: divulgadores científicos sérios estão habituados a trazer as referências 
+que embasaram a criação do seu conteúdo, como livros, artigos científicos ou centros de 
+pesquisa oficiais.
+• Analise a forma de comunicação: bons divulgadores científicos devem trazer a informação de 
+maneira clara e muitas vezes simplificada, mas sem simplificações excessivas a ponto de distorcer o 
+conteúdo científico original. Evite também sensacionalismo, como promessas de curas milagrosas 
+ou tons alarmistas em excesso.
+Saber identificar bons divulgadores científicos é essencial para que não caiamos em armadilhas e 
+não façamos o consumo de conteúdos sensacionalistas ou falsos que, muitas vezes, podem impactar 
+negativamente nossa rotina.
+ Saiba mais
+O Portal Drauzio Varella é um ambiente destinado à divulgação de 
+informações sobre saúde e bem‑estar. Ele foi criado pelo renomado médico 
+Drauzio Varella, o qual tem décadas de experiência em clínica, pesquisa 
+e divulgação científica. A produção do conteúdo é realizada a partir da 
+colaboração de médicos, profissionais da saúde e jornalistas científicos. Seus 
+artigos e vídeos, em geral, costumam mencionar estudos científicos, instituições 
+– como a Organização Mundial da Saúde (OMS) ou o Ministério da Saúde – e 
+sociedades médicas (como a Sociedade Brasileira de Cardiologia).
+Conheça mais sobre o conteúdo produzido em:
+PORTAL DRAUZIO VARELLA. Disponível em: https://drauziovarella.uol.com.br/. 
+Acesso em: 18 jun. 2025.
+
+===== Página 37 =====
+37
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Resumo
+Na unidade I, fizemos uma introdução ao conhecimento científico e 
+falamos sobre trabalhos acadêmicos.
+Começamos falando sobre os quatro principais tipos de conhecimento: 
+popular, filosófico, teológico e científico. Posteriormente, mencionamos 
+as duas formas principais de raciocínio lógico: o raciocínio dedutivo e o 
+raciocínio indutivo.
+Depois, fizemos a distinção entre três termos muito utilizados na 
+ciência: hipótese, lei e teoria. Uma hipótese é uma proposição formulada 
+como possível solução para um problema ou como possível explicação 
+para um fenômeno. Uma lei é uma descrição precisa de um padrão ou 
+comportamento observado na natureza. Já uma teoria, ao contrário do 
+que o uso popular do termo sugere, é uma explicação abrangente e bem 
+fundamentada para um conjunto de fenômenos observados.
+A seguir, estudamos o método científico. Trata‑se de um conjunto 
+de etapas sistemáticas e organizadas usadas para investigar fenômenos, 
+formular hipóteses, realizar experimentos e analisar dados, com o objetivo 
+de obter conhecimento preciso e confiável. Ele envolve observação, pesquisa 
+bibliográfica, formulação de hipóteses, experimentação, análise dos 
+resultados e replicação de resultados. O método científico é o método pelo 
+qual leis e teorias são elaboradas.
+Citamos também os tipos de pesquisa, de diferentes pontos de vista: 
+quanto à abordagem do problema, quanto à natureza da pesquisa e quanto 
+aos procedimentos técnicos utilizados. É comum que autores da área se 
+refiram a eles como “metodologias de pesquisa” .
+Na sequência, iniciamos nosso estudo definindo que um trabalho 
+acadêmico é uma produção de cunho científico que é desenvolvida 
+no âmbito de uma instituição de ensino superior ou de pesquisa. Depois, 
+passamos a estudar as monografias, que são trabalhos acadêmicos textuais 
+longos e objetivam fazer a documentação do estudo de um tema específico.
+Falamos a respeito de diversos tipos de trabalhos que comumente exigem 
+monografias, como trabalhos de graduação, de trabalhos de conclusão de curso, 
+trabalhos para especialização, dissertações de mestrado e teses de doutorado.
+
+===== Página 38 =====
+38
+Unidade I
+A seguir, conhecemos os artigos científicos, os quais são materiais 
+importantíssimos de disseminação do conhecimento. Um artigo científico 
+é um documento que apresenta os resultados de uma pesquisa original, 
+realizada de acordo com o método científico, com o intuito de comunicar 
+descobertas, análises ou revisões de conhecimento para a comunidade 
+científica e para o público interessado.
+Por fim, abordamos um pouco sobre a comunicação científica. Essa 
+comunicação nem sempre ocorre indiretamente, apenas pela leitura de 
+trabalhos publicados por outros pesquisadores. No mundo acadêmico, 
+ocorrem diversos eventos nos quais pesquisadores têm a oportunidade de 
+encontrar cientistas de suas áreas pessoalmente, com o intuito de absorver 
+informações, se atualizar e expandir suas redes de contatos. Os principais 
+eventos desse tipo são os congressos e os simpósios.
+Fechamos nossa unidade apresentando um pouco sobre divulgação 
+científica, que são publicações com a intenção de popularizar a ciência, 
+ou seja, deixar o seu conteúdo mais acessível ao público em geral. Saber 
+identificar bons divulgadores científicos é essencial para que não caiamos 
+em armadilhas e não façamos o consumo de conteúdos sensacionalistas  
+ou falsos.
+
+===== Página 39 =====
+39
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Exercícios
+Questão 1. Vimos no livro‑texto que o conhecimento pode ser classificado em quatro tipos principais: 
+popular; filosófico; teológico; e científico.
+Em relação a esses tipos de conhecimento, avalie as afirmativas.
+I – O conhecimento popular é baseado na experiência cotidiana e nas percepções do mundo. Algumas 
+de suas características são a sensitividade, a subjetividade e a superficialidade.
+II – O conhecimento filosófico é um tipo de saber que busca compreender as questões fundamentais 
+sobre a existência, a realidade, a verdade, a moral e outros temas relativos à experiência humana por 
+meio de debates e de análises conceituais.
+III – O conhecimento teológico depende da fé, ou seja, da crença em dogmas que não são necessariamente  
+verificáveis por meios científicos. Esses dogmas são sustentados pela confiança em ensinamentos 
+sagrados, como textos religiosos e experiências espirituais.
+IV – O conhecimento científico é um tipo de saber que se baseia exclusivamente na aplicação de 
+métodos qualitativos sistemáticos e rigorosos para investigar e descrever fenômenos naturais, sociais 
+e espirituais.
+É correto o que se afirma em:
+A) I e III, apenas.
+B) II e IV, apenas.
+C) I, II e III, apenas.
+D) I e II, apenas.
+E) I, II, III e IV.
+Resposta correta: alternativa C.
+Análise das afirmativas
+I – Afirmativa correta.
+Justificativa: vimos que, segundo Marconi e Lakatos (2021), o conhecimento popular é aquele atrelado 
+ao que chamamos de “senso comum” . Esse tipo de conhecimento é adquirido de forma espontânea, no
+
+===== Página 40 =====
+40
+Unidade I
+trato direto com as coisas e com as outras pessoas. O conhecimento popular constitui um saber que 
+possuímos sem que, necessariamente, o tenhamos procurado ou estudado, nem aplicado um método, 
+nem que tenhamos refletido profundamente sobre algo. Logo, o conhecimento popular é baseado na 
+experiência cotidiana e nas percepções do mundo.
+Algumas características do conhecimento popular são as explicadas a seguir:
+Superficialidade: o conhecimento popular pode ser considerado superficial, pois conforma‑se com 
+a aparência, com aquilo que se pode comprovar simplesmente vivenciando as coisas. Ele se expressa por 
+termos como “porque eu vi”, “porque eu senti”, “porque me disseram” e “porque é o que todo mundo diz” .
+Sensitividade: o conhecimento popular se refere a experiências vividas, estados de ânimo e emoções.
+Subjetividade: é a própria pessoa, portadora do conhecimento popular, que organiza seus saberes, 
+sem seguir um método específico para isso.
+II – Afirmativa correta.
+Justificativa: vimos que, segundo Marconi e Lakatos (2021), o conhecimento filosófico é caracterizado 
+pelo uso da razão para respondermos a questionamentos relativos aos problemas humanos, bem como 
+podermos discernir entre o que é certo e o que é errado. Ele é baseado na reflexão racional, na argumentação  
+lógica e, muitas vezes, em questionamentos que não têm respostas definitivas. Logo, o conhecimento 
+filosófico é um tipo de saber que visa compreender as questões fundamentais sobre a existência, a 
+realidade, a verdade, a moral e outros temas relativos à experiência humana por intermédio de debates 
+e análises conceituais.
+III – Afirmativa correta.
+Justificativa: vimos que o conhecimento teológico é um tipo de saber relacionado à compreensão e à 
+experiência de aspectos transcendentais, espirituais e sagrados, muitas vezes ligado a crenças e tradições 
+religiosas específicas. Esse conhecimento busca interpretar e entender a relação entre o ser humano e o 
+divino, ou o sobrenatural, e está presente em muitas culturas ao redor do mundo. Logo, o conhecimento 
+teológico depende da fé, ou seja, da crença em dogmas que não são necessariamente verificáveis por 
+meios científicos. Esses preceitos são sustentados pela confiança em ensinamentos sagrados, como 
+textos religiosos e experiências espirituais.
+IV – Afirmativa incorreta.
+Justificativa: vimos que o conhecimento científico é um tipo de saber que se baseia em métodos 
+sistemáticos e rigorosos para investigar e para descrever fenômenos naturais e sociais. Eles são chamados 
+de métodos científicos. A aplicação deles na geração do saber busca minimizar vieses pessoais dos 
+pesquisadores. Assim, gostos pessoais, opiniões, crenças ou costumes das pessoas que participam da 
+produção do saber são deixados “de lado”, em prol da objetividade e da universalidade do conhecimento.
+
+===== Página 41 =====
+41
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Questão 2. O método indutivo é um processo mental por meio do qual se infere uma verdade 
+geral, ou universal, não contida nas partes examinadas. O objetivo dos argumentos é levar a conclusões 
+cujo conteúdo é muito mais amplo do que o conteúdo das premissas nas quais se baseiam. O método 
+dedutivo é um processo mental, contrário à indução, por meio do qual é possível, a partir de uma ou de 
+mais premissas aceitas como verdadeiras, a obtenção de uma conclusão necessária e evidente.
+Com base nos conceitos apresentados, assinale a alternativa que constitui um exemplo de 
+método indutivo.
+A) O corvo 1 é negro.
+O corvo 2 é negro.
+O corvo 3 é negro.
+O corvo “n” é negro.
+‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑
+(Todo) corvo é negro.
+B) José e Antônio são homens.
+Todos os homens morrem.
+Logo, José e Antônio morrerão.
+C) As uvas caem, então a raposa as come.
+A raposa come somente uvas maduras.
+As uvas estão verdes ou caem.
+Logo, a raposa come unicamente uvas que caem.
+D) Todos os homens são mortais.
+Sócrates é homem.
+Portanto, Sócrates é mortal.
+E) 100% dos calouros universitários são capazes de ler livros do sexto período.
+Fábio é calouro universitário.
+Fábio é capaz de ler livros do sexto período.
+
+===== Página 42 =====
+42
+Unidade I
+Resposta correta: alternativa A.
+Análise da questão
+Na alternativa A, utiliza‑se de raciocínio indutivo, pois parte de proposições particulares (“corvo 1, 
+corvo 2... ”) para obter uma conclusão geral (“todo corvo”).

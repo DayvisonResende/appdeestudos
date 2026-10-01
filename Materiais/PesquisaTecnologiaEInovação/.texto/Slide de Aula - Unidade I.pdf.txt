@@ -1,0 +1,670 @@
+===== Página 1 =====
+Prof. Me. José Lorandi
+UNIDADE I
+Pesquisa, Tecnologia 
+e Inovação
+
+===== Página 2 =====
+ Você já se perguntou o que exatamente significa conhecimento? 
+ O conhecimento pode ser definido como a percepção ou a compreensão de algo, obtida por 
+meio da experiência, da reflexão, da prática ou do estudo.
+ Nós, seres humanos, não somos os únicos habitantes do planeta capazes de transferir 
+conhecimento aos nossos semelhantes, visto que diversos animais ensinam aos seus 
+descendentes estratégias essenciais à sobrevivência.
+ O conhecimento passado de geração em geração é essencial 
+para a evolução da humanidade.
+Introdução ao Conhecimento Científico
+
+===== Página 3 =====
+ A ciência pode ser vista como um “par de óculos” que aprimora a nitidez da nossa visão da 
+realidade, melhorando nossa capacidade de registrá-la e até mesmo de modificá-la com 
+mais precisão.
+ A ciência criou formas de construção e de acumulação de conhecimento baseada em regras 
+universais, que permitem que pessoas que não participaram de sua produção possam 
+compreender tais conhecimentos e fazer uso deles. Estudaremos esses métodos ao longo 
+desta unidade.
+Introdução ao Conhecimento Científico
+
+===== Página 4 =====
+ Tipos de conhecimento
+ O conhecimento científico é apenas um dos tipos de conhecimento do qual a humanidade 
+tem se utilizado ao longo da sua existência. 
+ Conhecimento, ilustrado na figura 1, pode ser pensado a partir de quatro tipos principais: 
+popular, filosófico, teológico e científico. 
+Introdução ao Conhecimento Científico
+
+===== Página 5 =====
+Popular
+Filosófico Tipos de
+conhecimento Teológico
+Científico
+ Tipos de conhecimento
+Introdução ao Conhecimento Científico
+Fonte: autoria própria.
+Figura 1 - Quatro tipos principais de conhecimento
+
+===== Página 6 =====
+ Conhecimento popular
+ O conhecimento popular é aquele atrelado ao que chamamos de “senso comum”, este tipo 
+de conhecimento é adquirido de forma espontânea, sem ter que estudar. 
+ Podemos destacar algumas importantes características do conhecimento popular. 
+Introdução ao Conhecimento Científico
+
+===== Página 7 =====
+ Superficialidade: Conhecimento como “porque eu vi”, “porque eu senti”, “porque me 
+disseram”, “porque é o que todo mundo diz”.
+ Sensitividade: É referente a experiências vividas. 
+ Subjetividade: A pessoa, portadora do conhecimento, é que organiza seus saberes, sem 
+seguir um método específico para isso.
+Introdução ao Conhecimento Científico
+
+===== Página 8 =====
+ Conhecimento filosófico
+ É caracterizado pelo uso da razão para questionarmos os problemas humanos e para 
+podermos discernir entre o que é certo e o que é errado. 
+ Desse modo, o conhecimento filosófico é um tipo de saber que busca compreender as 
+questões fundamentais sobre a existência, a realidade, a verdade, a moral.
+Introdução ao Conhecimento Científico
+
+===== Página 9 =====
+ Conhecimento teológico
+ O conhecimento teológico é um tipo de saber relacionado à compreensão e à experiência
+de aspectos transcendentais, espirituais e sagrados da realidade, muitas vezes ligado a
+crenças e a tradições religiosas específicas.
+ Esse conhecimento busca interpretar e entender a relação entre o ser humano e o divino ou
+o sobrenatural.
+Introdução ao Conhecimento Científico
+
+===== Página 10 =====
+ Conhecimento científico
+ O conhecimento científico é um tipo de saber que se baseia em métodos sistemáticos e 
+rigorosos para investigar e para descrever fenômenos naturais e sociais. Esses métodos são 
+chamados de métodos científicos.
+ A aplicação dos métodos científicos na geração do saber busca garantir que o conhecimento 
+científico seja o mais imparcial possível, ou seja, busca minimizar vieses pessoais 
+dos pesquisadores. 
+Introdução ao Conhecimento Científico
+
+===== Página 11 =====
+ Conhecimento científico
+Características do conhecimento científico:
+ Factualidade: o conhecimento científico lida com ocorrências ou com fatos que estão 
+fundamentados em observações, em medições e em evidências. 
+ Contingência: suas proposições ou hipóteses têm sua veracidade ou falsidade conhecida 
+por meio da experimentação, como ocorre no conhecimento filosófico.
+ Sistematicidade: trata-se de um saber ordenado logicamente, formando um sistema de 
+ideias obtidas por um método.
+ Verificabilidade: afirmações que não podem ser 
+comprovadas não pertencem ao âmbito da ciência.
+ Falibilidade: em virtude de suas hipóteses não serem 
+incontestáveis ou imutáveis, o conhecimento científico é 
+considerado falível.
+Introdução ao Conhecimento Científico
+
+===== Página 12 =====
+No contexto da gestão do conhecimento, qual das alternativas a seguir representa 
+corretamente um tipo de conhecimento que é difícil de ser formalizado, documentado e 
+transmitido, pois está ligado à experiência individual e ao contexto?
+a) Conhecimento Explícito.
+b) Conhecimento Formal.
+c) Conhecimento Objetivo.
+d) Conhecimento Tácito (prática e intuição).
+e) Conhecimento Científico.
+Interatividade
+
+===== Página 13 =====
+No contexto da gestão do conhecimento, qual das alternativas a seguir representa 
+corretamente um tipo de conhecimento que é difícil de ser formalizado, documentado e 
+transmitido, pois está ligado à experiência individual e ao contexto?
+a) Conhecimento Explícito.
+b) Conhecimento Formal.
+c) Conhecimento Objetivo.
+d) Conhecimento Tácito (prática e intuição).
+e) Conhecimento Científico.
+Resposta
+
+===== Página 14 =====
+A resposta correta é a alternativa D) Conhecimento Tácito (prática e intuição).
+Justificativa:
+O conhecimento tácito é aquele que está internalizado nas pessoas, muitas vezes de forma 
+subconsciente, sendo adquirido por meio da experiência pessoal, prática e intuição. Por isso, é 
+difícil de ser formalizado, documentado ou transmitido diretamente. Exemplo: habilidades 
+motoras de um cirurgião ou a sensibilidade de um artesão ao lidar com materiais. Já o 
+conhecimento explícito (alternativa A), por exemplo, é aquele que pode ser facilmente 
+codificado, como em livros, manuais e documentos.
+Resposta
+
+===== Página 15 =====
+ Raciocínio dedutivo e raciocínio indutivo
+ O raciocínio dedutivo parte de premissas gerais para chegar a conclusões específicas. 
+ Se as premissas forem verdadeiras e o raciocínio for válido, a conclusão será 
+necessariamente verdadeira. Esse método é frequentemente associado à lógica formal e à 
+matemática.
+ Um clássico exemplo de raciocínio dedutivo é apresentado, a seguir.
+ Premissa 1: Todo homem é mortal.
+ Premissa 2: Sócrates é um homem.
+ Conclusão: Portanto, Sócrates é mortal.
+ A lógica formal é a área que estuda os raciocínios dedutivos. 
+Raciocínio Dedutivo e Raciocínio Indutivo
+
+===== Página 16 =====
+ Raciocínio dedutivo e raciocínio indutivo
+ O raciocínio indutivo, por sua vez, parte de premissas específicas para chegar a 
+conclusões gerais. 
+ No entanto, nesse caso, a conclusão deriva das premissas por probabilidade. 
+ Premissa 1: O remédio R curou a doença D do paciente A.
+ Premissa 2: O remédio R curou a doença D do paciente B.
+ Premissa 3: O remédio R curou a doença D do paciente C.
+ Premissa 4: O remédio R curou a doença D do paciente D.
+ Premissa 5: O remédio R curou a doença D do paciente E.
+ Conclusão: Portanto, o remédio R cura a doença D.
+Raciocínio Dedutivo e Raciocínio Indutivo
+
+===== Página 17 =====
+ Hipótese, lei e teoria
+ A hipótese é uma proposição formulada como possível solução para um problema ou como 
+possível explicação para um fenômeno.
+ A hipótese é uma tentativa de responder a uma pergunta ou de explicar um padrão 
+observado, mas que ainda precisa ser testada e validada.
+ Uma lei científica é comumente definida como uma descrição 
+precisa de um padrão ou comportamento observado 
+na natureza.
+ De forma geral, ela descreve o que acontece, mas não explica 
+por que o fenômeno acontece.
+ Leis científicas são baseadas em evidências empíricas e são 
+amplamente aceitas como verdades fundamentais em sua 
+área de estudo.
+Raciocínio
+
+===== Página 18 =====
+ Hipótese, lei e teoria
+ Uma teoria científica pode ser definida como uma explicação abrangente e bem 
+fundamentada para um conjunto de fenômenos observados. 
+ Ela vai além da simples descrição de padrões (como as leis) e busca explicar por que e 
+como esses fenômenos ocorrem. 
+Raciocínio
+
+===== Página 19 =====
+ Hipótese, lei e teoria
+ Teorias são apoiadas por evidências e são capazes de fazer previsões testáveis. 
+ Enquanto uma hipótese é o ponto de partida para a investigação científica, uma teoria é o 
+resultado de um longo processo de teste, validação e integração de ideias.
+Raciocínio
+
+===== Página 20 =====
+ Hipótese, lei e teoria
+ Hipótese: é uma suposição testável que tenta explicar ou descrever um fenômeno.
+ Lei: é uma descrição de um padrão ou de um comportamento observado na natureza.
+ Teoria: é uma explicação abrangente e bem fundamentada para um conjunto de fenômenos.
+Raciocínio
+
+===== Página 21 =====
+ Os raciocínios dedutivo e indutivo estão intimamente relacionados com a formulação de 
+hipóteses, leis e teorias. 
+ O raciocínio indutivo, que parte de premissas específicas para chegar a conclusões gerais, 
+é essencial para a formulação de hipóteses e de leis científicas. 
+ O raciocínio dedutivo, que parte de premissas gerais para chegar a conclusões 
+específicas, é essencial para testar hipóteses, aplicar leis e validar teorias.
+Raciocínio
+
+===== Página 22 =====
+Qual das alternativas a seguir melhor representa a diferença entre o raciocínio indutivo e o 
+raciocínio dedutivo?
+a) O raciocínio indutivo parte de leis gerais para casos específicos, enquanto o dedutivo parte 
+de exemplos para gerar uma lei geral.
+b) O raciocínio dedutivo sempre leva a conclusões falsas, enquanto o indutivo sempre leva a 
+conclusões verdadeiras.
+c) O raciocínio indutivo parte de observações específicas para chegar a uma conclusão geral, 
+enquanto o dedutivo parte de premissas gerais para chegar a uma conclusão específica.
+d) O raciocínio dedutivo é usado apenas na filosofia, enquanto 
+o indutivo é usado apenas na ciência.
+e) Ambos os tipos de raciocínio sempre garantem conclusões 
+absolutamente certas.
+Interatividade
+
+===== Página 23 =====
+Qual das alternativas a seguir melhor representa a diferença entre o raciocínio indutivo e o 
+raciocínio dedutivo?
+a) O raciocínio indutivo parte de leis gerais para casos específicos, enquanto o dedutivo parte 
+de exemplos para gerar uma lei geral.
+b) O raciocínio dedutivo sempre leva a conclusões falsas, enquanto o indutivo sempre leva a 
+conclusões verdadeiras.
+c) O raciocínio indutivo parte de observações específicas para chegar a uma conclusão geral, 
+enquanto o dedutivo parte de premissas gerais para chegar a uma conclusão específica.
+d) O raciocínio dedutivo é usado apenas na filosofia, enquanto 
+o indutivo é usado apenas na ciência.
+e) Ambos os tipos de raciocínio sempre garantem conclusões 
+absolutamente certas.
+Resposta
+
+===== Página 24 =====
+A resposta correta é a alternativa C) O raciocínio indutivo parte de observações específicas 
+para chegar a uma conclusão geral, enquanto o dedutivo parte de premissas gerais para 
+chegar a uma conclusão específica.
+O raciocínio indutivo começa com observações ou casos específicos e busca generalizar a 
+partir desses casos. Por exemplo, observar que vários cisnes são brancos e, com base nisso, 
+concluir que "todos os cisnes são brancos".
+Já o raciocínio dedutivo parte de premissas gerais (ou leis) e aplica essas premissas a 
+casos específicos para chegar a uma conclusão lógica. Exemplo: "Todos os mamíferos são 
+vertebrados. Um cão é um mamífero. Logo, um cão é um vertebrado."
+Resposta
+
+===== Página 25 =====
+ Ao observarmos a prática científica, nos parece evidente a aplicação de atividades que 
+expressam um rigoroso caráter técnico. 
+ Vemos laboratórios com aparelhos tecnológicos e diversos procedimentos de observação, de 
+experimentação, de coleta de dados, de cálculos estatísticos, e assim por diante.
+ Temos que entender que essas técnicas não são aplicadas de forma aleatória. 
+ Ao contrário: elas são aplicadas seguindo um rigoroso plano 
+de utilização, que podemos entender como um “roteiro”, ao 
+qual damos o nome de método científico. 
+Método científico
+
+===== Página 26 =====
+ O método científico completo é ilustrado por meio do diagrama da figura 2. 
+ Depois da observação, o cientista costuma reunir o máximo de informação possível já 
+publicada (em artigos científicos ou em monografias, por exemplo) a respeito do assunto que 
+pretende explorar. Essa etapa é conhecida como pesquisa bibliográfica.
+ Por meio da utilização do raciocínio e das informações levantadas na pesquisa bibliográfica, 
+o cientista, então, formula uma hipótese que propõe uma possível explicação para o 
+fato observado.
+ Formulada a hipótese, o cientista precisa “pôr a mão na massa” 
+e partir para a verificação experimental de sua suposição. 
+ Ao longo dessa verificação, a hipótese formulada deve ser 
+testada. 
+ Caso a hipótese seja confirmada experimentalmente, é 
+possível que ela se encaminhe para se tornar uma lei.
+Método científico
+
+===== Página 27 =====
+Método científico
+Fonte: Severino (2017, p. 107).
+Figura 2 - Estrutura lógica do método científico
+Método científico
+Método experimental Método matemático
+Fase indutiva Fase dedutiva
+Hipóteses
++ gerais
+Hipótese
+universal
+Fatos Leis Teorias Sistema
+Hipóteses
+gerais
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+...
+Fn
+Ha
+Hb
+Hc
+Hd
+Hn
+L1
+L2
+L3
+L4
+Ln
+Ha
+Hb
+Hn
+T1
+T2
+Tn
+H SU
+
+===== Página 28 =====
+ A figura 2 subdivide o método científico em dois métodos principais: o método experimental e 
+o método matemático. 
+ O método experimental, dominado pelo raciocínio indutivo, envolve a observação de fatos e 
+a formulação de hipóteses gerais com base nessas observações. 
+ Essas hipóteses podem, ou não, se transformar em leis. 
+ O método experimental é uma abordagem científica que 
+envolve a realização de atividades controladas para 
+testar hipóteses. 
+Método científico
+
+===== Página 29 =====
+ O método matemático, dominado pelo raciocínio dedutivo, parte das leis para a elaboração 
+de hipóteses ainda mais abrangentes que, caso confirmadas, se transformam em teorias. 
+ Essas teorias podem servir como base para a formulação de uma hipótese universal, ou 
+seja, que explica como um todo o funcionamento do universo. 
+ O método matemático envolve o uso de modelos matemáticos, fórmulas e teorias para 
+descrever e prever fenômenos.
+ Com o método científico, a ciência teve pleno êxito na era 
+moderna, construindo sua base de conhecimento. 
+ O conhecimento científico serve de base para a indústria, o 
+que amplia a capacidade do homem de manipular a natureza.
+Método científico
+
+===== Página 30 =====
+ Por mais que o método científico seja universal para todas as áreas da ciência, ocorrem 
+diferenças significativas no modo de se praticar a pesquisa científica para que seja possível a 
+verificação de hipóteses. 
+ Além da possível divisão entre ciências naturais e ciências humanas, essas diferenças 
+surgem da diversidade de perspectivas que podemos adotar e de enfoques diferenciados 
+que podemos assumir no trato com os objetos pesquisados.
+ Por essa razão, há várias modalidades de pesquisa que 
+podemos praticar. 
+ Elas podem ser classificadas de diversas maneiras. 
+Abordaremos, a seguir, algumas dessas classificações.
+Tipos de Pesquisa
+
+===== Página 31 =====
+Podemos destacar dois tipos principais: 
+ A abordagem quantitativa. 
+ A abordagem qualitativa.
+Quanto à abordagem do problema
+
+===== Página 32 =====
+ Em uma pesquisa quantitativa, utilizamos primariamente dados numéricos e métodos 
+estatísticos para sua análise. 
+ Nesse tipo de pesquisa, lidamos com porcentagens, médias frequências, correlações, entre 
+outras métricas. 
+ O grande objetivo de pesquisas quantitativas é mensurar fenômenos, testar hipóteses e 
+generalizar resultados para uma população maior.
+Quanto à abordagem do problema
+
+===== Página 33 =====
+ Em uma pesquisa qualitativa, trabalhamos primariamente com dados não numéricos, como 
+textos, entrevistas e observações. 
+ A pesquisa qualitativa busca compreender fenômenos complexos, explorando motivações, 
+percepções, comportamentos e experiências subjetivas. 
+ Com isso, ela busca compreender significados, motivações, percepções e contextos.
+Quanto à abordagem do problema
+
+===== Página 34 =====
+ Podemos também classificar as pesquisas quanto à sua natureza. 
+ Há duas categorias principais: pesquisa básica (ou pura) e pesquisa aplicada.
+ Uma pesquisa básica visa ampliar o conhecimento científico de sua área, sem se preocupar 
+com uma aplicação prática imediata. 
+ Ela busca, de forma geral, aperfeiçoar as leis ou teorias científicas de sua área.
+ Imagine um estudo que busca entender como os processos 
+bioquímicos do cérebro contribuem para o armazenamento de 
+memórias de longo prazo. 
+ Esse estudo contribui para o entendimento teórico dos 
+processos bioquímicos cerebrais, sem se preocupar com uma 
+aplicação prática imediata.
+Quanto à natureza da pesquisa
+
+===== Página 35 =====
+ Uma pesquisa aplicada tem como objetivo resolver problemas específicos ou desenvolver 
+tecnologias a partir do conhecimento científico. 
+ A pesquisa aplicada muitas vezes utiliza o conhecimento gerado a partir de pesquisas 
+básicas como ferramentas para desenvolver suas aplicações.
+ Considere uma pesquisa que busca desenvolver um medicamento para tratar pacientes 
+diagnosticados com a doença de Alzheimer. 
+ Nesse caso, a aplicação dos resultados da pesquisa é 
+perceptível e imediata.
+ Pesquisas de ambas as naturezas são essenciais para o 
+avanço da ciência e da sociedade, já que pesquisas básicas 
+geram bases teóricas que permitem o desenvolvimento de 
+pesquisas aplicadas.
+Quanto à natureza da pesquisa
+
+===== Página 36 =====
+Qual das alternativas abaixo melhor descreve a principal diferença entre a pesquisa qualitativa 
+e a pesquisa quantitativa?
+a) A pesquisa qualitativa busca medir dados numéricos com estatísticas complexas, enquanto 
+a pesquisa quantitativa interpreta sentimentos e opiniões.
+b) A pesquisa qualitativa explora fenômenos de forma descritiva e interpretativa, enquanto a 
+pesquisa quantitativa coleta e analisa dados numéricos para testar hipóteses.
+c) A pesquisa quantitativa é subjetiva e sem método definido, já a qualitativa é sempre exata e 
+baseada em fórmulas matemáticas.
+d) A pesquisa qualitativa utiliza apenas experimentos em 
+laboratórios, enquanto a quantitativa usa entrevistas informais.
+e) A pesquisa quantitativa é usada apenas em ciências 
+humanas, e a qualitativa apenas em ciências exatas.
+Interatividade
+
+===== Página 37 =====
+Qual das alternativas abaixo melhor descreve a principal diferença entre a pesquisa qualitativa 
+e a pesquisa quantitativa?
+a) A pesquisa qualitativa busca medir dados numéricos com estatísticas complexas, enquanto 
+a pesquisa quantitativa interpreta sentimentos e opiniões.
+b) A pesquisa qualitativa explora fenômenos de forma descritiva e interpretativa, enquanto a 
+pesquisa quantitativa coleta e analisa dados numéricos para testar hipóteses.
+c) A pesquisa quantitativa é subjetiva e sem método definido, já a qualitativa é sempre exata e 
+baseada em fórmulas matemáticas.
+d) A pesquisa qualitativa utiliza apenas experimentos em 
+laboratórios, enquanto a quantitativa usa entrevistas informais.
+e) A pesquisa quantitativa é usada apenas em ciências 
+humanas, e a qualitativa apenas em ciências exatas.
+Resposta
+
+===== Página 38 =====
+A resposta correta é a alternativa B) A pesquisa qualitativa explora fenômenos de forma 
+descritiva e interpretativa, enquanto a pesquisa quantitativa coleta e analisa dados numéricos 
+para testar hipóteses.
+A pesquisa qualitativa busca compreender significados, percepções e comportamentos a 
+partir de uma abordagem descritiva, subjetiva e interpretativa, geralmente por meio de 
+entrevistas, observações e análises de conteúdo.
+A pesquisa quantitativa, por outro lado, foca em dados mensuráveis e análise estatística, 
+sendo usada para testar hipóteses e quantificar relações entre variáveis com instrumentos 
+padronizados (como questionários com escalas).
+Resposta
+
+===== Página 39 =====
+ Um trabalho acadêmico é uma produção de cunho científico que é desenvolvida no âmbito 
+de uma instituição de Ensino Superior ou de pesquisa. 
+ Abordaremos primeiro os trabalhos acadêmicos longos, que conhecemos 
+como monografias. 
+ Você, como estudante em uma universidade, provavelmente precisará produzir uma ou mais 
+monografias ao longo da sua vida acadêmica.
+Modalidades de Trabalhos Acadêmicos
+
+===== Página 40 =====
+ Uma monografia é um trabalho acadêmico textual que tem como objetivo trazer a 
+documentação do estudo de um tema específico. 
+ Ela é criada como um produto de investigações científicas desenvolvidas em cursos de 
+graduação (como o seu) ou de pós-graduação. 
+ Monografias são trabalhos acadêmicos longos, ou seja, são compostos por algumas dezenas 
+ou centenas de páginas, a depender do título acadêmico almejado.
+ Monografias são comumente exigidas como o principal 
+elemento a ser entregue em um trabalho de conclusão de 
+curso (TCC) ou para a obtenção do título de mestre em um 
+programa de pós-graduação.
+Monografias
+
+===== Página 41 =====
+ A monografia, portanto, corresponde à principal documentação geralmente exigida para a 
+conclusão do curso.
+ Monografias devem, quase sempre, ser formatadas seguindo guias de normalização. 
+ Esses guias são documentos produzidos pelas próprias universidades vinculadas ao trabalho 
+acadêmico, que geralmente seguem as diretrizes estipuladas pelas Normas Brasileiras 
+Regulamentadoras (NBRs) publicadas pela Associação Brasileira de Normas Técnicas 
+(ABNT). 
+ Os guias de normalização estipulam como a monografia deve 
+ser produzida: qual é o padrão da capa, qual é o tamanho da 
+fonte, como a paginação deve ser inserida, quais são os 
+elementos obrigatórios do texto, como as citações devem ser 
+feitas e referenciadas, dentre outras normas. 
+ Discutiremos mais a respeito desse tema na Unidade II.
+Monografias
+
+===== Página 42 =====
+ Um trabalho de graduação é um trabalho desenvolvido por alunos de cursos superiores ao 
+longo de sua formação.
+ Temos, nessa categoria, os projetos integrados multidisciplinares, que são comumente 
+exigidos em cursos superiores tecnológicos, que unem pesquisa ao conhecimento obtido nas 
+disciplinas do curso.
+ Um trabalho de graduação normalmente exige pesquisas bibliográfica, de levantamento, 
+estudos de caso ou pesquisa-ação, podendo combinar diversos procedimentos técnicos no 
+mesmo trabalho.
+ Uma das principais intenções desse tipo de trabalho é iniciar 
+os alunos ao universo da pesquisa, assim como exigir a 
+aplicação dos conhecimentos adquiridos em sala de aula em 
+um projeto, muitas vezes desenvolvido em grupo.
+Trabalhos de graduação
+
+===== Página 43 =====
+ Agora focaremos nos trabalhos de conclusão voltados à obtenção de um título de graduação. 
+ Os trabalhos de conclusão de curso, os famosos TCCs, são desenvolvidos ao fim da jornada 
+do graduando na obtenção do seu diploma. 
+ TCCs são comumente exigidos por cursos de licenciatura ou de bacharelado, mas nem 
+sempre por cursos superiores de tecnologia. 
+ Assim como trabalhos de graduação, os TCCs são desenvolvidos sob a orientação de um ou 
+mais professores do curso.
+ Em seu formato tradicional, o TCC é composto principalmente por uma monografia, que será 
+mais longa e mais elaborada do que a produzida em um trabalho de graduação. 
+ É necessário também realizar uma apresentação, geralmente 
+chamada de defesa, que será avaliada por uma 
+banca examinadora.
+Trabalhos de conclusão de curso (graduação)
+
+===== Página 44 =====
+ Trabalhos desenvolvidos para a obtenção de um diploma de graduação, seja ele com o título 
+de tecnólogo, bacharel ou licenciado. 
+ Um curso de especialização é um curso de pós-graduação lato sensu que tem como objetivo 
+aperfeiçoar conhecimentos e habilidades profissionais. 
+ O termo lato sensu significa “em sentido amplo”, e refere-se a cursos de pós-graduação que 
+têm foco na aplicação prática do conhecimento profissional no mercado de trabalho.
+ Os trabalhos para especialização também podem ser 
+chamados de TCCs, mas, obviamente, visam à obtenção de 
+um título distinto: o de especialista. 
+Trabalhos para especialização
+
+===== Página 45 =====
+ Um programa de pós-graduação stricto sensu refere-se aos cursos de pós-graduação com 
+foco acadêmico e científico, como os programas de mestrado e de doutorado. 
+ O termo stricto sensu refere-se a “em sentido restrito”, e faz alusão ao fato de que esse tipo 
+de curso de pós-graduação explora com grande profundidade um objeto de estudo 
+bastante delimitado.
+ A dissertação de mestrado é o tipo de monografia destinada à conclusão do curso de 
+mestrado, com o qual o concluinte obtém o título de mestre. 
+ Além da monografia em si, o autor precisa também fazer uma apresentação mediante uma 
+banca examinadora, que é chamada de defesa.
+ Dissertações de mestrado podem ser frutos de diversos tipos de 
+pesquisa, mas na área de ciências da natureza destaca-se a 
+pesquisa experimental, juntamente à pesquisa bibliográfica.
+Dissertações de mestrado
+
+===== Página 46 =====
+ A tese de doutorado é uma monografia apresentada na conclusão de um curso de pós-
+graduação stricto sensu destinada à obtenção do título de doutor.
+ Além de cumprir as exigências feitas para mestrandos, os doutorandos têm uma tarefa 
+adicional: é pedido que seu trabalho contribua de forma inédita para a ciência. 
+ A originalidade é um dos pilares fundamentais de um trabalho de doutorado, e essa 
+contribuição pode se manifestar de várias maneiras, dependendo da área de estudo.
+ O autor pode apresentar novas descobertas, novos métodos 
+para realizar algo já conhecido, novas perspectivas sobre um 
+tema, novas aplicações práticas para determinado 
+conhecimento, aprimoramentos de uma teoria vigente, a 
+refutação de uma hipótese defendida por outros autores, entre 
+outras possibilidades.
+Teses de doutorado
+
+===== Página 47 =====
+ Um artigo científico é um documento que apresenta os resultados de uma pesquisa original, 
+realizada de acordo com o método científico, com o objetivo de comunicar descobertas, 
+análises ou revisões de conhecimento para a comunidade científica e para o 
+público interessado.
+ É muito comum que, ao longo do desenvolvimento de seu trabalho de mestrado ou de 
+doutorado, o pesquisador publique alguns artigos científicos antes de defender sua 
+dissertação ou tese.
+ Um artigo é uma das principais formas de compartilhamento do conhecimento científico e, 
+portanto, é considerado como a principal ferramenta de comunicação entre membros da 
+comunidade científica do mundo todo.
+ Quando comparado a uma monografia, um artigo científico é 
+consideravelmente mais curto: sua extensão varia de algumas 
+unidades a algumas dezenas de páginas. 
+ No entanto, seu conteúdo costuma ser denso, de forma a 
+transmitir uma grande quantidade de informações em 
+pouco espaço.
+Artigos científicos
+
+===== Página 48 =====
+ Um artigo científico costuma apresentar padrões estruturais e características básicas, quer 
+seja publicado em periódico nacional ou internacional. As partes que geralmente o compõem 
+são as elencadas a seguir.
+ Título: primeira porção do artigo, apresentado com tamanho de fonte maior do que a 
+do texto.
+ Autores e afiliação: identificam os autores da pesquisa e as instituições às quais cada um 
+deles está afiliado.
+ Resumo: é uma “miniatura” do artigo completo, em que devemos encontrar todas as partes 
+importantes do artigo científico (geralmente, da introdução até a conclusão).
+ Palavras-chave: seção importante para a alimentação de 
+bases de dados científicas. Com essas palavras, facilmente se 
+identificam artigos a ela relacionados.
+Estrutura padrão de um artigo científico
+
+===== Página 49 =====
+ Introdução: nesta seção, geralmente os pesquisadores relatam pesquisas anteriores 
+relativas ao tema e focam na importância do desenvolvimento da pesquisa vigente. Em 
+artigos científicos, a revisão bibliográfica está contida na introdução, assim como o objetivo, 
+que aparece, geralmente, no último parágrafo.
+ Material e Métodos: esta seção detalha quais materiais (equipamentos, reagentes, 
+ferramentas etc.) foram utilizados para realizar a pesquisa e quais foram os procedimentos 
+metodológicos adotados com esses materiais. Dessa forma, os autores devem explicar todo 
+o procedimento adotado na pesquisa, de forma que outros pesquisadores consigam replicar 
+o estudo, se assim desejarem.
+ Resultados e Discussão: relata quais resultados foram 
+obtidos da pesquisa (geralmente utiliza tabelas ou gráficos 
+para isso). Além disso, na parte de discussão, é feita a 
+interpretação dos resultados apresentados, de acordo com 
+análise estatística ou confronto com a literatura existente sobre 
+o tema. Na discussão, o autor busca mostrar concordância ou 
+discordância com outros trabalhos já publicados. 
+Estrutura padrão de um artigo científico
+
+===== Página 50 =====
+ Conclusão: esta seção é de extrema importância para o artigo científico. Aqui, os autores 
+incluem todas as inferências feitas ao longo do desenvolvimento do trabalho, reunindo todo o 
+aprendizado gerado por seu estudo. Muito comumente, os autores fazem sugestões de 
+novos estudos que podem ser feitos a partir dali, como sugestões de como ampliar o 
+conhecimento científico daquela área.
+ Agradecimentos: nesta seção, os autores agradecem a outros pesquisadores ou a 
+instituições de pesquisa. Também é comum que os autores agradeçam a instituições de 
+fomento (ou seja, que financiaram o trabalho). 
+ Referências Bibliográficas: nesta importante seção, são listados todos os trabalhos 
+(geralmente, outros artigos científicos) que foram citados ao longo do texto do artigo. 
+ A maior parte das citações, em geral, são feitas na Introdução 
+e na Discussão. As referências devem, portanto, trazer as 
+fontes de todas essas citações. 
+Estrutura padrão de um artigo científico
+
+===== Página 51 =====
+Qual das opções a seguir representa uma característica fundamental dos Trabalhos de 
+Conclusão de Curso (TCC) no Ensino Superior?
+a) São apenas apresentações orais, sem necessidade de documento escrito.
+b) Devem ser desenvolvidos exclusivamente em grupo.
+c) Têm como objetivo principal a avaliação física do aluno.
+d) Representam uma síntese do conhecimento adquirido ao longo do curso e seguem normas 
+acadêmicas específicas.
+e) Podem ser baseados apenas em opiniões pessoais, sem necessidade de embasamento 
+teórico.
+Interatividade
+
+===== Página 52 =====
+Qual das opções a seguir representa uma característica fundamental dos Trabalhos de 
+Conclusão de Curso (TCC) no Ensino Superior?
+a) São apenas apresentações orais, sem necessidade de documento escrito.
+b) Devem ser desenvolvidos exclusivamente em grupo.
+c) Têm como objetivo principal a avaliação física do aluno.
+d) Representam uma síntese do conhecimento adquirido ao longo do curso e seguem normas 
+acadêmicas específicas.
+e) Podem ser baseados apenas em opiniões pessoais, sem necessidade de embasamento 
+teórico.
+Resposta
+
+===== Página 53 =====
+A resposta correta é a alternativa D) Representam uma síntese do conhecimento adquirido ao 
+longo do curso e seguem normas acadêmicas específicas.
+Justificativa:
+O TCC é um trabalho acadêmico exigido ao final de muitos cursos de graduação e pós-
+graduação e tem como função integrar, aplicar e demonstrar o conhecimento adquirido ao 
+longo da formação. Ele deve ser elaborado com base em métodos científicos, respeitando 
+normas acadêmicas (ABNT), contendo introdução, fundamentação teórica, metodologia, 
+resultados e conclusões.
+Resposta
+
+===== Página 54 =====
+ATÉ A PRÓXIMA!

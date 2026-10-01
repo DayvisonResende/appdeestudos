@@ -1,0 +1,760 @@
+===== Página 1 =====
+43
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Unidade II
+3 ESTRUTURA DE UMA MONOGRAFIA: ELEMENTOS PRÉ‑TEXTUAIS
+Você, como estudante de um curso de graduação, vai precisar elaborar pelo menos uma monografia 
+ao longo de seus estudos. Isso fará com que você se torne um autor de um trabalho acadêmico, isto é, 
+que deve disseminar conhecimento científico.
+Para que sua produção seja feita de forma adequada, é importante que você conheça a estrutura 
+geral de uma monografia, bem como a intenção de cada elemento que compõe o trabalho.
+O objetivo desta unidade não é replicar ou substituir o guia de normalização de trabalhos acadêmicos 
+de sua universidade. Mas mostrar a importância e as características de cada elemento da monografia.
+Instruções que remetem à aparência do trabalho, como formato do papel, fonte, margens, espaçamento 
+ou paginação devem ser consultadas no próprio guia de normalização disponibilizado.
+ Observação
+Um guia de normalização é um documento produzido pela biblioteca 
+da instituição pela qual a monografia está sendo produzida. Esse guia traz 
+as diretrizes de padronização que devem ser respeitadas para trabalhos  
+produzidos naquela instituição e, normalmente, é baseado nas padronizações 
+descritas pelas normas da Associação Brasileira de Normas Técnicas (ABNT).
+ Saiba mais
+Cada instituição disponibiliza seu próprio guia de normalização. No 
+caso da Universidade Paulista (UNIP), o guia de normalização ABNT para 
+monografias está disponível em:
+BIBLIOTECA DA UNIVERSIDADE PAULISTA – UNIP . Guia de normalização 
+para apresentação de trabalhos acadêmicos da Universidade Paulista: ABNT. 
+São Paulo: UNIP, 2025. Disponível em: https://tinyurl.com/5euf4z6p. Acesso 
+em: 18 jun. 2025.
+
+===== Página 2 =====
+44
+Unidade II
+3.1 Estrutura geral de elementos obrigatórios e opcionais
+De acordo com a ABNT NBR 14724 (2024), que especifica princípios gerais de elaboração de trabalhos 
+acadêmicos, as monografias são compostas de uma parte externa e uma parte interna.
+Parte externa Capa (obrigatório)
+Lombada (opcional)
+Parte interna
+Elementos pré‑textuais
+Elementos textuais
+Elementos pós‑textuais
+Figura 5 – Diagrama que mostra a divisão básica dos elementos de uma monografia
+Considerando uma cópia física da monografia, a parte externa corresponde ao que é visto pelo leitor 
+antes mesmo de abrir o trabalho. Já a parte interna compreende os elementos que podem ser visualizados  
+e lidos ao folhearmos a monografia.
+3.2 Parte externa: capa e lombada
+A parte externa do trabalho acadêmico tem um elemento obrigatório, ou seja, que precisa existir em 
+qualquer monografia. Esse elemento é a capa. A capa deve trazer informações essenciais à identificação 
+do trabalho, as quais estão elencadas:
+• nome da instituição de ensino superior (IES) pela qual o trabalho é publicado;
+• nome do autor;
+• título do trabalho;
+• subtítulo (se houver);
+• cidade pela qual o trabalho é publicado;
+• ano de publicação.
+A lombada, por sua vez, corresponde a um elemento opcional, ou seja, que não aparecerá em qualquer 
+monografia publicada. É a parte lateral externa do trabalho, que está em uma superfície perpendicular 
+à capa. Ela reúne as margens internas das folhas do trabalho, de acordo com a ABNT NBR 12225 (2023), 
+e traz informações parecidas com as da capa.
+A lombada é um recurso que aparece em trabalhos que são entregues em formato físico e com 
+encadernação em capa dura, mas, em caso de monografias entregues com encadernação em espiral ou 
+por meios exclusivamente digitais, ela não deve existir.
+
+===== Página 3 =====
+45
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Um exemplo ilustrativo da parte externa de um trabalho acadêmico pode ser visto na figura a seguir. 
+Nela, vemos a lombada, à esquerda, e a capa.
+Sigla da instituição
+Ano da apresentação
+CidadeCURITIBA 
+20XX
+O PAPEL DO PROFESSOR DIANTE  
+DA NOVA MODALIDADE DE ENSINO:  
+A EDUCAÇÃO A DISTÂNCIA
+UNIVERSIDADE XXXXXXX  
+MARIA AUGUSTA
+AUTOR 
+TÍTULO
+XXXXXX
+20XX
+Título
+Nome da IES
+Autor
+Nome do autor  
+escrito longitudinalmente  
+e legível de cima para baixo
+Figura 6 – Exemplo ilustrativo da parte externa de uma monografia
+Adaptada de: Cordeiro; Molina; Dias, 2014, p. 35.
+ Observação
+As imagens trazidas nesta unidade que mostram elementos de uma 
+monografia são meramente ilustrativas. Isso significa que elas estão aqui 
+apenas para que você consiga visualizar melhor cada seção do trabalho, e 
+não para que você tente reproduzir fielmente a disposição, a proporção 
+e as informações ali contidas. Para compor seu próprio trabalho acadêmico, 
+consulte as informações do guia de normalização disponibilizado a você!
+
+===== Página 4 =====
+46
+Unidade II
+3.3 Parte interna: elementos pré‑textuais
+Conforme vimos anteriormente, a parte interna de uma monografia é composta de três tipos de 
+elementos: os pré‑textuais, os textuais e os pós‑textuais.
+Abordaremos, agora, os elementos pré-textuais, que correspondem às informações iniciais e 
+antecedem o conteúdo principal (textual) do trabalho. Eles organizam e contextualizam o trabalho. 
+Dispostos na figura a seguir, a ordem na qual os elementos aparecem no diagrama corresponde à ordem 
+na qual os elementos aparecem na monografia.
+Parte interna
+Elementos pré‑textuais
+Elementos textuais
+Elementos pós‑textuais
+Folha de rosto (obrigatório)
+Errata (opcional)
+Folha de aprovação (obrigatório)
+Dedicatória (opcional)
+Agradecimentos (opcional)
+Epígrafe (opcional)
+Resumo (obrigatório)
+Resumo em lígua estrangeira (obrigatório)
+Lista(s) de ilustrações (opcional)
+Lista de tabelas (opcional)
+Lista(s) de abreviaturas e siglas (opcional)
+Lista de símbolos (opcional)
+Sumário (obrigatório)
+Figura 7 – Diagrama que mostra os elementos pré‑textuais de uma monografia
+3.3.1 Folha de rosto
+A folha de rosto é um elemento pré‑textual obrigatório que, em seu anverso, traz quase as mesmas 
+informações da capa, com algumas adições.
+Uma das informações adicionais abarca um texto indicando a natureza do trabalho. Nele, é destacado 
+o tipo do trabalho (tese, dissertação, trabalho de conclusão de curso etc.), o objetivo (aprovação em 
+disciplina, grau pretendido etc.), nome da instituição à qual o trabalho é submetido e a área de concentração,  
+quando aplicável.
+Além disso, na folha de rosto, também é inserido o nome do orientador do trabalho e do coorientador, 
+quando houver.
+Veja o exemplo da figura 8 a seguir.
+
+===== Página 5 =====
+47
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Figura 8 – Exemplo ilustrativo do anverso de uma folha de rosto
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 19.
+No verso da folha de rosto, é normalmente requerida a colocação de uma ficha catalográfica. 
+Ela indica os dados internacionais de catalogação na publicação. Geralmente, a ficha catalográfica é 
+produzida pelo serviço de biblioteca da instituição pela qual o trabalho é publicado.
+Figura 9 – Exemplo ilustrativo de ficha catalográfica, disposta no verso de uma folha de rosto
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 20.
+
+===== Página 6 =====
+48
+Unidade II
+ Observação
+Por mais que a ficha catalográfica seja considerada parte da folha de 
+rosto, muitas vezes, ela não é exigida para trabalhos de graduação, como 
+monografias produzidas para projetos integrados multidisciplinares. Caso 
+você fique em dúvida a respeito de sua obrigatoriedade para o tipo de 
+monografia que está produzindo, entre em contato com o professor 
+orientador do trabalho.
+ Lembrete
+A ficha catalográfica, quando requerida, deve ser elaborada conforme a 
+orientação do bibliotecário de sua instituição.
+3.3.2 Errata
+A errata é um elemento pré‑textual opcional e fica restrita aos casos em que, após a impressão do 
+trabalho, foram identificados erros no texto. Quando cabível, a errata deve ser inserida logo após a folha 
+de rosto, apresentada em papel avulso ou encartado.
+O texto da errata deve ser constituído pelas folhas e linhas em que ocorrem erros, seguidas das 
+devidas correções. Veja o exemplo:
+Figura 10 – Exemplo ilustrativo de errata
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 20.
+3.3.3 Folha de aprovação
+A folha de aprovação é um elemento pré‑textual obrigatório. Ela traz informações similares às 
+encontradas na folha de rosto, além de adições importantes: data de aprovação, nome, titulação e 
+espaço para assinatura dos componentes da banca examinadora e instituições às quais eles pertencem. 
+A data de aprovação e as assinaturas devem ser colocadas após a aprovação do trabalho. Na figura a 
+seguir, há um exemplo:
+
+===== Página 7 =====
+49
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Figura 11 – Exemplo ilustrativo de folha de aprovação
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 21.
+ Observação
+Por mais que a folha de aprovação seja considerada pela ABNT 
+NBR 14724 (2024) um elemento obrigatório, muitas vezes, ela não é exigida 
+para trabalhos de graduação, como monografias produzidas para projetos 
+integrados multidisciplinares. Caso você fique em dúvida a respeito de sua 
+obrigatoriedade para o tipo de monografia que está produzindo, entre em 
+contato com o professor orientador de seu trabalho.
+3.3.4 Dedicatória
+A dedicatória é um elemento pré‑textual opcional que, quando presente, deve ser inserido após 
+a folha de aprovação. Podemos utilizar esse espaço para oferecer o trabalho a alguém, prestando 
+uma homenagem.
+
+===== Página 8 =====
+50
+Unidade II
+É comum que esse elemento venha sem o título Dedicatória, ou seja, apenas com o texto de 
+oferecimento. Essa, inclusive, é a recomendação oficial da ABNT NBR 14724 (2024). Porém, guias de 
+normalização distintos podem ter instruções diferentes:
+Figura 12 – Exemplo ilustrativo de dedicatória
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 22.
+ Lembrete
+Guias de normalização para trabalhos acadêmicos são baseados 
+nas normas ABNT, mas podem conter particularidades institucionais. 
+É importante seguir as instruções de acordo com o material disponibilizado 
+pela sua instituição.
+3.3.5 Agradecimentos
+Os agradecimentos também são considerados uma informação pré‑textual opcional. É o momento 
+para agradecermos às pessoas, aos projetos e às instituições que colaboraram com o trabalho acadêmico. 
+Mesmo que saibamos se tratar de um elemento opcional, é de bom tom incluirmos esse elemento em 
+nossa monografia.
+Figura 13 – Exemplo ilustrativo de agradecimentos
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 22.
+
+===== Página 9 =====
+51
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+3.3.6 Epígrafe
+A epígrafe é um elemento pré‑textual opcional. A epígrafe é um texto curto, que geralmente traz 
+uma citação de outro autor. Costumamos apresentar uma citação relacionada ao tema do trabalho 
+acadêmico. Quando presente, a epígrafe confere formalidade e credibilidade à monografia.
+Veja um exemplo a seguir:
+Figura 14 – Exemplo ilustrativo de epígrafe
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 23.
+3.3.7 Resumo em língua vernácula
+O resumo em língua vernácula, comumente referido apenas como resumo, é um elemento 
+pré‑textual obrigatório.
+Por mais que se trate de um elemento pré‑textual, cuidado com sua redação: devemos escrevê‑lo 
+apenas quando a parte textual do nosso trabalho já estiver concluída. Afinal, não conseguimos resumir 
+algo que ainda não existe!
+A função do resumo de uma monografia é trazer os pontos principais da introdução, do 
+desenvolvimento e da conclusão. Ou seja, seu intuito é sintetizar a parte textual como um todo, 
+entregando ao leitor uma visão sucinta mas completa do trabalho.
+De acordo com a ABNT NBR 6028 (2021), que traz informações a respeito da elaboração de resumos, 
+o texto deve ser exposto em parágrafo único, com uma sequência de frases concisas sem a utilização de 
+tópicos. Além disso, é obrigatório que, ao final do texto, sejam trazidas palavras‑chave (pelo menos três) 
+separadas entre si por ponto e vírgula e finalizadas por ponto.
+Em relação à extensão, é conveniente que o resumo de um trabalho acadêmico tenha entre 150 e 
+500 palavras.
+
+===== Página 10 =====
+52
+Unidade II
+Veja no exemplo que o texto está em parágrafo único e as palavras‑chave aparecem no final. Perceba 
+que o texto tem início, meio e fim, contemplando trechos importantes de todas as fases da parte textual 
+do trabalho.
+Figura 15 – Exemplo ilustrativo de resumo em língua vernácula
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 24.
+3.3.8 Resumo em língua estrangeira
+O resumo em língua estrangeira é um elemento pré‑textual obrigatório. Esse elemento apresenta 
+o mesmo texto do resumo em português, porém, em idioma estrangeiro.
+Quando apresentado em inglês, que é o idioma estrangeiro mais comum para trabalhos acadêmicos, 
+o título do elemento deve ser Abstract, e as palavras‑chave devem ser chamadas de Keywords.
+Exibir um resumo em língua estrangeira contribui com a internacionalização dos trabalhos acadêmicos 
+e possibilita que pesquisadores de outros países acessem e compreendam o conteúdo do trabalho,  
+mesmo que não consigam ler o texto integralmente.
+ Lembrete
+O resumo em língua vernácula é o resumo escrito em nosso idioma 
+nativo, ou seja, em português. O resumo em língua estrangeira é escrito em 
+um idioma estrangeiro amplamente difundido, como o inglês.
+
+===== Página 11 =====
+53
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+3.3.9 Lista de ilustrações
+As listas em uma monografia (como lista de ilustrações ou tabelas) têm funções importantes para 
+a organização e acessibilidade do trabalho, apesar de serem elementos opcionais. Elas favorecem que 
+tabelas, gráficos, imagens ou siglas sejam encontrados rapidamente pelo leitor, sem precisar folhear 
+todo o trabalho. As listas são especialmente úteis em monografias longas, com muitos dados visuais 
+ou técnicos.
+A lista de ilustrações é uma lista de desenhos, esquemas, fluxogramas, fotografias, gráficos, mapas, 
+organogramas ou quaisquer outros tipos de ilustração que aparecem ao longo do conteúdo do trabalho. 
+Ela deve ser elaborada de acordo com a ordem apresentada no texto, com a numeração, a legenda e o 
+número de página na qual cada ilustração aparece.
+Quando necessário, é possível criar uma lista para cada tipo de ilustração. Por isso, um trabalho 
+acadêmico pode ter mais de uma lista de ilustrações. Quando há apenas uma lista, é comum que ela 
+receba o título Lista de Figuras.
+Figura 16 – Exemplo ilustrativo de lista de ilustrações
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 26.
+3.3.10 Lista de tabelas
+A lista de tabelas é um elemento pré‑textual opcional e serve para elencar as tabelas que aparecem 
+ao longo do trabalho. Assim como a lista de ilustrações, esta deve ser concebida de acordo com a ordem 
+apresentada no texto, com a numeração, a legenda e o número de página na qual cada tabela aparece.
+Figura 17 – Exemplo ilustrativo de lista de tabelas
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 26.
+
+===== Página 12 =====
+54
+Unidade II
+3.3.11 Lista de abreviaturas e siglas
+A lista de abreviaturas e siglas é um elemento pré‑textual opcional em uma monografia. Ela 
+consiste na relação alfabética das abreviaturas e das siglas utilizadas no decorrer do texto.
+Quando necessário, é possível organizar uma lista própria para cada tipo. Por isso, é possível que 
+uma monografia tenha uma lista de abreviaturas e outra de siglas.
+ Observação
+Uma abreviatura é a redução de uma palavra por meio da supressão de 
+letras finais ou médias, geralmente seguida por um ponto. Como exemplo, 
+podemos citar: “ex. ” (de exemplo), “prof. ” (de professor) e “pág. ” (de página).
+Uma sigla é a representação de uma expressão por suas letras iniciais ou 
+partes destacadas. Assim, podemos apontar: ONU (Organização das Nações 
+Unidas) e IBGE (Instituto Brasileiro de Geografia e Estatística).
+Veja um exemplo de um trecho de uma lista de abreviaturas e siglas.
+Figura 18 – Exemplo ilustrativo de lista de abreviaturas e siglas
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 27.
+3.3.12 Lista de símbolos
+A lista de símbolos é um elemento pré‑textual opcional em uma monografia. Trata‑se de uma lista 
+elaborada de acordo com a ordem em que diferentes símbolos aparecem no texto, explicitando seus 
+significados para o leitor.
+Ela é especialmente interessante para trabalhos da área de exatas, nos quais muitos símbolos com 
+significados distintos são posicionados no material. Desse modo, ela pode ser consultada sempre que 
+o leitor ficar em dúvida a respeito do significado de algum símbolo que aparece no desenvolvimento 
+do trabalho.
+
+===== Página 13 =====
+55
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Figura 19 – Exemplo ilustrativo de lista de símbolos
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 27.
+3.3.13 Sumário
+O sumário é um elemento pré‑textual obrigatório em uma monografia. Ele consiste na enumeração 
+das seções do trabalho e deve seguir a ordem e a grafia do texto, acompanhando os respectivos 
+números das páginas.
+Nele, deve estar contida tanto a parte textual (que é numerada) quanto a parte pós‑textual (cujos 
+títulos não são numerados).
+ Observação
+Os editores de texto, como o Microsoft Word, têm recursos de elaboração 
+automática de sumários. Consulte o manual do seu editor de texto, caso 
+deseje usar essa funcionalidade.
+Na figura a seguir, está um exemplo de sumário de uma monografia. Repare que tanto os títulos 
+principais quanto seus respectivos subtítulos estão presentes. Perceba que os elementos pós‑textuais, 
+como as referências, os apêndices e os anexos, também integram o sumário.
+Figura 20 – Exemplo ilustrativo de sumário
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 28.
+
+===== Página 14 =====
+56
+Unidade II
+4 ESTRUTURA DE UMA MONOGRAFIA: ELEMENTOS TEXTUAIS E PÓS‑TEXTUAIS
+Já levantamos os diversos elementos pré‑textuais que compõem a parte interna de uma monografia. 
+Agora, conheceremos os elementos textuais, que constituem a porção principal do nosso trabalho, e os 
+elementos pós‑textuais, que aparecem como as últimas seções do documento.
+4.1 Elementos textuais
+Os elementos textuais de uma monografia são apenas três, mas constituem a parte mais extensa 
+do trabalho. Conforme vemos no diagrama a seguir, eles são: introdução, desenvolvimento e conclusão 
+(cujo título é comumente modificado para Considerações finais). Todos os elementos textuais são 
+obrigatórios.
+Parte interna
+Elementos pré‑textuais
+Elementos textuais
+Elementos pós‑textuais
+Introdução (obrigatório)
+Desenvolvimento (obrigatório)
+Conclusão/CF (obrigatório)
+Figura 21 – Diagrama que mostra os elementos textuais de uma monografia
+4.1.1 Introdução
+A introdução é um elemento textual obrigatório em trabalhos acadêmicos. De acordo com 
+Brasileiro (2021), é a parte inicial do texto, na qual o leitor buscará as informações básicas da pesquisa, 
+a fim de direcionar sua leitura.
+Geralmente, essas informações são: a contextualização, o problema, a hipótese com a qual se opera 
+(quando couber), a justificativa, os objetivos geral e específicos e uma rápida menção aos métodos. 
+É  possível também encontrar a apresentação das próximas seções primárias (“capítulos”) da parte 
+textual, em trabalhos mais longos.
+Normalmente, essa seção do texto não contempla subtítulos, a menos que seja regra da instituição 
+à qual o autor está vinculado. Além disso, a introdução é numerada como a seção 1 do texto.
+ Observação
+A ABNT indica que os trabalhos acadêmicos devem ser divididos em seções, 
+não em capítulos. Qual é a diferença? Seções possibilitam subdivisões lógicas 
+e numeradas (como 2.1, 2.2, 2.2.1), facilitando a organização sistemática. 
+Capítulos, por sua vez, geralmente são unidades mais independentes, sem 
+subdivisões tão rígidas, que geralmente são mais comuns em livros e textos 
+literários, com títulos mais livres e menos padronizados.
+Portanto, podemos pensar que a introdução é o “capítulo 1” do 
+nosso trabalho acadêmico, mas, oficialmente, temos a seção primária 1 
+como introdução.
+
+===== Página 15 =====
+57
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Vamos acompanhar um exemplo de trabalho acadêmico produzido em nível de dissertação de 
+mestrado, que contempla as informações geralmente trazidas em uma introdução. Detalhes como 
+formatação não são contemplados (para isso, consulte o guia de normalização da sua instituição de 
+ensino). Nosso foco é entender o conteúdo do texto.
+A contextualização indica ao leitor sobre o que é o trabalho. O início de uma introdução é 
+apresentado a seguir como exemplo. Ele foi adaptado de Damiani (2010).
+1 INTRODUÇÃO
+Óxidos condutores transparentes (TCOs) são materiais cerâmicos que apresentam alta 
+transparência no espectro visível e baixa resistividade elétrica. Suas propriedades [...].
+Dentre os TCOs, o mais amplamente utilizado é o óxido de índio dopado com estanho (ITO).  
+O ITO é um material tipo n [...].
+O problema traz ao leitor qual é a situação que se pretende resolver com a realização do trabalho. 
+Comumente, ele é exposto em formato de pergunta e indica a delimitação do tema com o qual se trabalha.
+A obtenção do ITO é, normalmente, feita em temperaturas maiores do que 200 ºC, pois 
+[...]. O presente estudo levanta o seguinte problema: como realizar a deposição do ITO em 
+baixas temperaturas (< 100 ºC), em diferentes substratos, utilizando magnetron sputtering?
+A hipótese deve estar presente quando couber e traz o que o autor imagina ser a resposta 
+para o problema.
+Com base nesse questionamento, este trabalho parte da hipótese que, sem a realização 
+de aquecimento intencional, as potências de deposição em torno de 100 W resultam em 
+filmes de ITO com melhores características elétricas e ópticas.
+A justificativa indica ao leitor o motivo pelo qual é importante resolver o problema e garante 
+credibilidade à pesquisa.
+Este estudo é relevante porque certas aplicações, como [...], possuem estruturas que 
+se danificam quando expostas às altas temperaturas. Além disso, alguns substratos, como 
+os poliméricos, também exigem técnicas de deposição que não envolvem aquecimento. 
+Logo, o aprimoramento de técnicas de deposição em baixas temperaturas se torna 
+necessário para atender a essa demanda.
+Os objetivos são uma parte importantíssima da introdução, que devem estar presentes em qualquer 
+trabalho acadêmico. Eles indicam onde queremos chegar com o desenvolvimento do trabalho.
+
+===== Página 16 =====
+58
+Unidade II
+Eles podem ser divididos em objetivo geral (grande intenção do trabalho) e objetivos específicos 
+(especificação das etapas da pesquisa necessárias para atingir o objetivo geral). É comum que objetivos 
+específicos venham em tópicos, conforme exposto no exemplo a seguir:
+O objetivo geral desta pesquisa é desenvolver as técnicas de deposição de ITO, em 
+baixas temperaturas, pelo método de RF magnetron sputtering, em diferentes substratos. 
+Para isso, pretende‑se:
+• realizar deposições, com potências RF variadas, em substratos de silício, 
+sem aquecimento;
+• realizar deposições, com potências RF variadas, em substratos de vidro, 
+sem aquecimento;
+• realizar deposições, com potências RF variadas, em substratos de policarbonato, 
+sem aquecimento;
+A introdução pode cobrir uma rápida menção aos métodos, que indicam como o trabalho será 
+produzido. Nesse caso, são explicados em procedimentos técnicos necessários para a execução da pesquisa. 
+Os métodos, em trabalhos experimentais, são detalhados em uma seção primária (“capítulo”) própria 
+no desenvolvimento do trabalho, mas podem aparecer na introdução, dependendo do tipo de pesquisa 
+realizada (como em trabalhos de pesquisa bibliográfica).
+Por fim, é comum que a introdução traga a apresentação das próximas seções primárias 
+(“capítulos”) da parte textual.
+Este trabalho está dividido em 5 seções primárias. Na seção 2, é apresentada a 
+revisão da literatura pertinente ao tema, com [...]. Na seção 3, é descrito o procedimento 
+experimental, desde a preparação das amostras até [...]. Na seção 4, [...].
+ Observação
+A introdução do trabalho acadêmico que você está desenvolvendo 
+depende muito da natureza e da abrangência do material. O que apresentamos 
+aqui foi apenas um modelo comum adotado para introduções de 
+monografias. Para exemplos mais direcionados, procure por trabalhos já 
+publicados da mesma natureza do trabalho que você está redigindo.
+
+===== Página 17 =====
+59
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+4.1.2 Desenvolvimento
+O desenvolvimento é um item textual obrigatório em trabalhos acadêmicos. É a parte que se 
+encontra entre a introdução e a conclusão e abrange diversas seções primárias do texto.
+De acordo com Brasileiro (2021), o desenvolvimento tem o objetivo de detalhar a pesquisa ou o 
+estudo realizado. Normalmente, ele é constituído por mais de uma seção primária numerada. Essas 
+seções se ocupam de:
+• apresentar o referencial teórico que sustentará o debate posterior;
+• detalhar os métodos da pesquisa, conferindo a ela cientificidade;
+• apresentar os dados coletados, quando for o caso, realizando as devidas análises e discussões.
+A divisão das seções primárias dependerá da natureza do trabalho. Como exemplo, veja a seguir as 
+seções primárias de um trabalho acadêmico produzido em nível de dissertação de mestrado.
+2 REVISÃO DA LITERATURA
+3 MATERIAIS E MÉTODOS
+4 RESULTADOS E DISCUSSÕES
+A seção primária 2, intitulada Revisão da literatura, é a seção na qual serão reunidas as 
+informações relevantes ao tema da pesquisa, disponíveis em artigos científicos, em livros e em outras 
+publicações relevantes ao assunto. Ela tem o intuito de fornecer o embasamento teórico para a 
+pesquisa vigente, de acordo com informações de trabalhos anteriores já publicados.
+A seção primária 3, intitulada Materiais e métodos, é a seção que visa descrever, detalhadamente, 
+tudo o que foi realizado na pesquisa. Ela deve proporcionar a outros pesquisadores que sejam capazes de 
+executar, por conta própria, o mesmo trabalho que você está apresentando. Tal seção também especifica 
+o tipo de pesquisa (experimental, bibliográfica, de campo, estudo de caso etc.).
+A seção primária 4, intitulada Resultados e discussões, é na qual os dados obtidos ao longo da 
+pesquisa serão apresentados, comentados e interpretados. Aqui, procuramos testar a hipótese e resolver 
+o problema da pesquisa. Veja um trecho de exemplo, adaptado de Damiani (2010):
+Os resultados da espessura das amostras de ITO/Si, obtidos por meio da elipsometria, 
+encontram‑se na Tabela 6. Pelos resultados, foi calculada a taxa de deposição de cada 
+processo empregado, conforme exposto na Figura 16. Observa‑se que a taxa de deposição 
+aumenta linearmente de acordo com o aumento da potência do sputtering, devido ao 
+maior bombardeamento [...].
+
+===== Página 18 =====
+60
+Unidade II
+ Observação
+Os títulos das seções primárias do trabalho acadêmico não precisam, 
+necessariamente, ser esses que apresentamos. Eles dependem da natureza 
+do tipo da pesquisa, da titulação acadêmica pretendida, das normas do 
+instituto pelo qual a pesquisa está sendo feita, entre outros fatores.
+A quantidade de seções primárias também não é fixa. Por isso, é muito 
+importante consultar o guia de normalização da sua instituição e o orientador  
+do trabalho.
+4.1.3 Conclusão
+A conclusão é um elemento textual obrigatório em trabalhos acadêmicos e representa a última seção 
+primária numerada da parte textual. Ela pode ganhar títulos distintos, como Conclusão, Conclusões ou 
+Considerações finais.
+A intenção central da conclusão é concentrar os principais resultados e interpretações realizadas. 
+Devemos, portanto, destacar o que foi aprendido com a pesquisa, de forma sucinta e objetiva.
+Uma boa estratégia para redigir o texto da conclusão é abordar, de forma breve:
+• os métodos;
+• os resultados e discussões;
+• a demonstração do cumprimento do objetivo geral;
+• o destaque da importância da pesquisa;
+• sugestões de trabalhos futuros, que podem ser feitos para complementar o trabalho atual.
+Acompanhe um exemplo de conclusão, adaptado de Damiani (2010):
+5 CONCLUSÃO
+Neste trabalho, filmes finos de ITO foram depositados sobre os substratos de silício, 
+vidro  e policarbonato pela técnica de RF magnetron sputtering , com potência RF 
+variando de 25 a 200 W, em ambiente inerte (100% argônio). Os substratos não foram 
+intencionalmente aquecidos, caracterizando o processo como sendo de baixa temperatura. 
+Características elétrica, físicas, ópticas, químicas e estruturais dos filmes foram analisadas.
+Foram obtidas amostras de ITO/Si e ITO/vidro com resistividade mínima na ordem 
+de 10‑4 Ω.cm e uma amostra de ITO/Lexan com resistividade na ordem de 10 ‑3 Ω.cm.
+
+===== Página 19 =====
+61
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+A mudança na resistividade de acordo com o substrato foi atribuída à rugosidade 
+e às impurezas contidas nos substratos. De modo geral, a quantidade de oxigênio na 
+composição dos filmes influenciou, diretamente, as características elétricas pela redução 
+da resistência de folha.
+As melhores características elétricas foram observadas para as amostras obtidas com 
+200 W de potência RF.
+A análise das características ópticas, feita para amostras de ITO/Vidro e ITO/Lexan, mostrou 
+que, dentro da faixa visível do espectro visível, os filmes de ITO tiveram transmitância óptica 
+de 66 a 87%. De acordo com o índice de absorção calculado, o aumento da potência RF 
+aumentou, também, a absorção óptica do material. A espessura das amostras também se 
+mostrou relevante às características ópticas, sendo que o aumento da absorção aconteceu, 
+proporcionalmente, ao aumento da espessura. As melhores características ópticas foram 
+observadas para as amostras obtidas com 75 W de potência RF.
+Do ponto de vista estrutural, as amostras tenderam a apresentar fase amorfa  e 
+cristalina, com orientação preferencial ao longo da direção [100]. De forma geral, o 
+aumento da potência RF propiciou a transição da fase amorfa para a fase cristalina, e pôde 
+ser observada uma melhora nas características elétricas com o início do surgimento dos 
+picos. Essa melhora não foi observada para as características ópticas dos filmes.
+De modo geral, as amostras obtidas de 75 a 125 W apresentaram as melhores 
+propriedades para serem utilizadas em aplicações que exijam eletrodos transparentes, 
+considerando aspectos elétricos e ópticos.
+Devido ao tema explorado, considera‑se que este trabalho contribuiu com o 
+aprimoramento de técnicas de deposição de TCOs em baixas temperaturas, que se 
+demonstra necessário para o desenvolvimento de novos dispositivos.
+Como sugestão de trabalhos futuros, seria interessante explorar a influência da 
+composição química nas características ópticas dos filmes. Seria útil, também, realizar 
+um estudo mais detalhado a respeito de filmes de ITO depositados sobre os substratos 
+poliméricos, destacando as limitações impostas aos processos, devido à fragilidade 
+dos substratos.
+4.2 Elementos pós‑textuais
+Os elementos pós‑textuais de uma monografia são posicionados após a conclusão do trabalho. 
+Conforme podemos ver, os elementos pós‑textuais são: referências, glossário, apêndice(s), anexo(s) e 
+índice(s). Apenas as referências constituem um elemento obrigatório.
+
+===== Página 20 =====
+62
+Unidade II
+Parte interna
+Elementos pré‑textuais
+Elementos textuais
+Elementos pós‑textuais
+Referências (obrigatório)
+Glossário (opcional)
+Apêndice(s) (opcional)
+Anexo(s) (opcional)
+Índice(s) (opcional)
+Figura 22 – Diagrama que mostra os elementos pós‑textuais de uma monografia
+As seções que constituem elementos pós‑textuais, diferentemente das seções da parte textual, não 
+são numeradas.
+4.2.1 Referências
+As referências são um item pós‑textual obrigatório em trabalhos acadêmicos. De acordo com 
+Brasileiro (2021, p. 58), a seção de referências “é a relação de todas as obras utilizadas para a produção 
+do trabalho e deve ser elaborada conforme a ABNT NBR 6023” .
+É nesse momento que trazemos informações a respeito das obras que consultamos para compor as 
+citações que fizemos no decorrer do texto. A seção de referências é extremamente fundamental, pois dá 
+crédito aos autores cujas obras ajudaram a compor o trabalho.
+Ao se deparar com um trabalho acadêmico sem lista de referências, muitas bancas avaliadoras 
+reprovam o trabalho automaticamente, pois sua inexistência é um erro grave que compromete, inclusive, 
+a originalidade do texto.
+4.2.2 Glossário
+O glossário é um elemento pós‑textual opcional em trabalhos acadêmicos. De acordo com 
+Brasileiro (2021), ele é uma lista de palavras desconhecidas ou termos especializados, acompanhados 
+de seus respectivos significados e deve ser elaborado em ordem alfabética, de modo a facilitar a 
+identificação do termo buscado.
+A inclusão de um glossário é interessante quando usamos, na seção textual, muitos termos 
+especializados (como termos médicos, jurídicos, técnicos etc.). É uma maneira de facilitar a leitura de 
+textos muito densos ou muito especializados.
+4.2.3 Apêndice
+O apêndice é um elemento pós‑textual opcional. Segundo Brasileiro (2021), o apêndice refere‑se 
+a um material produzido pelo próprio autor do trabalho acadêmico e que pode, de algum modo, 
+enriquecer ou complementar a leitura. Podemos inserir quantos apêndices quisermos em nosso trabalho.
+A seção deve ser iniciada com a palavra Apêndice, identificada por letras maiúsculas consecutivas, 
+travessão e pelo respectivo título.
+
+===== Página 21 =====
+63
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Na figura a seguir temos o exemplo do trecho de um apêndice:
+Figura 23  – Exemplo ilustrativo de apêndice
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 39.
+Documentos adequados para serem inseridos como apêndices incluem:
+• códigos‑fonte;
+• questionários aplicados (com perguntas e respostas brutas);
+• roteiros de entrevistas;
+• formulários de coleta de dados;
+• tabelas estatísticas completas (que no desenvolvimento do trabalho foram apenas resumidas);
+• transcrições longas de entrevistas;
+• mapas, fluxogramas ou esquemas criados pelo autor (se forem complementares);
+• imagens, gráficos ou ilustrações técnicas (se complementares);
+• protocolos de laboratório (em pesquisas experimentais).
+4.2.4 Anexo
+O anexo é um elemento pós‑textual opcional. Segundo Brasileiro (2021), o anexo refere‑se a um 
+material produzido por terceiros que pode, de algum modo, enriquecer ou complementar a leitura. 
+Podemos inserir quantos anexos quisermos, contanto que a origem do material inserido conste em 
+nossa lista de referências.
+A seção deve ser iniciada com a palavra Anexo, identificada por letras maiúsculas consecutivas, 
+travessão e pelo respectivo título.
+
+===== Página 22 =====
+64
+Unidade II
+Na figura a seguir, temos o exemplo do trecho de um anexo.
+Figura 24  – Exemplo ilustrativo de anexo
+Adaptada de: Biblioteca da Universidade Paulista, 2024, p. 39.
+Documentos adequados para serem inseridos como anexo incluem:
+• documentos legais e normativos (como leis ou portarias);
+• relatórios técnicos institucionais;
+• mapas, fluxogramas ou esquemas criados por terceiros;
+• imagens, gráficos ou ilustrações técnicas criados por terceiros;
+• fichas técnicas de equipamentos;
+• folhas de dados de dispositivos eletrônicos.
+4.2.5 Índice
+O índice é um elemento pós‑textual opcional. Ele se refere a uma lista, geralmente dedicada aos 
+termos importantes que apareceram ao longo da parte textual. Cada termo é seguido do número da(s) 
+página(s) onde são encontrados no texto, possibilitando ao leitor que identifique facilmente os diversos 
+trechos do texto em que o termo de interesse foi abordado.
+É possível compor mais de um índice, casa seja necessário dividir os termos por temas.
+ Observação
+De acordo com a ABNT NBR 14724 (2024), os títulos dos elementos 
+que não têm indicativo numérico – errata, agradecimentos, lista de 
+ilustrações, lista de tabelas, lista de abreviaturas e siglas, lista de símbolos, 
+resumos, sumário, referências, glossário, apêndice(s), anexo(s) e índice(s) – 
+devem ser centralizados na página. Além disso, é necessário que sejam 
+escritos em caixa‑alta.
+
+===== Página 23 =====
+65
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Saiba mais
+Para aprender mais sobre a estrutura e a organização que compõem um 
+trabalho acadêmico, leia:
+BRASILEIRO, A. M. M. Como produzir textos acadêmicos e científicos. São 
+Paulo: Contexto, 2021.
+
+===== Página 24 =====
+66
+Unidade II
+ Resumo
+Na unidade II, vimos a estrutura completa de uma monografia, conforme 
+as normas ABNT, dividindo‑a em parte externa e interna.
+A parte externa é composta apenas de capa e lombada. Já a parte 
+interna é dividida em elementos pré‑textuais, textuais e pós‑textuais.
+Na parte externa, a capa é um elemento obrigatório que contém 
+informações essenciais à identificação do trabalho (instituição, autor, título, 
+cidade, ano). A lombada é um elemento opcional utilizado apenas em trabalhos  
+encadernados em capa dura.
+Na parte interna, como elementos pré‑textuais obrigatórios, temos: 
+folha de rosto, resumo em língua vernácula, resumo em língua estrangeira e 
+sumário. A folha de rosto inclui a natureza do trabalho, o orientador e a área 
+de concentração. O resumo em língua vernácula (português) traz a síntese 
+do trabalho, com as principais partes da seção textual. O resumo em língua 
+estrangeira traz o mesmo conteúdo, mas em outro idioma (geralmente o 
+inglês). O sumário lista as seções do trabalho, indicando a numeração das 
+páginas de cada título e subtítulo. Temos também os seguintes elementos 
+pré‑textuais opcionais: errata, dedicatória, agradecimento, epígrafe e tipos 
+distintos de listas.
+Os elementos textuais, todos obrigatórios, correspondem ao conteúdo 
+principal da monografia, e são três: introdução, desenvolvimento e conclusão.  
+A introdução é a primeira seção numerada do trabalho, sendo integrada 
+por: contextualização, problema, hipótese, justificativa, objetivos e 
+métodos. O desenvolvimento é dividido em seções numeradas e detalha o 
+referencial teórico, os métodos, os resultados e as discussões do trabalho. 
+A conclusão traz a síntese dos resultados e dos aprendizados obtidos a partir  
+da pesquisa.
+Quanto ao elementos pós‑textuais, vimos que apenas as referências são 
+elemento obrigatório. Nelas, devemos apresentar informações a respeito de 
+todas as obras citadas no texto. Como elementos pós‑textuais opcionais, 
+temos: glossário, apêndice(s), anexo(s) e índice(s).
+
+===== Página 25 =====
+67
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Exercícios
+Questão 1. Vimos no livro‑texto que, de modo geral, a estrutura de teses, dissertações, monografias 
+e trabalhos acadêmicos compreende as seguintes partes: externa e interna.
+Em relação a esse assunto, avalie as afirmativas.
+I – Os elementos pré‑textuais constituem a parte externa do trabalho.
+II – As referências bibliográficas são elementos obrigatórios encontrados na parte interna do trabalho.
+III – A introdução é um elemento pré‑textual opcional e dispensável.
+É correto o que se afirma em:
+A) I, apenas.
+B) II, apenas.
+C) III, apenas.
+D) I e II, apenas.
+E) I, II e III.
+Resposta correta: alternativa B.
+Análise das afirmativas
+I – Afirmativa incorreta.
+Justificativa: a parte externa é formada pela capa e pela lombada. Os elementos pré‑textuais ficam 
+na parte interna do trabalho.
+II – Afirmativa correta.
+Justificativa: os elementos pós‑textuais, encontrados na parte interna do trabalho, são: referências, 
+glossários, apêndices, anexos e índices. Vale destacar que as referências são obrigatórias.
+III – Afirmativa incorreta.
+Justificativa: a introdução é um elemento textual obrigatório.
+
+===== Página 26 =====
+68
+Unidade II
+Questão 2. Vimos no livro‑texto que, em uma monografia, as listas, como a de ilustrações, a de 
+tabelas, a de abreviaturas e siglas e a de símbolos, têm funções importantes para a organização e 
+a acessibilidade do trabalho. Elas possibilitam ao leitor que encontre rapidamente tabelas, gráficos, 
+imagens ou siglas sem precisar folhear todo o volume. As listas são especialmente úteis em monografias 
+longas, com muitos dados visuais ou técnicos.
+Em relação a essas listas, avalie as afirmativas.
+I – A lista de ilustrações é um elemento pré‑textual opcional em monografias que deve ser elaborado 
+de acordo com a ordem apresentada no texto, com inserção de numeração, legenda e número da página 
+na qual cada ilustração aparece.
+II – A lista de tabelas é um elemento obrigatório em monografias que deve ser colocado após as 
+conclusões, sem que haja a necessidade de seguir a ordem apresentada no texto.
+III – A lista de abreviaturas e siglas é um elemento pré‑textual opcional em uma monografia e 
+consiste na relação alfabética das abreviaturas e das siglas utilizadas ao longo do texto. É possível que 
+uma monografia tenha uma lista de abreviaturas e outra de siglas.
+IV – A lista de símbolos é um elemento pós‑textual obrigatório em uma monografia da área da 
+saúde, mas sempre dispensável em uma monografia da área de exatas.
+É correto o que se afirma em:
+A) I e III, apenas.
+B) II e IV, apenas.
+C) I, II e III, apenas.
+D) I e II, apenas.
+E) I, II, III e IV.
+Resposta correta: alternativa A.
+Análise das afirmativas
+I – Afirmativa correta.
+Justificativa: a lista de ilustrações é um elemento pré‑textual opcional em monografias. Trata‑se de 
+uma lista de desenhos, esquemas, fluxogramas, fotografias, gráficos, mapas, organogramas ou quaisquer 
+outros tipos de ilustração que aparecem ao longo do conteúdo do trabalho. Ela deve ser elaborada 
+de acordo com a ordem apresentada no texto, com inserção de numeração, legenda e número da página 
+na qual cada ilustração aparece.
+
+===== Página 27 =====
+69
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+II – Afirmativa incorreta.
+Justificativa: a lista de tabelas é um elemento pré‑textual opcional. Trata‑se de um elemento que 
+lista as tabelas que aparecem ao longo do trabalho. Ela deve ser elaborada de acordo com a ordem 
+apresentada no texto, com a inserção de numeração, legenda e número da página na qual cada 
+tabela aparece.
+III – Afirmativa correta.
+Justificativa: a lista de abreviaturas e de siglas é um elemento pré‑textual opcional em uma 
+monografia. Ela consiste na relação alfabética das abreviaturas e das siglas utilizadas ao longo do texto. 
+Quando necessário, é possível elaborar uma lista própria para cada tipo. Por isso, é possível que uma 
+monografia tenha uma lista de abreviaturas e outra de siglas.
+II – Afirmativa incorreta.
+Justificativa: a lista de símbolos é um elemento pré‑textual opcional em uma monografia. Trata‑se de 
+uma lista elaborada de acordo com a ordem em que diferentes símbolos aparecem no texto, explicitando 
+seus significados para o leitor. Ela é especialmente interessante para trabalhos da área de exatas, nos 
+quais muitos símbolos com significados distintos são posicionados ao longo do texto. Desse modo, ela 
+pode ser consultada sempre que o leitor ficar em dúvida a respeito do significado de algum símbolo que 
+aparece no desenvolvimento do trabalho.

@@ -1,0 +1,670 @@
+===== Página 1 =====
+Prof. Me. José Lorandi
+UNIDADE III
+Pesquisa, Tecnologia 
+e Inovação
+
+===== Página 2 =====
+ CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA
+ Em um trabalho acadêmico longo, sempre precisamos fazer citações.
+ Uma citação é a utilização de trechos, de dados ou de ideias de outros autores em 
+nosso trabalho. 
+ Se você, em determinada porção do seu texto, utilizou dados do IBGE, você acabou de fazer 
+uma citação.
+ Se, em outro trecho, você trouxe informações técnicas a 
+respeito de um microprocessador oriundas do fabricante do 
+dispositivo, você fez outra citação. 
+Estrutura de uma monografia
+
+===== Página 3 =====
+ CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA
+ Se um aluno do instituto de ciências humanas utilizou uma frase de Machado de Assis em 
+parte de seu texto, ele também fez uma citação.
+ De forma geral, podemos dizer que uma citação é qualquer conteúdo que buscamos em 
+outras obras e utilizamos em nosso texto.
+Por que devemos fazer citações em nossos trabalhos acadêmicos? 
+ As citações mostram que nossa pesquisa está baseada em 
+fontes confiáveis e em estudos anteriores. 
+Estrutura de uma monografia
+
+===== Página 4 =====
+ CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA
+ Além disso, citar trabalhos anteriores ajuda a situar a nossa pesquisa dentro de um campo 
+de estudo, mostrando como ela se relaciona com o que já foi produzido. 
+ Podemos considerar, portanto, que um trabalho acadêmico bem fundamentado é um 
+trabalho repleto de citações oriundas de fontes confiáveis.
+E como fazemos para creditar os autores que nos trouxeram as 
+ideias, os dados ou os trechos das citações que fizemos em 
+nosso texto? 
+ A cada uma das citações, deve ser associada uma referência.
+Estrutura de uma monografia
+
+===== Página 5 =====
+ CITAÇÕES E REFERÊNCIAS EM UMA MONOGRAFIA
+ Uma referência é uma disposição padronizada das informações que identificam a obra da 
+qual extraímos as informações que compuseram uma citação do nosso texto. 
+E como fazemos para indicar que determinada citação teve seu conteúdo extraído de 
+determinada referência? 
+ O modo pelo qual “unimos” as citações que fazemos em nosso texto às referências é 
+denominado chamada.
+ Uma chamada, portanto, é uma indicação que fazemos no 
+texto, próxima à citação, que aponta de qual referência aquele 
+conteúdo citado foi extraído.
+ Utilizar corretamente os recursos de citações, referências e 
+chamadas permite que possamos usar ideias, dados e até 
+mesmo trechos de outros autores sem cometer plágio. 
+Estrutura de uma monografia
+
+===== Página 6 =====
+ Tipos de citações
+De acordo com Brasileiro (2021), há três tipos de citações utilizadas em trabalhos acadêmicos: 
+ a direta; 
+ a indireta;
+ a citação de citação. 
+ Abordaremos cada um deles a seguir. 
+Estrutura de uma monografia
+
+===== Página 7 =====
+ Citação direta
+ Fazemos uma citação direta quando realizamos uma transcrição textual de parte da obra de 
+terceiros (livro, artigo científico, documento etc.).
+ Ou seja, a citação direta é feita quando, em nosso texto, utilizamos as exatas palavras 
+utilizadas em uma parte de outra publicação.
+ Na citação direta, portanto, fazemos a reprodução literal de um trecho de uma obra de 
+terceiros, sem qualquer modificação nas palavras ou na pontuação do autor original.
+ Citações diretas são amplamente utilizadas em trabalhos 
+acadêmicos da área de ciências jurídicas e da área de 
+ciências humanas, em geral. 
+Estrutura de uma monografia
+
+===== Página 8 =====
+ Citação direta
+ Na área de ciências naturais e tecnológicas, as citações diretas são usadas, geralmente, 
+com menos frequência e em casos mais pontuais.
+ Seja qual for a natureza do trabalho, a transcrição textual é um recurso valioso para 
+preservar a voz do autor original e para embasar nossa pesquisa com precisão. 
+ Porém, seu uso deve ser estratégico e sempre acompanhado de referências, para 
+mantermos a integridade acadêmica.
+ Há dois tipos de citação direta: a curta e a longa. Abordaremos 
+cada uma delas, com exemplos, a seguir.
+Estrutura de uma monografia
+
+===== Página 9 =====
+ Citação direta curta
+ É considerada uma citação direta curta uma citação direta cuja extensão ocupa até 
+três linhas. 
+ Nesse caso, devemos posicionar a transcrição textual entre aspas duplas. 
+ A formatação do texto segue a mesma formatação do corpo do trabalho acadêmico. 
+ Vamos, no parágrafo a seguir, criar um exemplo de citação direta curta.
+ De acordo com Perkovic (2022, p. 3): “Um algoritmo é uma sequência de instruções, não 
+muito diferente de uma receita culinária”.
+ Repare que, nesse exemplo que criamos, podemos 
+reconhecer a chamada, representada pelo trecho “De acordo 
+com Perkovic (2022, p. 3)”, e podemos reconhecer a citação 
+em si, que foi posta entre aspas duplas no parágrafo anterior.
+Estrutura de uma monografia
+
+===== Página 10 =====
+ Citação direta longa
+ É considerada uma citação direta longa uma citação direta cuja extensão ocupa mais de 
+três linhas. 
+ Segundo Brasileiro (2021), nesse caso, devemos aplicar ao trecho citado um recuo de 4 cm 
+da margem esquerda, adotar espaçamento simples entre as linhas e diminuir o tamanho da 
+fonte original. 
+ Geralmente, o tamanho de fonte adotado para citações diretas longas é o tamanho 10, mas 
+a ABNT, na NBR 10520 (2023), não estipula um tamanho específico.
+ Note que o destaque visual é bem característico e chamativo. 
+ Você, provavelmente, já encontrou esse destaque em outros 
+trabalhos, mesmo que não soubesse do que se tratava. 
+Estrutura de uma monografia
+
+===== Página 11 =====
+Qual das alternativas abaixo não corresponde a um tipo comum de citação utilizado em 
+monografias, de acordo com as normas da ABNT?
+a) Citação direta curta.
+b) Citação direta longa.
+c) Citação indireta.
+d) Citação subordinada.
+e) Citação de citação.
+Interatividade
+
+===== Página 12 =====
+Qual das alternativas abaixo não corresponde a um tipo comum de citação utilizado em 
+monografias, de acordo com as normas da ABNT?
+a) Citação direta curta.
+b) Citação direta longa.
+c) Citação indireta.
+d) Citação subordinada.
+e) Citação de citação.
+Resposta
+
+===== Página 13 =====
+A resposta correta é a alternativa d) Citação subordinada. 
+Justificativa:
+Está correta como resposta porque "citação subordinada" não é um tipo reconhecido de 
+citação, segundo as normas da ABNT (NBR 10520).
+Citação direta curta: transcrição literal de até 3 linhas do texto original, entre aspas.
+Citação direta longa: transcrição literal com mais de 3 linhas, em parágrafo destacado, sem 
+aspas, com recuo.
+Citação indireta: paráfrase ou resumo das ideias do autor, sem 
+reprodução literal, mas com a devida referência.
+Citação de citação: quando se menciona um autor que foi 
+citado por outro, utilizando "apud".
+Resposta
+
+===== Página 14 =====
+ Citação indireta
+ Se você é atento(a), notou que, ao longo deste livro-texto, apareceram diversas chamadas, 
+indicando que foram feitas diversas citações.
+ No entanto, a vasta maioria delas não adotou qualquer destaque visual, seja com aspas 
+duplas, seja com a formatação exigida para citações diretas longas. 
+ Isso significa que, neste texto, utilizamos majoritariamente as citações indiretas.
+ Uma citação indireta é um tipo de citação no qual o(a) autor(a) 
+do trabalho acadêmico utiliza dados ou ideias extraídas de 
+outras publicações, mas não faz uma transcrição textual 
+do conteúdo. 
+Estrutura de uma monografia
+
+===== Página 15 =====
+ Citação indireta
+ Desse modo, quando fazemos uma citação indireta, buscamos o conteúdo citado em outro 
+trabalho, mas o registramos com nossas próprias palavras em nosso texto.
+ As citações indiretas não dispensam as chamadas a referências, mas, nesse caso, não é 
+obrigatório incluirmos o número da página do qual o conteúdo citado foi extraído. 
+ Além disso, como dessa vez estamos escrevendo o nosso próprio texto, mesmo com base 
+em conteúdo de terceiros, não precisamos fazer qualquer destaque visual.
+ Simplesmente, seguimos com a mesma formatação do corpo do trabalho.
+Estrutura de uma monografia
+
+===== Página 16 =====
+ Citação indireta
+ Obviamente, assim como a chamada, a referência associada à citação indireta precisa 
+integrar a lista de referências do trabalho.
+ Citações indiretas são particularmente interessantes para integrar a ideia do trabalho original 
+ao nosso contexto ou para adaptar a linguagem original ao nosso público.
+ Podemos, por exemplo, simplificar uma linguagem muito técnica 
+para tornar o conteúdo mais acessível, ou reescrever um 
+conteúdo com linguagem arcaica em um estilo mais moderno.
+ Além disso, as citações indiretas são muito utilizadas para 
+trazermos dados estatísticos ao nosso trabalho, como taxas 
+percentuais levantadas por institutos de pesquisa.
+Estrutura de uma monografia
+
+===== Página 17 =====
+ Citação de citação
+ A citação de citação ocorre quando fazemos uma citação, seja direta ou indireta, que foi 
+retirada de um trabalho que não é a origem da ideia citada.
+ Imagine que você está escrevendo um texto sobre ética aplicada a sistemas digitais e 
+encontra uma ideia relevante no livro (hipotético) Ética na Era da Tecnologia, publicado pela 
+autora Maria Silva, em 2025. Você quer citar essa ideia em seu texto.
+ No entanto, você percebe que Silva não é a autora original da 
+ideia, já que, ao expor essa ideia em seu livro, ela deixa claro 
+que está citando um clássico estudo do professor João Souza, 
+publicado em 1983 em um livro esgotado e de difícil acesso. 
+ A citação que Maria Silva faz é uma citação direta. 
+Estrutura de uma monografia
+
+===== Página 18 =====
+ Citação de citação
+ O ideal, nesse caso, seria você procurar e consultar o livro do próprio autor da ideia, João 
+Souza, antes de fazer a sua citação. 
+ No entanto, você não conseguiu acessar a obra original, pois ela está 
+indisponível atualmente.
+ Você, então, opta por recorrer ao recurso de citação de citação. 
+ De acordo com a ABNT NBR 10520 (2023), nesse caso, a sua 
+chamada deve incluir o sobrenome dos dois autores, usando a 
+expressão apud, que significa “citado por”, para indicar a 
+fonte intermediária. 
+Estrutura de uma monografia
+
+===== Página 19 =====
+ Sistemas de chamada
+ De acordo com a ABNT NBR 10520 (2023), as citações devem ser indicadas no texto por um 
+sistema de chamada: ou autor-data ou numérico. 
+ Devemos escolher um (e apenas um) desses dois sistemas. 
+ Qualquer que seja o sistema adotado, ele deve ser seguido consistentemente ao longo de 
+todo o trabalho, permitindo a correlação de cada citação com a sua respectiva referência.
+ Vamos conhecer um pouco a respeito de cada sistema, a seguir.
+Estrutura de uma monografia
+
+===== Página 20 =====
+ Sistema autor-data
+ O sistema autor-data foi o sistema que utilizamos em todos os exemplos de chamadas que 
+fizemos até agora, ao longo do livro-texto. 
+ No entanto, alguns detalhes foram omitidos e serão discutidos agora.
+ A seguir, vamos conhecer um pouco a respeito de cada sistema.
+Estrutura de uma monografia
+
+===== Página 21 =====
+ Sistema autor-data
+ Pessoa física
+ A situação mais comum quando elaboramos um trabalho acadêmico é consultarmos obras 
+cuja autoria é uma pessoa física. 
+ Nesse caso, devemos trazer, na chamada, o sobrenome do autor e o ano de publicação da 
+obra – e, em caso de citações diretas, o número da página do conteúdo citado. 
+ Conforme já vimos, a chamada pode ocorrer antes ou depois da citação. 
+Estrutura de uma monografia
+
+===== Página 22 =====
+ Sistema autor-data
+ Exemplo de chamada autor-data em citação indireta:
+ A ironia seria assim uma forma implícita de heterogeneidade mostrada, conforme a 
+classificação proposta por Authier-Revuz (1982).
+Estrutura de uma monografia
+
+===== Página 23 =====
+ Sistema autor-data
+ Pessoa jurídica
+ E quando não citamos pessoas físicas, mas sim pessoas jurídicas? 
+ Nesse caso, devemos incluir na chamada o nome completo ou a sigla da instituição. 
+ No caso de usar siglas, a ABNT recomenda que sejam utilizadas letras maiúsculas. 
+ Os exemplos a seguir, extraídos da ABNT NBR 10520 (2023, p. 5), utilizam citações diretas.
+ Exemplo de chamada autor-data com nome completo da 
+instituição jurídica:
+ “A promoção e proteção da saúde são essenciais para o bem-
+estar do homem e para o desenvolvimento econômico e social 
+sustentável” (Organização Mundial da Saúde, 2010, p. xi).
+Estrutura de uma monografia
+
+===== Página 24 =====
+ Instituição governamental
+ Quando a instituição for governamental e da administração direta, ou seja, um órgão ou uma 
+entidade integrada à estrutura do Estado, devemos usar na chamada autor-data o nome do 
+órgão ou da jurisdição à qual ela pertence. 
+ O exemplo a seguir foi extraído da ABNT NBR 10520 (2023, p. 5), e traz uma 
+citação indireta. 
+ Para tornar mais clara a origem do documento, foi incluída a referência, em sequência.
+No texto:
+ O mecanismo proposto para viabilizar esta concepção é o 
+chamado Contrato de Gestão, que conduziria à captação de 
+recursos privados como forma de reduzir os investimentos 
+públicos no ensino superior (Brasil, 1995).
+Estrutura de uma monografia
+
+===== Página 25 =====
+ Sem autoria
+ E se fizermos citações de trabalhos cuja autoria ou responsabilidade não é explicitada? 
+ Nesse caso, devemos fazer a chamada autor-data pelo título da obra.
+ Acompanhe os exemplos a seguir, extraídos da ABNT NBR 10520 (2023, p. 5-6).
+ Exemplo de título composto por única palavra:
+No texto:
+ “O inglês é uma língua germânica” (Inglês, 2012, p. 7).
+Na lista de referências:
+ INGLÊS: guia de conversação. São Paulo: Lonely Planet: 
+Globo Livros, 2012.
+Estrutura de uma monografia
+
+===== Página 26 =====
+Qual é a principal finalidade da padronização de referências em trabalhos acadêmicos, 
+segundo as normas da ABNT?
+a) Facilitar o uso de citações informais no texto.
+b) Reduzir a quantidade de fontes bibliográficas utilizadas.
+c) Garantir que todas as fontes consultadas sejam listadas em ordem cronológica.
+d) Assegurar clareza, uniformidade e confiabilidade na identificação das fontes utilizadas.
+e) Permitir que o autor inclua apenas as referências que ele achar mais relevantes.
+Interatividade
+
+===== Página 27 =====
+Qual é a principal finalidade da padronização de referências em trabalhos acadêmicos, 
+segundo as normas da ABNT?
+a) Facilitar o uso de citações informais no texto.
+b) Reduzir a quantidade de fontes bibliográficas utilizadas.
+c) Garantir que todas as fontes consultadas sejam listadas em ordem cronológica.
+d) Assegurar clareza, uniformidade e confiabilidade na identificação das fontes utilizadas.
+e) Permitir que o autor inclua apenas as referências que ele achar mais relevantes.
+Resposta
+
+===== Página 28 =====
+A resposta correta é a alternativa d) Assegurar clareza, uniformidade e confiabilidade na 
+identificação das fontes utilizadas.
+Justificativa:
+A padronização das referências, conforme as normas da ABNT, tem como principal objetivo 
+assegurar clareza e uniformidade na apresentação das fontes consultadas em um trabalho 
+acadêmico. Isso permite que os leitores localizem facilmente as obras citadas, garantindo a 
+confiabilidade e a rastreabilidade da informação, o que é fundamental para a integridade 
+científica. As outras alternativas não correspondem às diretrizes nem aos propósitos 
+da padronização.
+Resposta
+
+===== Página 29 =====
+ Obras com múltiplos autores
+ Muitas vezes, queremos citar trechos de obras, como livros ou artigos científicos, que foram 
+produzidas por dois ou mais autores. 
+ A chamada autor-data, nesse caso, deve incluir todos os autores. 
+ No caso de haver pelo menos quatro autores, é possível indicar apenas o primeiro deles e 
+incluir o termo et al., que indica que há outros autores não mencionados. 
+ Exemplo com menos de quatro autores:
+No texto:
+ De acordo com Souza e Oliveira (2023, p. 45), "a 
+sustentabilidade urbana depende de políticas integradas entre 
+o poder público e a sociedade civil”.
+Na lista de referências:
+ SOUZA, A.; OLIVEIRA, B. Cidades Sustentáveis. 2. ed. São 
+Paulo: Editora Ambiental, 2023.
+Estrutura de uma monografia
+
+===== Página 30 =====
+ Sistema numérico
+ Além do sistema autor-data, que costuma ser o protagonista em trabalhos acadêmicos 
+padronizados pela ABNT, a ABNT NBR 10520 (2023) prevê a utilização do sistema 
+numérico de chamadas. 
+ Nesse caso, a chamada ocorre de forma mais discreta, apontando apenas o número da 
+citação (no caso de citações indiretas) ou o número da citação e a página (no caso de 
+citações diretas).
+ Nesse sistema, devemos numerar as citações de forma 
+consecutiva, em algarismos arábicos, que remetem à lista de 
+referências ao final do documento, do capítulo ou da parte, 
+obedecendo à ordem na qual aparecem no texto.
+Estrutura de uma monografia
+
+===== Página 31 =====
+ Sistema numérico
+ A fonte consultada, quando repetida, deve ser representada pelo mesmo número. 
+ Isso significa que, quando mais de uma citação for feita com base na mesma referência, 
+todas essas citações terão o mesmo número no corpo do trabalho.
+ A indicação do número pode ser feita entre parênteses, alinhada ao texto, ou sobrescrita 
+(nesse caso, não usamos parênteses).
+ Exemplo de chamada numérica em citação indireta:
+No texto:
+ A sustentabilidade hídrica não pode ser dissociada de práticas 
+agrícolas responsáveis ⁴.
+Na lista de referências:
+ ⁴ LIMA, A.; SOUZA, B.; OLIVEIRA, C.; SANTOS, D.; 
+PEREIRA, E. Gestão Sustentável de Recursos Hídricos. 3. 
+ed. Rio de Janeiro: Editora Água, 2024.
+Estrutura de uma monografia
+
+===== Página 32 =====
+ Padronização para referências
+ A ABNT NBR 6023 (2018) traz informações a respeito da elaboração de referências em 
+trabalhos acadêmicos. 
+ De acordo com a norma, a referência deve ser constituída de elementos essenciais e, 
+quando necessário, de elementos complementares.
+ Os elementos essenciais são as informações indispensáveis à identificação da obra. Já os 
+elementos complementares permitem que as obras sejam mais bem caracterizadas.
+Estrutura de uma monografia
+
+===== Página 33 =====
+ Monografia no todo
+ Pela ABNT NBR 6023 (2018), são consideradas monografias livros e/ou folhetos (manuais, 
+guias, catálogos, enciclopédias, dicionários, entre outros) e trabalhos acadêmicos (teses, 
+dissertações, trabalhos de conclusão de curso, entre outros).
+ Os elementos essenciais para livro e/ou folheto são: autor(es), título, subtítulo (se houver), 
+edição (se houver), local, editora e ano de publicação. 
+ O título deve aparecer com destaque em negrito. 
+ Os prenomes dos autores podem vir por extenso ou ser 
+identificados apenas por suas iniciais. 
+ Os autores devem ser separados entre si por ponto e vírgula. 
+Acompanhe os exemplos de referência de livros, a seguir.
+Estrutura de uma monografia
+
+===== Página 34 =====
+ Monografia no todo
+ LUCK, Heloisa. Liderança em gestão escolar. 4. ed. Petrópolis: Vozes, 2010.
+ GOMES, A. C.; VECHI, C. A. Estática romântica: textos doutrinários comentados. São 
+Paulo: Atlas, 1992.
+ Para trabalhos acadêmicos, os elementos considerados como 
+essenciais são: autor(es), título, subtítulo (se houver), ano de 
+depósito, tipo do trabalho (tese, dissertação, trabalho de 
+conclusão de curso e outros), grau (especialização, doutorado, 
+entre outros) e curso entre parênteses, vinculação acadêmica, 
+local e data de apresentação ou defesa. 
+ Acompanhe os exemplos a seguir.
+Estrutura de uma monografia
+
+===== Página 35 =====
+ Monografia no todo
+ AGUIAR, André Andrade de. Avaliação da microbiota bucal em pacientes sob uso 
+crônico de penicilina e benzatina. 2009. Tese (Doutorado em Cardiologia) – Faculdade de 
+Medicina, Universidade de São Paulo, São Paulo, 2009.
+ ALVES, Daian Péricles. Implementação de conceitos de manufatura colaborativa: um 
+projeto virtual. 2008. Trabalho de Conclusão de Curso (Bacharelado em Engenharia 
+Industrial Mecânica) – Universidade Tecnológica Federal do Paraná, Curitiba, 2008.
+Estrutura de uma monografia
+
+===== Página 36 =====
+ Monografia no todo em meio eletrônico
+ Nessa categoria, estão os livros e/ou folhetos e trabalhos acadêmicos consultados em meio 
+digital ou eletrônico (CD-ROM, DVD, online, entre outros).
+ Para documentos em meio eletrônico obtidos por uma mídia física (como CD, DVD, pen-
+drive, blu-ray disc, entre outros), as referências devem obedecer aos padrões indicados para 
+os documentos monográficos no todo, acrescidas da descrição física do suporte. 
+ Acompanhe o exemplo: 
+ GODINHO, Thais. Vida organizada: como definir prioridades 
+e transformar seus sonhos em objetivos. São Paulo: Gente, 
+2008. CD-ROM.
+Estrutura de uma monografia
+
+===== Página 37 =====
+ Monografia no todo em meio eletrônico
+ Para documentos online, além dos elementos essenciais para documentos monográficos, 
+devemos registrar o endereço eletrônico, precedido da expressão “Disponível em:”, e a data 
+de acesso, precedida da expressão “Acesso em:”. Veja, a seguir:
+ BAVARESCO, Agemir; BARBOSA, Evandro; ETCHEVERRY, Katia Martin (org.). Projetos de 
+filosofia. Porto Alegre: EDIPUCRS, 2011. E-book. Disponível em: 
+http://ebooks.pucrs.br/edipucrs/projetosdefilosofia.pdf. Acesso em: 21 ago. 2011.
+ SAYERS, R. Principles of awareness-raising: for information 
+literacy, a case study. Bangkok: UNESCO Bangkok, 2006. 
+Disponível em: 
+http://portal.unesco.org/ci/en/files/22439/11510733461Principle
+s_of_AwarenessRaising_19th_April_06.pdf/Principles%2Bof%
+2BAwareness_Raising_19th%2BApril%2B06.pdf. Acesso em: 
+23 abr. 2010.
+Estrutura de uma monografia
+
+===== Página 38 =====
+ Artigo, seção e/ou matéria de publicação periódica
+ Nessa categoria, consideramos partes de publicação periódica, artigo, comunicação, 
+editorial, entrevista, recensão, reportagem, resenha e outros. Os artigos científicos, por 
+exemplo, se enquadram aqui.
+ Os elementos essenciais, nesse caso, são: autor(es), título do artigo ou da matéria, subtítulo 
+(se houver), título do periódico, subtítulo (se houver), local de publicação, numeração do ano 
+e/ou volume, número e/ou edição, tomo (se houver), páginas inicial e final, e data ou período 
+de publicação.
+ O destaque em negrito, nesse caso, deve ser feito ao título do 
+periódico. Acompanhe alguns exemplos, a seguir.
+ DOREA, R. D.; COSTA, J. N.; BATITA, J. M.; FERREIRA, M. 
+M.; MENEZES, R. V.; SOUZA, T. S. Reticuloperitonite 
+traumática associada à esplenite e hepatite em bovino: relato 
+de caso. Veterinária e Zootecnia, São Paulo, v. 18, n. 4, p. 
+199-202, 2011. Supl. 3.
+Estrutura de uma monografia
+
+===== Página 39 =====
+ Documento de acesso exclusivo em meio eletrônico
+ Essa categoria abrange bases de dados, listas de discussão, programas de computador, 
+redes sociais, mensagens eletrônicas, entre outros.
+ Os elementos essenciais são: autor, título da informação ou serviço ou produto, versão ou 
+edição (se houver), local, data e descrição física do meio eletrônico.
+ Quando se tratar de documentos online, além dos elementos essenciais, devemos registrar o 
+endereço eletrônico, precedido da expressão “Disponível em:”, e a data de acesso, 
+precedida da expressão “Acesso em:”. Veja exemplos, a seguir:
+ APPLE. OS X El Capitan. Versão 10.11.6. [Cupertino]: Apple, 
+c2017. 1 CD-ROM.
+Estrutura de uma monografia
+
+===== Página 40 =====
+Qual é a principal importância de definir claramente os objetivos em uma monografia?
+a) Garantir que o trabalho tenha um número mínimo de páginas.
+b) Facilitar a escolha do título do trabalho.
+c) Direcionar a pesquisa e delimitar o escopo do estudo.
+d) Atender a uma exigência burocrática da instituição.
+e) Garantir que o trabalho seja aprovado sem correções.
+Interatividade
+
+===== Página 41 =====
+Qual é a principal importância de definir claramente os objetivos em uma monografia?
+a) Garantir que o trabalho tenha um número mínimo de páginas.
+b) Facilitar a escolha do título do trabalho.
+c) Direcionar a pesquisa e delimitar o escopo do estudo.
+d) Atender a uma exigência burocrática da instituição.
+e) Garantir que o trabalho seja aprovado sem correções.
+Resposta
+
+===== Página 42 =====
+A resposta correta é a alternativa c) Direcionar a pesquisa e delimitar o escopo do estudo.
+Justificativa:
+Os objetivos de uma monografia são fundamentais para orientar todo o desenvolvimento do 
+trabalho acadêmico. 
+Eles ajudam a delimitar o que será investigado, determinando o foco da pesquisa, os limites do 
+tema abordado e os caminhos metodológicos a seguir. 
+Sem objetivos claros, o trabalho pode se tornar vago, disperso ou sem aprofundamento. 
+Portanto, os objetivos são essenciais para garantir coerência, clareza e relevância ao estudo.
+Resposta
+
+===== Página 43 =====
+ FERRAMENTAS DE PESQUISA
+ No nosso livro-texto, vamos conhecer alguns catálogos de obras interessantes para 
+trabalhos acadêmicos e vamos, também, falar a respeito de um tema muito importante no 
+mundo da pesquisa: o plágio. 
+Estrutura de uma monografia
+
+===== Página 44 =====
+ Catálogos de consulta de obras de interesse acadêmico
+ Há diversas bases de dados que concentram obras de interesse para autores que buscam 
+referências para embasar seus trabalhos acadêmicos, que vão além das bibliotecas físicas. 
+ Essas bases são importantes ferramentas de pesquisa, pelas quais podemos encontrar 
+referências confiáveis. 
+ Falaremos a respeito de algumas delas a seguir.
+Estrutura de uma monografia
+
+===== Página 45 =====
+ Minha Biblioteca
+ A Minha Biblioteca é um sistema de biblioteca digital que reúne milhares de livros eletrônicos, 
+em português, nas mais diversas áreas do conhecimento. 
+ O acesso às obras é integral, ou seja, conseguimos acessar o livro completo por meio 
+do sistema.
+ Algumas das editoras participantes são: LTC, Érica, Saraiva, Atlas, AMGH, Cengage 
+Learning, entre outras.
+ O site da biblioteca pode ser acessado pelo endereço https://minhabiblioteca.com.br/. 
+Estrutura de uma monografia
+
+===== Página 46 =====
+ Biblioteca Virtual Pearson
+ A Biblioteca Virtual da Pearson Higher Education também é um sistema de biblioteca digital 
+que reúne milhares de livros eletrônicos em nosso idioma.
+Além dos títulos da própria editora Pearson, algumas das editoras parceiras são: 
+ Contexto, InterSaberes, Rideel, Interciência, Blucher, entre outras.
+Estrutura de uma monografia
+
+===== Página 47 =====
+ Biblioteca Digital Brasileira de Teses e Dissertações
+ A Biblioteca Digital Brasileira de Teses e Dissertações (BDTD) é um repositório destinado à 
+busca de monografias relativas a trabalhos de pós-graduação stricto sensu. 
+ A base de dados da BDTD é composta por trabalhos de mais de uma centena de instituições 
+do Brasil, como a Universidade de São Paulo (USP), a Universidade Estadual de Campinas 
+(Unicamp), diversas universidades federais e alguns grupos de universidades particulares. 
+Estrutura de uma monografia
+
+===== Página 48 =====
+ Biblioteca Digital Brasileira de Teses e Dissertações
+ A BDTD foi desenvolvida e é coordenada pelo Instituto Brasileiro de Informação em Ciência e 
+Tecnologia (IBICT). 
+ A BDTD, em parceria com as instituições de ensino e de pesquisa, possibilita que a 
+comunidade brasileira de ciência e de tecnologia publique e difunda suas teses e 
+dissertações produzidas no país e no exterior, dando maior visibilidade à produção 
+científica nacional.
+ A página inicial da BDTD, que pode ser vista na figura a 
+seguir, permite que você busque monografias por título, por 
+autor, por ano de publicação, por assunto ou por resumo. 
+ Você pode acessá-la pelo endereço https://bdtd.ibict.br/vufind/.
+Estrutura de uma monografia
+
+===== Página 49 =====
+ Biblioteca Digital Brasileira de Teses e Dissertações
+Estrutura de uma monografia
+Página inicial da BDTD.
+Fonte: Instituto Brasileiro de Informação em Ciência e 
+Tecnologia, 2025.
+
+===== Página 50 =====
+ Portal de Periódicos da CAPES
+ O Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior 
+(CAPES) é um grande acervo científico virtual do país. 
+ Ele reúne e disponibiliza conteúdos de interesse científico a instituições de ensino e de 
+pesquisa do Brasil. 
+ O portal disponibiliza milhares de periódicos científicos de texto completo e centenas de 
+bases de dados de conteúdos diversos, como artigos, patentes, estatísticas, material 
+audiovisual, normas técnicas, teses, dissertações, livros e obras de referência.
+ A página inicial do Portal de Periódicos da CAPES, que pode 
+ser vista na figura a seguir, permite que você busque por 
+periódicos ou por livros, por exemplo. 
+ Você pode acessá-la pelo endereço https://bdtd.ibict.br/vufind/.
+Estrutura de uma monografia
+
+===== Página 51 =====
+ Portal de Periódicos da CAPES
+Estrutura de uma monografia
+Página inicial do Portal de Periódicos da CAPES.
+Fonte: Coordenação de Aperfeiçoamento de 
+Pessoal de Nível Superior, 2025.
+
+===== Página 52 =====
+ Detecção de plágio
+ O plágio costuma ser um dos temas de grande preocupação para autores de trabalhos 
+acadêmicos e para instituições de ensino e de pesquisa, em geral.
+ Discutiremos a definição do termo e os tipos de plágio. 
+ Apresentaremos algumas ferramentas de detecção de plágio disponíveis no mercado. 
+Estrutura de uma monografia
+
+===== Página 53 =====
+ O que é plágio?
+ De acordo com Krokoscz (2015, p. 14), “o plágio é entendido como uma modalidade de 
+fraude, caracterizado pela apropriação de obra alheia, na qual estão envolvidos basicamente 
+dois sujeitos: o autor original e o plagiário reprodutor”. 
+ O plágio, portanto, consiste na indevida apropriação, parcial ou integral, do conteúdo 
+de terceiros.
+ Em outras palavras, o plágio é a cópia de ideias, de textos, de 
+dados ou de materiais criados por outra pessoa, sem dar os 
+devidos créditos ao autor original, apresentando-os como se 
+fossem de sua própria autoria.
+Estrutura de uma monografia
+
+===== Página 54 =====
+ O que é plágio?
+ A Lei n. 9.610 (Brasil, 1998) regula os direitos autorais de obras literárias, artísticas 
+ou científicas. 
+ A lei assegura ao autor o direito ao uso e à distribuição de sua própria obra. 
+ De acordo com seu texto, a apropriação integral ou parcial de obras alheias pode resultar no 
+recolhimento dos materiais que contenham plágio e/ou na indenização ao autor cuja obra 
+foi plagiada.
+Estrutura de uma monografia
+
+===== Página 55 =====
+Em um trabalho acadêmico, qual é a principal função da bibliografia?
+a) Apresentar os dados estatísticos da pesquisa realizada.
+b) Descrever o método utilizado para o desenvolvimento do trabalho.
+c) Listar todas as fontes consultadas e citadas no trabalho.
+d) Introduzir o tema e os objetivos do trabalho.
+e) Apresentar os resultados e conclusões obtidas.
+Interatividade
+
+===== Página 56 =====
+Em um trabalho acadêmico, qual é a principal função da bibliografia?
+a) Apresentar os dados estatísticos da pesquisa realizada.
+b) Descrever o método utilizado para o desenvolvimento do trabalho.
+c) Listar todas as fontes consultadas e citadas no trabalho.
+d) Introduzir o tema e os objetivos do trabalho.
+e) Apresentar os resultados e conclusões obtidas.
+Resposta
+
+===== Página 57 =====
+A resposta correta é a alternativa c) Listar todas as fontes consultadas e citadas no trabalho.
+Justificativa:
+A bibliografia, também conhecida como referências, em trabalhos acadêmicos conforme as 
+normas da ABNT, tem como função principal relacionar todas as fontes (livros, artigos, sites, 
+teses etc.) que foram citadas e/ou utilizadas para embasar a pesquisa. Ela garante a 
+credibilidade do trabalho, evita o plágio e permite que o leitor localize as obras consultadas 
+para aprofundar o estudo. 
+Resposta
+
+===== Página 58 =====
+ BRASIL. Lei n. 9610, de 19 de fevereiro de 1998. Brasília, DF: Presidência da República, 
+1998.
+ BRASILEIRO, A. M. M. Como produzir textos acadêmicos e científicos. São Paulo: Contexto, 
+2021.
+ KROKOSCZ, M. Outras palavras sobre autoria e plágio. São Paulo: Atlas, 2015.
+Referências
+
+===== Página 59 =====
+ATÉ A PRÓXIMA!

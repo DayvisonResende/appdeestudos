@@ -1,0 +1,767 @@
+===== Página 1 =====
+96
+Unidade IV
+Unidade IV
+7 PESQUISA, INOVAÇÃO E PRÁTICA DE MERCADO
+Esta unidade será dedicada a trazer exemplos práticos de inovações relevantes, oriundas de pesquisas 
+científicas, que impactam direta ou indiretamente as nossas vidas. Algumas delas são voltadas à área 
+de saúde e bem‑estar, e outras são intimamente relacionadas à área tecnológica, que é o foco do 
+nosso estudo.
+Vamos começar com algumas definições importantes: pesquisa, inovação e prática de mercado. 
+Em seguida, abordaremos alguns exemplos gerais de inovação, que foram muito relevantes para suas 
+respectivas áreas, as quais só foram possíveis devido à pesquisa científica desenvolvida, que embasou o 
+conhecimento científico necessário para a sua realização.
+7.1 Conceitos gerais
+Agora, vamos trazer as definições delimitadas ao tema deste livro‑texto para os termos pesquisa, 
+inovação e prática de mercado. Além disso, ilustraremos a relação entre os termos, por meio do processo 
+pesquisa → inovação → prática de mercado.
+7.1.1 Pesquisa
+Ao nos referimos à pesquisa, estamos falando especificamente da pesquisa científica, que se trata 
+de uma atividade sistemática voltada ao aumento do conhecimento científico em determinada área. 
+A pesquisa básica, por exemplo, visa apenas ampliar o conhecimento científico de sua área, sem se 
+preocupar com uma aplicação prática imediata.
+Podemos dizer, assim, que a pesquisa pode ou não levar a uma inovação, que é o termo que 
+discutiremos a seguir.
+7.1.2 Inovação
+Segundo Vasconcellos (2021, p. 28), a inovação, de maneira geral, pode ser definida como “uma ideia 
+que sofreu alguma ação, com resultados positivos para todas as partes interessadas” . O autor cita, ainda, 
+dois tipos básicos de inovação:
+• Inovação baseada na ciência: nesse tipo de inovação, os conhecimentos são adquiridos ou por 
+atividades próprias de pesquisa ou pela absorção do conhecimento científico gerado externamente.
+• Inovação baseada na prática: aqui, a criação de conhecimento acontece nos locais de trabalho, 
+a partir das experiências pessoais, das observações e das interações que ocorrem nas atividades 
+diárias de todos os indivíduos.
+
+===== Página 2 =====
+97
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Quando, neste livro‑texto, falamos de inovação, estamos nos referindo ao primeiro tipo. Isto é, 
+falamos da utilização do conhecimento científico gerado a partir de pesquisas para criar ou para 
+aprimorar produtos, processos ou serviços. A pesquisa é o ponto de partida, e a inovação é a aplicação 
+efetiva do conhecimento adquirido a partir da pesquisa para gerar valor.
+De acordo com Cordaro (2024), a demanda é considerada a principal motivação para uma inovação, 
+por trazer uma necessidade que precisa de solução.
+Desse modo, as inovações são, geralmente impulsionadas por demandas. Por exemplo, um fabricante 
+de baterias pode querer desenvolver uma nova bateria para ser utilizada em smartphones, porque o 
+tempo de duração das baterias atuais está gerando insatisfação nos usuários.
+Para isso, o fabricante não vai elaborar um novo projeto de bateria “do zero”: ele vai utilizar todo o 
+conhecimento científico disponível até então, vai promover pesquisas aplicadas a esse fim específico 
+e, então, vai usar esse conhecimento para construir sua inovação. Por isso, a pesquisa é mandatória 
+para a inovação.
+7.1.3 Prática de mercado
+A prática de mercado é a ampla utilização das inovações no mercado, ou seja, é a abrangência 
+da incorporação das inovações geradas nas práticas das empresas, das fábricas, das indústrias ou 
+das organizações.
+Isso significa que inovações muito relevantes e de grande viabilidade costumam se transformar em 
+práticas de mercado, ao longo do tempo.
+Se a bateria do fabricante do exemplo anterior se mostrar um produto com bom custo‑benefício, 
+sem grandes novos impactos ambientais e com uma boa performance em comparação às baterias 
+utilizadas anteriormente, é bem provável que esse produto inovador se torne uma prática de mercado.
+Assim, a pesquisa, quando aplicada, dá origem a uma inovação que, quando viável, bem difundida e 
+bem aceita, se torna uma prática de mercado.
+Pesquisa Inovação Prática de mercado
+Figura 29 – Ilustração do processo pesquisa → inovação → prática de mercado
+
+===== Página 3 =====
+98
+Unidade IV
+7. 2 Exemplos gerais de inovações
+Agora que já entendemos a relação entre pesquisa, inovação e prática de mercado, vamos trazer 
+alguns exemplos reais de inovações baseadas na ciência que se transformaram em práticas de mercado 
+ou que têm um grande potencial para isso. As inovações abordadas aqui fogem da área computacional, 
+que terá um tópico dedicado a ela.
+É importante frisar que o objetivo desta seção não é esgotar as inovações oriundas de pesquisas 
+científicas, mas sim citar apenas algumas delas que causaram grande impacto tecnológico.
+Além disso, nossa intenção não é compreender profundamente todos os conceitos científicos que 
+existem por trás de cada inovação abordada, no entanto, queremos apresentar um panorama a respeito 
+de suas pesquisas, de seu processo de inovação e de sua prática de mercado.
+Vacinas de mRNA
+De acordo com o artigo científico elaborado por Kisakova et al. (2023), as vacinas de mRNA são 
+uma plataforma promissora para o desenvolvimento de vacinas contra diversos agentes infecciosos, 
+e contribuíram muito com o combate à pandemia de Covid‑19. Ainda de acordo com os autores, 
+em 2020, ocorreu a primeira aprovação de uma vacina de mRNA, da Moderna e Pfizer/BioNTech. Entre 
+as vantagens desse tipo de vacina, estão a simplicidade de fabricação, o baixo custo de produção e a 
+rápida capacidade de produção, fatores importantes para sua adoção em larga escala.
+As pesquisas científicas a respeito do tema, no entanto, começaram muito antes de 2020. De acordo 
+com um artigo de divulgação científica dos Laboratórios Pfizer (2022), o mRNA foi descoberto na década 
+de 1960 e já na década de 1970 começou a ser pesquisado para a utilização em vacinas.
+Para entendermos um pouco a respeito do seu funcionamento, vamos abordar alguns conceitos 
+introdutórios, explanados pelos Laboratórios Pfizer (2022).
+O ácido desoxirribonucleico (DNA) é uma molécula presente no núcleo de todas as células de 
+qualquer ser vivo (com exceção de alguns vírus). A função dele é armazenar as informações genéticas 
+do ser e transmiti‑las ao ácido ribonucleico (RNA).
+O RNA, por sua vez, é responsável pela síntese das proteínas que formam todas as células do ser vivo, 
+a partir das informações armazenadas no DNA. Há três tipos de RNA que participam desse processo de 
+síntese, sendo que um deles é o RNA mensageiro (mRNA).
+Antes da produção de vacinas de mRNA, todas as vacinas eram produzidas a partir de uma parte de 
+um agente infeccioso específico (como um vírus) morto ou atenuado. Essas vacinas fazem com que o 
+organismo da pessoa vacinada reconheça o agente estranho e desenvolva uma resposta imunológica, 
+que é capaz de prevenir infecções graves. A produção desse tipo de vacina pode demorar anos.
+As vacinas de mRNA são feitas a partir de um mRNA sintético, que corresponde a uma proteína do 
+agente infeccioso. Nesse caso, o indivíduo vacinado não é exposto a uma parte do agente que causa
+
+===== Página 4 =====
+99
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+a doença, mas sim a um modelo do RNA mensageiro dele. Isso faz com que as células do indivíduo 
+produzam parte de uma proteína específica do agente infeccioso. Essa proteína é inofensiva, mas, com 
+essa produção, o organismo “aprende” que a proteína é estranha, e desenvolve uma resposta imunológica 
+a ela. Desse modo, o corpo da pessoa vacinada é capaz de se proteger contra futuras infecções pelo 
+mesmo tipo de vírus.
+Em muitos casos, a vacina não é capaz de impedir que a pessoa fique doente, mas a resposta 
+imunológica que ela produziu auxilia na redução da gravidade da doença.
+ Lembrete
+A produção de vacinas de mRNA exigiram o conhecimento de décadas 
+de pesquisa científica, desde a pesquisa básica em RNA mensageiro, iniciada 
+nos anos 1960. A aprovação da primeira vacina de mRNA aconteceu em 
+2020, e, rapidamente, sua produção foi adotada em larga escala.
+Crispr/Cas9
+Segundo o comunicado de imprensa do Nobel Prize (2020), no ano de 2020, as cientistas Emmanuelle 
+Charpentier e Jennifer A. Doudna receberam o prêmio Nobel de Química por terem descoberto a técnica 
+Crispr/Cas9, em 2012. O comunicado afirma que essa tecnologia teve um impacto revolucionário nas 
+ciências da vida, o que contribui para a geração de novas terapias contra o câncer e pode ajudar a curar 
+doenças hereditárias.
+Na biologia, um gene é um trecho do DNA de um ser vivo, e é considerado a unidade fundamental 
+da hereditariedade. Se pensarmos no DNA como um livro de receitas, consideraríamos que cada receita 
+é um gene. Assim, o DNA representa todo o material genético do indivíduo, e cada gene é responsável 
+por trazer uma “receita” específica (por exemplo, a “receita” para produzir melanina, que dá cor à pele).
+A edição genética é um tipo de engenharia genética que possibilita que genes sejam inseridos, 
+substituídos ou removidos do código genético. O Crispr/Cas9 é uma dessas técnicas.
+Em termos simples, o Crispr (pronunciamos “crísper”) é um sistema de defesa natural de bactérias, 
+que foi descoberto e adaptado para o uso científico. Cas é uma proteína que age como uma “tesoura”, 
+que corta o DNA no local exato que os cientistas querem editar. A proteína Cas mais famosa é a Cas9.
+O Crispr/Cas9, portanto, é uma técnica de edição genética que funciona como uma tesoura 
+molecular, propiciando aos cientistas que modifiquem o DNA de organismos com alta precisão.
+Os cientistas, basicamente, levam uma proteína Cas9 até o gene específico que deve ser alterado, e 
+então a proteína “corta” o DNA naquele ponto, removendo os genes defeituosos, promovendo a correção 
+de mutações e a inserção de novos genes.
+
+===== Página 5 =====
+100
+Unidade IV
+O Crispr/Cas9 é uma técnica considerada simples de ser implementada e foi amplamente difundida 
+na pesquisa básica. A técnica é usada em laboratório para alterar o DNA de células com o objetivo de 
+entender como diferentes genes atuam e interagem entre si.
+Duas das aplicações mais óbvias dessa técnica de edição genética são tratar doenças genéticas e 
+criar plantas mais resistentes a pragas.
+De acordo com Zorzetto (2020), o primeiro uso da técnica em seres humanos foi publicado em 2019, 
+mas a Crispr/Cas9 não é a primeira forma de edição genética testada em humanos. A ideia de que era 
+possível “cortar” material genético nasceu na década de 1960, com a descoberta de um sistema de 
+defesa de bactérias. Posteriormente, nos anos 1990 e 2000, duas outras técnicas se favoreceram desse 
+princípio. Desse modo, a evolução da engenharia genética até o estágio atual demandou décadas de 
+conhecimento científico acumulado.
+De acordo com Felix (2023), a técnica Crispr/Cas9 já é utilizada comercialmente, mas muitas pesquisas 
+ainda são feitas nessa área. O Reino Unido foi o primeiro país a aprovar, em 2023, uma terapia baseada 
+no Crispr/Cas9 para tratar doenças como anemia falciforme e talassemia beta.
+ Saiba mais
+A bióloga Ana Cláudia Munhoz Bonassa atua como divulgadora científica 
+no canal de YouTube intitulado Nunca vi 1 cientista. No vídeo de curta 
+duração “O bebê que pode mudar a medicina”, ela fala a respeito do primeiro 
+uso totalmente personalizado e in vivo da técnica Crispr em um ser humano. 
+Assista ao vídeo em:
+O BEBÊ que pode mudar a medicina. 2021. 1 vídeo (1 min). Publicado 
+pelo canal Nunca Vi 1 Cientista. Disponível em: https://tinyurl.com/53p8fk9s. 
+Acesso em: 20 jun. 2025.
+ Lembrete
+Em geral, conteúdos de divulgação científica trazem vocabulário mais 
+simples e algumas simplificações do conteúdo científico original, pois são 
+destinados a pessoas que não são profissionais da área.
+Soja tropicalizada
+De acordo com Medrades (2023), a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), criada 
+em 1972, implantou um programa de pós‑graduação que objetivava capacitar pesquisadores. Em 1975, 
+foi concebido o centro de pesquisa Embrapa Soja, destinado a promover o avanço da pesquisa relativa 
+ao cultivo de soja adaptada ao clima brasileiro.
+
+===== Página 6 =====
+101
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Quando cultivada fora do sul do Brasil, a soja tendia a florescer precocemente em ambientes com 
+dias mais longos, e, com isso, sua produtividade caía. Para superar o desafio, foi necessário desenvolver 
+uma variedade de soja com características genéticas que inibissem o florescimento. Isso foi alcançado 
+ainda na década de 1970 pela Embrapa.
+Com essa nova variedade, que é a soja tropicalizada, o Brasil foi capaz de expandir sua produção. 
+Hoje, a soja é o nosso principal produto de exportação.
+O aumento da produção de soja também incentivou o desenvolvimento de maquinário agrícola, a 
+melhora do sistema de transporte e de armazenagem e contribuiu com a urbanização do país.
+Esses avanços impactam diariamente outros setores da agricultura brasileira, a sociedade e a 
+economia de maneira geral. Eles somente foram possíveis graças à pesquisa produzida por uma rede de 
+cientistas empenhados em desenvolver uma soja adaptada ao clima do Brasil.
+Atualmente, a Embrapa Soja se mantém relevante. De acordo com Landgraf (2025), a cientista 
+brasileira Mariangela Hungria da Cunha, pesquisadora da Embrapa Soja, foi a laureada da edição de 2025 
+do World Food Prize (Prêmio Mundial de Alimentação), conhecido como o Prêmio Nobel da agricultura. 
+A nomeação ocorreu devido à sua relevante contribuição ao desenvolvimento de insumos biológicos 
+para a agricultura.
+8 INOVAÇÕES COMPUTACIONAIS ORIUNDAS DE PESQUISAS CIENTÍFICAS
+Agora vamos abordar inovações especialmente relevantes para a área computacional.
+É importante frisar que o objetivo desta seção não é esgotar as inovações computacionais advindas 
+de pesquisas científicas, mas sim citar apenas algumas delas, que causaram grande impacto tecnológico.
+Além disso, nossa intenção não é compreender profundamente todos os conceitos científicos que 
+existem por trás de cada inovação apresentada, o que significa que pretendemos trazer um panorama a 
+respeito de suas pesquisas, de seu processo de inovação e de sua prática de mercado.
+De acordo com Carvalho e Lorena (2017), boa parte dos recursos de computação que utilizamos 
+hoje surgiram de ideias e de inovações geradas em universidades e em centros de pesquisa. Além disso, 
+pesquisas realizadas em outras áreas do conhecimento fazem uso intenso da computação para simulação 
+de problemas, de situações e de possíveis soluções, assim como usam a computação para o controle da 
+realização de experimentos. Logo, a computação está intimamente ligada à ciência.
+Por mais que os conceitos de hardware e de software sejam pilares da computação e estejam 
+intimamente ligados, vamos abordá‑los separadamente.
+
+===== Página 7 =====
+102
+Unidade IV
+8.1 Exemplos de inovações na área de hardware
+Carvalho e Lorena (2017) definem o termo hardware como a parte material, física e tocável de um 
+sistema computacional. Isso abarca, por exemplo, o monitor de vídeo, o teclado, os dispositivos de 
+memória, os fios, o processador e as placas.
+Veremos, a seguir, duas inovações científicas que foram especialmente importantes para o 
+desenvolvimento tecnológico do hardware computacional.
+Transistor
+Historicamente, os circuitos de processamento de dados dos computadores usam dispositivos que 
+atuam como interruptores, ou seja, dispositivos que funcionam em dois estados – ou ligado ou desligado.
+De acordo com Wazlawick (2016), os primeiros computadores efetivos construídos no século XX 
+tinham seus circuitos de processamento feitos com relês ou com válvulas, que são dispositivos capazes 
+de atuar como interruptores. No entanto, enquanto isso acontecia, o próximo dispositivo que seria 
+empregado para a construção dos computadores já estava sendo criado na Bell Labs, uma empresa de 
+pesquisa industrial e de desenvolvimento científico sediada nos Estados Unidos, fundada em 1925.
+Em 1947, os físicos John Bardeen e Walter Brattain, pesquisadores da Bell Labs, construíram o 
+primeiro transistor operacional. De forma simplificada, o transistor é um dispositivo eletrônico de três 
+terminais capaz de realizar as mesmas funções que a válvula, atuando como interruptor eletrônico ou 
+como amplificador de sinais.
+Porém, a invenção do transistor propiciou que esses componentes fossem usados em grandes 
+quantidades e com vasta confiabilidade, o que o tornava especialmente atrativo para a computação.
+Para processar dados, os relês eram muito lentos. As válvulas, além de queimarem com frequência, 
+consumiam muita energia. Com o transistor, surgia uma nova opção: interruptores em estado sólido (ou 
+seja, sem partes móveis), rápidos e confiáveis.
+A pesquisa sobre transistores foi iniciada durante a Segunda Guerra Mundial, devido à necessidade 
+de trabalhar com recepção de micro‑ondas, que são ondas de rádio de frequência muito alta. As válvulas 
+não davam conta dessa tarefa. Desse modo, os pesquisadores começaram a trabalhar com cristais de 
+germânio, um material semicondutor.
+Diversos experimentos foram feitos sem sucesso, até que os pesquisadores executaram o esquema 
+ilustrado na figura a seguir. Eles fixaram uma fina lâmina de ouro sobre uma cunha de material plástico. 
+Os cientistas, então, cortaram a lâmina bem na aresta da cunha, dividindo‑a em duas partes, mas 
+deixando‑as muito próximas fisicamente. Essa aresta, na qual o corte foi feito, foi apoiada sobre um 
+cristal de germânio.
+
+===== Página 8 =====
+103
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+a
+a
+e
+e
+b
+f
+d
+c
+b
+Figura 30 – Esquema ilustrativo do transistor de ponto de contato
+Disponível em: https://tinyurl.com/3uyyx2js. Acesso em: 20 jun. 2025.
+Na figura, (a) e (b) representam dois terminais do transistor, conhecidos como coletor e emissor, 
+respectivamente. O coletor é um contato posicionado sobre uma parte da lâmina de ouro, e o emissor 
+é um contato posicionado sobre a outra parte. A cunha de plástico está representada em (e). O corte 
+na lâmina de ouro pode ser visto no detalhe, destacado à esquerda. O cristal de germânio é ilustrado 
+em (d). O terminal de base, que representa o “controle do interruptor”, é mostrado em (c). Uma mola (f) 
+foi utilizada para pressionar a aresta contra o cristal de germânio.
+Ao aplicar uma corrente elétrica sobre o lado oposto do cristal de germânio, ou seja, na base (c), o 
+circuito se fechava e a corrente era capaz de fluir entre as duas partes da lâmina de ouro, do emissor (a) 
+para o coletor (b), representando o estado “ligado” ou “fechado” . Sem a aplicação da corrente na base, 
+o contato se abria e a corrente parava de fluir entre as duas partes da lâmina de ouro, representando o 
+estado “desligado” ou “aberto” .
+Daí, temos um dispositivo capaz de trabalhar como interruptor que é comandado não por um 
+movimento mecânico, como fazemos com os interruptores das lâmpadas da nossa casa, mas sim pela 
+corrente aplicada no terminal de base do dispositivo.
+Esse primeiro modelo de transistor, representado na figura, é chamado de transistor de ponto de 
+contato. Outros modelos mais sofisticados foram fabricados posteriormente. O transistor de junção 
+bipolar, por exemplo, foi inventado em 1948, também na Bell Labs, por William B. Shockley. O transistor 
+de efeito de campo, outro modelo de dispositivo, se difundiu na década de 1970.
+Schuler (2013) afirma que a invenção do transistor foi tão significativa para a ciência e para a 
+tecnologia que Bardeen, Brittain e Shockley foram agraciados com o prêmio Nobel de Física por suas 
+pesquisas com materiais semicondutores e pela descoberta do efeito transistor.
+Transistores tornaram‑se dispositivos de amplo uso comercial em equipamentos eletrônicos. Até hoje, 
+são eles que executam as funções de processamento nos circuitos integrados dos nossos computadores.
+
+===== Página 9 =====
+104
+Unidade IV
+Circuitos integrados
+Wazlawick (2016) afirma que, ao longo da década de 1950, o uso do transistor no lugar da válvula 
+representou um grande avanço na indústria dos computadores. Porém, conforme a demanda por 
+maior capacidade de processamento aumentava, os engenheiros tinham cada vez mais dificuldade 
+em conectar  cada vez mais transistores individuais entre si, uma vez que um único ponto de solda 
+defeituoso poderia inviabilizar o funcionamento do computador.
+Além disso, à medida que os computadores ficavam maiores devido ao maior número de 
+dispositivos, os sinais elétricos levavam cada vez mais tempo para atravessar os fios que conectavam os 
+dispositivos entre si.
+Com isso, na década de 1960 chegou uma inovação que prometia resolver esses problemas: o circuito 
+integrado. Ele consiste em um bloco (hoje em dia, uma lâmina) de material semicondutor, no qual são 
+construídos diversos dispositivos já conectados entre si, dispensando as soldas e os fios.
+Segundo Wazlawick (2016), o britânico George W. A. Dummer é conhecido como o primeiro 
+idealizador desse conceito. Dummer trabalhava em um laboratório de pesquisas em telecomunicações, 
+e seu trabalho era fazer com que circuitos baseados em transistores se tornassem cada vez mais 
+confiáveis. Suas pesquisas demonstraram que a confiabilidade era aumentada ao reduzir o tamanho dos 
+componentes. Ele concluiu, então, que o próximo passo seria construir um conjunto de componentes 
+em um único bloco de cristal semicondutor. Em 1952, ele publicou essa ideia em uma conferência, a 
+qual se tornou a primeira publicação a mencionar circuitos integrados na história. Em 1957, Dummer 
+construiu um flip‑flop sobre um bloco sólido de semicondutor. Um flip‑flop é um dispositivo formado 
+por alguns transistores e outros componentes, que funciona como memória de 1 bit. Os britânicos, no 
+entanto, não enxergaram potencial no projeto e não investiram nele.
+Nos Estados Unidos, o engenheiro Jack Kilby, que trabalhava em um laboratório na empresa Texas 
+Instruments, depois de muito trabalho e muitas tentativas, conseguiu construir o primeiro circuito 
+integrado patenteado. O feito ocorreu em 1960.
+Curiosamente, em 1959, de forma independente, o físico Robert Noyce teve a mesma ideia. Ele 
+trabalhava na empresa Fairchild Semiconductor e também foi capaz de construir um circuito integrado, 
+com um processo que tornava mais fácil a construção do circuito. A Fairchild entrou com um pedido de 
+patente um pouco depois da Texas, o que levou Noyce a ficar sabendo da iniciativa de Kilby. Noyce, então, 
+detalhou bastante sua proposta, enfatizando que não infringia nenhuma das ideias de Kilby. Por fim, 
+ambas as empresas reconheceram que, de forma independente, tinham inventado o circuito integrado.
+Tanto a Texas Instruments quanto a Fairchild Semiconductor começaram a usar comercialmente 
+circuitos integrados em seus produtos ainda na década de 1960. A partir de 1962, outras empresas 
+também passaram a produzi‑los.
+Jack Kilby foi agraciado com o prêmio Nobel de Física no ano de 2000, por ter participado na 
+invenção do circuito integrado. À época, Noyce já havia falecido.
+
+===== Página 10 =====
+105
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Hoje, circuitos integrados são largamente utilizados na indústria de computadores, e são popularmente 
+conhecidos como chips. Eles permitiram a miniaturização dos componentes, favorecendo que cada  
+vez mais dispositivos fossem fabricados em um pequeno “pedaço” de cristal. Atualmente, o material 
+semicondutor padrão da indústria é o silício.
+Figura 31 – Circuito integrado conectado a uma placa de circuito impresso
+Disponível em: https://tinyurl.com/hvm49u3y. Acesso em: 20 jun. 2025.
+O encapsulamento, que é o invólucro preto, é a proteção que envolve o chip, o que garante sua 
+segurança e propicia seu manuseio. A lâmina de silício, na qual os dispositivos eletrônicos que compõem 
+o circuito são fabricados de forma integrada, não fica visível em dispositivos comerciais.
+Na figura a seguir, vemos o detalhe de uma lâmina de silício com alguns circuitos integrados fabricados 
+que, obviamente, ainda não foram encapsulados. Cada seção quadrada que se repete representa um 
+circuito integrado.
+Figura 32 – Lâmina de silício com alguns circuitos integrados fabricados
+Disponível em: https://tinyurl.com/2uztzarx. Acesso em: 20 jun. 2025.
+
+===== Página 11 =====
+106
+Unidade IV
+8.2 Exemplos de inovações na área de software
+Segundo Carvalho e Lorena (2017), computadores processam dados por meio de um modelo que 
+transforma um conjunto de dados de entrada em um conjunto de dados de saída. Em geral, esse modelo 
+assume a forma de um composto de instruções, chamado de programa. O conjunto de programas 
+utilizado em um computador compõe seu software. O software, portanto, é a parte lógica, não palpável, 
+de um sistema de computação.
+De modo geral, o que um programa faz é receber, manipular e gerar dados. Para isso, ele é escrito 
+de maneira que o computador possa entender, a partir do uso de uma linguagem de programação, 
+a qual especifica uma sequência de instruções que propiciam a realização de uma tarefa específica. 
+As instruções definidas no programa desencadeiam uma série de operações na máquina, ou seja, no 
+hardware, que fazem com que a tarefa desejada seja concretizada.
+Linguagem C
+De acordo com Backes (2025, p. 2),
+A linguagem C é uma das mais bem‑sucedidas linguagens de alto nível já 
+criadas, e é considerada uma das linguagens de programação mais utilizadas 
+de todos os tempos. Define‑se como linguagem de alto nível aquela que 
+possui um nível de abstração relativamente elevado, que está mais próximo 
+da linguagem humana do que do código de máquina. Ela foi criada em 1972, 
+nos laboratórios Bell, por Dennis Ritchie, sendo revisada e padronizada pelo 
+ANSI (American National Standards Institute), em 1989.
+A linguagem de programação C é muito utilizada até os dias atuais em aplicações que exigem alto 
+desempenho, alto controle de hardware ou eficiência de recursos. Entre as suas aplicações vigentes, 
+estão: kernels de sistemas operacionais, firmware de dispositivos, drivers de dispositivos, sistemas 
+embarcados, firewalls e compiladores/interpretadores de outras linguagens de programação.
+Embora linguagens mais modernas dominem aplicações de alto nível, a linguagem C permanece 
+como a base de muitas tecnologias atuais. A implementação principal da linguagem Python, intitulada 
+CPython, é programada em linguagem C, por exemplo.
+De acordo com Wazlawick (2016), a linguagem BCPL foi criada pelo cientista Martin Richards, na 
+Universidade de Cambridge, em 1966. A BCPL era uma linguagem estruturada, que foi inicialmente 
+projetada para o desenvolvimento de compiladores.
+Posteriormente, a linguagem B foi implementada por Ken Thompson e Dennis Ritchie, na Bell Labs, 
+em 1969. Ela foi criada como uma simplificação da BCPL, pensada para ser descomplicada, compacta 
+e eficiente.
+Já a linguagem C foi desenvolvida como a sucessora da B. Ela também foi criada para ser compacta e 
+eficiente, mas oferecia vários tipos de dados e de estruturas de controle, recursos não oferecidos pela B.
+
+===== Página 12 =====
+107
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+A criação da linguagem C está fortemente relacionada ao sistema operacional Unix, que foi 
+originalmente desenvolvido em Assembly (que é uma linguagem de baixo nível) por Ritchie e Thompson. 
+Eles pretendiam lançar uma versão do Unix em B, mas a falta de tipos de dados e de estruturas de 
+controle impulsionou a evolução da linguagem B até o desenvolvimento da C. A autoria da linguagem C, 
+na literatura, é atribuída exclusivamente a Ritchie.
+Em 1972, foi concluído um compilador para a linguagem C, e, nesse mesmo ano, o sistema operacional 
+Unix foi reescrito em C. A linguagem C não teve sucesso comercial imediato, tendo ficado restrita a 
+pesquisas por alguns anos. No entanto, a publicação do livro intitulado The C Programming Language, em 
+1978, causou uma revolução no mundo da programação de computadores, tornando‑a uma linguagem  
+extremamente popular. A autoria do livro é creditada a Brian Kernighan e Dennis Ritchie, ambos 
+da Bell Labs.
+ Lembrete
+A Bell Labs é uma empresa de pesquisa aplicada e de desenvolvimento 
+científico, sediada nos Estados Unidos e fundada em 1925. Tanto o primeiro 
+transistor operacional quanto a linguagem C foram desenvolvidos nesta empresa.
+A figura a seguir mostra como a linguagem C influenciou, direta ou indiretamente, o desenvolvimento 
+de outras linguagens de programação, como C++, Python, Java e C#. A terceira coluna, com símbolos que 
+se encontram logo abaixo do símbolo da C original, corresponde a diferentes versões da própria linguagem.
+C
+awk
+nawk
+Perl Python ISO C (C99) C++ Objective‑C 
+2.1
+Objective‑C
+OakC++  ANSI/ISOC1XPerl 5.0
+PHP/FI
+PHP
+C# ActionScript
+C++11 JAVA1
+JAVA2
+JAVA
+C (K & R)
+ANSIC C with Classes
+Figura 33 – Diagrama que mostra a influência da linguagem C em outras linguagens de programação
+Fonte: Backes (2025, p. 2).
+
+===== Página 13 =====
+108
+Unidade IV
+World Wide Web
+Wazlawick (2016) afirma que, em 1989, o físico britânico Tim Berners‑Lee trabalhava como engenheiro 
+de software no grande laboratório de física de partículas Cern (Organização Europeia para Pesquisa 
+Nuclear), na Suíça. Lá, ele testemunhava o desenvolvimento do trabalho de cientistas do mundo inteiro, 
+mas tinha dificuldades de trocar informações com eles, principalmente em projetos grandes. Arquivos 
+que se apresentavam em diferentes formatos e mídias ou conexões incompatíveis faziam com que, 
+frequentemente, em vez de obter dados em arquivos, as pessoas resolvessem perguntá‑las umas às 
+outras, de maneira mais informal.
+Em março daquele ano, ele desenvolveu e apresentou a seu chefe o documento Information 
+Management: a proposal, que revolucionaria a comunicação humana. O documento propunha a 
+criação da World Wide Web (WWW).
+Na proposta, Berners‑Lee estudou os problemas de perda de informação enfrentados pelos cientistas 
+do Cern. Ele analisou duas possibilidades: organizar as informações em árvores de diretórios (porém, 
+argumentou que o “mundo real” não se organiza desse modo); ou organizar as informações por 
+palavras‑chave (mas justificou que pessoas distintas escolhem palavras‑chave igualmente distintas). 
+Ele concluiu, finalmente, que a melhor forma de organizar os dados do Cern seria por intermédio de 
+um hipertexto, um conceito já existente na época. Entretanto, esse hipertexto seria acessível pela 
+rede mediante ferramentas universais.
+ Observação
+Hipertexto é um conceito fundamental da computação e da comunicação 
+digital que se refere a textos interconectados por links, possibilitando uma 
+estrutura não linear de leitura e de navegação. Por exemplo, ao ler um artigo 
+da Wikipedia, você encontra trechos clicáveis que o levam a outros artigos. 
+Essa rede de conexões é a essência do hipertexto.
+A Web nunca foi um projeto oficial do Cern, mas o chefe de Berners‑Lee permitiu que o físico 
+trabalhasse nele. Em outubro de 1990, ele já havia criado três tecnologias que seriam o “coração” da 
+Web, elencadas a seguir:
+• Hypertext Markup Language (HTML): trata‑se de uma linguagem utilizada para descrever e 
+formatar documentos que seriam exibidos nos aplicativos de visualização da Web, os browsers.
+• Uniform Resource Identifier (URI): consiste em um sistema de endereçamento de páginas 
+que possibilita dar um nome único a qualquer página da Web, como, por exemplo, www.unip.br. 
+Atualmente, esse sistema é referenciado como Uniform Resource Locator (URL).
+• Hypertext Transfer Protocol (HTTP): trata‑se de um protocolo de comunicação entre os browsers 
+(clientes) e os computadores que disponibilizam acesso às páginas (servidores).
+
+===== Página 14 =====
+109
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+No final de 1990, a primeira página da web foi ao ar, e, em 1991, pessoas de fora do CERN puderam 
+acessar a recém‑criada Web. A partir daí, o número de servidores Web passou a crescer. Em janeiro 
+de 1993, eram 50. Em outubro do mesmo ano, já eram várias centenas.
+A Web transformou a comunicação científica. Antes dela, a disseminação de pesquisas dependia de 
+publicações físicas, de congressos ou de redes acadêmicas restritas. Ela favoreceu o acesso instantâneo 
+a artigos científicos e à criação de repositórios de dados.
+Além disso, a Web tornou possível a criação de plataformas científicas para simulações online, além 
+de propiciar os sistemas de computação distribuída.
+Seu caráter universal a torna uma das inovações de software com o maior impacto científico até hoje.
+Redes neurais
+Na área de software, o termo aprendizado de máquina refere‑se a um ramo da inteligência artificial 
+voltada a possibilitar que computadores “imitem” a maneira como os seres humanos aprendem.
+Nesse contexto, uma rede neural consiste em um modelo computacional de aprendizado de máquina 
+que toma decisões de modo semelhante ao cérebro humano, por meio de processos que simulam a 
+maneira como neurônios biológicos funcionam.
+Uma rede neural é constituída de camadas de neurônios artificiais, que são chamados de nós. 
+Uma rede neural tradicional é formada por uma camada de entrada, por pelo menos uma camada 
+intermediária e por uma camada de saída. Cada nó se conecta a outro e apresenta as características de 
+peso e de limiar. Quando a saída de um nó individual fica acima do valor de limiar, há a ativação do nó, 
+que faz com que os dados sejam enviados à próxima camada da rede (IBM, [s.d.]).
+Veja, na figura a seguir, que, à esquerda, há a camada de entrada, com dois nós; ao centro, vemos 
+uma camada intermediária; e, à direita, temos a camada de saída:
+Figura 34 – Diagrama simplificado de uma rede neural
+Adaptada de: https://tinyurl.com/5n7h34f3. Acesso em: 20 jun. 2025.
+
+===== Página 15 =====
+110
+Unidade IV
+O algoritmo de busca do Google incorpora redes neurais em seus subsistemas e é, talvez, o exemplo 
+mais conhecido de aplicação do modelo. Sistemas de recomendação de conteúdo, como o usado no 
+YouTube, também faz uso da tecnologia. Além disso, bots de processamento de linguagem natural, como 
+o ChatGPT ou o DeepSeek, também usam redes neurais em seus algoritmos para a geração de texto.
+O desenvolvimento dessa tecnologia, contudo, não começou há pouco tempo. Haykin (2001) 
+afirma que os anos formativos das redes neurais ocorreram entre 1943 e 1958, por meio de alguns 
+trabalhos de destaque. Em 1943, Warren McCulloch e Walter Pitts introduziram a ideia de redes neurais 
+como máquinas computacionais. Em 1949, Donald Hebb postulou a primeira regra de aprendizagem 
+auto‑organizada. Em 1958, Frank Rosenblatt propôs o primeiro modelo algorítmico para aprendizagem 
+supervisionada, chamado perceptron.
+De acordo com Kaufman (2022), a ideia de usar aprendizagem de máquina remete também ao 
+matemático britânico Alan Turing. Em seu artigo publicado em 1950, intitulado “Computing machinery 
+intelligence”, Turing propõe um teste capaz de responder se uma máquina é capaz de pensar. Ele cogitou 
+a produção de um programa que, em vez de simular a mente de um adulto, simule a mente de uma 
+criança, evoluindo ao longo do tempo.
+Diversas pesquisas foram desenvolvidas nas décadas seguintes e, mais recentemente, um estudo 
+conduzido por Vaswani et al.  (2017) intitulado “Attention is all you need” introduziu a arquitetura 
+Transformer, utilizada nos bots atuais de processamento de linguagem natural.
+As redes neurais, estudadas há várias décadas, estão se tornando mais poderosas, eficientes e 
+multifuncionais, com uma gama enorme de aplicações, que fazem, cada vez mais, parte do nosso cotidiano.
+Atualmente, o Python é uma das linguagens de programação mais relevantes para o desenvolvimento 
+e a pesquisa em redes neurais, graças ao seu ecossistema de bibliotecas especializadas, à comunidade 
+ativa e à integração com ferramentas de alto desempenho.
+ Saiba mais
+Leia a obra do autor Raul Wazlawick que conta um pouco da 
+história profissional de vários cientistas importantes para o desenvolvimento 
+computacional, como Charles Babbage, Ada Lovelace e Alan Turing. O livro 
+aborda diversas outras inovações que mudaram o rumo da computação:
+WAZLAWICK, R. S. Metodologia de pesquisa para ciência da computação. 
+Rio de Janeiro: LTC, 2020.
+
+===== Página 16 =====
+111
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+ Resumo
+Estivemos dedicados ao estudo dos conceitos de pesquisa, inovação e 
+prática de mercado, com destaque a diversas inovações disruptivas que 
+ocorreram ao longo do desenvolvimento científico.
+Começamos trazendo os conceitos iniciais os quais foram desenvolvidos 
+ao longo do texto. A pesquisa científica é uma atividade sistemática 
+voltada ao aumento do conhecimento científico em determinada área. 
+Uma inovação corresponde à utilização do conhecimento científico gerado 
+a partir de pesquisas para criar ou para aprimorar produtos, processos 
+ou serviços. A prática de mercado é a ampla utilização das inovações no 
+mercado, ou seja, é a ampla incorporação das inovações geradas nas práticas  
+das empresas, das fábricas, das indústrias ou das organizações.
+Ainda nesse título, trouxemos alguns exemplos de inovações gerais que 
+se tornaram práticas de mercado. Essas inovações correspondem às vacinas 
+de mRNA, à técnica Crispr/Cas9 e à soja tropicalizada.
+Depois, apresentamos inovações específicas da área computacional. Na 
+seção dedicada ao hardware, abordamos como a invenção do transistor foi 
+importante para substituir os relês e as válvulas em circuitos de processamento 
+de dados. Em sequência, discutimos como a invenção do circuito integrado 
+foi  revolucionária e importante para o aumento da capacidade de 
+processamento e para a miniaturização dos circuitos eletrônicos.
+Na seção dedicada ao software, tratamos da criação da linguagem C, 
+concluída em 1972, e a sua importância para a programação de alto nível. 
+Até hoje, ela é muito utilizada em aplicações que exigem alto desempenho, 
+alto controle de hardware ou eficiência de recursos.
+Discutimos, também, a respeito da criação da World Wide Web, por parte 
+do físico britânico Tim Berners‑Lee, no Cern. Seu caráter universal a torna 
+uma das inovações de software com o maior impacto científico até hoje.
+Por último, falamos um pouco a respeito das redes neurais, que são 
+algoritmos de aprendizado de máquina que tomam decisões de forma 
+semelhante ao cérebro humano. O algoritmo de busca do Google é um dos 
+exemplos mais conhecidos de aplicação de modelos de redes neurais.
+
+===== Página 17 =====
+112
+Unidade IV
+ Exercícios
+Questão 1. Vimos que, segundo Vasconcellos (2021, p. 28), a inovação, de maneira geral, pode 
+ser definida como “uma ideia que sofreu alguma ação, com resultados positivos para todas as 
+partes interessadas” .
+Em relação a esse tema, avalie as asserções e a relação proposta entre elas.
+I – A inovação baseada em ciência e a inovação baseada na prática são indistintas e oriundas do 
+mesmo tipo de atividade.
+porque
+II – Tanto a inovação baseada em ciência quanto a inovação baseada na prática são consequências 
+naturais do aumento populacional.
+Assinale a alternativa correta:
+A) As asserções I e II são verdadeiras, e a asserção II justifica a I.
+B) As asserções I e II são verdadeiras, e a asserção II não justifica a I.
+C) A asserção I é verdadeira, e a asserção II é falsa.
+D) A asserção I é falsa, e a asserção II é verdadeira.
+E) As asserções I e II são verdadeiras.
+Resposta correta: alternativa E.
+Análise da questão
+Segundo Vasconcellos (2021), podemos considerar dois tipos de inovação: a inovação baseada em 
+ciência; e a inovação baseada na prática.
+Na inovação baseada na ciência, os conhecimentos são adquiridos por atividades próprias de 
+pesquisa ou pela absorção do conhecimento científico gerado externamente.
+Na inovação baseada na prática, a criação de conhecimento acontece nos locais de trabalho, a partir 
+das experiências pessoais, das observações e das interações que ocorrem nas atividades diárias de todos 
+os indivíduos.
+
+===== Página 18 =====
+113
+PESQUISA, TECNOLOGIA E INOVAÇÃO
+Questão 2. Vimos que alguns exemplos de inovações na área de software são a linguagem C e as 
+redes neurais.
+Em relação a essas inovações, avalie as afirmativas.
+I – A linguagem de programação C tem aplicações nos kernels de sistemas operacionais, no firmware 
+de dispositivos e nos drivers de dispositivos, por exemplo.
+II – Conquanto linguagens mais modernas dominem aplicações de alto nível, a linguagem C ainda é 
+a base de muitas tecnologias atuais.
+III – Uma rede neural pode ser definida como um modelo computacional de aprendizado de máquina 
+que toma decisões de maneira semelhante ao cérebro humano, usando processos que simulam a maneira 
+como neurônios biológicos funcionam.
+É correto o que se afirma em:
+A) I e II, apenas.
+B) II e III, apenas.
+C) I e III, apenas.
+D) II, apenas.
+E) I, II e III.
+Resposta correta: alternativa E.
+I e II – Afirmativas corretas.
+Justificativa: a linguagem de programação C é muito utilizada até os dias atuais em aplicações que 
+exigem alto desempenho, alto controle de hardware ou eficiência de recursos. Entre as suas aplicações 
+vigentes, estão: kernels de sistemas operacionais, firmware de dispositivos, drivers de dispositivos, 
+sistemas embarcados, firewalls e compiladores/interpretadores de outras linguagens de programação. 
+Embora linguagens mais modernas dominem aplicações de alto nível, a linguagem C permanece como a 
+base de muitas tecnologias atuais. A implementação principal da linguagem Python, intitulada CPython, 
+é programada em linguagem C, por exemplo.
+III – Afirmativas correta.
+Justificativa: uma rede neural consiste em um modelo computacional de aprendizado de máquina 
+que toma decisões de modo semelhante ao cérebro humano por meio de processos que simulam a 
+maneira como neurônios biológicos funcionam. Esse tipo de rede é composto por camadas de neurônios
+
+===== Página 19 =====
+114
+Unidade IV
+artificiais, que são chamados de nós. Uma rede neural tradicional é formada por uma camada de entrada, 
+por pelo menos uma camada intermediária e por uma camada de saída. Cada nó se conecta a outro 
+e apresenta as características de peso e de limiar. Quando a saída de um nó individual fica acima do 
+valor de limiar, há a ativação do nó, que faz com que os dados sejam enviados à próxima camada da 
+rede (IBM, [s.d.]).
+
+===== Página 20 =====
+115
+REFERÊNCIAS
+Audiovisuais
+O BEBÊ que pode mudar a medicina. 2021. 1 vídeo (1 min). Publicado pelo canal Nunca Vi 1 Cientista. 
+Disponível em: https://tinyurl.com/53p8fk9s. Acesso em: 20 jun. 2025.
+Textuais
+AMAZÔNIA – Revista de Educação em Ciências e Matemáticas. [s.d.]. Pará. Disponível em:  
+https://tinyurl.com/5bek2bz8. Acesso em: 17 jun. 2025.
+AMERICAN ASSOCIATION FOR THE ADVANCEMENT OF SCIENCE. Science. Disponível em:  
+https://www.science.org/. Acesso em: 17 jun. 2025.
+APPOLINÁRIO, F.; GIL, I. Como escrever um texto científico: teses, dissertações, artigos e TCC.  
+São Paulo: Trevisan, 2013.
+ABNT. NBR 6023: Informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
+ABNT. NBR 6028: Resumo, resenha e recensão. Rio de Janeiro: ABNT, 2021.
+ABNT. NBR 10520: Informação e documentação: citações em documentos: apresentação. 2. ed.  
+Rio de Janeiro: ABNT, 2023.
+ABNT. NBR 12225: Informação e documentação: lombada: apresentação. 3. ed. Rio de Janeiro: ABNT, 2023.
+ABNT. NBR 14724: Informação e documentação: trabalhos acadêmicos: apresentação. 4. ed.  
+Rio de Janeiro: ABNT, 2024.
+ABQ. 64º Congresso Brasileiro de Química. [s.d.]. Disponível em: https://www.abq.org.br/cbq/. Acesso 
+em 17 jun. 2025.
+AQUINO, I. S. Como ler artigos científicos: da graduação ao doutorado. 2. ed. São Paulo: Saraiva, 2010.
+AZEVEDO, C. B. Metodologia científica ao alcance de todos. 4. ed. Barueri: Manole, 2018.
+BACCHI, A. D. Afinal, o que é ciência?:... e o que não é. São Paulo: Contexto, 2024.
+BACKES, A. Linguagem C: completa e descomplicada. Rio de Janeiro: LTC, 2025.
+BARBOSA, M. L. O.; QUINTANEIRO, T.; RIVERO, P. Conhecimento e imaginação: sociologia para o Ensino 
+Médio. Belo Horizonte: Autêntica, 2012.
+
+===== Página 21 =====
+116
+BIBLIOTECA DA UNIVERSIDADE PAULISTA – UNIP. Guia de normalização para apresentação de 
+trabalhos acadêmicos da Universidade Paulista: ABNT. São Paulo: UNIP, 2025. Disponível em:  
+https://tinyurl.com/5euf4z6p. Acesso em: 18 jun. 2025.
+BRASIL. Lei n. 9.610, de 19 de fevereiro de 1998. Brasília, 1998. Disponível em: https://tinyurl.com/yc8rzn97. 
+Acesso em: 20 jun. 2025.
+BRASILEIRO, A. M. M. Como produzir textos acadêmicos e científicos. São Paulo: Contexto, 2021.
+CARVALHO, A. C. P. L. F. de; LORENA, A. C. Introdução à computação: hardware, software e dados.  
+Rio de Janeiro: LTC, 2017.
+CIÊNCIA. In: Wikipédia, a enciclopédia livre. [s.d.]. Flórida: Wikimedia Foundation, 2025. Disponível em: 
+https://tinyurl.com/3jpz223b. Acesso em: 18 jun. 2025.
+CAPES. Portal de Periódicos da Capes. [s.d.]. Brasília, DF. Disponível em: https://tinyurl.com/5a48y73h. 
+Acesso em: 20 jun. 2025.
+COPYSPIDER. Qual o percentual aceitável para ser considerado plágio? Disponível em:  
+https://tinyurl.com/5n8x8b29. Acesso em: 20 jun. 2025.
+CORDARO, P. G. B. Tu inovas? Tutorial da inovação!: estabelecimento de uma atuação filosófica‑científica 
+para se inovar efetivamente. São Paulo: Blucher, 2024.
+CORDEIRO, G. R.; MOLINA, N. L.; DIAS, V. F. Orientações e dicas práticas para trabalhos acadêmicos. 
+Curitiba: Intersaberes, 2014.
+CRESPO, A. A. Estatística fácil. Rio de Janeiro: Saraiva, 2009.
+DAMIANI, L. R. Filmes de óxido de índio dopado com estanho depositados por magnetron sputtering. 
+2010. Dissertação (Mestrado em Engenharia Elétrica) – Universidade de São Paulo, São Paulo, 2010. 
+Disponível em: https://tinyurl.com/4w7dapmb. Acesso em: 18 jun. 2025.
+FELIX, P. Os impactos da aprovação comercial da principal técnica de edição de DNA. Veja, 1 dez. 2023. 
+Disponível em: https://tinyurl.com/3zd3hjaz. Acesso em: 20 jun. 2025.
+GENETIC scissors: a tool for rewriting the code of life. Nobel Prize, 7 out. 2020. Disponível em:
+https://tinyurl.com/3t887cte. Acesso em: 20 jun. 2025.
+GIACON, F. P.; FONTES, K. M.; GRAZZIA, A. R. Metodologia científica e gestão de projetos. São 
+Paulo: Érica, 2017.
+HAYKIN, S. Redes neurais: princípios e práticas. São Paulo: Bookman, 2001.
+
+===== Página 22 =====
+117
+IBM. O que é uma rede neural? [s.d.]. Disponível em: https://tinyurl.com/4tjbezvx. Acesso em: 20 jun. 2025.
+IBICT. Biblioteca Digital Brasileira de Teses e Dissertações. [s.d.]. Disponível em: https://bdtd.ibict.br/vufind/. 
+Acesso em: 17 jun. 2025.
+JORNALISMO IOC. Simpósio Brasileiro em Química Medicinal: inscrições abertas para a 12ª edição. 
+Fiocruz, 5 nov. 2024. Rio de Janeiro, 2024. Disponível em: https://tinyurl.com/y4xbnt45. Acesso 
+em: 18 jun. 2025.
+KAUFMAN, D. Desmistificando a inteligência artificial. Belo Horizonte: Autêntica, 2022.
+KERNIGHAN, B. W.; RITCHIE, D. M. The C programming language. New Jersey: Prentice‑Hall, 1978.
+KISAKOVA, L. A.; APARTSIN, E. K.; NIZOLENKO, L. F.; KARPENKO, L. I. Dendrimer‑Mediated Delivery of DNA 
+and RNA Vaccines. Pharmaceutics, v. 15, n. 4, p. 1106, 2023. Disponível em: https://www.mdpi.com/2224226. 
+Acesso em: 20 jun. 2025.
+KROKOSCZ, M. Outras palavras sobre autoria e plágio. São Paulo: Atlas, 2015.
+LANDGRAF, L. Cientista da Embrapa é laureada com Prêmio Mundial da Alimentação, reconhecido como 
+“Nobel” da agricultura. Notícias Embrapa. 13 maio 2025. Brasília. Disponível em: https://tinyurl.com/y7vv2bhe. 
+Acesso em: 20 jun. 2025.
+MACHADO, N. J.; CUNHA, M. O. Lógica e linguagem cotidiana: linguagem, coerência e comunicação. Belo 
+Horizonte: Autêntica, 2019.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica. São Paulo: Atlas, 2021.
+MEDRADES, J. P. Biotecnologia brasileira: a importância da Embrapa para o cultivo de soja nacional. 
+Revista Blog do Profissão Biotec, v. 10, 21 ago. 2023. Disponível em: https://tinyurl.com/4jweep2b. 
+Acesso em: 20 jun. 2025.
+MINHA BIBLIOTECA. Minha Biblioteca: streaming de livros digitais. Disponível em:  
+https://minhabiblioteca.com.br/. Acesso em: 18 jun. 2025.
+NASCIMENTO, F. P.; SOUSA, F. L. Metodologia da pesquisa científica: teoria e prática. Manual de instrução: como 
+elaborar TCC. Brasília: Thesaurus, 2015.
+NASCIMENTO, L. P. Elaboração de projetos de pesquisa: monografia, dissertação, tese e estudo de caso, 
+com base em metodologia científica. São Paulo: Cengage Learning, 2012.
+O QUE são as vacinas de RNA mensageiro e como essa tecnologia também pode tratar doenças? 
+Laboratórios Pfizer Ltda., 3 nov. 2022. Disponível em: https://tinyurl.com/mwhw5sna. Acesso 
+em: 20 jun. 2025.
+
+===== Página 23 =====
+118
+PEARSON HIGHER EDUCATION. Biblioteca Virtual Pearson. Disponível em: https://www.bvirtual.com.br/. 
+Acesso em: 18 jun. 2025.
+PERKOVIC, L. Introdução à computação usando Python: um foco no desenvolvimento de aplicações. 
+Rio de Janeiro: LTC, 2016.
+PORTAL DRAUZIO VARELLA. Disponível em: https://drauziovarella.uol.com.br/. Acesso em: 18 jun. 2025.
+PROEC UFABC. Você sabe o que é divulgação científica? São Bernardo do Campo, 31 jul. 2014. 
+Disponível em: https://tinyurl.com/3jh57ydx. Acesso em: 18 jun. 2025.
+PIERRO, B. Direto ao ponto. Revista Pesquisa Fapesp, nov. 2019. São Paulo, 2019. Disponível em: 
+https://tinyurl.com/4vu954ec. Acesso em: 17 jun. 2025.
+SEPTET SYSTEMS. Plagium: verificador de plágio livre. [s.d.]. Disponível em: https://tinyurl.com/rrvaabeb. 
+Acesso em: 20 jun. 2025.
+SEVERINO, A. J. Metodologia do trabalho científico. São Paulo: Cortez, 2017.
+SCHULER, C. A. Eletrônica I. Porto Alegre: McGraw Hill, 2013.
+SHARPE, N. R.; DE VEAUX, R. D.; VELLEMAN, P. F. Estatística aplicada: administração, economia e 
+negócios. Porto Alegre: Bookman, 2011.
+SILVA NETO, S. L. da; LEITE, B. S. Aprendizagem tecnológica ativa no ensino de Química no contexto 
+do ensino médio. Amazônia –Revista de Educação em Ciências e Matemática, [s. l.], v. 20, n. 45, 
+p. 195‑212, 2024.
+SORDI, J. O. de. Elaboração de pesquisa científica: seleção, leitura e redação. São Paulo: Saraiva, 2013.
+SPRINGER NATURE LIMITED. Nature. Disponível em: https://www.nature.com/. Acesso em: 17 jun. 2025.
+UNIP. Bases de dados on‑line. Disponivel em: https://tinyurl.com/44ex3d4e. Acesso em: 20 jun. 2025.
+UNIVERSIDADE DE SÃO PAULO. Biblioteca Digital de Trabalhos Acadêmicos da USP. [s.d.]. Disponível em: 
+https://bdta.abcd.usp.br/index.php. Acesso em: 17 jun. 2025.
+VASCONCELLOS, M. Inovação pelas pessoas: o caminho para o sucesso das organizações. Rio de 
+Janeiro: Alta Books, 2021.
+VASWANI, A.; SHAZEER, N.; PARMAR, N.; USZKOREIT, J. JONES, L.; GOMEZ, A. N.; KAISER, L. Attention 
+Is All You Need. In: Advances in neural information processing systems 30 (NIPS 2017). Disponível em: 
+https://tinyurl.com/yh2kb2dc. Acesso em: 20 jun. 2025.
+
+===== Página 24 =====
+119
+WAZLAWICK, R. S. História da computação. Rio de Janeiro: Elsevier, 2016.
+WAZLAWICK, R. S. Metodologia de pesquisa para ciência da computação. Rio de Janeiro: LTC, 2020.
+ZORETTO, R. A tesoura dos genes – Testes em seres humanos avaliam segurança de técnica que corta 
+e edita o DNA para tratar doenças. Pesquisa Fapesp, São Paulo, ano 21, n. 288, p. 12‑18, fev. 2020. 
+Disponível em: https://tinyurl.com/ymxvzjk2. Acesso em: 20 jun. 2025.
+
+===== Página 25 =====
+120
+
+===== Página 26 =====
+
+
+===== Página 27 =====
+Informações:
+www.sepi.unip.br ou 0800 010 9000

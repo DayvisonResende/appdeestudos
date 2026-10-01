@@ -1,0 +1,649 @@
+===== Página 1 =====
+Prof. Me. José Lorandi
+UNIDADE II
+Pesquisa, Tecnologia 
+e Inovação
+
+===== Página 2 =====
+ Elementos Pré-textuais
+ Nesta unidade, temos como principal objetivo mostrar a importância e as características de 
+cada elemento da monografia.
+ Instruções que remetem à aparência do trabalho, como formato do papel, fonte, margens, 
+espaçamento ou paginação, devem ser consultadas no próprio guia de 
+normalização disponibilizado.
+ O guia de normalização é um documento produzido pela biblioteca da instituição pela qual a 
+monografia está sendo produzida. 
+ Esse guia traz as normas de padronização que devem ser 
+respeitadas para trabalhos produzidos naquela instituição e 
+normalmente é baseado nas padronizações descritas pelas 
+normas da Associação Brasileira de Normas Técnicas (ABNT).
+Estrutura de uma Monografia
+
+===== Página 3 =====
+ Estrutura geral de elementos obrigatórios e opcionais
+ De acordo com a Norma Brasileira Regulamentadora (NBR) 14724 (2024) da ABNT, que 
+especifica princípios gerais de elaboração de trabalhos acadêmicos, os trabalhos 
+acadêmicos longos (monografias) são compostos por uma parte externa e por uma parte 
+interna. 
+Figura 1 – Diagrama que mostra a divisão básica dos elementos de uma monografia
+Fonte: autoria própria (2025).
+Parte externa
+Parte interna
+Estrutura de uma Monografia
+ Capa (obrigatório)
+ Lombada (opcional)
+ Elementos pré-textuais
+ Elementos textuais
+ Elementos pós-textuais
+
+===== Página 4 =====
+ Estrutura geral de elementos obrigatórios e opcionais
+ Considerando uma cópia física da monografia, a parte externa corresponde ao que é visto 
+pelo leitor antes mesmo de abrir o trabalho. 
+ Já a parte interna, naturalmente, corresponde aos elementos que podem ser visualizados e 
+lidos ao folhearmos a monografia.
+Estrutura de uma Monografia
+
+===== Página 5 =====
+ Parte externa: capa e lombada
+ A parte externa do trabalho acadêmico tem um elemento obrigatório, esse elemento 
+é a capa. 
+ A capa deve trazer informações essenciais à identificação do trabalho. 
+ Nome da Instituição de Ensino Superior (IES) pela qual o 
+trabalho é publicado;
+ Nome do(s) autor(es);
+ Título do trabalho;
+ Subtítulo (se houver);
+ Cidade pela qual o trabalho é publicado;
+ Ano de publicação.
+Estrutura de uma Monografia
+
+===== Página 6 =====
+ Parte externa: capa e lombada
+ A lombada corresponde à parte lateral externa do trabalho, que se encontra em uma 
+superfície perpendicular à capa. Ela reúne as margens internas das folhas do trabalho.
+ A lombada é um elemento que aparece em trabalhos que são entregues de forma física e 
+com encadernação em capa dura. Para monografias entregues com encadernação em 
+espiral ou por meios exclusivamente digitais, esse elemento não deve existir.
+Estrutura de uma Monografia
+
+===== Página 7 =====
+Estrutura de uma Monografia
+Figura 2 – Exemplo ilustrativo da parte externa de uma monografia
+Fonte: autoria própria (2025).
+
+===== Página 8 =====
+ Parte interna: elementos pré-textuais
+ Ao abrirmos um trabalho acadêmico físico, encontramos a sua parte interna.
+ Conforme vimos na figura 2, a parte interna de uma monografia é composta por três tipos de 
+elementos: os pré-textuais, os textuais e os pós-textuais.
+Parte interna
+Estrutura de uma Monografia
+ Elementos pré-textuais
+ Elementos textuais
+ Elementos pós-textuais
+
+===== Página 9 =====
+ Parte interna: elementos pré-textuais
+ Os elementos pré-textuais de uma monografia são dispostos no diagrama da figura a seguir.
+ A ordem na qual os elementos aparecem no diagrama corresponde à ordem na qual os 
+elementos aparecem na monografia.
+Figura 3 – Diagrama que mostra os elementos pré-textuais de uma monografia
+Fonte: autoria própria (2025).
+Parte interna
+Estrutura de uma Monografia
+ Elementos pré-textuais
+ Elementos textuais
+ Elementos pós-textuais
+ Folha de rosto (obrigatório)
+ Errata (opcional)
+ Folha de aprovação (obrigatório)
+ Dedicatória (opcional)
+ Agradecimentos (opcional)
+ Epígrafe (opcional)
+ Resumo (obrigatório)
+ Resumo em língua estrangeira (obrigatório)
+ Lista(s) de ilustrações (opcional)
+ Lista de tabelas (opcional)
+ Lista(s) de abreviaturas e siglas (opcional)
+ Lista de símbolos (opcional)
+ Sumário (obrigatório)
+
+===== Página 10 =====
+ Parte interna: Folha de rosto
+ A folha de rosto é um elemento pré-textual obrigatório.
+ Uma das informações adicionais corresponde a um texto indicando a natureza do trabalho. 
+ Tese, dissertação, trabalho de conclusão de curso. 
+ Nome da instituição à qual o trabalho é submetido. 
+ Área de concentração, quando aplicável.
+ Nome do(a) orientador(a) do trabalho e do(a) coorientador(a).
+Estrutura de uma Monografia
+
+===== Página 11 =====
+ Parte interna: Folha de rosto
+Estrutura de uma Monografia
+Figura 4 – Exemplo ilustrativo do anverso de uma folha de rosto
+Fonte: autoria própria (2025).
+NOME DO ALUNO
+TÍTULO SO TRABALHO:
+subtítulo
+Trabalho de conclusão de curso
+para obtenção do título de
+graduação em (nome do curso)
+apresentado à Universidade
+Xxxxxxx.
+Orientador: Prof. Dr. José da Silva
+SÃO PAULO
+2019
+
+===== Página 12 =====
+ No verso da folha de rosto, é normalmente requerida a colocação de uma ficha catalográfica. 
+ Essa ficha corresponde aos dados internacionais de catalogação na publicação. 
+ Geralmente, a ficha catalográfica é produzida pelo serviço de biblioteca da instituição pela 
+qual o trabalho é publicado. 
+Estrutura de uma Monografia
+Figura 5 – Exemplo ilustrativo de ficha catalográfica, disposta no verso de uma folha de rosto
+Fonte: autoria própria (2025).
+Biblioteca da Universidade Xxxxxxxx.
+Guia de normalização para apresentação de trabalhos acadêmicos da
+Universidade Xxxxxxxx : ABNT/ Biblioteca da Universidade Xxxxxxxx;
+revisado e atualizado pelos Bibliotecários Xxxx Xxxxx e Xxxxxx Xxxxx
+Xxxxxx. – 2019
+52 p.: il. Color.
+1. Normalização. 2. Trabalhos acadêmicos. 3. ABNT. I. Biblioteca da
+Xxxxxxxx.
+
+===== Página 13 =====
+Qual das alternativas melhor define o que é uma monografia no contexto acadêmico?
+a) Um artigo de opinião com argumentos pessoais e linguagem informal.
+b) Um resumo curto de diversas obras científicas sem análise crítica.
+c) Um trabalho acadêmico que aborda profundamente um tema específico, com base em 
+pesquisa e metodologia.
+d) Um conjunto de slides explicativos para apresentação oral.
+e) Uma coletânea de textos de autores diversos sem autoria própria.
+Interatividade
+
+===== Página 14 =====
+Qual das alternativas melhor define o que é uma monografia no contexto acadêmico?
+a) Um artigo de opinião com argumentos pessoais e linguagem informal.
+b) Um resumo curto de diversas obras científicas sem análise crítica.
+c) Um trabalho acadêmico que aborda profundamente um tema específico, com base em 
+pesquisa e metodologia.
+d) Um conjunto de slides explicativos para apresentação oral.
+e) Uma coletânea de textos de autores diversos sem autoria própria.
+Resposta
+
+===== Página 15 =====
+A resposta correta é a alternativa C) Um trabalho acadêmico que aborda profundamente um 
+tema específico, com base em pesquisa e metodologia.
+Justificativa:
+A monografia é um trabalho acadêmico que analisa detalhadamente um único tema, com 
+profundidade e rigor científico. Ela é baseada em uma pesquisa estruturada, podendo ser 
+bibliográfica, experimental ou de campo, e segue uma metodologia definida. Diferente de 
+artigos de opinião ou coletâneas, a monografia exige autoria, argumentação lógica e 
+fundamentação teórica.
+Resposta
+
+===== Página 16 =====
+Errata
+ A errata é um elemento pré-textual opcional. Esse elemento fica restrito aos casos em que, 
+após a impressão do trabalho, foram identificados erros no texto. 
+ Um exemplo é apresentado, na figura a seguir.
+Estrutura de uma Monografia
+Figura 6 – Exemplo ilustrativo de errata
+Fonte: autoria própria (2025).
+
+===== Página 17 =====
+ Folha de aprovação
+ A folha de aprovação traz informações similares às 
+encontradas na folha de rosto, além de adições 
+importantes: data de aprovação, nome, titulação e 
+assinatura dos componentes da banca examinadora e 
+instituições às quais eles pertencem. 
+ A data de aprovação e as assinaturas devem ser 
+colocadas após a aprovação do trabalho.
+Estrutura de uma Monografia
+Fonte: autoria própria (2025).
+Figura 7 – Exemplo ilustrativo da Folha de aprovação
+
+===== Página 18 =====
+ Dedicatória
+ A dedicatória é um elemento pré-textual e podemos utilizar esse espaço para oferecer o 
+trabalho a alguém, prestando uma homenagem.
+Estrutura de uma Monografia
+Figura 8 – Exemplo ilustrativo de dedicatória
+Fonte: autoria própria (2025).
+
+===== Página 19 =====
+ Agradecimentos
+ Podemos usar este espaço para agradecermos às pessoas, aos projetos e às instituições 
+que colaboraram com o trabalho acadêmico. 
+ Vemos, na figura a seguir, o exemplo de um trecho da seção de agradecimentos de um 
+trabalho acadêmico.
+Estrutura de uma Monografia
+Figura 9 – Exemplo ilustrativo de agradecimentos
+Fonte: autoria própria (2025).
+
+===== Página 20 =====
+ Epígrafe
+ A epígrafe é um texto curto, que geralmente traz uma citação de outro autor. 
+ Vemos um exemplo de epígrafe na figura a seguir.
+Estrutura de uma Monografia
+Figura 10 – Exemplo ilustrativo de epígrafe
+Fonte: autoria própria (2025).
+
+===== Página 21 =====
+ Resumo em língua vernácula
+ O resumo é um elemento pré-textual obrigatório.
+ A finalidade do resumo de uma monografia é trazer as principais partes da introdução, do 
+desenvolvimento e da conclusão.
+ Além disso, é obrigatório que, ao final 
+do texto, sejam trazidas palavras-chave 
+(pelo menos três) separadas entre si 
+por ponto e vírgula e finalizadas por ponto.
+Estrutura de uma Monografia
+Figura 11 – Exemplo 
+ilustrativo de Resumo 
+Fonte: autoria própria (2025).
+
+===== Página 22 =====
+ Resumo em língua estrangeira
+ Esse elemento apresenta o mesmo texto do resumo em português, porém em 
+idioma estrangeiro.
+ O título do elemento deve ser ABSTRACT, e as palavras-chave devem ser chamadas 
+de keywords.
+Estrutura de uma Monografia
+
+===== Página 23 =====
+ Lista(s) de ilustrações
+ As listas em uma monografia têm funções importantes para a organização e acessibilidade 
+do trabalho.
+ Elas permitem que o leitor encontre rapidamente tabelas, gráficos, imagens ou siglas sem 
+precisar folhear todo o trabalho. 
+ Trata-se de uma lista de desenhos, esquemas, fluxogramas, fotografias, gráficos, mapas, 
+organogramas ou quaisquer outros tipos de ilustração que aparecem ao longo do conteúdo 
+do trabalho. 
+Estrutura de uma Monografia
+Figura 12 – Exemplo ilustrativo de lista de ilustrações
+Fonte: autoria própria (2025).
+
+===== Página 24 =====
+ Lista de tabelas
+ A lista de tabelas trata-se de um elemento que lista as tabelas que aparecem ao longo 
+do trabalho. 
+ A lista deve ser elaborada de acordo com a ordem apresentada no texto, com a numeração, 
+a legenda e o número de página em que cada tabela aparece.
+ Vemos, na figura a seguir, um exemplo de um trecho de uma lista de tabelas.
+Estrutura de uma Monografia
+Figura 13 – Exemplo ilustrativo de lista de tabelas
+Fonte: autoria própria (2025).
+
+===== Página 25 =====
+ Lista(s) de abreviaturas e siglas
+ A lista de abreviaturas em uma monografia consiste na relação alfabética das abreviaturas 
+e das siglas utilizadas ao longo do texto.
+ Quando necessário, é possível elaborar uma lista própria para cada tipo. 
+ Por isso, é possível que uma monografia tenha uma lista de abreviaturas e outra de siglas.
+Estrutura de uma Monografia
+Figura 14 – Exemplo ilustrativo de lista de abreviaturas e siglas
+Fonte: autoria própria (2025).
+
+===== Página 26 =====
+ Lista de símbolos
+ A lista de símbolos trata-se de uma lista elaborada de acordo com a ordem em que 
+diferentes símbolos aparecem no texto, explicitando seus significados para o leitor.
+ A lista de símbolos é especialmente interessante para trabalhos da área de exatas.
+ Vemos, na figura a seguir, um exemplo de um trecho de uma lista de símbolos.
+Estrutura de uma Monografia
+Figura 15 – Exemplo ilustrativo de lista de símbolos
+Fonte: autoria própria (2025).
+
+===== Página 27 =====
+ Sumário
+ O  sumário consiste na enumeração das seções do trabalho. 
+ Ele deve seguir a ordem e a grafia do texto, acompanhando os respectivos números 
+das páginas.
+ Exemplo ilustrativo de sumário.
+Estrutura de uma Monografia
+Figura 16 – Exemplo ilustrativo de sumário
+Fonte: autoria própria (2025).
+
+===== Página 28 =====
+Qual é a principal importância do uso de listas (como listas numeradas ou com marcadores) em 
+um trabalho de monografia?
+a) Tornar o texto mais extenso, preenchendo mais páginas.
+b) Substituir completamente a necessidade de explicações no texto.
+c) Reduzir o rigor acadêmico, tornando o trabalho mais informal.
+d) Facilitar a organização e a visualização de informações pelo leitor.
+e) Evitar o uso de citações e referências no corpo do texto.
+Interatividade
+
+===== Página 29 =====
+Qual é a principal importância do uso de listas (como listas numeradas ou com marcadores) em 
+um trabalho de monografia?
+a) Tornar o texto mais extenso, preenchendo mais páginas.
+b) Substituir completamente a necessidade de explicações no texto.
+c) Reduzir o rigor acadêmico, tornando o trabalho mais informal.
+d) Facilitar a organização e a visualização de informações pelo leitor.
+e) Evitar o uso de citações e referências no corpo do texto.
+Resposta
+
+===== Página 30 =====
+A resposta correta é a alternativa D) Facilitar a organização e a visualização de informações 
+pelo leitor.
+Justificativa:
+As listas são ferramentas importantes na estruturação de uma monografia porque ajudam a 
+organizar conteúdos complexos de forma clara e direta, facilitando a leitura e a compreensão. 
+Elas permitem ao leitor identificar rapidamente os elementos-chave de um argumento, 
+procedimentos metodológicos, etapas de um processo ou resultados relevantes. Além disso, 
+promovem uma apresentação visualmente mais acessível, sem comprometer o rigor 
+acadêmico, desde que bem utilizadas.
+Resposta
+
+===== Página 31 =====
+ Elementos textuais e pós-textuais
+ No nosso livro-texto, conhecemos os diversos elementos pré-textuais que compõem a parte 
+interna de uma monografia. 
+ Agora, conheceremos os elementos textuais, que constituem a porção principal do nosso 
+trabalho, e os elementos pós-textuais, que aparecem como as últimas seções do documento.
+Estrutura de uma Monografia
+
+===== Página 32 =====
+ Elementos textuais
+ Os elementos textuais de uma monografia são apenas três, mas compõem a porção mais 
+extensa do trabalho. 
+Conforme vemos no diagrama a seguir, os elementos textuais são: 
+ introdução
+ desenvolvimento 
+ conclusão
+Parte interna
+Estrutura de uma Monografia
+Figura 17 – Diagrama que mostra os elementos textuais de uma monografia
+Fonte: autoria própria (2025).
+ Elementos pré-textuais
+ Elementos textuais
+ Elementos pós-textuais
+ Introdução (obrigatório)
+ Desenvolvimento (obrigatório)
+ Conclusão/C.F. (obrigatório)
+
+===== Página 33 =====
+ Introdução
+ A introdução é a parte inicial do texto, na qual o(a) leitor(a) buscará as informações básicas 
+da pesquisa, para direcionar sua leitura.
+ Essas informações são, geralmente: a contextualização, o problema, a hipótese com a qual 
+se opera, a justificativa, os objetivos geral e específicos e uma rápida menção aos métodos. 
+ É possível também encontrar a apresentação das próximas seções primárias (“capítulos”) da 
+parte textual, em trabalhos mais longos.
+ Normalmente, essa parte do texto não contempla subtítulos, a menos que seja regra da 
+instituição à qual o(a) autor está vinculado. 
+ Além disso, a introdução é numerada como a seção 1 do texto.
+Estrutura de uma Monografia
+
+===== Página 34 =====
+ Contextualização
+ Indica ao leitor sobre o que é o trabalho. 
+ O início de uma introdução, com o trecho inicial de contextualização.
+Estrutura de uma Monografia
+
+===== Página 35 =====
+ Problema
+ Traz ao leitor qual é a situação que se pretende resolver com a realização do trabalho. 
+ O problema, comumente, é exposto em formato de pergunta, e indica a delimitação do tema 
+com o qual se trabalha.
+Estrutura de uma Monografia
+
+===== Página 36 =====
+ Hipótese
+ Deve estar presente quando couber.
+ Traz o que o(a) autor(a) imagina ser a resposta para o problema. 
+Estrutura de uma Monografia
+
+===== Página 37 =====
+ Justificativa
+ Indica ao leitor o motivo pelo qual é importante resolver o problema.
+ Garante credibilidade à pesquisa.
+Estrutura de uma Monografia
+
+===== Página 38 =====
+ Objetivos
+ São uma parte importantíssima da introdução, que devem estar presentes em qualquer 
+trabalho acadêmico. 
+ Eles indicam onde queremos chegar com o desenvolvimento do trabalho.
+Os objetivos podem ser divididos em:
+ objetivo geral (grande intenção do trabalho).
+ objetivos específicos (especificação das etapas da pesquisa 
+necessárias para atingir o objetivo geral). 
+ É comum que objetivos específicos venham em tópicos.
+Estrutura de uma Monografia
+
+===== Página 39 =====
+ A introdução pode cobrir uma rápida menção aos métodos, que indicam como o trabalho 
+será desenvolvido. 
+ Nesse caso, são explicados em procedimentos técnicos necessários para a execução 
+da pesquisa. 
+ Os métodos, em trabalhos experimentais, são detalhados em uma seção primária (“capítulo”) 
+própria no desenvolvimento do trabalho, mas podem aparecer na introdução, dependendo do 
+tipo de pesquisa realizada (como em trabalhos de pesquisa bibliográfica).
+ É comum que a introdução traga a apresentação das próximas seções primárias
+(“capítulos”) da parte textual.
+Estrutura de uma Monografia
+
+===== Página 40 =====
+Qual é a principal importância de se definir claramente os objetivos em uma monografia?
+a) Garantir que o trabalho tenha um número mínimo de páginas.
+b) Facilitar a escolha do título do trabalho.
+c) Direcionar a pesquisa e delimitar o escopo do estudo.
+d) Atender a uma exigência burocrática da instituição.
+e) Garantir que o trabalho seja aprovado sem correções.
+Interatividade
+
+===== Página 41 =====
+Qual é a principal importância de se definir claramente os objetivos em uma monografia?
+a) Garantir que o trabalho tenha um número mínimo de páginas.
+b) Facilitar a escolha do título do trabalho.
+c) Direcionar a pesquisa e delimitar o escopo do estudo.
+d) Atender a uma exigência burocrática da instituição.
+e) Garantir que o trabalho seja aprovado sem correções.
+Resposta
+
+===== Página 42 =====
+A resposta correta é a alternativa C) Direcionar a pesquisa e delimitar o escopo do estudo.
+Os objetivos de uma monografia são fundamentais para orientar todo o desenvolvimento do 
+trabalho acadêmico. 
+Eles ajudam a delimitar o que será investigado, determinando o foco da pesquisa, os limites do 
+tema abordado e os caminhos metodológicos a seguir. 
+Sem objetivos claros, o trabalho pode se tornar vago, disperso ou sem aprofundamento. 
+Portanto, os objetivos são essenciais para garantir coerência, clareza e relevância ao estudo.
+Resposta
+
+===== Página 43 =====
+ Desenvolvimento
+ O desenvolvimento é a parte textual que se encontra entre a introdução e a conclusão, e 
+abrange diversas seções primárias do texto.
+ O desenvolvimento tem o objetivo de detalhar a pesquisa ou o estudo realizado. 
+ Normalmente, ele é constituído por mais de uma seção primária numerada.
+Essas seções se ocupam de:
+ apresentar o referencial teórico que sustentará o debate posterior; 
+ detalhar os métodos da pesquisa, conferindo a ela 
+cientificidade;
+ apresentar os dados coletados, quando for o caso, realizando 
+as devidas análises e discussões.
+Estrutura de uma Monografia
+
+===== Página 44 =====
+ Desenvolvimento
+ A divisão das seções primárias dependerá da natureza do trabalho. 
+ Como exemplo, veremos, a seguir, as seções primárias de um trabalho acadêmico produzido 
+em nível de dissertação de mestrado.
+ A seção primária 2, intitulada REVISÃO DA LITERATURA, é a seção na qual serão 
+reunidas as informações relevantes ao tema da pesquisa, disponíveis em  artigos científicos, 
+em livros e em outras publicações relevantes ao tema. 
+ Ela tem o intuito de fornecer o embasamento teórico para a pesquisa vigente. 
+ Esse embasamento é trazido de trabalhos anteriores já publicados.
+Estrutura de uma Monografia
+
+===== Página 45 =====
+ Desenvolvimento
+ A seção primária 3, intitulada MATERIAIS E MÉTODOS, é a seção que visa descrever, 
+detalhadamente, tudo o que foi realizado na pesquisa. 
+ Ela deve permitir que outros pesquisadores sejam capazes de executar, por conta própria, o 
+mesmo trabalho que você está apresentando. 
+ Essa seção também especifica o tipo de pesquisa (experimental, bibliográfica, de campo, 
+estudo de caso etc.).
+ A seção primária 4, intitulada RESULTADOS E DISCUSSÕES, 
+é a seção na qual os dados obtidos ao longo da pesquisa 
+serão apresentados, comentados e interpretados. 
+ Aqui, procuramos testar a hipótese e resolver o problema 
+da pesquisa. 
+Estrutura de uma Monografia
+
+===== Página 46 =====
+ Desenvolvimento
+ Os títulos das seções primárias do seu trabalho acadêmico não precisam, necessariamente, 
+ser esses que apresentamos. Eles dependem da natureza do tipo da pesquisa, da titulação 
+acadêmica pretendida, das normas do instituto pelo qual a pesquisa está sendo feita, entre 
+outros fatores.
+ A quantidade de seções primárias também não é fixa. Por isso, é muito importante consultar 
+o guia de normalização da sua instituição e o(a) orientador(a) do seu trabalho. 
+Estrutura de uma Monografia
+
+===== Página 47 =====
+ Conclusão
+ A conclusão representa a última seção primária numerada da parte textual. 
+ Esse elemento pode ganhar títulos distintos, como CONCLUSÃO, CONCLUSÕES ou 
+CONSIDERAÇÕES FINAIS.
+ A intenção central da conclusão é concentrar os principais resultados e 
+interpretações realizadas. 
+ Devemos, portanto, destacar o que foi aprendido com a pesquisa, de forma sucinta 
+e objetiva.
+Estrutura de uma Monografia
+
+===== Página 48 =====
+ Elementos pós-textuais
+ Os elementos pós-textuais de uma monografia são posicionados após a conclusão 
+do trabalho. 
+Conforme vemos no diagrama a seguir, os elementos pós-textuais são: 
+ referências
+ glossário
+ apêndice(s)
+ anexo(s)
+ índice(s)
+ Apenas as referências constituem um elemento obrigatório.
+Estrutura de uma Monografia
+
+===== Página 49 =====
+Parte interna
+Estrutura de uma Monografia
+Figura 18 – Diagrama que mostra os elementos pós-textuais de uma monografia
+ Elementos pré-textuais
+ Elementos textuais
+ Elementos pós-textuais
+ Referências (obrigatório)
+ Glossário (opcional)
+ Apêndice(s) (opcional)
+ Anexos(s) (opcional)
+ Índice(s) (opcional)
+Fonte: autoria própria (2025).
+
+===== Página 50 =====
+ Referências
+ A seção de referências “é a relação de todas as obras utilizadas para a produção do trabalho 
+e deve ser elaborada conforme a ABNT NBR 6023”.
+ É nessa seção que trazemos informações a respeito das obras que consultamos para 
+compor as citações que fizemos ao longo do nosso texto. 
+ A seção de referências é extremamente importante, pois dá crédito aos autores cujas obras 
+ajudaram a compor o nosso trabalho.
+ Ao deparar com um trabalho acadêmico sem lista de 
+referências, muitas bancas avaliadoras reprovam o trabalho 
+automaticamente, pois sua inexistência é um erro grave que 
+compromete, inclusive, a originalidade do texto.
+Estrutura de uma Monografia
+
+===== Página 51 =====
+ Glossário
+ O glossário é uma lista de palavras desconhecidas ou termos especializados, 
+acompanhados de seus respectivos significados. 
+ Ele deve ser elaborado em ordem alfabética, de forma a facilitar a identificação do 
+termo buscado.
+ É interessante incluir um glossário em nosso trabalho quando usamos, na seção textual, 
+muitos termos especializados (como termos médicos, jurídicos, técnicos etc.). Isso busca 
+facilitar a leitura de textos muito densos ou muito especializados.
+Estrutura de uma Monografia
+
+===== Página 52 =====
+ Apêndice(s)
+ O apêndice refere-se a um material produzido pelo(a) próprio(a) autor(a) do presente 
+trabalho acadêmico que pode, de algum modo, enriquecer ou complementar a leitura.
+ Podemos inserir quantos apêndices quisermos em nosso trabalho.
+ A seção deve ser iniciada com a palavra APÊNDICE, identificada por letras maiúsculas 
+consecutivas, travessão e pelo respectivo título.
+Estrutura de uma Monografia
+
+===== Página 53 =====
+ Apêndice(s) 
+Documentos adequados para serem inseridos como apêndices incluem:
+ Códigos-fonte; Questionários aplicados (com perguntas e respostas brutas); Roteiros de 
+entrevistas; Formulários de coleta de dados; Tabelas estatísticas completas (que no 
+desenvolvimento do trabalho foram apenas resumidas); Transcrições longas de entrevistas; 
+Mapas, fluxogramas ou esquemas criados pelo autor (se forem complementares); Imagens, 
+gráficos ou ilustrações técnicas (se complementares); Protocolos de laboratório (em 
+pesquisas experimentais).
+Estrutura de uma Monografia
+Figura 19 – Exemplo ilustrativo de apêndice
+Fonte: autoria própria (2025).
+
+===== Página 54 =====
+ Anexo(s)
+ O anexo refere-se a um material produzido por terceiros que pode, de algum modo, 
+enriquecer ou complementar a leitura. 
+ Podemos inserir quantos anexos quisermos em nosso trabalho, contanto que a origem do 
+material inserido conste em nossa lista de referências.
+ A seção deve ser iniciada com a palavra ANEXO, identificada por letras maiúsculas 
+consecutivas, travessão e pelo respectivo título.
+Estrutura de uma Monografia
+Figura 20 – Exemplo ilustrativo de anexo(s)
+Fonte: autoria própria (2025).
+
+===== Página 55 =====
+ Índice(s)
+ O índice refere-se a uma lista, geralmente dedicada aos termos importantes que 
+apareceram ao longo da parte textual. 
+ Cada termo é seguido do número da(s) página(s) em que é encontrado no texto, permitindo 
+que o leitor identifique facilmente os diversos trechos do texto que abordaram o termo de 
+interesse.
+Estrutura de uma Monografia
+
+===== Página 56 =====
+O que geralmente contempla o item Desenvolvimento de uma monografia?
+a) Apenas a introdução do tema, com os objetivos do trabalho.
+b) A explicação da capa, sumário e elementos pré-textuais.
+c) A apresentação de gráficos, sem discussão teórica.
+d) A exposição detalhada do referencial teórico, metodologia, análise dos dados e resultados.
+e) Somente a conclusão e as referências do trabalho.
+Interatividade
+
+===== Página 57 =====
+O que geralmente contempla o item Desenvolvimento de uma monografia?
+a) Apenas a introdução do tema, com os objetivos do trabalho.
+b) A explicação da capa, sumário e elementos pré-textuais.
+c) A apresentação de gráficos, sem discussão teórica.
+d) A exposição detalhada do referencial teórico, metodologia, análise dos dados e resultados.
+e) Somente a conclusão e as referências do trabalho.
+Resposta
+
+===== Página 58 =====
+A resposta correta é a alternativa D) A exposição detalhada do referencial teórico, metodologia, 
+análise dos dados e resultados.
+Justificativa:
+O item Desenvolvimento de uma monografia é a parte central do trabalho acadêmico. Ele 
+contempla a exposição do conteúdo principal, incluindo o referencial teórico (base 
+conceitual e autores que fundamentam o estudo), a metodologia (como a pesquisa foi 
+realizada), a análise dos dados coletados e a discussão dos resultados obtidos. É nesta 
+parte que o autor demonstra o aprofundamento do tema, articula os argumentos e apresenta 
+os achados da pesquisa. As demais alternativas abordam partes isoladas ou incorretas 
+do desenvolvimento.
+Resposta
+
+===== Página 59 =====
+ATÉ A PRÓXIMA!
