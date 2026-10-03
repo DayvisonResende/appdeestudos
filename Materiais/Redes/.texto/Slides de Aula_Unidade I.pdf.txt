@@ -1,0 +1,586 @@
+===== Página 1 =====
+Profa. Dra. Jacqueline Zonichenn
+UNIDADE I
+Redes de Computadores
+e Sistemas Distribuídos
+
+===== Página 2 =====
+ Conceitos de Redes de Computadores
+ Elementos para Conectividade
+ Performance e Importância das Redes
+ Classificação das redes
+ Padrões e Protocolos
+ Modelo OSI e Modelo TCP/IP
+ Endereçamento IP e VLANs
+ Sistemas distribuídos e aplicações
+Conteúdo da disciplina
+
+===== Página 3 =====
+1. Principais Conceitos de Redes de Computadores
+1.1. Elementos para Conectividade: Equipamentos, Meios de transmissão e Protocolos
+1.2. Performance e Importância das Redes
+2. Classificação das Redes
+2.1. Quanto ao tipo de serviço de transporte
+2.2. Quanto ao modelo de comunicação
+2.3. Quanto ao modo de operação do canal
+2.4. Quanto à topologia
+2.5. Quanto à abrangência
+Conteúdo da Unidade I
+
+===== Página 4 =====
+Modelo de comunicação de dados
+Fonte: adaptado de: livro-texto.
+Fonte
+ Destino
+Emissor
+Receptor
+Código e
+Protocolo
+mensagem
+Canal de comunicação
+
+===== Página 5 =====
+ Uma rede é um conjunto de equipamentos capazes de trocar informações e compartilhar 
+recursos, interligados por meios de transmissão, através de protocolos. 
+ Uma rede de computadores se baseia nos princípios de uma rede de informações, 
+que, por meio de hardware e software, torna-se dinâmica para atender às necessidades
+de comunicação.
+ A evolução dessas redes é constante, ampliando a capacidade 
+de comunicação e favorecendo as interações sociais, 
+comerciais, políticas e pessoais. Elas mudam rapidamente 
+para acompanhar a transformação da rede global.
+Redes de computadores
+
+===== Página 6 =====
+ O principal objetivo de uma rede de computadores é o compartilhamento de informações.
+Os computadores que fazem parte de uma rede podem compartilhar:
+ Dados e arquivos;
+ Mensagens e e-mails;
+ Imagens e vídeos;
+ Impressoras;
+ Discos e servidores;
+ Outros recursos de hardware e software.
+Redes de computadores
+
+===== Página 7 =====
+ Equipamentos de rede – elementos responsáveis pela transmissão, recepção e 
+encaminhamento de dados.
+ Meios de transmissão – meios de transporte que permitem a transmissão de dados.  
+Também são conhecidos como canais de comunicação.
+ Protocolos – regras que os dispositivos de rede usam para se comunicar.
+Principais elementos de uma rede de computadores
+
+===== Página 8 =====
+ São os elementos responsáveis pela transmissão, recepção e encaminhamento de dados. 
+Para o funcionamento de uma rede, são necessários dispositivos que permitam o transporte 
+de dados e uma comunicação adequada entre os diversos equipamentos. 
+ Eles estão divididos em: dispositivos finais e dispositivos intermediários.
+Equipamentos de rede
+
+===== Página 9 =====
+ Os dispositivos finais de rede (também chamados de hosts) são aqueles que estão mais 
+próximos das pessoas. 
+ Esses dispositivos formam a interface entre os usuários e a rede de 
+comunicação subjacente. 
+ Um dispositivo de host é a origem ou o destino de uma mensagem transmitida pela rede. 
+ São exemplos de dispositivos finais: computadores, 
+impressoras de rede, telefones VoIP, terminais de 
+videoconferência, câmeras de segurança e
+dispositivos móveis.
+Dispositivos finais
+
+===== Página 10 =====
+ Os dispositivos intermediários são os que se interconectam a dispositivos finais, fornecendo 
+conectividade, e funcionam em segundo plano para garantir que os dados fluam pela rede. 
+ Esses dispositivos conectam os hosts individuais à rede e podem conectar várias redes 
+individuais para formar uma rede interconectada.
+ Os dispositivos intermediários podem ser classificados em: de acesso à rede (switches e 
+pontos de acesso sem fio), de interconexão (roteadores) e de segurança (firewalls).
+Dispositivos intermediários
+Hosts
+Dispositivos intermediários
+Meios Meios
+Host
+PC-PT
+Server-PT
+Servidor-SMTP
+Printer-PT
+7960
+PC-PT
+Printer-PT
+Laptop-PT
+Laptop
+TabletPC-PT
+Tablet
+SMARTPHONE-PT
+Smartphone
+Host
+Meios de Transmissão
+Dispositivos
+intermediários
+2960-24TT
+Switch0
+1841
+Router1
+1841
+Router2
+2960-24TT
+Switch1
+AccessPoint-PT
+Access Point
+Fonte: adaptado 
+de: livro-texto.
+
+===== Página 11 =====
+ Os meios de transmissão de rede, também conhecidos como canais de comunicação, são  
+os meios de transporte que permitem a transmissão de dados. 
+ Meios físicos cabeados são os que utilizam cabos para transmitir os dados. Os principais 
+tipos são os de par trançado, os cabos coaxiais e as fibras ópticas. 
+ Meios físicos não cabeados são os que utilizam comunicação sem fio, por exemplo: 
+comunicação via satélite, wireless, bluetooth, enlaces de micro-ondas, e rádio.
+Meios de transmissão de rede
+
+===== Página 12 =====
+ Podem ser considerados como acordos ou regras que regem os processos de 
+comunicação de dados. 
+ Eles normalmente são criados em um contexto descrito por um modelo ou padrão, 
+não operando de maneira isolada, mas totalmente interligados, formando uma 
+pilha de protocolos. 
+ Em redes de computadores, os principais modelos que agrupam protocolos são os 
+modelos OSI e TCP/IP.
+Protocolos
+
+===== Página 13 =====
+Qual dos dispositivos a seguir não se trata de um dispositivo final?
+a) Computadores.
+b) Roteadores.
+c) Impressoras de rede.
+d) Telefones VoIP.
+e) Terminais de videoconferência.
+Interatividade
+
+===== Página 14 =====
+Qual dos dispositivos a seguir não se trata de um dispositivo final?
+a) Computadores.
+b) Roteadores.
+c) Impressoras de rede.
+d) Telefones VoIP.
+e) Terminais de videoconferência.
+Resposta
+
+===== Página 15 =====
+ Os meios de transmissão são peças fundamentais no processo de comunicação nas redes 
+de computadores. 
+ Por isso, em sua determinação, é necessária a adoção de critérios como: velocidades 
+suportadas, imunidade a ruído, taxa de erros, disponibilidade, confiabilidade, atenuação e 
+limitação geográfica.
+Meios de transmissão de rede
+
+===== Página 16 =====
+ Meios de transmissão cabeados são os cabos coaxiais, de pares metálicos e as
+fibras ópticas. 
+ Meios de transmissão não cabeados são os que utilizam comunicação sem fio, por exemplo: 
+comunicação via satélite, enlaces de micro-ondas, bluetooth e radiodifusão de um 
+modo geral.
+Classificação dos meios de transmissão
+
+===== Página 17 =====
+ Cabo coaxial: O cabo coaxial é composto por um fio condutor central de cobre, cercado por 
+uma malha externa. Foi o primeiro tipo de meio físico usado em redes locais (LANs). Além 
+disso, é amplamente empregado em comunicações de vídeo e em sistemas de TV a cabo.
+ O cabo coaxial possui um revestimento de material isolante, protegido por uma camada de 
+blindagem feita de alumínio ou cobre, que serve para evitar interferências externas. Devido à 
+sua estrutura, é adequado para transmissões em longas distâncias, suportando altas 
+velocidades sem a necessidade de reforçar o sinal.
+Cabo coaxial
+Fonte: livro-texto.
+
+===== Página 18 =====
+ O cabo de par trançado é composto por 1, 2 ou 4 pares de fios enrolados de dois em dois 
+formando uma camada isolante. 
+ Essa medida mantém as suas propriedades elétricas ao longo do fio e reduz o nível de 
+interferência eletromagnética.
+ É encontrado em redes domésticas e corporativas interligando dispositivos de rede. 
+ Sua transmissão suporta sinais analógicos ou digitais e sua 
+largura de banda é de 10/100/1000 Mbps, podendo variar 
+conforme o meio onde o cabo está inserido. 
+ Há cabos UTP que alcançam a velocidade de 10 Gbps sendo 
+utilizados em backbones interligando roteadores em
+redes distintas.
+Cabo de par trançado
+
+===== Página 19 =====
+ Categoria 1: são os cabos telefônicos utilizados para o tráfego de voz, mas não dados.
+ Categoria 2: certifica cabos UTP com transmissão de dados de até 4Mbps. Possui 4 pares 
+de fios. Foi muito utilizada em redes que seguem o padrão token ring.
+ Categoria 3: certifica cabos UTP com transmissão de dados de até 16 Mbps. Possui 4 pares 
+de fios. Foi utilizada nas primeiras redes ethernet com 10 Mbps.
+ Categoria 4: certifica cabos UTP com transmissão de dados de até 20 Mbps. Possui 4 pares 
+de fios. Foi muito utilizada em redes token ring.
+ Categoria 5: certifica cabos UTP com transmissão de dados 
+de até 100 Mbps. Possui 4 pares de fios.
+ Categoria 5e: certifica cabos UTP com transmissão de dados 
+de até 1 Gbps. Possui 4 pares de fios. Visualmente não
+possui diferença.
+Categorias de cabos de pares trançados
+
+===== Página 20 =====
+ Categoria 6: certifica cabos UTP com transmissão de dados de até 10 Gbps. Possui 4 pares 
+de fios.
+ Categoria 7a: certifica cabos de pares trançados com blindagem, permitindo velocidade de 
+até 40 Gbps. 
+Categorias de cabos de pares trançados
+Fonte: livro-texto.
+
+===== Página 21 =====
+ Por meio das fibras ópticas, os dados são transportados na forma de sinais 
+luminosos – fótons. 
+ É um meio seguro de transmitir os dados, pois não transportam sinais elétricos, minimizando 
+problemas de segurança e de ruídos/interferência.
+ A transmissão nas fibras ópticas ocorre sob o princípio da reflexão da luz por meio de 
+aparelhos que transformam sinais elétricos em pulsos de luz – fótons. 
+ Cada fóton representa um código binário, 1 ou 0.
+Fibras ópticas
+Fonte: livro texto.
+
+===== Página 22 =====
+ São constituídas de material dielétrico em geral muito fino de sílica ou vidro, transparente, 
+flexível e de dimensões reduzidas, além de ter em sua construção mais três elementos:
+ Núcleo central de vidro – ocorre a transmissão da luz que possui alto índice de refração.
+ Casca – material de vidro que serve de camada para envolver o núcleo com índice de 
+refração inferior.
+ Revestimento – cobertura de plástico fino para proteger o revestimento interno.
+Constituição das fibras ópticas
+
+===== Página 23 =====
+ Imunes a interferências eletromagnéticas: essa característica permite a instalação em 
+ambientes com ruídos e próximos a cabos elétricos.
+ Alcance a grandes distâncias: devido à baixa atenuação e à baixa taxa de erro permite 
+alcançar distância de 100 km.
+ Alta velocidade: operam na casa dos terabytes.
+Vantagens das fibras ópticas
+
+===== Página 24 =====
+ Fiber To The Home ou simplesmente FTTH é uma tecnologia capaz de transmitir telefonia, 
+TV digital e internet com alta velocidade. 
+ A fibra óptica, até pouco tempo atrás, era um meio restrito aos backbones das prestadoras 
+de telecomunicações ou usuários de grande porte, como empresas e indústrias.
+ Hoje é crescente a oferta de FTTH nas residências das grandes capitais com velocidades 
+que variam de 100 Mbps a 1 Gbps (ou mais).
+Fiber To The Home (FTTH)
+
+===== Página 25 =====
+Qual das opções a seguir não pode ser considerada um meio de transmissão cabeado?
+a) Coaxial.
+b) Par trançado.
+c) Par trançado blindado.
+d) Rádio.
+e) Fibra óptica.
+Interatividade
+
+===== Página 26 =====
+Qual das opções a seguir não pode ser considerada um meio de transmissão cabeado?
+a) Coaxial.
+b) Par trançado.
+c) Par trançado blindado.
+d) Rádio.
+e) Fibra óptica.
+Resposta
+
+===== Página 27 =====
+ No canal de comunicação de rádio, a informação é
+transportada por meio das ondas eletromagnéticas. 
+ Essas ondas são irradiadas por antenas transmissoras em
+uma determinada frequência e captadas por uma antena
+receptora dentro da mesma frequência.
+ A antena é um elemento de grande importância na
+transmissão de um sinal de radiofrequência e sua
+instalação tem que ser sempre bem considerada.
+Canal de comunicação de rádio
+Fonte: livro-texto.
+
+===== Página 28 =====
+ Interferência: sinal de origem humana que invade o canal de comunicação, atrapalhando e 
+dificultando o processo de comunicação.
+ Ruído: sinais aleatórios de origem natural que provocam efeitos indesejáveis nos 
+canais de comunicação.
+ Atenuação: perda de potência de um sinal ao se propagar por um canal de comunicação.
+ Distorção: alteração da forma do sinal devido à atenuação imposta às diferentes frequências.
+Distúrbios em um canal de rádio
+
+===== Página 29 =====
+ As redes móveis são sistemas de comunicação que permitem a transmissão de dados sem 
+fio entre dispositivos e uma rede global, como a internet. Elas funcionam através de torres de 
+celular que transmitem sinais de rádio para os dispositivos móveis.
+ As redes móveis permitem a realização de chamadas de voz, mensagens de texto e acesso 
+à internet. Existem diferentes tipos de redes móveis, sendo a 4G e 5G as mais procuradas 
+atualmente.
+Redes de dados móveis
+
+===== Página 30 =====
+ 1ª geração (1G – Geração Analógica): operava com um sistema de transmissão analógica 
+que determinava uma frequência específica para cada usuário da rede. 
+ 2ª geração (2G): os telefones celulares passaram a ser conhecidos como telefones digitais;  
+a voz era digitalizada no transmissor e enviada na forma de zeros e uns.
+ 3ª geração (3G): considerada um marco no uso da banda larga móvel, elevou ainda mais as 
+taxas de transferência. 
+ 4ª geração (4G): conhecida como Long Term Evolution (LTE - Evolução a longo prazo), fez a 
+migração de toda a comunicação de dados e voz para TCP/IP, provendo uma velocidade de 
+mais de 100 Mbps para usuários em movimento e quase 1 Gbps para usuários parados.
+ 5ª geração (5G): Utilizando um espectro de onda maior do que 
+as gerações anteriores, a rede 5G conta com uma latência 
+extremamente baixa e taxas de transferência de dados acima 
+dos 10Gbps. Seu objetivo é expandir a rede móvel para o 
+máximo de dispositivos possível.
+Histórico das tecnologias de comunicação móvel celular
+
+===== Página 31 =====
+ Nos sistemas de satélite, as informações são recebidas de uma estação em órbita, que, 
+usando um repetidor, envia o sinal à outra estação terrestre.
+ O satélite, desse modo, funciona com um repetidor, regenerando os sinais e transmitindo-os 
+para locais extremamente distantes das estações em terra que os geraram.
+ Podemos classificar os satélites quanto à sua altitude e,
+por conseguinte, quanto à sua órbita, que nada mais é
+que a sua posição no espaço ao redor da Terra.
+Sistemas de comunicação via satélite
+Fonte: livro texto
+Fonte: livro-texto.
+
+===== Página 32 =====
+As principais vantagens da comunicação via satélite são:
+ Grande e considerável largura de banda.
+ Cobertura de extensas áreas geográficas.
+ Usuários com as mesmas possibilidades de acesso.
+ Superação de obstáculos.
+Entre suas principais desvantagens estão:
+ Vultosos investimentos iniciais.
+ Pequena vida útil.
+ Dificuldades e custos altos com manutenção.
+ Necessidade de um veículo de lançamento.
+Vantagens e desvantagens na comunicação via satélite
+
+===== Página 33 =====
+ Durante a fase de projeto e operação de uma rede, podemos encontrar vários pontos críticos 
+que dependem da implementação de tecnologias adequadas. A decisão sobre a escolha de 
+um determinado dispositivo de interconexão de rede, da configuração de um protocolo, da 
+utilização deste ou daquele meio de transmissão, vai impactar na performance da rede e na 
+qualidade do serviço aos usuários.
+ Conhecer a demanda de cada aplicação utilizada em uma rede é crucial para o seu correto 
+dimensionamento. Algumas aplicações demandam mais em volume de dados, o que faz a 
+taxa de transferência ser crítica. Outras aplicações de tempo real, como uma chamada de 
+vídeo, serão mais sensíveis à latência e ao jitter.
+Performance de uma rede de comunicação
+
+===== Página 34 =====
+ Taxa de transferência ou throughput – mede a quantidade de dados transferida no tempo. 
+Essa taxa é normalmente medida a partir da quantidade de bits transmitidos em um segundo 
+e pode ser representada pela unidade bps.
+ Latência ou atraso (delay) – medida de tempo relacionada ao deslocamento da informação 
+da origem (transmissor) até o destino (receptor). Ele é normalmente medido
+em milissegundos.
+ Jitter – variação na latência dos pacotes de dados que transportam voz ou vídeo.
+Medidas de desempenho de um sistema de comunicação
+
+===== Página 35 =====
+ Muitos utilizam o termo “largura de banda” para falar da capacidade de tráfego em uma rede, 
+porém a largura de banda difere do throughput. A largura de banda é a capacidade máxima 
+teórica de uma rede ou link de comunicação (por exemplo, 100 Mbps), enquanto o 
+throughput é a taxa real de dados transmitidos com sucesso. O throughput pode ser menor 
+que a largura de banda devido a diversos fatores como interferências e problemas na rede. 
+ Se uma conexão de 1 Gbps está disponível, mas devido a congestionamentos e erros de 
+transmissão, o throughput observado é de apenas 500 Mbps, isso significa que, embora a 
+largura de banda da rede permita uma taxa de 1 Gbps, a quantidade real de dados 
+transferidos com sucesso é de 500Mbps.
+Largura de banda x throughput
+
+===== Página 36 =====
+ Muitas empresas operam sistemas críticos, que demandam máxima segurança, 
+confiabilidade e disponibilidade. Isso significa que as redes de comunicação de dados, pelas 
+quais estes sistemas trafegam, devem estar disponíveis 24 horas por dia, 7 dias por semana. 
+Além disso, suas falhas precisam ser isoladas e recuperadas de forma praticamente 
+transparente aos usuários daqueles sistemas.
+ O tempo médio de reparo em um determinado evento na rede deve ser próximo de zero para 
+que a disponibilidade daquele site (ou “site availability”) permaneça em 100%.
+Disponibilidade da rede
+
+===== Página 37 =====
+ Para se ter alguma garantia de disponibilidade na rede e uma entrega de serviço consistente, 
+as empresas fecham um contrato de SLA, ou Acordo de Nível de Serviço (do inglês Service 
+Level Agreement) com as operadoras.
+ SLA é um acordo de nível de serviço, um contrato entre um prestador de serviços e um 
+cliente, que define detalhes do serviço a ser fornecido. Esses detalhes incluem o nível de 
+desempenho esperado, as metodologias de medições de desempenho e o que acontecerá 
+se os níveis de desempenho não forem atingidos. Com isso, as empresas definem melhor as 
+responsabilidades das provedoras, e as consequências em caso de falhas, protegendo 
+investimentos e melhorando a qualidade da experiência do cliente.
+Service Level Agreement
+
+===== Página 38 =====
+Qual é o nome dado ao tempo de atraso entre o envio e a recepção de dados em um canal de 
+comunicação de dados?
+a) Banda.
+b) Capacidade de tráfego.
+c) Latência.
+d) Jitter.
+e) Throughput.
+Interatividade
+
+===== Página 39 =====
+Qual é o nome dado ao tempo de atraso entre o envio e a recepção de dados em um canal de 
+comunicação de dados?
+a) Banda.
+b) Capacidade de tráfego.
+c) Latência.
+d) Jitter.
+e) Throughput.
+Resposta
+
+===== Página 40 =====
+ Orientada à conexão – tipo de serviço em que é estabelecido um caminho único entre origem 
+e destino, onde ao se inserir bits em uma extremidade os mesmos serão recebidos pelo 
+receptor, na mesma ordem.
+ Não orientada à conexão – tipo de serviço em que não é estabelecido previamente nenhum 
+caminho, ou seja, não existe uma conexão criada entre origem e destino; não havendo 
+portanto garantia de que todos os pacotes encaminhados serão entregues.
+Classificação das redes de computadores quanto ao serviço de transporte
+
+===== Página 41 =====
+ Pode ser executada de três modos diferentes: simplex, half-duplex e full-duplex.
+ Também é possível classificar a transmissão como síncrona ou assíncrona.
+Classificação quanto ao modo de operação do canal de comunicação
+
+===== Página 42 =====
+ A transmissão simplex ocorre apenas de forma unidirecional, ou seja, obedece apenas a 
+uma direção. 
+ Nesse modo, as duas pontas envolvidas no processo de comunicação executam os seus 
+papéis bem definidos de transmissor ou receptor, sem qualquer inversão. 
+ Um bom exemplo é a transmissão de sinais de TV analógica ou de rádio AM e FM.
+Transmissão simplex
+Fonte: livro-texto.
+Transmissor
+(TX)
+Receptor
+(RX)
+
+===== Página 43 =====
+ A transmissão half-duplex ocorre de forma bidirecional e não simultânea, isto é, as duas 
+pontas envolvidas no processo de comunicação exercem o papel de transmissor e receptor, 
+mas isso não ocorre ao mesmo tempo. Um exemplo desse modo de transmissão é a 
+comunicação de rádio tipo walkie-talkie.
+Transmissão half-duplex
+Fonte: livro-texto.
+Transmissor
+(TX)
+Receptor
+(RX)
+Receptor
+(RX)
+Transmissor
+(TX)
+OU
+
+===== Página 44 =====
+ A transmissão full-duplex ocorre de forma bidirecional e simultânea, quer dizer, as duas 
+pontas envolvidas no processo de comunicação transmitem e recebem simultaneamente. 
+ Um exemplo disso é o sistema de comunicação de telefonia móvel celular ou de 
+telefonia fixa. 
+ Quando um dispositivo efetua transmissão e recepção, recebe o nome de transceptor.
+Transmissão full-duplex
+Fonte: adaptado de: livro-texto.
+Transceptor Transceptor
+
+===== Página 45 =====
+ A comunicação síncrona é a transmissão de informações de uma única vez, em blocos, 
+determinada pelo sinal de clock de sincronismo. Isso significa que essas informações não 
+podem ser transmitidas a qualquer momento pelo emissor, mas apenas no tempo fixado pelo 
+relógio (clock) interno do receptor.
+ A comunicação assíncrona, por sua vez, é aquela em que não há um controle por nenhum 
+mecanismo de sincronização no receptor. As informações são enviadas, por exemplo, em 
+sequências de um byte que contêm a indicação de início e fim de cada agrupamento.
+Classificação quanto ao modelo de comunicação
+
+===== Página 46 =====
+ Topologia em estrela: todos os componentes estão interligados a um equipamento 
+concentrador, que é o núcleo central de uma rede. Nas redes locais modernas, é muito 
+comum o uso dessa topologia, em que o equipamento concentrador é normalmente um    
+hub ou um switch.
+ Topologia em barramento: cada um dos componentes está interligado a um barramento 
+físico – por exemplo, um cabo coaxial, muito utilizado como barramento de redes locais. 
+ Topologia em anel: há um meio físico interligando os 
+componentes um por um, formando um anel físico. A grande 
+fragilidade dessa rede está no ponto de falha que cada 
+componente representa.
+Classificação quanto à topologia de rede
+
+===== Página 47 =====
+ Topologia em malha: Vários nós interligados entre si por diversos meios, apresentando uma 
+maior quantidade de links e cabos. A transmissão de dados é mais consistente porque a 
+falha em um dos seus dispositivos não interromperá a rede. Oferece uma excelente 
+redundância, mas é muito cara para implementar, por isso geralmente é reservada para 
+backbones de rede, não sendo encontrada em redes locais.
+Classificação quanto à topologia de rede
+Fonte: autoria própria.
+ISR4331
+Router 3
+ISR4331
+Router 5
+ISR4331
+Router 4
+ISR4331
+Router 2
+ISR4331
+Router 1
+
+===== Página 48 =====
+ LAN (Local Area Network): é uma rede de computadores de pequeno porte, geralmente 
+restrita a um único local físico, como um escritório, residência ou prédio.
+ MAN (Metropolitan Area Network): consiste em uma rede de alta velocidade que interliga 
+diversas LANs dentro de uma mesma área urbana ou metropolitana.
+ WAN (Wide Area Network): abrange uma área geograficamente extensa, conectando várias 
+LANs localizadas em cidades, estados ou até países diferentes, geralmente por meio de links 
+públicos ou privados.
+ PAN (Personal Area Network): rede que conecta dispositivos em um raio de distância 
+limitado, focando na conexão de dispositivos pessoais.
+Classificação das redes de computadores quanto à abrangência
+
+===== Página 49 =====
+ São vários os tipos de rede e seus conceitos, mas os termos mais utilizados são LAN e 
+WAN. A LAN indica tudo que está no perímetro da rede local da empresa, enquanto a WAN  
+é o que está fora deste perímetro, conectando à rede de longa distância.
+ O roteador, também chamado de default gateway, funciona como uma rota de saída para a 
+WAN. Ou seja, o roteador é o dispositivo que faz a interface entre LAN e WAN.
+Classificação das redes de computadores quanto à abrangência
+Enterprise Campus WAN Remote Sites
+Workgroups
+Branch
+Office
+Telecommuter
+Building
+Backbone
+Campus Backbone
+WAN
+Fonte: adaptado 
+de: livro-texto.
+
+===== Página 50 =====
+Qual é o tipo de transmissão que ocorre apenas de forma unidirecional, ou seja, que obedece 
+apenas a uma direção?
+a) Transmissão duplex.
+b) Transmissão full-duplex.
+c) Transmissão simplex.
+d) Transmissão half-duplex.
+e) Transmissão isócrona.
+Interatividade
+
+===== Página 51 =====
+Qual é o tipo de transmissão que ocorre apenas de forma unidirecional, ou seja, que obedece 
+apenas a uma direção?
+a) Transmissão duplex.
+b) Transmissão full-duplex.
+c) Transmissão simplex.
+d) Transmissão half-duplex.
+e) Transmissão isócrona.
+Resposta
+
+===== Página 52 =====
+ATÉ A PRÓXIMA!

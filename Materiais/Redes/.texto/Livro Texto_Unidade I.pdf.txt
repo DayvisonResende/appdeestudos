@@ -1,0 +1,2156 @@
+===== Página 1 =====
+Autora: Profa. Jacqueline Zonichenn Reis
+Colaboradores: Prof. Angel Antonio Gonzalez Martinez
+      Profa. Christiane Mazur Doi
+Redes de Computadores e 
+Sistemas Distribuídos
+
+===== Página 2 =====
+Professora conteudista: Jacqueline Zonichenn Reis 
+Doutora em Engenharia de Produção pela Universidade Paulista – UNIP (2022) e mestre em Engenharia de 
+Produção pela mesma instituição (2019). Possui MBA Executivo pelo IBMEC (2006) e pós-graduação em Gerência de 
+Telecomunicações e Redes de Computadores pela Fumec (2003). Bacharel em Administração de Sistemas de Informação 
+pela UNA-MG (2001) e técnica em Informática Industrial pelo Cefet-MG (1995). Além de ter certificações, como Cisco 
+CCNA, Cisco CCDA, Cisco Cybersecurity Operations Fundamentals, Fortinet NSE4 e ITIL V4. Atualmente, trabalha como 
+arquiteta de soluções na Orange Business, empresa do grupo multinacional France Telecom. É docente na UNIP nos cursos 
+de Gestão da Tecnologia da Informação, Análise e Desenvolvimento de Sistemas e Ciências da Computação. Também é 
+coautora dos livros Indústria 4.0: conceitos e fundamentos e Transformação digital e Indústria 4.0: produção e sociedade, 
+tendo sido este último um dos livros finalistas ao prêmio Jabuti Acadêmico de 2024. Sua tese de doutorado, intitulada 
+Internet de Serviços para inovação em modelos de negócios e transformação digital: aplicação para “Indústria 4.0 e 
+Agricultura 4.0”, foi premiada e indicada à Capes pela UNIP como melhor tese defendida no ano de 2022.
+© Todos os direitos reservados. Nenhuma parte desta obra pode ser reproduzida ou transmitida por qualquer forma e/ou 
+quaisquer meios (eletrônico, incluindo fotocópia e gravação) ou arquivada em qualquer sistema ou banco de dados sem 
+permissão escrita da Universidade Paulista.
+Dados Internacionais de Catalogação na Publicação (CIP)
+R378r Reis, Jacqueline Zonichenn.
+Redes de Computadores e Sistemas Distribuídos / Jacqueline 
+Zonichenn Reis. – São Paulo: Editora Sol, 2025.
+206 p., il.
+Nota: este volume está publicado nos Cadernos de Estudos e 
+Pesquisas da UNIP, Série Didática, ISSN 1517-9230.
+1. Redes. 2. Endereçamento. 3. Sistemas distribuídos. I. Título.
+CDU 681.324
+U522.52 – 25
+
+===== Página 3 =====
+Prof. João Carlos Di Genio
+Fundador
+Profa. Sandra Rejane Gomes Miessa
+Reitora
+Profa. Dra. Marilia Ancona Lopez
+Vice-Reitora de Graduação
+Profa. Dra. Marina Ancona Lopez Soligo
+Vice-Reitora de Pós-Graduação e Pesquisa
+Profa. Dra. Claudia Meucci Andreatini
+Vice-Reitora de Administração e Finanças
+Profa. M. Marisa Regina Paixão
+Vice-Reitora de Extensão
+Prof. Fábio Romeu de Carvalho
+Vice-Reitor de Planejamento
+Prof. Marcus Vinícius Mathias
+Vice-Reitor das Unidades Universitárias
+Profa. Silvia Renata Gomes Miessa
+Vice-Reitora de Recursos Humanos e de Pessoal
+Profa. Laura Ancona Lee
+Vice-Reitora de Relações Internacionais
+Profa. Melânia Dalla Torre
+Vice-Reitora de Assuntos da Comunidade Universitária
+UNIP EaD
+Profa. Elisabete Brihy
+Profa. M. Isabel Cristina Satie Yoshida Tonetto
+Material Didático
+Comissão editorial: 
+ Profa. Dra. Christiane Mazur Doi
+ Profa. Dra. Ronilda Ribeiro
+Apoio:
+ Profa. Cláudia Regina Baptista
+ Profa. M. Deise Alcantara Carreiro
+ Profa. Ana Paula Tôrres de Novaes Menezes
+Projeto gráfico: Revisão:
+ Prof. Alexandre Ponzetto  Lucas Ricardi
+   Fernanda Felix
+
+===== Página 4 =====
+
+
+===== Página 5 =====
+Sumário
+Redes de Computadores e Sistemas Distribuídos
+APRESENTAÇÃO ......................................................................................................................................................9
+INTRODUÇÃO ........................................................................................................................................................11
+Unidade I
+1 PRINCIPAIS CONCEITOS DE REDES DE COMPUTADORES................................................................15
+1.1 Elementos para conectividade ........................................................................................................15
+1.1.1 Equipamentos ..........................................................................................................................................16
+1.1.2 Meios de transmissão ............................................................................................................................19
+1.1.3 Protocolos ..................................................................................................................................................27
+1.2 Performance e importância das redes .........................................................................................30
+1.2.1 Capacidade de tráfego.......................................................................................................................... 31
+1.2.2 Latência .......................................................................................................................................................32
+1.2.3 Disponibilidade ........................................................................................................................................34
+1.2.4 O papel das redes na transformação digital ................................................................................36
+2 CLASSIFICAÇÃO DAS REDES .......................................................................................................................42
+2.1 Quanto ao tipo de serviço de transporte....................................................................................42
+2.1.1 Serviço orientado à conexão ..............................................................................................................42
+2.1.2 Serviço não orientado à conexão .....................................................................................................43
+2.2 Quanto ao modelo de comunicação ............................................................................................44
+2.2.1 Comunicação síncrona .........................................................................................................................44
+2.2.2 Comunicação assíncrona .....................................................................................................................45
+2.3 Quanto ao modo de operação do canal de comunicação ...................................................45
+2.3.1 Modo simplex ...........................................................................................................................................45
+2.3.2 Modo half-duplex ...................................................................................................................................46
+2.3.3 Modo full-duplex ....................................................................................................................................46
+2.4 Quanto à topologia .............................................................................................................................47
+2.4.1 Topologias físicas ....................................................................................................................................47
+2.4.2 Topologias lógicas ...................................................................................................................................51
+2.5 Quanto à abrangência ........................................................................................................................53
+2.5.1 Rede LAN ....................................................................................................................................................54
+2.5.2 Rede WAN ..................................................................................................................................................57
+Unidade II
+3 PADRONIZAÇÃO DE REDE............................................................................................................................69
+3.1 Padrões de rede .....................................................................................................................................69
+3.2 Modelo OSI ..............................................................................................................................................71
+
+===== Página 6 =====
+3.3 Encapsulamento ...................................................................................................................................73
+3.4 Camadas do modelo OSI ...................................................................................................................75
+3.4.1 Camada Física ...........................................................................................................................................75
+3.4.2 Camada de Enlace ..................................................................................................................................77
+3.4.3 Camada de Rede .....................................................................................................................................83
+3.4.4 Camada de Transporte ..........................................................................................................................87
+3.4.5 Camada de Sessão ..................................................................................................................................89
+3.4.6 Camada de Apresentação ....................................................................................................................91
+3.4.7 Camada de Aplicação ............................................................................................................................92
+3.5 Modelo TCP/IP ........................................................................................................................................93
+3.5.1 Camada de Acesso à Rede...................................................................................................................95
+3.5.2 Camada Internet .....................................................................................................................................96
+3.5.3 Camada de Transporte ..........................................................................................................................97
+3.5.4 Camada de Aplicação ............................................................................................................................98
+3.6 Semelhanças e diferenças entre o modelo OSI e o TCP/IP ..................................................99
+4 PROTOCOLOS DE COMUNICAÇÃO ..........................................................................................................101
+4.1 ARP ...........................................................................................................................................................101
+4.2 ICMP ........................................................................................................................................................102
+4.3 IP ...............................................................................................................................................................104
+4.4 TCP ............................................................................................................................................................105
+4.4.1 FTP ...............................................................................................................................................................107
+4.4.2 Telnet .........................................................................................................................................................108
+4.4.3 SMTP ..........................................................................................................................................................110
+4.4.4 HTTP .............................................................................................................................................................111
+4.5 UDP ..........................................................................................................................................................112
+4.5.1 DNS .............................................................................................................................................................113
+4.5.2 DHCP ..........................................................................................................................................................114
+4.5.3 SNMP .........................................................................................................................................................115
+Unidade III
+5 ENDEREÇAMENTO .........................................................................................................................................125
+5.1 Endereçamento IP ..............................................................................................................................125
+5.1.1 Rede e host .............................................................................................................................................128
+5.1.2 Classes de endereços IP .....................................................................................................................129
+5.1.3 Máscara de rede ...................................................................................................................................133
+5.2 Criando sub-redes ..............................................................................................................................138
+5.2.1 Máscara de sub-rede ..........................................................................................................................139
+5.2.2 Calculando sub-redes .........................................................................................................................142
+5.3 IPv6 ..........................................................................................................................................................145
+6 VLANS  ...............................................................................................................................................................147
+6.1 Características das VLANs ...............................................................................................................147
+6.2 Funcionamento das VLANs .............................................................................................................149
+6.3 Comunicação Inter-VLAN ...............................................................................................................152
+
+===== Página 7 =====
+Unidade IV
+7 SISTEMAS DISTRIBUÍDOS ...........................................................................................................................158
+7.1 Características dos sistemas distribuídos .................................................................................160
+7.1.1 Comunicação e coordenação ..........................................................................................................162
+7.1.2 Escalabilidade ........................................................................................................................................164
+7.1.3 Tolerância a falhas ...............................................................................................................................165
+7.1.4 Desempenho ..........................................................................................................................................167
+7.1.5 Segurança ...............................................................................................................................................168
+7.2 Comparação com sistemas centralizados e paralelos .........................................................170
+7.3 Arquitetura de sistemas distribuídos ..........................................................................................172
+7.4 Web services .........................................................................................................................................176
+7.4.1 WSDL (Web Services Description Language) .............................................................................181
+7.4.2 SOAP (Simple Object Access Protocol) .........................................................................................181
+7.4.3 UDDI (Universal Description, Discovery, and Integration)................................................... 182
+7.5 SOA (Service Oriented Architecture) ..........................................................................................182
+7.6 Virtualização .........................................................................................................................................185
+8 APLICAÇÕES DE SISTEMAS DISTRIBUÍDOS MODERNOS ................................................................186
+8.1 Microsserviços .....................................................................................................................................187
+8.1.1 Containers ...............................................................................................................................................190
+8.1.2 Dockers .....................................................................................................................................................190
+8.1.3 Kubernetes ...............................................................................................................................................191
+8.1.4 API ...............................................................................................................................................................191
+8.1.5 API Gateway ............................................................................................................................................191
+8.1.6 REST ...........................................................................................................................................................192
+8.2 Blockchain .............................................................................................................................................193
+8.3 Aplicações de IoT ................................................................................................................................195
+
+===== Página 8 =====
+
+
+===== Página 9 =====
+9
+APRESENTAÇÃO
+Prezado aluno,
+Esta disciplina apresenta conceitos introdutórios importantes sobre o universo das redes 
+e dos sistemas distribuídos. Ao explorar esses fundamentos de forma didática e objetiva, todo o 
+funcionamento de uma rede de computadores, que parece ser complexo quando desconhecido, passa 
+a ser compreendido mais facilmente. Isso resulta em um conhecimento relevante para você, aluno, 
+tanto no seu papel de usuário quanto no de profissional da área, além de prepará-lo para as próximas 
+etapas do curso.
+O objetivo principal da disciplina é trazer um entendimento das redes locais (LANs) e das redes 
+geograficamente distribuídas (WANs), tipicamente encontradas no mercado, tendo por base o modelo 
+OSI, que é extremamente didático e facilita a compreensão das redes de computadores. Através deste 
+livro-texto, esperamos promover um primeiro contato com assuntos específicos de redes e de sistemas 
+distribuídos, conhecendo fenômenos interessantes que ocorrem no dia a dia. Desse modo, será possível 
+mostrar a teoria relacionada às práticas que vivenciamos e, com isso, formar uma postura mais crítica e 
+fundamentada sobre os problemas típicos do cotidiano. 
+Vários são os atores em um ambiente de redes de computadores e de sistemas distribuídos, 
+tais como: concessionárias de telefonia, provedores de serviços de rede, integradores de sistemas, 
+desenvolvedores, fabricantes de equipamentos, técnicos e terceirizados. A quantidade de envolvidos 
+em um mesmo problema nesse ambiente pode trazer um grau de complexidade que demanda 
+conhecimentos amplos sobre como a rede ou o sistema operam. Por isso, outro objetivo desta 
+disciplina está relacionado ao conhecimento das tecnologias de comunicação e dos fundamentos de 
+telecomunicações, principalmente aqueles que antecedem o ferramental utilizado pelas modernas 
+redes de computadores. 
+Abordaremos nesta disciplina a importância das redes e dos sistemas distribuídos, bem como sua 
+relevância no cenário de transformação digital. Trataremos dos elementos que compõem uma rede de 
+computadores, destacando classificações de tipos de conexões, topologias, meios de transmissão e os 
+principais dispositivos. 
+Destacaremos também padrões de arquitetura de redes, como os modelos OSI e TCP/IP, 
+conhecidos como os principais no estudo e na implementação de redes de computadores. Trataremos 
+do conhecimento de cada camada, desde a camada Física, que está mais próxima do meio de 
+transmissão, até a camada de Aplicação, mais próxima do usuário. Para isso, a disciplina contemplará 
+os conceitos e a operação dos equipamentos comumente utilizados em cada camada da arquitetura 
+de redes, diferenciando o funcionamento entre switches e roteadores, entre uma rede local e uma 
+rede geograficamente distribuída, entre endereçamento físico e lógico.
+No contexto dos sistemas distribuídos, estudaremos os conceitos fundamentais, como arquiteturas, 
+serviços, comunicação entre processos e tolerância a falhas. A disciplina possibilitará o entendimento 
+de como os sistemas distribuídos dependem de uma coordenação com as redes de computadores e,
+
+===== Página 10 =====
+10
+também, de uma orquestração de serviços, processos e componentes, para que todo o conjunto de 
+aplicações trabalhe de forma ordenada.
+São muitas as aplicações que envolvem uma interdependência entre a infraestrutura de redes 
+de computadores e os serviços de sistemas distribuídos. A computação em nuvem, tão importante 
+no cenário das mudanças dos modelos de negócios em todo o mundo, é construída sobre sistemas 
+distribuídos que conectam diversos recursos e dispositivos em rede. Isso demonstra a relevância desta 
+disciplina e do conteúdo que será apresentado neste livro-texto.
+Boa leitura!
+
+===== Página 11 =====
+11
+INTRODUÇÃO
+As redes de computadores fazem parte do nosso dia a dia. Mal acordamos e já acessamos nossas 
+mensagens e redes sociais pelo celular. Antes de sair de casa, verificamos a previsão do tempo e como 
+está o trânsito. No trabalho, fazemos reuniões virtuais, trocamos e-mails e compartilhamos arquivos. 
+De qualquer lugar, efetuamos compras e pagamentos, ouvimos música e vemos as últimas notícias, tudo 
+via celular, por meio de aplicativos diversos. No fim do dia, nem nos damos conta de que utilizamos 
+as redes de computadores o tempo todo. Aliás, o único momento em que lembramos disso é quando 
+enfrentamos algum problema de conectividade. Isso nos faz perceber o quão dependentes das redes 
+nós estamos.
+Neste mundo interconectado, uma infraestrutura de redes robusta e confiável é essencial para permitir 
+o fluxo contínuo de dados, a comunicação e a colaboração. As redes fornecem a base para conectar 
+dispositivos, sistemas e aplicações, além de facilitarem a transferência de dados e informações, permitindo 
+que as empresas operem de forma eficiente e tomem decisões acertadas. Seja para compartilhar arquivos, 
+acessar serviços na nuvem ou utilizar análises em tempo real, uma infraestrutura de rede forte é vital para 
+dar suporte aos recursos digitais.
+Além disso, as redes permitem que as organizações adotem tecnologias emergentes que impulsionam 
+a transformação digital. Tecnologias como a IoT (Internet das Coisas), a IA (inteligência artificial) e a 
+análise de Big Data dependem fortemente da conectividade de rede para funcionarem de forma eficaz. 
+Essas tecnologias geram grandes quantidades de dados que precisam ser transmitidos, processados 
+e analisados em tempo real. Uma rede de alto desempenho é essencial para lidar com o aumento do 
+tráfego de dados e garantir insights oportunos e precisos.
+As redes também facilitam a colaboração e a comunicação entre funcionários, parceiros e clientes. 
+Com o aumento do trabalho remoto e das equipes globais, uma infraestrutura de rede confiável permite 
+videoconferências, compartilhamento de arquivos e mensagens em tempo real sem interrupções. 
+Essa conectividade promove a inovação, aumenta a produtividade e permite que as organizações se 
+adaptem às constantes mudanças no mundo dos negócios.
+À medida que a transformação digital traz uma maior conectividade, ela também introduz novos 
+riscos de segurança. Nesse cenário, as redes devem garantir a segurança e a resiliência necessárias para 
+proteger os ativos digitais e as informações sensíveis. Uma infraestrutura de rede bem projetada incorpora 
+medidas de segurança robustas, como firewalls, criptografia e sistemas de detecção de intrusões, para 
+a proteção contra ameaças cibernéticas e a garantia da privacidade dos dados.
+As redes são, portanto, a espinha dorsal da transformação digital. Elas permitem o fluxo contínuo 
+de dados, apoiam tecnologias emergentes, promovem a colaboração e fornecem segurança. Investir em 
+uma infraestrutura de rede confiável e escalável é crucial para as organizações que procuram aproveitar 
+todo o potencial que os dados e as informações proporcionam, para assim permanecerem competitivas 
+na nova era digital.
+
+===== Página 12 =====
+12
+Este livro-texto possibilita aos leitores conhecerem as novas tecnologias em redes de computadores 
+e sistemas distribuídos, ao mesmo tempo em que traz uma fundamentação teórica consistente sobre os 
+conceitos e os aspectos mais relevantes relacionados ao tema. 
+Assim, na primeira unidade, exploramos fundamentos das redes de computadores, destacando 
+os principais elementos que garantem a conectividade entre sistemas, como: equipamentos, meios 
+de transmissão e protocolos de comunicação. A unidade apresenta uma visão da infraestrutura 
+física, detalhando os equipamentos, sejam eles dispositivos finais ou intermediários, e também os 
+meios de comunicação, sejam eles cabeados ou sem fio. Também são discutidos os protocolos que 
+viabilizam a troca segura e eficiente de informações, além de aspectos relacionados ao desempenho, 
+como throughput, latência e disponibilidade. Ao final, compreende-se o papel estratégico das redes 
+na transformação digital e no suporte às aplicações em crescente demanda nos diferentes setores 
+da sociedade.
+Na segunda unidade, abordamos os padrões de arquitetura em redes de computadores, com foco 
+nos modelos de referência OSI e TCP/IP, que estruturam e organizam o funcionamento das redes 
+em camadas. São apresentados os principais órgãos de padronização, como ISO, ITU-T e IEEE, e suas 
+contribuições para a interoperabilidade entre diferentes fabricantes e tecnologias. A unidade detalha 
+cada camada do modelo OSI, da camada Física até a camada de Aplicação, explicando suas funções, 
+protocolos e dispositivos associados. Também exploramos a estrutura do modelo TCP/IP e comparamos 
+suas camadas às do modelo OSI, ressaltando semelhanças e diferenças entre os dois modelos.
+Na terceira unidade, são estudados em profundidade os principais conceitos de endereçamento 
+em redes de computadores, com ênfase no endereçamento IP, suas classes, máscaras de sub-rede e 
+criação de sub-redes. Conjuntamente, são discutidas as diferenças entre endereços físicos, lógicos 
+e de serviço, a estrutura e a hierarquia do IPv4, bem como os desafios que levaram à adoção do 
+IPv6. Além disso, a unidade aborda a segmentação lógica de redes por meio de VLANs e seu impacto 
+na organização, desempenho e segurança das redes locais. Ao final, o conteúdo possibilita uma 
+compreensão sólida sobre como os dispositivos são identificados e organizados dentro de uma rede,  
+e como essa estrutura permite a comunicação eficiente entre as diferentes aplicações e sistemas.
+Na quarta unidade, exploramos o universo dos sistemas distribuídos, uma das áreas estratégicas da 
+computação. São apresentados os conceitos fundamentais e as características técnicas e arquiteturais 
+desses sistemas, bem como os desafios envolvidos na comunicação, escalabilidade, tolerância a falhas, 
+desempenho e segurança. A unidade aborda a evolução dos sistemas centralizados para os distribuídos, 
+comparando diferentes modelos e destacando a importância de arquiteturas como microsserviços, web 
+services e SOA. O texto esclarece como essas tecnologias sustentam a infraestrutura de aplicações críticas, 
+desde serviços em nuvem até aplicativos móveis, mostrando que dominar tais conceitos é essencial para 
+construir soluções robustas e confiáveis.
+Ao final deste livro-texto, o leitor será capaz de:
+• identificar e descrever os principais equipamentos, meios de transmissão e protocolos utilizados 
+em redes de computadores;
+
+===== Página 13 =====
+13
+• compreender os fundamentos do desempenho de redes, como throughput, latência e disponibilidade;
+• interpretar os modelos OSI e TCP/IP na análise e no projeto de redes;
+• aplicar corretamente o endereçamento IP em ambientes de rede;
+• implementar VLANs como solução de segmentação lógica em redes locais;
+• analisar arquiteturas de sistemas distribuídos, seus desafios e benefícios;
+• aplicar conceitos de microsserviços e web services  no desenvolvimento de aplicações escaláveis 
+e resilientes.
+O domínio desses temas capacita o aluno a projetar e manter sistemas em rede de forma mais 
+eficiente, segura e alinhada às necessidades de infraestrutura e de negócios.
+A relevância das redes de computadores e dos sistemas distribuídos reside na sua capacidade de 
+melhorar a confiabilidade, o desempenho e a escalabilidade de sistemas de computação, permitindo que 
+novos aplicativos e recursos estejam acessíveis aos indivíduos, empresas e sociedade. Essa abordagem 
+é fundamental na infraestrutura tecnológica moderna, especialmente para suportar as demandas de 
+uma sociedade cada vez mais digital.
+Bom estudo!
+
+===== Página 14 =====
+
+
+===== Página 15 =====
+15
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Unidade I
+1 PRINCIPAIS CONCEITOS DE REDES DE COMPUTADORES
+1.1 Elementos para conectividade
+A conectividade pode ser considerada um dos pilares fundamentais da sociedade contemporânea, 
+sustentando a comunicação, o acesso à informação e a interação entre indivíduos e sistemas em 
+escala global. A construção e a manutenção de uma conectividade eficiente dependem de uma série 
+de elementos técnicos, estruturais e humanos que trabalham em conjunto para garantir a fluidez das 
+trocas de dados. Esses elementos vão desde a infraestrutura física até os protocolos que regulam o fluxo 
+de informações, passando por dispositivos de rede que atuam como mediadores.
+A infraestrutura de uma rede de computadores envolve, portanto, todos os elementos responsáveis 
+pela transmissão da mensagem, que parte de uma origem e vai até um destino, através de um canal de 
+comunicação, como mostra a figura a seguir:
+Canal de comunicação
+Mensagem
+Código  
+e protocolo
+Fonte Destino
+Emissor
+Receptor
+Figura 1 – Modelo de comunicação
+Adaptada de: Shannon (1948).
+Para Shannon (1948), a importância da conectividade se sobrepõe a problemas de aplicação ou 
+de uso da informação pelos sistemas, uma vez que estes dependem inevitavelmente da eficácia na 
+transmissão das mensagens. Ou seja, podemos dizer que o nível físico da conectividade é o que primeiro 
+precisa ser atendido e funcionar a contento para que todo o sistema funcione.
+
+===== Página 16 =====
+16
+Unidade I
+Como principais elementos para conectividade, temos os equipamentos, os protocolos e os meios 
+de transmissão. Inclusive, o conceito de redes de computadores é formado por esses elementos. 
+As redes de computadores são um conjunto de equipamentos que são capazes de trocar informações 
+e compartilhar recursos entre si, utilizando protocolos para se comunicarem e interligados por meios 
+de comunicação (Kurose; Ross, 2021).
+O primeiro elemento essencial para a conectividade é o equipamento, podendo ser qualquer 
+dispositivo de acesso, como computador, smartphone ou tablet. Esses aparelhos não apenas permitem 
+o envio e o recebimento de dados, mas também facilitam a interação com a rede global por meio de 
+interfaces amigáveis ao usuário. Além desses dispositivos de uso pessoal, equipamentos de rede, como 
+repetidores, switches e roteadores, possibilitam a transmissão da informação pela rede até o destino final.
+O segundo elemento que possibilita essa conectividade é o meio de transmissão por onde o sinal é 
+enviado. Isso inclui cabos de fibra óptica, torres de comunicação e satélites, que formam o arcabouço 
+físico para a transmissão de dados. 
+Como terceiro componente básico temos os protocolos de comunicação. Eles definem as regras pelas 
+quais os dados são transmitidos entre dispositivos, garantindo que as informações cheguem ao destino 
+correto de forma eficiente e segura. O protocolo TCP/IP (Transmission Control Protocol/Internet Protocol) é 
+um exemplo clássico, sendo responsável pela segmentação dos dados em pacotes e sua recomposição no 
+destino (Tanenbaum; Feamster; Wetherall, 2021).
+Os elementos para conectividade englobam uma variedade de componentes interligados que, juntos, 
+garantem o funcionamento de uma rede ou sistema. 
+1.1.1 Equipamentos
+Os equipamentos de rede desempenham um papel fundamental na transmissão, recepção e 
+encaminhamento de dados. Para que uma rede funcione de maneira eficiente, é imprescindível a presença 
+de componentes capazes de viabilizar o transporte das informações e garantir uma comunicação 
+adequada entre os emissores e receptores. Esses equipamentos são, em geral, classificados em duas 
+categorias principais: dispositivos finais, que representam os pontos de origem e destino das informações, 
+e dispositivos intermediários, responsáveis por encaminhar os dados ao longo do percurso na rede.
+Os dispositivos finais de rede, também conhecidos como hosts, são os elementos que estabelecem a 
+interface direta entre os usuários e a rede de comunicação. Esses equipamentos situam-se na extremidade 
+do fluxo de dados e atuam como ponto de origem ou destino das informações transmitidas. Em outras 
+palavras, são responsáveis por gerar, processar ou receber os dados que trafegam pela rede. Entre os 
+principais exemplos de dispositivos finais, destacam-se computadores, impressoras conectadas à rede, 
+terminais de videoconferência, telefones VoIP, câmeras de segurança e dispositivos móveis. 
+Nos dispositivos finais, como computadores, por exemplo, o elemento principal para conectividade 
+é a placa de rede. A placa de rede é um equipamento interno instalado nos computadores que torna 
+possível a comunicação entre os hosts e os dispositivos intermediários conectados diretamente a eles.
+
+===== Página 17 =====
+17
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Há uma variedade de placas de rede disponíveis no mercado, cada uma projetada para atender a demandas 
+específicas de conectividade, desempenho e infraestrutura. Esses dispositivos desempenham um papel 
+essencial na comunicação entre os equipamentos e a rede. As principais categorias de placas de rede incluem:
+• Ethernet: as placas de rede Ethernet representam a forma mais amplamente utilizada de 
+conectividade em computadores pessoais e em redes locais cabeadas. Elas oferecem uma solução 
+eficiente e confiável para a comunicação de dados em ambientes que utilizam conexões físicas 
+por meio de cabos, além de utilizarem cabos Ethernet para transmitir dados em alta velocidade.
+• Wi-Fi: as placas Wi-Fi são projetadas para conectar dispositivos a redes sem fio. Elas são essenciais 
+para laptops, smartphones, tablets e outros dispositivos móveis. Placas de rede sem fio de longo 
+alcance (Wi-Fi de longo alcance) são placas especiais usadas para conexões Wi-Fi em longas 
+distâncias, como em áreas rurais ou em locais com pouca infraestrutura de rede.
+Na figura a seguir, temos um exemplo de placa de rede do tipo Ethernet:
+Figura 2 – Placa de rede Ethernet
+Disponível em: https://tinyurl.com/mrsuefam. Acesso em: 17 jun. 2025.
+ Observação
+Quando se fala em dispositivos finais ou hosts, os computadores desktop 
+são o modelo mais tradicional. Porém, a popularização do trabalho remoto 
+durante e após a pandemia da Covid-19 impulsionou o uso dos notebooks e 
+laptops. Da mesma forma, o barateamento dos componentes eletrônicos 
+e a expansão das redes móveis possibilitaram um maior acesso a celulares e 
+smartphones. Eles também são considerados dispositivos finais que podem 
+estar conectados à rede de qualquer lugar.
+
+===== Página 18 =====
+18
+Unidade I
+Os dispositivos intermediários são aqueles aos quais os dispositivos finais se conectam. Isto é, os 
+dispositivos intermediários provêm a conectividade para os dispositivos finais com o objetivo de garantir 
+que os dados sejam transmitidos pela rede. 
+Através dos dispositivos intermediários, os hosts formam redes individuais que, por sua vez, 
+podem se interligar a outros dispositivos intermediários para formar uma rede maior. Os dispositivos 
+intermediários podem ser:
+• dispositivos de acesso à rede, como os hubs, switches e access points;
+• dispositivos de interconexão, como os roteadores;
+• dispositivos de segurança, como os firewalls.
+Os principais dispositivos intermediários utilizados para o acesso das estações de trabalho à rede são 
+os concentradores ou hubs, os comutadores ou switches e os pontos de acesso sem fio, mais conhecidos 
+como access points. Para conectar esses equipamentos a outras redes de mais amplo alcance, como a 
+internet, são usados dispositivos de interconexão e de segurança, que são os roteadores e firewalls. 
+A seguir, detalhamos cada um dos dispositivos intermediários:
+• Hub: o hub tem a característica de formar dentro de seus circuitos um barramento, que permite 
+que todos os computadores conectados a ele possam se comunicar, fazendo a regeneração do 
+sinal digital transmitido. Essa característica é importante em razão de o sinal ser degradado ao 
+percorrer o caminho entre os computadores de origem e de destino. 
+• Switch: o switch permite que os computadores ligados a ele se comuniquem e ainda regenera o 
+sinal recebido. Cada conexão oferecida pelo switch é um novo barramento e, dessa forma, oferece 
+para cada equipamento conectado a ele uma banda passante exclusiva, excluindo o problema de 
+colisão que é comum aos hubs. Por meio dos switches, cada porta pode trafegar em full-duplex, 
+o que garante maior desempenho aos dados trafegados. Na seção 2.3.3, abordamos com mais 
+detalhes a comunicação full-duplex.
+• Access point: o access point, ou ponto de acesso, é um dispositivo intermediário encontrado na 
+rede sem fio, responsável por interligar todos os dispositivos móveis. Esse equipamento geralmente 
+se conecta a uma rede cabeada e atua como ponto de acesso não cabeado para os dispositivos 
+finais daquele ambiente, o que permite o acesso desses hosts a outra rede, como a internet.
+• Roteador: o roteador (ou router, em inglês) é o equipamento que interliga duas ou mais redes, 
+garantindo que os dados oriundos de um switch sejam direcionados aos endereços lógicos corretos 
+na rede. Entre várias funções que o roteador exerce, uma das principais é escolher a melhor rota, 
+ou o caminho mais eficiente, para que os pacotes alcancem seu destino.
+
+===== Página 19 =====
+19
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• Firewall: o firewall, cuja tradução é “parede de fogo”, é um dispositivo responsável pela segurança 
+de uma rede de computadores. Pode ser instalado na forma de um programa (software) ou de 
+equipamento físico (hardware), que tem por objetivo aplicar uma política de segurança a um 
+determinado ponto da rede, podendo ser filtros de pacotes, proxy de aplicações etc.
+A figura a seguir ilustra os dispositivos finais (hosts) na cor azul e os dispositivos intermediários, 
+como switches, access points e roteadores, na cor amarela. Na cor verde estão marcados os meios de 
+transmissão que conectam os diferentes dispositivos entre si. A seguir, discutiremos com mais detalhes 
+os meios de transmissão.
+Meios
+PC-PT
+Meios
+Host
+Host
+Printer-PT
+Laptop-PT 
+Laptop
+TabletPC-PT 
+Tablet
+SMARTPHONE-PT 
+Smartphone
+PC-PT
+Server-PT 
+Servidor SMTP
+Printer-PT
+PC-PT
+7960
+Dispositivos intermediários
+1841 
+Router1
+1841 
+Router2
+2960-24TT 
+Switch12860-24TT 
+Switch0
+AccessPoint-PT 
+Access Point
+Host
+Meios de transmissão
+Dispositivos intermediários
+Figura 3 – Equipamentos de rede
+Adaptada de: Cisco (2021).
+1.1.2 Meios de transmissão
+Os meios de transmissão de rede, ou canais de comunicação, são os responsáveis por transportar 
+os dados entre os dispositivos. Eles desempenham um papel essencial na comunicação em redes de 
+computadores e sua escolha deve considerar critérios como velocidade de transmissão, resistência a 
+ruídos, taxa de erro, disponibilidade, confiabilidade, atenuação e limitações geográficas.
+Meios físicos cabeados são os que utilizam cabos para transmitir os dados. Os principais tipos são: 
+par trançado, cabos coaxiais e fibras ópticas. Já os meios físicos não cabeados são os que não utilizam 
+cabos, possibilitando a comunicação sem fio. Os principais meios são: satélite, Wi-Fi, Bluetooth, rádio 
+e enlaces de micro-ondas.
+
+===== Página 20 =====
+20
+Unidade I
+Ao se utilizar meios físicos confinados, é fundamental seguir um conjunto de normas que contribuem 
+para a organização e a eficiência do projeto de cabeamento. O cabeamento estruturado permite a 
+implementação de um padrão genérico para ser seguido por diferentes fornecedores de cabos de 
+telecomunicações, possibilitando que um sistema intrapredial e interpredial seja composto por produtos 
+de fornecedores distintos, mas em conformidade com critérios técnicos de desempenho estabelecidos.
+Quando os computadores se tornaram populares, o tipo de transmissão mais utilizado entre os 
+usuários residenciais era a transmissão por conexões telefônicas, utilizando-se de modems. Os modems 
+são pequenos aparelhos que fazem a adequação do sinal digital do computador para a linha telefônica.  
+O modem recebe o sinal digital do computador e o coloca dentro de uma onda com a frequência necessária  
+para a transmissão através do meio de comunicação. A esse processo dá-se o nome de modulação. 
+Quando o sinal chega no destino, é feito o processo inverso pelo modem, ou seja, a demodulação.
+Se os computadores estão próximos, a conexão pode ser feita por um cabo conectando ambos 
+diretamente. Porém, quando os computadores estão muito distantes, existe a necessidade de adequar 
+o sinal ao meio, antes de sua transmissão, de forma que a onda transmitida consiga atravessá-lo. A 
+necessidade de modular o sinal digital, transformando-o em sinal analógico, é para poder transmiti-lo 
+por canais analógicos como a rede telefônica. Quando temos canais digitais de comunicação, como 
+fibras ópticas ou rádios digitais, não há a necessidade de transformar o sinal digital em analógico. Isso 
+oferece maior qualidade e velocidade na transferência dos dados (Maia, 2017). 
+Quando a transmissão de dados em rede, entre computadores, é feita a longas distâncias por 
+serviços de transmissão de dados oferecidos pelas empresas concessionárias de telecomunicações, 
+o meio de transmissão é chamado de canal de comunicação de dados. Nesses casos, as empresas 
+concessionárias prestadoras de serviços de telecomunicações transportam os sinais pela sua rede 
+e por seus equipamentos, de uma localidade para outra, cobrando do usuário ou empresa um valor 
+mensal pela prestação do serviço. Os canais de comunicação de dados, fornecidos pelas concessionárias 
+de telecomunicações, são canais pelos quais trafega uma portadora analógica que transporta o sinal 
+digital modulado ou canais digitais em que a informação é transmitida diretamente no formato digital 
+sem modulação.
+Entre os meios de transmissão cabeados mais utilizados estão o cabo coaxial, o de par trançado e a 
+fibra óptica. Por conta dos avanços tecnológicos, alguns modelos, como o serial, o paralelo e o cruzado, 
+estão caindo em desuso e sendo substituídos por opções que oferecem maior velocidade de transmissão.
+• Cabo coaxial: o cabo coaxial é um cabo formado por um núcleo condutor de cobre, envolto por 
+uma malha metálica externa. Foi o primeiro tipo de cabo utilizado nas redes locais. Além disso, é 
+amplamente empregado em comunicações de vídeo e em sistemas de TV a cabo. 
+ Esse cabo possui um revestimento de material isolante, protegido por uma camada de blindagem 
+feita de alumínio ou cobre, que serve para evitar interferências externas. Devido à sua estrutura, é 
+adequado para transmissões em longas distâncias, suportando altas velocidades sem a necessidade 
+de reforçar o sinal. No entanto, algumas desvantagens estão relacionadas às suas características 
+físicas, como a falta de flexibilidade, o que dificulta sua instalação e passagem em determinados
+
+===== Página 21 =====
+21
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+locais. Outro problema comum é a ocorrência de “mau contato” . Esse tipo de cabo funciona como 
+uma topologia física em barramento, o que implica que uma falha em qualquer ponto pode 
+comprometer todo o funcionamento da rede.
+A figura a seguir ilustra um cabo coaxial com seus conectores:
+Figura 4 – Cabo coaxial
+Disponível em: https://tinyurl.com/2natem6b. Acesso em: 17 jun. 2025.
+• Cabo de par trançado: o cabo de par trançado, conhecido como UTP (unshielded twisted pair), 
+é formado por um, dois ou quatro pares de fios de cobre entrelaçados em duplas e revestidos por 
+uma camada isolante. Esse entrelaçamento preserva as propriedades elétricas do cabo e contribui 
+para a redução da interferência eletromagnética. É amplamente utilizado em redes domésticas 
+e corporativas para a interligação de dispositivos, suportando sinais analógicos ou digitais, com 
+larguras de banda de 10, 100 ou 1.000 Mbps, podendo alcançar até 10 Gbps em versões mais 
+avançadas, como as usadas em backbones entre roteadores.
+ Os cabos UTP, sem blindagem, são compostos por quatro pares trançados cobertos por uma capa 
+plástica, geralmente em PVC, e utilizam conectores RJ-45 com oito pinos. Entre as categorias 
+mais utilizadas, destaca-se a categoria 5e, pela sua boa relação custo-benefício, facilidade de 
+instalação e capacidade de transmitir dados a até 100 Mbps por até 100 metros. No entanto, uma 
+de suas limitações é a suscetibilidade a interferências externas, especialmente quando instalados 
+próximos a cabos de energia ou equipamentos eletromecânicos.
+ Já os cabos de par trançado blindados contam com uma camada metálica de proteção adicional 
+sobre os pares, oferecendo maior imunidade a ruídos eletromagnéticos. Embora esses cabos 
+blindados apresentem custo mais elevado, são os mais recomendados para ambientes com altos 
+níveis de interferência. As categorias de cabos de pares trançados incluem:
+— Categoria 1: utilizado exclusivamente para transmissão de voz, como em linhas telefônicas 
+convencionais. Não é adequado para envio de dados.
+
+===== Página 22 =====
+22
+Unidade I
+— Categoria 2: trata-se de um cabo com capacidade de transmitir dados em velocidades de até 
+4 Mbps. Possui quatro pares de fios e foi comum em redes antigas com tecnologia Token Ring.
+— Categoria 3: cabo capaz de alcançar até 16 Mbps de transmissão. Também conta com quatro 
+pares de fios e foi bastante usado nas primeiras redes Ethernet com velocidade de 10 Mbps.
+— Categoria 4: também utiliza quatro pares de fios, permitindo taxas de até 20 Mbps. Foi 
+largamente empregado em redes baseadas no padrão Token Ring.
+— Categoria 5: cabo que suporta velocidades de até 100 Mbps e, assim como os anteriores, tem 
+quatro pares de fios. Foi amplamente adotado em redes Fast Ethernet.
+— Categoria 5e: versão aprimorada da Categoria 5, certificada para transmissões de até 1 Gbps. 
+Visualmente é igual à Cat 5, mas tem melhor desempenho elétrico e menos interferência.
+— Categoria 6: cabo projetado para suportar velocidades de até 10 Gbps, especialmente em 
+distâncias curtas. Utiliza quatro pares de fios e possui maior resistência a ruídos.
+— Categoria 7a: cabo com blindagem em cada par e em todo o conjunto, possibilitando 
+transmissões de até 40 Gbps. Ideal para ambientes que exigem alta velocidade e proteção 
+contra interferências.
+A figura a seguir mostra cabos de par trançado (UTP) conectados ao dispositivo por seus 
+conectores RJ-45:
+Figura 5 – Cabos UTP 
+Disponível em: https://tinyurl.com/4jjaz7tf. Acesso em: 17 jun. 2025.
+• Fibra óptica: o sistema de comunicação por fibra óptica opera transmitindo luz modulada com as 
+informações que se deseja enviar. Essa luz é emitida por um transmissor óptico, que conta com 
+uma fonte de luz, e é recebida por um receptor óptico, que funciona como um detector. Existem
+
+===== Página 23 =====
+23
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+dois tipos principais de fontes de luz utilizadas no transmissor: LED e laser. O laser é mais eficiente 
+por fornecer uma luz mais intensa e com menor largura de espectro, o que resulta em melhor 
+desempenho. Por outro lado, o LED possui menor eficiência no direcionamento da luz para a fibra 
+e tende a gerar mais interferência na transmissão.
+Nas fibras ópticas, as informações trafegam por meio de sinais luminosos, ou seja, por partículas 
+de luz chamadas fótons. Essa tecnologia é considerada segura, já que não utiliza sinais elétricos, 
+reduzindo os riscos de interferências e problemas de segurança. A transmissão em fibras ópticas 
+funciona com base no princípio da reflexão da luz. Nesse processo, equipamentos específicos 
+transformam sinais elétricos em pulsos luminosos. Cada pulso de luz, ou fóton, representa um bit 
+do sistema binário, podendo indicar o valor 0 ou 1.
+As fibras ópticas são feitas de materiais dielétricos, normalmente sílica ou vidro extremamente 
+fino. Elas são transparentes, flexíveis e de pequeno diâmetro. A estrutura das fibras ópticas inclui 
+três componentes principais. São eles:
+— Núcleo central de vidro: onde ocorre a transmissão da luz que possui alto índice de refração.
+— Casca: camada feita de vidro que envolve o núcleo da fibra óptica. Ela possui um índice de 
+refração menor que o do núcleo, o que permite que a luz se reflita internamente, mantendo-se 
+dentro da fibra.
+— Revestimento: camada externa de plástico fino e flexível, que tem a função de proteger a 
+estrutura interna da fibra contra danos mecânicos, umidade e outras agressões externas. As redes 
+de fibra óptica que chegam diretamente às residências, conhecidas como FTTH (Fiber to the Home), 
+permitem a transmissão de serviços como telefonia, TV digital e internet em alta velocidade. Esse 
+tipo de conexão pode alcançar velocidades na faixa dos gigabits por segundo, embora, na prática, 
+as taxas mais comuns variem entre 100 Mbps e 1 Gbps. Esse meio, até alguns anos atrás, era 
+utilizado apenas como ponto de acesso aos backbones das operadoras de telecomunicações ou 
+para usuários de grande porte, como empresas e indústrias. Atualmente, é crescente a oferta de 
+FTTH nas grandes capitais com taxas similares a essas. As fibras ópticas chegam cada vez mais 
+às residências, oferecendo altas velocidades de internet, dependendo do provedor e do plano 
+contratado. As fibras ópticas apresentam diversas vantagens, entre as quais se destacam:
+— Resistência a interferências eletromagnéticas: essa propriedade permite sua utilização em 
+locais com muito ruído elétrico, inclusive próximo a linhas de energia, sem comprometer a 
+qualidade do sinal.
+— Grande alcance: graças à sua baixa perda de sinal (atenuação) e alta confiabilidade, é possível 
+transmitir dados por distâncias de até 100 quilômetros sem a necessidade de repetidores.
+— Altíssima velocidade: as fibras ópticas são capazes de operar em velocidades extremamente 
+elevadas, alcançando níveis de transmissão na ordem dos terabytes por segundo.
+
+===== Página 24 =====
+24
+Unidade I
+A figura a seguir mostra uma série de cabos de fibra óptica conectados a um dispositivo:
+Figura 6 – Fibra óptica
+Disponível em: https://tinyurl.com/38zk82xy. Acesso em: 17 jun. 2025.
+ Lembrete
+A fibra óptica, apesar do custo mais elevado, é o meio físico com melhor 
+desempenho em velocidade, segurança e imunidade a interferências 
+eletromagnéticas.
+Vimos exemplos de meios físicos cabeados e, agora, veremos os não cabeados. Meios físicos não 
+cabeados são os que utilizam comunicação sem fio, como wireless ou Wi-Fi, bastante utilizado em 
+residências e empresas. Para comunicação em redes de maior extensão, o rádio de longo alcance e o 
+satélite são bastante utilizados.
+• Rádio: nos sistemas de comunicação por rádio, o ar atua como meio de transmissão. Os dados 
+são transportados por meio de sinais eletromagnéticos, que são gerados por transmissores e 
+propagados pelo espaço, levando consigo os bits de informação. Esses sinais podem ser classificados 
+em duas categorias principais: sinais de curto alcance, que cobrem distâncias de alguns metros 
+até algumas centenas, e sinais de longo alcance, capazes de atingir várias dezenas de quilômetros.
+ Um dos componentes essenciais nesses sistemas é a antena, que funciona como um transdutor, 
+convertendo sinais elétricos em ondas eletromagnéticas e vice-versa. Seu desempenho influencia 
+diretamente na eficiência e no alcance da comunicação por rádio.
+
+===== Página 25 =====
+25
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• O canal de comunicação de rádio pode apresentar distúrbios, tais como:
+— atenuação no espaço livre;
+— perdas por vegetação e obstáculo;
+— efeito das ondas multipercurso;
+— ação da chuva;
+— efeito doppler;
+— formação de dutos nos percursos da onda.
+A figura a seguir mostra uma antena de rádio:
+Figura 7 – Antena de rádio
+Disponível em: https://tinyurl.com/5ftrvjfc. Acesso em: 17 jun. 2025.
+• Satélite: nos sistemas de comunicação via satélite, os dados são inicialmente enviados por 
+uma estação terrestre para o satélite, que atua como um repetidor no espaço. Esse repetidor 
+recebe o sinal, o converte para uma faixa de frequência diferente para evitar interferência com
+
+===== Página 26 =====
+26
+Unidade I
+o sinal de entrada e o retransmite para outra estação em solo. Esse processo permite taxas de 
+transferência que podem chegar a gigabits por segundo, possibilitando a comunicação entre 
+pontos extremamente distantes do planeta.
+O satélite, portanto, funciona como um intermediário que regenera e direciona os sinais recebidos, 
+sendo essencial para cobrir áreas onde outras infraestruturas de comunicação, como cabos, não 
+estão disponíveis ou são inviáveis. Os satélites podem ser classificados de acordo com sua altitude 
+orbital, ou seja, a distância entre sua órbita e a superfície da Terra.
+Esse posicionamento estratégico torna os satélites ferramentas essenciais para a comunicação 
+global, especialmente em regiões remotas ou em alto-mar, que outros meios não alcançam.
+A figura a seguir mostra satélites em terra e em órbita no espaço:
+A) 
+  B) 
+Figura 8 – Satélites
+Disponível em: A) https://tinyurl.com/46z7nzw5; 
+B) https://tinyurl.com/mpw67xz2. Acesso em: 17 jun. 2025.
+• Redes de dados móveis: as redes móveis são sistemas de comunicação que permitem a 
+transmissão de dados sem fio entre dispositivos e uma rede de internet global. Elas funcionam 
+através de torres de celular que transmitem sinais de rádio para os dispositivos móveis. As redes 
+móveis permitem a realização de chamadas de voz, mensagens de texto e acesso à internet. 
+Existem diferentes tipos de redes móveis, sendo a 4G e 5G as mais procuradas atualmente. 
+Cada um dos tipos de rede móvel tem suas características que mostram sua evolução, como 
+listado a seguir:
+— 1ª geração (1G – Geração Analógica): operava com um sistema de transmissão analógica 
+que determinava uma frequência específica para cada usuário da rede.
+
+===== Página 27 =====
+27
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+— 2ª geração (2G): os telefones celulares passaram a ser conhecidos como telefones digitais; a 
+voz era digitalizada no transmissor e enviada na forma de zeros e uns.
+— 3ª geração (3G): considerada um marco no uso da banda larga móvel, pois elevou ainda mais 
+as taxas de transferência. 
+— 4ª geração (4G): conhecida como Long Term Evolution (LTE – Evolução a Longo Prazo), fez a 
+migração de toda a comunicação de dados e voz para TCP/IP, provendo uma velocidade de mais 
+de 100 Mbps para usuários em movimento e quase 1 Gbps para usuários parados. 
+— 5ª geração (5G): utilizando um espectro de onda maior do que as gerações anteriores, a rede 
+5G conta com uma latência extremamente baixa e taxas de transferência de dados acima dos 
+10 Gbps. Seu objetivo é expandir a rede móvel para o máximo de dispositivos possível.
+ Observação
+A evolução das redes móveis, de 1G a 5G, transformou radicalmente a 
+forma como nos conectamos. Enquanto o 1G permitia apenas chamadas 
+analógicas, o 5G oferece altíssimas velocidades, baixíssima latência e 
+capacidade para conectar milhões de dispositivos simultaneamente, 
+viabilizando tecnologias como IoT, carros autônomos e aplicações de 
+realidade aumentada. Essa evolução mostra como os meios de transmissão 
+sem fio se tornaram tão importantes quanto os cabeados, especialmente 
+na era da mobilidade e da transformação digital.
+ 
+1.1.3 Protocolos
+Vimos até aqui os elementos relacionados com a parte física de uma rede. Aprendemos que, em 
+qualquer sistema de comunicação, o sinal se propaga em um meio de transmissão cuja principal função 
+é servir como um canal para que a informação trafegue entre dois ou mais equipamentos de rede. 
+Iremos agora ver a parte lógica necessária para que os dados transmitidos cheguem no destino da 
+mesma forma que foram enviados, ou seja, os protocolos.
+Os protocolos de rede são conjuntos de normas que possibilitam a comunicação entre duas ou mais 
+máquinas conectadas em rede. São como regras ou convenções que definem como deve ocorrer a troca 
+de dados entre dispositivos em um sistema de comunicação. Agem como uma linguagem universal 
+compreensível por computadores de diversos fabricantes e sistemas operacionais.
+A linguagem de comunicação das máquinas é estabelecida através de sinais, como se fossem um 
+código. Para que as máquinas interligadas numa rede se “entendam”, cada sinal precisa sempre ter o 
+mesmo significado (Oliveira; Rehder, 2006); podemos compará-lo ao alfabeto, em que uma letra sempre 
+será a mesma e diferente das demais. Esse conjunto de sinais e a forma de transmiti-los são conhecidos 
+e padronizados, e são denominados protocolos de comunicação.
+
+===== Página 28 =====
+28
+Unidade I
+Como visto anteriormente, a transferência de informação entre um ponto e outro, basicamente, 
+indica que temos um transmissor e um receptor. Nesses dois pontos, podemos ter tanto pessoas como 
+equipamentos se comunicando e utilizando uma mesma linguagem de comunicação, a qual permite  
+o perfeito entendimento entre ambos.
+Uma analogia seria a comunicação entre duas pessoas que falam o mesmo idioma ou idiomas 
+diferentes. Nós, aqui no Brasil, temos um idioma oficial, que é o português. Através dele, conseguimos 
+nos comunicar uns com os outros, apesar de nossa individualidade como seres humanos. Esse idioma 
+possui várias regras que todos nós precisamos conhecer para podermos nos comunicar sem problemas e 
+entendermos uns aos outros. Pois bem, no Brasil, a língua portuguesa seria o protocolo de comunicação 
+oficial. Caso uma pessoa que fale apenas alemão encontre um brasileiro que fale somente o português, 
+será difícil a comunicação verbal ocorrer diretamente entre eles.
+No caso de equipamentos, as regras e a linguagem de comunicação utilizadas entre ambos são 
+chamadas de protocolo. A comunicação é feita por meio de comandos de programas que são 
+codificados e transmitidos por sinais elétricos. Esse conjunto de regras pré-programadas é que permite 
+a transferência de dados entre dois pontos, controlando o envio e a recepção, checando a existência de 
+erros na transmissão, confirmando o recebimento, fazendo o controle de fluxo de dados, endereçando 
+as mensagens enviadas e controlando outros aspectos de uma transmissão.
+Desta forma, apesar de vários fabricantes diferentes criarem dispositivos para computação, é o fato 
+de eles trabalharem com protocolos padrão que torna a conexão entre eles possível.
+Os protocolos de comunicação geralmente são desenvolvidos dentro de um modelo ou estrutura 
+padronizada, e não funcionam de forma isolada. Eles atuam em conjunto, organizados em camadas, 
+formando o que se conhece como pilha de protocolos. No contexto das redes de computadores, os 
+principais modelos que organizam esses protocolos são o modelo OSI e o modelo TCP/IP, que serão 
+explicados em maior detalhe nos tópicos 3.4 e 3.5, respectivamente.
+Em uma comunicação entre dois equipamentos de rede, ambos devem possuir os mesmos protocolos 
+de comunicação, ou seja, falar a mesma língua e ter as mesmas regras de troca de dados programadas 
+igualmente. Em uma transferência de arquivos, o programa de comunicação que possui o protocolo 
+embutido lê os dados gravados nos arquivos dos computadores por pedaços ou blocos de informações 
+e transmite para a outra máquina. O programa de comunicação do receptor recebe o bloco de dados 
+transmitido, armazena-o na memória e faz uma checagem da integridade dos dados recebidos e do 
+endereço de destino. Se os dados recebidos estiverem íntegros, são acatados e gravados em um arquivo 
+em disco, por exemplo. O computador receptor confirma ao computador transmissor que os dados 
+foram recebidos corretamente, indicando ao transmissor que ele pode continuar a transmitir mais 
+blocos de dados (Maia, 2017).
+Os protocolos de comunicação dão, portanto, uma maior segurança na transmissão de dados entre 
+dispositivos, fazendo com que os dados transmitidos sejam aceitos somente se estiverem corretos, sem 
+erros de transmissão.
+
+===== Página 29 =====
+29
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Caso ocorram erros na transmissão, por interferências ou problemas do meio de transmissão, o 
+comportamento em relação ao tratamento desses pacotes depende do protocolo de comunicação 
+utilizado. Existem diferentes abordagens para lidar com erros, e as ações tomadas podem incluir a 
+retransmissão dos dados ou o descarte deles, dependendo das características do protocolo.
+Uma rede pode utilizar diversos protocolos e, embora cada um funcione de uma forma diferente, 
+eles têm algumas similaridades, pois os protocolos surgiram com a mesma finalidade, que é transmitir 
+dados em uma rede. O protocolo pega os dados que serão transmitidos na rede e os divide em pequenos 
+pedaços de tamanho fixo chamados de pacotes. Portanto, podemos concluir que um arquivo não é 
+transmitido de uma única vez em uma rede. Dentro de cada pacote há o endereço de origem e de destino, 
+que fica no cabeçalho de cada pacote. As placas de rede dos computadores possuem um endereço fixo, 
+de forma que o computador de destino possa reconhecer se o pacote transmitido é para ele ou não. Essa 
+forma de transmissão possibilita que vários dispositivos possam comunicar ao mesmo tempo, já que a 
+transmissão não é efetuada para um arquivo ou mensagem separadamente, mas sim intercalando os 
+vários pacotes de dados.
+Na figura a seguir temos a transmissão de dois pacotes: o pacote A, que parte do computador A com 
+destino ao computador D, e o pacote D, que vai do computador D para o computador B. O computador 
+receptor se encarrega de juntar os pacotes à medida que os recebe.
+Computador 
+A
+Computador 
+B
+Computador 
+C
+Computador 
+D
+D
+D
+A
+D
+A
+A
+A
+A
+D
+D
+D
+DA A A A D A D A D A D
+Figura 9 – Transmissão de pacotes
+Adaptada de: Oliveira e Rehder (2006).
+A velocidade da transmissão dos dados em uma rede depende consideravelmente do número de 
+transmissões simultâneas, ou seja, quanto mais transmissões estiverem sendo feitas ao mesmo tempo, 
+mais lenta a rede ficará.
+
+===== Página 30 =====
+30
+Unidade I
+ Observação
+A conectividade em redes depende da integração entre equipamentos, 
+meios de transmissão e protocolos. Sem esses três elementos, a comunicação 
+de dados não é possível.
+ 
+O meio físico – ou seja, o tipo de cabeamento que está sendo utilizado na rede – também possui 
+um limite de velocidade; portanto, se vários pacotes estão sendo transmitidos ao mesmo tempo, a 
+velocidade ou a banda passante será dividida, uma vez que os pacotes serão intercalados. Daí surge  
+a preocupação com a performance que é esperada por cada aplicação que é utilizada na rede, assunto 
+que discutiremos com mais detalhes a seguir.
+1.2 Performance e importância das redes
+Durante a fase de projeto e operação de uma rede, podemos encontrar vários pontos críticos que 
+dependem da implementação de tecnologias adequadas. A decisão sobre a escolha de um determinado 
+dispositivo de interconexão de rede, da configuração de um protocolo, da utilização desse ou daquele 
+meio de transmissão, vai impactar na performance da rede e na qualidade do serviço aos usuários.
+A importância das redes vem do impacto cada vez maior que a tecnologia e os sistemas de informação 
+exercem sobre a concorrência e sobre a vantagem competitiva no mundo dos negócios, devido ao papel 
+relevante da informação na cadeia de valor.
+Muitas empresas operam sistemas críticos, que demandam máxima segurança, confiabilidade 
+e disponibilidade. Isso significa que as redes de comunicação de dados, pelas quais esses sistemas 
+trafegam, devem estar disponíveis 24 horas por dia, 7 dias por semana. Além disso, suas falhas precisam 
+ser isoladas e recuperadas de forma praticamente transparente aos usuários daqueles sistemas. 
+Mas como medir a performance de uma rede de computadores e saber se ela atende os usuários 
+adequadamente? Alguns aspectos são utilizados para essa análise de performance, tais como: 
+• Taxa de transferência ou throughput: refere-se à quantidade de dados que consegue ser 
+transmitida por segundo em uma rede. Essa taxa é expressa geralmente em bps (bits por segundo) 
+e indica o desempenho real da comunicação.
+• Atraso ou delay: é o tempo necessário para que uma informação percorra o caminho entre o 
+emissor que está na origem e o receptor no destino. Normalmente é medido em ms (milissegundos) 
+e está relacionado à latência do sistema.
+• Jitter: representa a variação no tempo de chegada dos pacotes durante a transmissão. Ele é 
+calculado somando-se os atrasos individuais de cada pacote e dividindo esse total pelo número 
+de pacotes transmitidos, refletindo a instabilidade na entrega dos dados.
+
+===== Página 31 =====
+31
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Conhecer a demanda de cada aplicação que roda em uma rede é crucial para o correto 
+dimensionamento dos links e uma maior assertividade nas configurações de QoS (Qualidade de Serviço). 
+Algumas aplicações demandam mais em volume de dados, o que faz a taxa de transferência ser crítica. 
+Outras aplicações de tempo real, como uma videoconferência, serão mais sensíveis ao atraso e também 
+ao jitter, pois um atraso, quando é constante, acaba não impactando tanto na qualidade de uma 
+chamada como em uma situação em que o atraso varia a todo instante.
+A QoS (Qualidade de Serviço, do inglês Quality of Service) é um conjunto de técnicas e tecnologias 
+que asseguram o desempenho e a prioridade a determinados tipos de tráfego na rede, como voz e vídeo 
+em tempo real. Ela se torna crítica em redes corporativas e em aplicações sensíveis a atrasos, em que a 
+estabilidade da conexão é tão importante quanto sua velocidade. A QoS atua marcando pacotes com 
+níveis de prioridade e organizando filas de transmissão, garantindo que serviços essenciais operem, em 
+detrimento de serviços que não são tão críticos para o cliente (Cisco, 2021).
+Ela funciona através da classificação do tráfego e marcação dos pacotes com pesos diferentes 
+para cada tipo de tráfego, acompanhada de políticas de enfileiramento e regras de descarte de 
+pacotes, que vão garantir uma distribuição da banda e uma cadência pelas diversas aplicações. A QoS 
+é crucial para que as aplicações críticas, como a voz e o vídeo, funcionem bem, mesmo quando a rede  
+está congestionada.
+ Saiba mais
+Para estudar mais sobre QoS, uma das referências bibliográficas é: 
+CISCO. Cisco Certified Network Associate CCNA 200-301: Official Cert Guide.  
+Indianapolis: Cisco Press, 2021.
+1.2.1 Capacidade de tráfego
+A capacidade de tráfego é medida pela taxa de transferência ou throughput em uma rede de 
+comunicação de dados. Refere-se à quantidade de dados transmitidos com sucesso de um ponto a outro 
+em um período de tempo específico, normalmente medida em bps (bits por segundo) ou suas múltiplas 
+unidades, como Mbps (megabits por segundo) ou Gbps (gigabits por segundo).
+Muitos utilizam o termo largura de banda para falar dessa capacidade de tráfego em uma rede, 
+porém a largura de banda difere do throughput. A largura de banda é a capacidade máxima teórica de 
+uma rede ou link de comunicação (por exemplo, 100 Mbps), enquanto o throughput é a taxa real de dados 
+transmitidos com sucesso. O throughput pode ser menor que a largura de banda devido a diversos fatores, 
+como interferências e problemas de performance na rede.
+Se uma conexão de 1 Gbps está disponível, mas devido a congestionamentos e erros de transmissão, 
+o throughput observado é de apenas 500 Mbps, isso significa que, embora a largura de banda da rede 
+permita uma taxa de 1 Gbps, a quantidade real de dados transferidos com sucesso é menor.
+
+===== Página 32 =====
+32
+Unidade I
+Em outras palavras, o throughput indica a taxa efetiva com que os dados são transferidos pela 
+rede, considerando todos os fatores que podem impactar a transmissão, como erros, congestionamento, 
+limitações de hardware etc.
+Alguns fatores que influenciam o throughput são:
+• Latência: a latência é o tempo de atraso entre o envio e a recepção de dados. Uma alta latência  
+pode reduzir o throughput efetivo, especialmente em conexões intercontinentais ou de 
+longa distância.
+• Perda de pacotes: se muitos pacotes são perdidos durante a transmissão, por exemplo, devido a 
+erros na linha ou congestionamento, o throughput será afetado negativamente, pois os pacotes 
+precisarão ser retransmitidos.
+• Erros de transmissão: se a rede tiver muitos erros de transmissão, devido a ruído ou interferência, 
+pacotes de dados precisam ser reenviados, o que reduz o throughput efetivo.
+• Protocolos de controle: protocolos de controle de erro e congestionamento, como TCP, podem 
+reduzir o throughput, pois esses protocolos garantem que os dados sejam transmitidos com 
+confiabilidade e pedem retransmissões quando necessário.
+• Capacidade do equipamento: a capacidade dos roteadores, switches e outros dispositivos de 
+rede pode limitar o throughput se esses dispositivos não forem capazes de lidar com a quantidade 
+de dados que estão sendo transmitidos.
+O throughput pode ser medido em diferentes níveis de uma rede, como: entre dois hosts específicos 
+de uma mesma rede local; entre dois dispositivos de rede, como switches e roteadores; e pode ser 
+medido também fim-a-fim, passando por redes distintas, ou seja, do ponto de origem até o destino final 
+da mensagem.
+1.2.2 Latência
+Latência em uma comunicação de dados é o tempo total que leva para um pacote de dados ser 
+transmitido de um ponto a outro em uma rede. Em outras palavras, é o atraso entre o momento em que 
+os dados são enviados e o momento em que são recebidos.
+A latência é uma medida crucial para entender a velocidade de resposta de uma rede, especialmente 
+em situações em que a interatividade e o tempo de resposta são importantes, como em chamadas de 
+voz, videoconferências, jogos online e aplicações em tempo real.
+A latência total em uma rede pode ser dividida em vários componentes:
+
+===== Página 33 =====
+33
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• Latência de propagação: é o tempo necessário para que os sinais se desloquem fisicamente de 
+um ponto a outro na rede, com base na distância entre os dois pontos e na velocidade do sinal no 
+meio de transmissão, como cabos de fibra ótica, cabos de par trançado ou via rádio. 
+• Latência de transmissão: refere-se ao tempo necessário para transmitir um pacote de dados, 
+ou um bloco de bits, através de um canal de comunicação. Depende do tamanho do pacote e 
+da largura de banda do circuito de comunicação. Quanto maior o pacote ou menor a largura de 
+banda, maior será a latência de transmissão.
+• Latência de processamento: é o tempo necessário para processar os pacotes de dados nos 
+roteadores, switches ou servidores intermediários, o que inclui verificar o cabeçalho do pacote, 
+aplicar regras de roteamento ou criptografar e descriptografar os dados. Esse tipo de latência 
+passa a ser especialmente relevante em redes que possuem muitos dispositivos intermediários.
+• Latência de enfileiramento ou de fila: é o tempo que um pacote passa em filas de 
+roteadores ou switches, esperando para ser processado ou encaminhado. Isso ocorre quando há 
+congestionamento na rede e os pacotes precisam aguardar sua vez para serem processados ou 
+transmitidos. Quanto maior o tráfego na rede, maior a chance de a latência de enfileiramento 
+ser significativa.
+As duas formas mais utilizadas para se medir a latência são o Ping e o Traceroute:
+• Ping: a ferramenta mais simples para medir a latência é o comando ping, que envia pacotes  
+ICMP (Internet Control Message Protocol) para um destino e mede o tempo que leva para receber 
+uma resposta. O valor medido é a latência de ida e volta, também chamada de RTD (round 
+trip delay).
+• Traceroute: outra ferramenta útil é o traceroute, que mostra o caminho que os pacotes percorrem 
+na rede até o destino e mede a latência em cada hop, ou roteador intermediário.
+A latência é geralmente medida em ms (milissegundos), que é um milésimo de segundo. Valores típicos 
+de latência podem variar muito dependendo do tipo de rede. Nas redes locais (LANs), as latências são muito 
+baixas, geralmente abaixo de 1 ms. Na internet, a latência pode variar entre 10 ms e 100 ms, dependendo 
+da distância e do número de dispositivos intermediários. Em redes de longa distância (WAN), a latência 
+pode ser maior, especialmente quando a comunicação envolve grandes distâncias, por exemplo, entre 
+continentes.
+A latência tem vários efeitos que impactam diretamente na experiência do usuário. Aplicações em 
+tempo real, como videoconferências, VoIP ou jogos online, são os mais sensíveis à latência. Para uma 
+boa performance e qualidade da rede com esse tipo de aplicação, é crítico que se tenha uma latência 
+baixa. Atrasos acima de 150-200 ms são perceptíveis e podem causar desconforto, como ecos ou  
+“lag” nos jogos.
+
+===== Página 34 =====
+34
+Unidade I
+Em transferências de dados grandes, como downloads ou streaming de vídeos, embora a latência 
+ainda tenha sua importância, o throughput pode ser mais determinante para a experiência.
+Na navegação pela internet, a latência pode afetar o tempo de carregamento de páginas, mas uma 
+boa conexão com alta largura de banda também é importante para reduzir o tempo total de navegação.
+O fato é que quanto mais baixa a latência, mais rápida e responsiva será a comunicação na rede e 
+melhor será a percepção de qualidade e boa performance para o usuário.
+1.2.3 Disponibilidade
+Em uma rede de comunicação de dados, tudo funciona perfeitamente bem enquanto todos os 
+componentes necessários estão funcionando adequadamente. Porém, falhas podem ocorrer, por 
+isso, é importante haver uma solução de contingência que mantenha o funcionamento do sistema 
+independentemente daquele componente comprometido.
+Muitas redes ou sites na internet devem estar em operação 24 horas por dia, 7 dias por semana. 
+São sistemas usados em saúde, segurança, aviação, controle financeiro e outras aplicações consideradas 
+críticas. Nessas áreas, os riscos de queda no sistema devem ser previstos e trabalhados, para que as 
+falhas não impactem os usuários. 
+O tempo médio de reparo em um determinado evento na rede deve ser próximo de zero para que 
+a disponibilidade daquele site (ou site availability) permaneça em 100%. Sabemos que é praticamente 
+impossível evitar certos eventos, como falhas em cabos de comunicação ou danos a equipamentos 
+de redes e suas configurações. A reconfiguração ótima nesse caso requer que caminhos redundantes 
+sejam acionados tão logo ocorra uma falha ou esta seja detectada. A rede deve ser tolerante a 
+falhas transientes causadas por hardware e/ou software, de forma que o tempo médio de reparo 
+possa ser reduzido com o auxílio de redundância, mecanismos de autoteste e diagnóstico, além de 
+manutenção eficiente.
+Os maiores avanços em produtividade e a maior mudança nos hábitos de trabalho estão diretamente 
+relacionados com as redes, pois à medida que as redes se tornam maiores, elas se conectam umas às 
+outras e à internet, de forma que cada usuário pode se comunicar com todos os outros.
+Hoje, se um site de determinada empresa ficar fora do ar por alguns instantes, o impacto já pode ser 
+um prejuízo milionário. E esse impacto não é só financeiro, já que o cliente pode acabar finalizando a 
+compra daquele produto ou serviço no site de uma outra empresa concorrente e gostar da experiência, 
+deixando assim de ser fiel àquela primeira empresa ou marca.
+Os principais pontos a se neutralizar em uma rede são aqueles capazes de aumentar o seu down-time, 
+ou seja, o número de horas/ano em que a rede fica indisponível. Um canal de comunicação de dados 
+para rede WAN, mesmo sendo um acesso dedicado, está sempre suscetível a quedas. Essas quedas ou 
+falhas geralmente ocorrem por problemas na rede da operadora de telecomunicações e, portanto, só
+
+===== Página 35 =====
+35
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+podem ser resolvidos por ela. Nesse período, a comunicação fica indisponível e a empresa depende 
+exclusivamente do trabalho de terceiros na solução do problema.
+ Lembrete
+A escolha do meio de transmissão — como a fibra óptica, o cabo UTP 
+ou o sinal sem fio — impacta diretamente na velocidade, no alcance e na 
+confiabilidade da rede.
+Para se ter alguma garantia de disponibilidade na rede e uma entrega de serviço consistente, 
+as empresas fecham um contrato de SLA, ou Acordo de Nível de Serviço (do inglês Service Level 
+Agreement) com as operadoras. Trata-se de um contrato entre um prestador de serviços e um cliente, 
+que define detalhes do serviço a ser fornecido. Esses detalhes incluem o nível de desempenho esperado, 
+as metodologias de medições de desempenho e o que acontecerá se os níveis de desempenho não 
+forem atingidos. Com isso, as empresas definem melhor as responsabilidades das provedoras e as 
+consequências em caso de falhas, protegendo investimentos e melhorando a qualidade da experiência 
+do cliente. Por exemplo, um SLA de tempo de resolução de 4 horas especifica que esse é o tempo 
+máximo que a contratada tem para resolver os problemas técnicos daquele chamado específico, ou seja, 
+os problemas devem ser resolvidos dentro de 4 horas após a abertura do chamado.
+Para evitar interrupções causadas por falhas na rede ou na sua gerência, é essencial implementar 
+mecanismos de contingência, como links redundantes ou rotas de acesso alternativas. Essas soluções 
+garantem que a empresa possa manter suas operações funcionando normalmente enquanto a provedora 
+atua na correção do problema e a rede retorna à sua configuração padrão.
+As vantagens do uso de um sistema de contingência em uma rede corporativa são a eliminação 
+de pontos únicos de falha, a redução dos custos gerados pelas quedas no sistema e a melhoria na 
+produtividade dos usuários conectados à rede.
+A escolha de uma solução de contingência para uma rede corporativa depende de uma série de fatores, 
+tais como: custo, confiabilidade, tempo de resposta, velocidade, desempenho, facilidade de desenvolvimento, 
+modularidade, capacidade de reconfiguração, complexidade lógica, facilidade de uso, disponibilidade, 
+facilidade de manutenção e dispersão geográfica. Nenhuma solução de contingência pode chamar para si a 
+classificação de ótima quando analisada em contexto geral, e até mesmo em particular. 
+O objetivo é avaliar o impacto que eventuais falhas podem causar no negócio, especialmente nos 
+sistemas de informação considerados críticos e nas operações essenciais da organização. Essa análise 
+envolve uma visão abrangente da empresa, identificando as prioridades operacionais, os níveis de 
+serviço necessários e as dependências entre os processos de negócio e os sistemas de informação que os 
+suportam. Afinal, uma mesma solução de contingência pode ser ótima para uma determinada empresa 
+e inadequada para outra.
+
+===== Página 36 =====
+36
+Unidade I
+1.2.4 O papel das redes na transformação digital
+A transformação digital é definida como uma mudança nas formas de trabalho, funções e ofertas de 
+negócios causadas pela adoção de tecnologias digitais em uma organização ou no ambiente operacional 
+da organização (Parviainen; Tihinen, 2017).
+Em um universo digitalizado, as empresas precisam inovar e mudar suas organizações, incluindo 
+seus modelos de negócios, estruturas, competências críticas e culturas. Na verdade, o relacionamento 
+com os clientes depende da criação de novas formas digitais para eles interagirem com a empresa e de  
+novos modelos de negócios integrados por tecnologias digitais que combinem interações on-line 
+e off-line entre pessoas e organizações. 
+As Redes de Dados e Comunicação são parte importante da infraestrutura das TICs (Tecnologias 
+da Informação e Comunicação) e desempenham um papel substancial em catalisar o crescimento 
+econômico, especialmente na era atual da internet e das telecomunicações móveis (Appiah-Otoo; 
+Song, 2021).
+A internet e as tecnologias de suporte servem como um esqueleto para integrar objetos físicos, 
+atores humanos, máquinas inteligentes, linhas de produção e processos através das fronteiras 
+organizacionais para formar uma rede inteligente. Essas tecnologias têm o potencial de dar origem 
+a uma nova geração de sistemas baseados em serviços, cujas funcionalidades residem no dispositivo 
+e na “nuvem” . 
+As empresas precisam entender que o que distingue o novo tipo de consumidor de outros mercados 
+vistos anteriormente é a sua tendência à mobilidade. Esses consumidores se deslocam constantemente e 
+em ritmo acelerado. Para as novas gerações, principalmente, tudo deve ser instantâneo. Os consumidores 
+digitais, quando estão interessados em adquirir um produto ou serviço, consultam antes a internet  
+e avaliam as experiências, recomendações e/ou reclamações de outros consumidores, tornando a rede 
+mais colaborativa e dinâmica.
+Com a transformação digital se tornando cada vez mais uma realidade, os indivíduos anseiam pela 
+aplicação perfeita de tecnologias que lhes permitam atingir seu pleno potencial. As principais tecnologias 
+digitais são baseadas na internet, favorecidas por um maior desenvolvimento em poder computacional, 
+algoritmos e telecomunicações. Algumas dessas tecnologias são:
+• Internet móvel: a internet móvel foi impulsionada por um maior acesso às redes sem fio (wireless) 
+no final da década de 1990, ao possibilitar que dispositivos móveis como celulares, tablets e outros 
+pudessem ser interligados à internet, ampliando a interconectividade e a comunicação instantânea 
+com o cliente. O acesso mais facilitado à internet ampliou o seu campo de atuação e importância 
+na vida das pessoas. Atualmente, a conectividade às redes 5G, como ilustrado na figura a seguir, 
+já entrega aos usuários uma cobertura mais ampla e eficiente e maiores transferências de dados, 
+além de um número significativamente maior de conexões simultâneas.
+
+===== Página 37 =====
+37
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Figura 10 – Smartphone conectado à rede 5G
+Disponível em: https://tinyurl.com/bdcrr4ku. Acesso em: 17 jun. 2025.
+• Inteligência artificial: a inteligência artificial, por meio de dispositivos programados com 
+algoritmos computacionais, como robôs, tem a capacidade de aprender e simular o raciocínio 
+do ser humano, resolvendo problemas e respondendo questões dos clientes. Embora seja antiga 
+enquanto área de pesquisa, a IA passou mais recentemente a fazer parte do “arsenal” tecnológico 
+acessível para empresas. Algoritmos inteligentes podem interpretar padrões de consumo e 
+preferências, criando serviços ou propagandas personalizadas para os usuários. Também permitiu 
+reduzir funções desempenhadas por humanos, como serviços de atendimento ao consumidor. 
+Porém, é latente a discussão sobre uma possível substituição ou não do ser humano por essas 
+máquinas, e se isso aconteceria apenas para as tarefas repetitivas ou também para as que exigem 
+mais raciocínio.
+• Big Data: um grande volume de dados está sendo gerado em uma taxa muito mais rápida do que 
+no passado. São dados provenientes de todos os tipos de fontes, incluindo objetos inteligentes 
+interconectados e as próprias mídias sociais. Big Data é o termo que descreve esse vasto conjunto 
+de dados estruturados e não estruturados. Essa tecnologia se torna uma oportunidade pelos dados 
+que são associados e analisados, junto com as ferramentas e técnicas existentes e aquelas ainda 
+sendo desenvolvidas, para alavancá-los para a tomada de decisões. São inúmeras as possibilidades 
+de aplicação do Big Data, o desafio é saber aplicar os softwares adequados para explorar o 
+seu potencial e gerar valor ao negócio. Estudos recentes revelam que a velocidade dos dados 
+desempenha um papel mais importante na melhoria do desempenho da inovação das empresas 
+do que outras características como o próprio volume de dados.
+• Internet das Coisas (Internet of Things – IoT): por meio da IoT, uma grande quantidade de objetos 
+inteligentes conversa, usando a internet por meio de sensores e atuadores. Com o advento da IoT, 
+objetos como máquinas, veículos, eletrodomésticos e outros são conectados, como mostra a figura a 
+seguir, de forma que possam ser acessados remotamente, desde que estejam conectados à internet.
+
+===== Página 38 =====
+38
+Unidade I
+Basicamente, uma “coisa” solicita dados de outra “coisa” que envia esses dados, e a única informação 
+necessária para essa comunicação é o endereço, como a identificação de ambas as partes, fornecida 
+pelo IP (protocolo de internet). Na maioria das vezes, a “coisa” provedora de dados usa sensores para 
+fornecer dados em tempo real. Por outro lado, a “coisa” consumidora de dados pode usar atuadores 
+para atuar no ambiente físico.
+Figura 11 – Objetos conectados via IoT
+Fonte: Sacomano et al. (2018, p. 102).
+Empresas de diversos setores estão adotando as tecnologias que acabamos de apresentar para 
+remodelar seus modelos de negócios e transcender as fronteiras do setor. Como já vimos, algumas 
+manufaturas usam a transformação digital para alavancar sua transformação em fornecedores de 
+serviços, por meio do aumento da eficiência da entrega, da customização do benefício ao cliente e 
+do aumento do valor de suas ofertas. Ao mesmo tempo, eles mudam seus modelos de negócios, seus 
+processos de fabricação e entrega de serviços. A evolução e rápida adesão às tecnologias de informação 
+e comunicação criaram novas formas de entrega de serviço em vários campos.
+Pode-se dizer que a Indústria 4.0 é a transformação digital da produção industrial. Da mesma forma, 
+alguns autores chamam de Agricultura 4.0 a transformação digital da agricultura (no Brasil, usa-se 
+mais o termo agricultura de precisão), o mesmo ocorre em relação a serviços, gerando a Educação 4.0, 
+Saúde 4.0 etc.
+
+===== Página 39 =====
+39
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A figura a seguir traz algumas das aplicações oriundas dessa transformação digital e desse 
+novo cenário de conectividade, em que as tecnologias transformam modelos de negócio nos mais 
+diversos setores:
+Indústria 4.0 Serviços 4.0Agricultura  
+de precisão
+Produção
+Indústria               Agricultura               Serviços
+Transformação Digital
+Figura 12 – Aplicações da transformação digital
+Fonte: Silva et al. (2023, p. 32).
+Algumas aplicações são:
+• Indústria 4.0: o engajamento da transformação digital no setor automotivo trata de várias 
+inovações baseadas em inteligência artificial, algoritmos computacionais, Internet das Coisas e 
+automatização. O diretor de peças e serviços ao cliente da Mercedes-Benz do Brasil, Silvio Renan, 
+apresenta uma nova solução de rastreamento e controle inteligente nos seus caminhões, que vem 
+sendo adquirida pelos clientes consumidores, como as empresas logísticas. Segundo ele, todas 
+essas tecnologias trazem mais disponibilidade de caminhões, além de conveniência e rentabilidade 
+para os clientes, as inovações abrangem também o motorista, pois o profissional passará a contar 
+com mais recursos e interatividade e, assim, poderá desfrutar da conectividade com o gestor da 
+frota, com sua empresa e com o cliente que receberá a carga (Silva et al., 2023).
+• Agronegócio: as tecnologias inovadoras se expandiram também para a produção rural de 
+alimentos, possibilitando a digitalização nos sistemas de produção agrícola, nas cadeias de valor 
+e no processo de tomada de decisão. Com a ajuda da IoT, os suprimentos de alimentos podem se 
+tornar mais transparentes do que antes. Portanto, mecanismos de padronização em cada etapa da 
+produção (do produtor ao consumidor, da fazenda ao garfo) precisam ser adotados para garantir 
+a segurança e a qualidade dos alimentos. A Agricultura 4.0 inclui várias áreas de interesse, como 
+sistema de sensores, rastreabilidade, logística inteligente e consciência alimentar inteligente. 
+Uma atividade que se apresenta de forma atrativa é o mapeamento de tais plataformas com 
+os requisitos das partes interessadas para estabelecer novos serviços que agregam valor aos 
+participantes do negócio (Lezoche et al., 2020).
+
+===== Página 40 =====
+40
+Unidade I
+• Serviço 4.0: com os avanços tecnológicos que se intensificam no início do século XXI, a amplitude 
+da transformação digital acaba por desconstruir os modelos clássicos de gestão, sistema de 
+produção e distribuição, e a lógica de serviço ganha força, movida por uma internet mais rápida 
+e potente e pela aprendizagem de máquina. Nesse contexto, paralelamente ao surgimento 
+de serviços resultantes do processo de servitização de empresas de manufatura, surgem as 
+plataformas de serviço. Chamados de Serviço 4.0, baseiam-se em uma abordagem para atender 
+às demandas dos clientes, oferecendo serviços de forma mais proativa, integrada, voltada para o 
+cliente e orientada por dados, entregando os serviços por meio de interfaces virtuais, contínuas, 
+dinâmicas e compartilhadas. 
+Entretanto, a transformação digital não está ocorrendo somente na produção; ela abarca todos os 
+campos da sociedade. As chamadas cidades inteligentes (smart cities) podem ser entendidas como a 
+transformação digital das utilidades oferecidas por uma cidade para a melhoria das condições de vida 
+de sua população. Como utilidades, entende-se: abastecimento de água, energia e gás; saneamento e 
+limpeza; transporte; informações e serviços públicos; segurança, entre outras. 
+Vê-se também a transformação digital no governo (e-Gov), com canais de comunicação digital ao 
+cidadão, saúde e educação públicas, serviços de documentação e registros de pessoas físicas e jurídicas, 
+serviços tributários e jurídicos, entre outras esferas governamentais. 
+No caso particular das mídias de comunicação e entretenimento, a transformação digital caminha 
+para a convergência de todas as mídias para a internet, oferecendo acesso e interatividade a partir de 
+todo lugar e por diferentes dispositivos, do smartphones aos wearables. 
+Produtos de uso doméstico tornam-se “produtos inteligentes” (smart products), com conexão à 
+internet, captura de dados e interatividade com o usuário e com outros produtos; a própria moradia 
+torna-se uma “casa inteligente” (smart home).
+A Indústria 4.0 é considerada a quarta revolução industrial. Ela sucede as três revoluções 
+industriais anteriores:
+• 1ª Revolução Industrial (século XVIII): mecanização com uso da energia a vapor e água.
+• 2ª Revolução Industrial (século XIX e início do XX): produção em massa com eletricidade e 
+linha de montagem.
+• 3ª Revolução Industrial (décadas de 1960/1970): automação com eletrônica, computação 
+e sistemas de controle.
+• 4ª Revolução Industrial (início do século XXI): caracterizada pela integração de tecnologias 
+digitais, físicas e biológicas. 
+A 4ª Revolução Industrial é mais desafiadora de ser analisada em profundidade devido à ausência de 
+distanciamento histórico, já que ainda estamos vivenciando esse processo. No entanto, ela é marcada
+
+===== Página 41 =====
+41
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+de  forma evidente pelo advento da internet como meio de comunicação e, posteriormente, como 
+plataforma de interação e oferta de serviços digitais. Representa a integração entre o mundo físico e digital, 
+marcada por tecnologias como IoT, IA, Big Data e Analytics, computação em nuvem, impressão 3D, robótica 
+avançada e sistemas ciberfísicos. 
+Essa revolução transforma profundamente os modelos de produção, serviços e relações de trabalho, 
+com foco em automação inteligente, conectividade em tempo real e tomada de decisão baseada em 
+dados. Ela visa produções mais inteligentes, conectadas e autônomas, impactando desde a manufatura 
+até o desenvolvimento de software e serviços. 
+ Saiba mais
+Para saber mais sobre Indústria 4.0 e seus impactos, leia: 
+SILVA, M. T. et al.  Transformação digital e Indústria 4.0 : produção e 
+sociedade. São Paulo: Blucher, 2023.
+ 
+A transformação digital traz também novos desafios. Quanto mais os custos de hardware e software 
+caem e o acesso à internet cresce, maior é a disponibilidade e variedade de tecnologias e serviços 
+digitais. Ou seja, para uma transformação digital, o acesso à tecnologia em si raramente é o problema. 
+Em vez disso, é a capacidade de desenvolver e implementar rapidamente modelos de negócios digitais 
+viáveis que está no cerne da questão. 
+No momento em que as condições globais mudam e existe a necessidade de transformação, 
+buscando um novo crescimento, faz-se necessária uma análise cuidadosa do modelo de negócios atual 
+e a exploração das mudanças. Para prosperar na era dos negócios digitais, as empresas buscam mudar 
+e se adaptar. Tanto para um novo empreendimento que projeta um modelo de negócios inovador 
+quanto para uma empresa estabelecida mudando seu modelo de negócios atual, é sempre um desafio 
+tomar decisões estratégicas acertadas. À medida que o mercado muda rapidamente para favorecer as 
+estratégias de negócios digitais, maximizando os benefícios dos ativos de dados e da tecnologia, muitas 
+organizações descobrem que não possuem um conhecimento sólido de seu modelo de negócios: sua 
+premissa, pontos fortes, interdependências e limitações. Mas, para saber o que mudar, é preciso saber 
+o que funciona. Apesar do dinamismo, o que não pode se fazer é uma mudança no desespero, sem um 
+estudo mais aprofundado. 
+Primeiro, é necessária a criação de uma espécie de ranking, cruzando a importância de cada processo 
+nos resultados corporativos com a profundidade das transformações trazidas pelas novas tecnologias, 
+sem deixar de lado o quanto será necessário despender de esforço e capital para implantar a mudança. 
+Isso indica que as empresas precisam desenvolver competências para alavancar a tecnologia digital 
+para fins comerciais. É importante garantir o comprometimento de toda a organização e garantir que 
+o desenvolvimento tecnológico seja garantido tanto na estratégia quanto na prática. Tal movimento, 
+no entanto, implica ter uma visão clara do negócio e dos processos da empresa, incluindo as práticas
+
+===== Página 42 =====
+42
+Unidade I
+corporativas, normas e valores empresariais. Além disso, requer liderança e endosso da alta administração 
+(Saarikko; Westergren; Blomquist, 2020). 
+Outro desafio é escolher, entre tantas tecnologias, quais delas fazem sentido para cada negócio. 
+Com tantas opções disponíveis, torna-se difícil decidir entre esta ou aquela tecnologia para aplicar em 
+uma determinada estratégia de transformação digital. Devido a essa incerteza, algumas companhias 
+acabam aceitando ofertas apenas por modismo ou por serem sugestões de fornecedores que procuram 
+parcerias. A decisão correta, no entanto, precisa levar em conta quais dessas tecnologias são mais 
+aplicáveis aos processos que foram priorizados naquele ranking que mencionamos. Mesmo após definir 
+os processos e tecnologias, ainda existe a tendência em apenas adquirir e implementar a tecnologia, sem 
+dar atenção para a transformação propriamente dita. O principal desafio das empresas está justamente 
+na integração de tecnologias digitais e seu uso em novos modelos de negócios. A transformação digital 
+é uma construção coletiva. A tecnologia precisa ser adotada em toda a cadeia de valor – abastecimento, 
+fabricação, distribuição e venda – e ainda precisa ser combinada com a reestruturação dos fluxos internos, 
+gestão, design, decisões e formação de mão de obra capacitada para lidar com os novos sistemas. Elevar 
+o nível de consciência digital pode, assim, produzir uma melhoria substancial na capacidade da empresa 
+de alavancar a tecnologia digital e assumir a mudança (Saarikko; Westergren; Blomquist, 2020).
+2 CLASSIFICAÇÃO DAS REDES
+As redes podem ser classificadas de várias formas, desde o tipo de serviço de transporte dos dados 
+até a topologia física ou abrangência da rede. 
+2.1 Quanto ao tipo de serviço de transporte
+Com relação ao tipo de serviço de transporte, o serviço pode ser orientado à conexão ou não 
+orientado à conexão.
+2.1.1 Serviço orientado à conexão
+No serviço orientado à conexão, é estabelecido um caminho único entre origem e destino, em que 
+ao se inserir bits em uma extremidade eles serão recebidos pelo receptor, na mesma ordem. A figura 13 
+ilustra esse tipo de serviço.
+Esse é um serviço análogo ao sistema de telefonia tradicional, em que existe a determinada 
+sequência de ações:
+• Disca o número e estabelece uma conexão.
+• Fala/usa a conexão.
+• Desliga/libera a conexão.
+
+===== Página 43 =====
+43
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Figura 13 – Serviço orientado à conexão
+Fonte: Multirede (2000, p. 10).
+O serviço orientado à conexão envolve três fases distintas que envolvem o estabelecimento de 
+conexão, a transferência de dados e o fim de conexão. Durante o estabelecimento da conexão, é 
+buscado um caminho entre a origem e o destino e alocados os recursos de rede. Uma vez estabelecida 
+a conexão, os pacotes são transferidos sequencialmente no caminho “encontrado” . Como existe um 
+único caminho, os pacotes chegam ao destino na mesma ordem em que são enviados pela origem. 
+Ao término da transferência, a conexão é finalizada.
+Quando uma aplicação usa o serviço orientado à conexão, o emissor e o receptor enviam pacotes de 
+controle um para o outro antes de remeterem os dados reais. Esse procedimento de apresentação alerta 
+os equipamentos emissor e receptor, fazendo com que eles se preparem para uma “rajada” de pacotes 
+(Kurose; Ross, 2021).
+2.1.2 Serviço não orientado à conexão
+No serviço não orientado à conexão, não existe uma conexão criada entre origem e destino, portanto, 
+não existe a confiabilidade de que todos os pacotes encaminhados serão entregues. É um serviço análogo 
+ao sistema postal tradicional, em que cada correspondência possui o endereço de destino. Se duas ou 
+mais correspondências forem enviadas a partir de um mesmo emissor e para o mesmo destino, podem 
+chegar fora de ordem.
+O serviço não orientado à conexão não determina previamente nenhum caminho e também não 
+reserva previamente recurso de rede. O caminho é traçado dinamicamente, e os pacotes podem seguir 
+caminhos distintos, não havendo, portanto, garantia do sequenciamento dos pacotes, como ilustrado 
+na figura a seguir.
+
+===== Página 44 =====
+44
+Unidade I
+Figura 14 – Serviço não orientado à conexão
+Fonte: Multirede (2000, p. 11).
+Nesse tipo de serviço não existe a apresentação entre o emissor e receptor, como existe no serviço 
+orientado à conexão. Quando um dos lados de uma aplicação quer enviar pacotes ao outro, ela 
+simplesmente os envia.
+Como não há apresentação, os pacotes podem ser remetidos mais rapidamente, mas também não há 
+confirmações de entrega (Kurose; Ross, 2021).
+Ao mesmo tempo que soa como algo negativo dizer que não existe um estabelecimento de conexão 
+ou garantia de entrega, na verdade é exatamente essa característica que faz esse tipo de serviço atender 
+a determinados tipos de tráfego, como o tráfego de tempo real. 
+Em aplicações de tempo real, como voz e vídeo, não faz sentido tomar um tempo para se estabelecer 
+uma conexão, ou reenviar pacotes a todo momento, pois essas características, por si só, já causariam um 
+atraso na conexão.
+O sistema não orientado à conexão tem a flexibilidade de alocar banda dinamicamente, além de ser 
+mais flexível em relação a ocorrências de falhas na rede.
+2.2 Quanto ao modelo de comunicação
+As redes podem ser classificadas também quanto ao modelo de comunicação, sendo síncrono 
+ou assíncrono.
+2.2.1 Comunicação síncrona
+A transmissão síncrona consiste no envio de dados em blocos contínuos, controlados por um sinal de 
+sincronização conhecido como clock. Isso significa que o emissor só pode transmitir as informações em 
+momentos específicos, previamente definidos pelo relógio interno do receptor, garantindo que ambos 
+estejam operando em sincronia.
+Na comunicação síncrona, o emissor e o receptor devem estar sincronizados, ou seja, os bits serão 
+enviados sempre em intervalos de tempo constantes. Quando não houver dados a serem enviados, o 
+emissor continua enviando algum caractere na linha, mantendo o “ritmo” da transmissão. Exemplos 
+desse tipo de transmissão são chat em tempo real, videoconferência e telepresença.
+
+===== Página 45 =====
+45
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A comunicação é monitorada pelos dois nós, ou seja, todas as ações que resultem na transmissão de 
+dados são sincronizadas entre os nós. 
+Quando os dados são transmitidos ou recebidos, os nós sabem da transmissão e se preparam para 
+a troca de dados; assim, os nós de envio e recepção ficam sincronizados, e o nó receptor sempre sabe 
+quando um novo caractere está sendo enviado. Para isso, os dados são transmitidos em blocos que 
+contêm várias sequências de bits. Esses blocos são chamados de quadros ou frames.
+2.2.2 Comunicação assíncrona
+A transmissão assíncrona é caracterizada pela ausência de um mecanismo de sincronização 
+contínua no receptor. Nesse tipo de comunicação, os dados são enviados em pequenos blocos, 
+geralmente um byte por vez, acompanhados de bits especiais que indicam o início e o fim de cada 
+unidade de informação.
+O emissor e receptor não sincronizam antes de cada transmissão, ou seja, não existe um intervalo de 
+tempo fixo entre os bits ou dados transmitidos.
+Na comunicação assíncrona, são inseridos bits especiais de “início” e de “parada” que indicam o 
+começo e o fim de cada caractere. Nessa comunicação, o receptor não precisa saber quando será enviada 
+uma sequência de dados, nem o tamanho da mensagem, ou seja, o emissor pode enviar os dados sem 
+esperar por notificação do receptor. 
+Exemplos desse tipo de transmissão são e-mails, posts nas redes sociais, fóruns e aulas gravadas em 
+plataforma de ensino à distância.
+Quando um aluno se conecta à uma plataforma de ensino para assistir uma aula, por exemplo, existe 
+o computador (emissor) conectado a um sistema (receptor). O sistema deve estar sempre pronto, pois 
+ele não sabe quando o emissor vai começar a fornecer dados. O sistema fica ocioso enquanto aguarda 
+o início da transmissão que, antes de começar, envia uma série de bits para avisar o início. Ao final, são 
+enviados os bits de parada para avisar o término da transmissão.
+2.3 Quanto ao modo de operação do canal de comunicação
+Na transmissão de dados em redes, existem três modos de operação: simplex, half-duplex e 
+full-duplex.
+2.3.1 Modo simplex
+A transmissão simplex é unidirecional, ou seja, os dados são enviados em uma única direção, sem 
+possibilidade de resposta ou retorno da informação pelo receptor. Um elemento da rede só envia ou só 
+recebe dados. Exemplos desse modo de transmissão são as rádios AM e FM e a transmissão de sinal de 
+TV analógica.
+
+===== Página 46 =====
+46
+Unidade I
+Nesse modo, as duas pontas envolvidas no processo de comunicação executam os seus papéis bem 
+definidos de transmissor ou receptor, sem qualquer inversão.
+A figura a seguir ilustra esse modo de transmissão:
+Transmissor
+(TX)
+Receptor
+(RX)
+Figura 15 – Modo de transmissão simplex
+2.3.2 Modo half‑duplex
+A transmissão half-duplex permite a troca de dados em ambas as direções, porém de forma alternada. 
+Isso significa que os dispositivos envolvidos podem tanto enviar quanto receber informações, mas não 
+ao mesmo tempo. 
+Um exemplo clássico desse tipo de comunicação é o uso de rádios do tipo walkie-talkie, em que é 
+necessário aguardar o outro terminar de falar para responder.
+Os elementos da rede podem inverter seus papéis, sendo transmissor ou receptor, ou seja, enviar ou 
+receber dados, mas não de forma simultânea. A figura a seguir ilustra esse modo de transmissão:
+Transmissor
+(TX)
+Receptor
+(RX)
+Receptor
+(RX)
+Transmissor
+(TX)
+OU
+Figura 16 – Modo de transmissão half-duplex
+2.3.3 Modo full‑duplex
+A transmissão full-duplex permite a comunicação em duas direções ao mesmo tempo, ou seja, 
+ambos os dispositivos podem enviar e receber dados simultaneamente, tornando a troca de informações 
+mais eficiente e contínua.
+Esse é o tipo de comunicação mais utilizado nas redes de computadores, além de ser também o que 
+se aplica ao sistema de comunicação de telefonia fixa e telefonia móvel celular.
+Um dispositivo capaz de transmitir e receber sinais é chamado de transceptor, como demonstrado 
+na figura a seguir:
+
+===== Página 47 =====
+47
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Transceptor Transceptor
+Figura 17 – Modo de transmissão full-duplex
+Esse tipo de transmissão se divide em:
+• TDD (Time Division Duplexing): a duplexação por divisão de tempo usa o tempo para fornecer 
+um enlace direto e um reverso, ou seja, vários usuários compartilham o mesmo canal alternando 
+somente o tempo. Na TDD, cada canal duplex possui um espaço de tempo direto e um reverso; 
+assim, os usuários podem acessar individualmente o canal no espaço de tempo atribuído. Se esses 
+espaços de tempo forem pequenos, não serão perceptíveis aos usuários.
+• FDD (Frequency Division Duplexing): a duplexação por divisão de frequência fornece duas 
+bandas de frequências distintas para cada usuário. Na FDD, cada canal duplex consiste de dois 
+canais simplex – um direto e um reverso – e um duplexador que permite a transmissão e a 
+recepção simultaneamente, nos pares de canais simplex.
+Comparando as técnicas FDD e TDD, alguns fatores influenciam na escolha entre as técnicas. A FDD é 
+usada em sistemas de comunicação de rádio, que alocam frequências individuais para cada usuário, 
+e pelo fato de transmitir e receber simultaneamente os sinais de rádio que podem variar por mais de 
+100 db, a alocação da frequência deve ser coordenada dentro do transceptor (dispositivo que transmite 
+e recebe). A TDD permite que o transceptor funcione tanto como transmissor quanto receptor usando a 
+mesma frequência, não precisando ter bandas direta e reversa separadas, mas a TDD possui uma latência 
+de tempo, pois precisa de espaços de tempo para transmitir e receber. Essa latência cria sensibilidades 
+inerentes a atrasos de propagação dos usuários, e devido a esses espaços de tempo exigidos, essa técnica 
+geralmente é limitada a telefone sem fio ou acesso portátil em curta distância.
+2.4 Quanto à topologia
+Quanto à topologia, podemos classificar as redes com relação à sua topologia física ou lógica. A 
+diferença entre topologia física e topologia lógica em redes de computadores está na forma como os 
+dispositivos são conectados fisicamente e como os dados trafegam logicamente na rede. 
+As topologias físicas descrevem mais o layout de uma rede, ou seja, como os dispositivos 
+estão fisicamente conectados, enquanto a topologia lógica descreve como os dados trafegam, 
+independentemente da conexão física. 
+2.4.1 Topologias físicas
+A topologia física de uma rede é um diagrama que descreve como seus elementos estão conectados 
+(disposição geométrica). Esses elementos são chamados de nós e podem ser computadores, impressoras 
+e outros equipamentos de rede.
+
+===== Página 48 =====
+48
+Unidade I
+Seja qual for a topologia utilizada, é preciso que sempre exista um caminho físico, através de 
+algum meio de transmissão, que torne possível a comunicação de cada equipamento com os demais 
+equipamentos da rede.
+A topologia física demonstra o desenho e a distribuição dos meios físicos que conectam os 
+equipamentos na rede. A seguir, temos os tipos mais comuns de topologia física:
+• Topologia física em barramento: nessa topologia, todos os dispositivos estão conectados a 
+um mesmo meio físico compartilhado, como um cabo coaxial, que foi amplamente utilizado 
+como barramento em redes locais. Todos os computadores são conectados ao mesmo meio de 
+transmissão em série (veja a figura a seguir).
+Figura 18 – Topologia física em barramento
+Fonte: Oliveira e Rehder (2006, p. 21).
+ Essa topologia apresenta uma dificuldade de expansão, ou seja, se um novo equipamento for 
+adicionado à rede, pode ser preciso fazer um remanejamento de cabos.
+ Outro desafio é a manutenção e estabilidade da rede, uma vez que se um cabo for desconectado, 
+toda a rede fica inoperante. Exemplos de topologia física em barramento são as redes antigas de 
+cabo coaxial.
+• Topologia física em anel: topologia em que os componentes da rede estão conectados 
+sequencialmente por um meio físico, formando um anel fechado, como ilustrado na figura 
+19. A principal vulnerabilidade desse tipo de topologia é que cada dispositivo representa um 
+ponto de falha, ou seja, se um deles apresentar problemas, toda a rede pode ser comprometida. 
+Os dispositivos (computadores, switches, hubs) são conectados em um formato circular, em 
+que cada dispositivo tem exatamente dois vizinhos. O sinal viaja ao longo do anel de um 
+dispositivo para o próximo até alcançar seu destino. Se um único ponto falhar, toda a rede 
+pode ser comprometida, a menos que haja redundância. Essa topologia caiu em desuso devido a 
+dificuldades de manutenção e expansão.
+
+===== Página 49 =====
+49
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Figura 19 – Topologia física em anel
+Fonte: Oliveira e Rehder (2006, p. 23).
+• Topologia física em estrela: todos os dispositivos da rede são conectados a um equipamento 
+central, que atua como o ponto de concentração e gerenciamento do tráfego de dados. Essa 
+estrutura, bastante comum em redes locais atuais, é conhecida como topologia em estrela, e o 
+equipamento central geralmente é um hub ou um switch, conforme mostrado na figura 20.
+ Comparado às outras topologias de barramento ou anel, a topologia em estrela apresenta uma 
+maior confiabilidade, pois a parada de uma única estação, ou do cabo que a conecta ao dispositivo 
+central, não interrompe toda a rede. Apenas uma falha do equipamento central pode provocar a 
+paralisação total da rede.
+ Existe também uma maior facilidade de manutenção devido à identificação setorizada de 
+problemas. A ampliação também se torna mais simples, sem necessidade de parada da rede. Além 
+disso, essa topologia apresenta uma maior quantidade de cabos, sendo os mais comuns os de par 
+trançado UTP.
+
+===== Página 50 =====
+50
+Unidade I
+Figura 20 – Topologia física em estrela
+Fonte: Oliveira e Rehder (2006, p. 22).
+• Topologia física em malha: todos os dispositivos estão interconectados fisicamente, total ou 
+parcialmente. Os vários nós são interligados entre si por diversos meios, por isso é a topologia que 
+apresenta uma maior quantidade de cabos.
+Nesse tipo de topologia, a transmissão de dados é mais consistente porque a falha em um dos 
+seus dispositivos não interromperá a rede. Pelo contrário, quase sempre haverá outro caminho 
+através de outro link ou outro dispositivo que está disponível, dada a diversidade de caminhos de 
+que essa topologia dispõe. 
+Na malha completa (do inglês full mesh), cada dispositivo tem uma conexão direta com todos os 
+outros. Na malha parcial (do inglês partial mesh), alguns dispositivos possuem conexões diretas, 
+mas não todos.
+Essa topologia proporciona maior redundância e confiabilidade para redes de alta disponibilidade, 
+já que múltiplos caminhos estão disponíveis para a comunicação. Devido à sua alta tolerância 
+a falhas, é a topologia mais utilizada em redes críticas, como no backbone de telecomunicações 
+e datacenters.
+ Todavia, essa máxima redundância torna a topologia em malha muito cara para se implementar, 
+devido ao grande número de links de comunicação de dados, de portas e de equipamentos 
+necessários. Por esse motivo, é uma topologia geralmente reservada ao backbone de rede, não 
+sendo encontrada em redes locais. A figura a seguir ilustra esse tipo de topologia:
+
+===== Página 51 =====
+51
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Figura 21 – Topologia física em malha
+2.4.2 Topologias lógicas
+A topologia lógica de uma rede descreve a forma como os dispositivos trocam informações e 
+como os dados circulam entre eles, independentemente da organização física dos cabos ou dos 
+equipamentos conectados.
+Dados trafegam de forma descentralizada, podendo simular uma topologia lógica que não 
+corresponde à topologia física. 
+Por exemplo, uma rede pode ter uma topologia física em estrela, mas operar com uma topologia 
+lógica em malha, mesmo não possuindo conexões diretas entre todos os dispositivos, mas sim utilizando 
+um roteamento dinâmico para encontrar caminhos alternativos. 
+Da mesma forma, uma rede pode ter uma topologia física em estrela, mas operar com uma topologia 
+lógica em barramento, se o equipamento central for um hub em vez de um switch. 
+ Lembrete
+Embora hubs e switches cumpram funções semelhantes na rede, o 
+switch oferece comunicação mais eficiente por operar em modo full-duplex 
+e evitar colisões de dados.
+São tipos de topologias lógicas:
+• Topologia lógica em barramento: emprega um método de contenção, no qual vários dispositivos 
+compartilham o meio de transmissão e realizam uma verificação da presença de sinal (portadora) 
+antes de tentar acessar o canal de comunicação. Cada nó conectado ao barramento pode “ouvir” 
+todas as informações transmitidas. Por esse motivo, é uma topologia lógica propensa à colisão.
+ A colisão é um evento que ocorre toda vez que dois ou mais computadores tentam enviar 
+informações no mesmo instante. A colisão é um evento que chega a ser normal no funcionamento
+
+===== Página 52 =====
+52
+Unidade I
+da topologia lógica de barramento, mas se for muito frequente, o desempenho da rede pode ser 
+prejudicado. Quando um computador deseja transmitir, ele avalia se a linha está disponível e 
+inicia a transmissão. Se dois computadores iniciarem a transmissão ao mesmo tempo utilizando 
+o mesmo barramento, haverá a colisão. Os computadores envolvidos na colisão aguardarão um 
+intervalo de tempo aleatório e tentarão novamente. Aquele que aguardar um tempo menor será 
+o primeiro a transmitir e o outro terá que aguardar a sua vez, pois ao terminar de esperar seu 
+intervalo de tempo, a rede já estará em uso pelo outro.
+• Topologia lógica em anel: adota um método de acesso controlado, no qual os dispositivos se 
+revezam para utilizar o canal de comunicação de maneira organizada. Esse controle é feito por 
+meio da passagem de um token, um sinal especial que circula entre os dispositivos. Apenas aquele 
+que estiver temporariamente com o token tem permissão para transmitir dados pelo meio físico. 
+As ligações são ponto a ponto e operam um único sentido de transmissão (comunicação simplex).
+ Mesmo que fisicamente a rede utilize uma topologia física diferente (como estrela, usando 
+switches), os dados podem ser transmitidos de maneira sequencial, como em um anel. Uma 
+mensagem deverá circular pelo anel até que chegue ao módulo de destino, sendo passada de 
+estação em estação, obedecendo ao sentido definido pelo anel.
+ Um exemplo clássico é o Token Ring, em que um token circula na rede, controlando quem pode 
+transmitir dados. A comunicação é baseada na troca de tokens (“fichas”), autorizações para 
+comunicação. Cada máquina só transmitirá no momento que ocorrer a passagem do token 
+na sua porta.
+• Topologia lógica em estrela: nessa topologia existe um dispositivo central, comumente chamado 
+de concentrador, por onde passa todo o tráfego da rede.
+ Normalmente apresenta uma maior confiabilidade, já que a parada de uma única estação não afeta 
+toda a rede. É maior também a facilidade de manutenção devido à possibilidade de segmentar 
+o problema. A própria porta do switch, por exemplo, já sinaliza pela cor do led que existe um 
+defeito naquele segmento, podendo ser na porta, no cabo ou na estação que está ali conectada. A 
+ampliação da rede também é mais simples, possibilitando a adição de novas estações ou usuários 
+sem necessidade de parada da rede.
+ A falha do equipamento central, ou swtich, pode provocar a paralisação total da rede, porém é 
+algo mais difícil de acontecer.
+A maioria das redes locais atualmente utiliza a topologia em estrela, operando com o protocolo 
+Ethernet como padrão de comunicação.
+• Topologia lógica em malha: refere-se à forma como os dados trafegam na rede, 
+independentemente da estrutura física. Ou seja, na configuração lógica, existem vários caminhos 
+redundantes, provendo uma diversidade de rotas para os pacotes alcançarem o seu destino. 
+Mesmo que fisicamente a rede não tenha conexões diretas entre todos os dispositivos, a 
+comunicação pode ocorrer como se houvesse uma malha, utilizando roteamento dinâmico.
+
+===== Página 53 =====
+53
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Um exemplo dessa topologia seria as redes sem fio (Wi-Fi Mesh), pois podem operar logicamente em 
+malha, mesmo que fisicamente os dispositivos não estejam todos interconectados diretamente. 
+O tráfego pode ser otimizado por protocolos de roteamento que escolhem o melhor caminho para 
+a transmissão dos dados.
+O quadro a seguir traz um resumo das principais topologias e seus pontos positivos e negativos: 
+Quadro 1 – Resumo das principais topologias
+Topologia Pontos positivos Pontos negativos
+Malha Transmissão de dados mais consistente 
+Excelente redundância
+Requer maior quantidade de cabos e links
+Implementação muito cara
+Estrela
+Maior tolerância a falhas 
+Facilidade de instalação 
+Monitoramento centralizado
+Custo de instalação maior porque requer mais cabos
+Anel
+Facilidade de instalação razoável 
+Requer poucos cabos 
+Desempenho uniforme
+Se uma estação parar, todas as outras param 
+Dificuldade para a identificação de problemas
+Barramento
+Facilidade de instalação razoável 
+Requer poucos cabos 
+Facilidade de compreensão das ligações
+Lentidão em períodos de uso intenso 
+Dificuldade para a identificação de problemas 
+Possibilidade de colisão 
+2.5 Quanto à abrangência
+As redes podem ser classificadas também quanto à abrangência, isto é, com relação à área geográfica 
+que cobrem. Nesse contexto, os tipos principais de redes são:
+• LAN (Local Area Network): é uma rede de computadores de pequeno porte, geralmente restrita 
+a um único local físico, como um escritório, residência ou prédio.
+• MAN (Metropolitan Area Network): consiste em uma rede de alta velocidade que interliga 
+diversas LANs dentro de uma mesma área urbana ou metropolitana.
+• WAN (Wide Area Network): abrange uma área geograficamente extensa, conectando várias 
+LANs localizadas em cidades, estados ou até países diferentes, geralmente por meio de links 
+públicos ou privados.
+• PAN (Personal Area Network): rede que conecta dispositivos em um raio de distância limitado, 
+focando na conexão de dispositivos pessoais.
+
+===== Página 54 =====
+54
+Unidade I
+ Lembrete
+São vários os tipos de rede e seus conceitos, mas os termos mais 
+utilizados são LAN e WAN. A LAN indica tudo que está no perímetro da 
+rede local da empresa, enquanto a WAN é o que está fora desse perímetro, 
+conectado à rede de longa distância.
+2.5.1 Rede LAN
+As redes locais, muitas vezes chamadas de LANs, são redes contidas em uma sala ou prédio que tem 
+algumas dezenas de metros de extensão. Elas são amplamente usadas para conectar computadores 
+pessoais e estações de trabalho em escritórios e instalações industriais, permitindo a troca de informações 
+e o compartilhamento de recursos (por exemplo, servidores ou impressoras).
+As LANs permitem que os dispositivos troquem dados e se comuniquem com segurança em pequena 
+escala. Elas têm três características que as diferenciam das demais: tamanho, tecnologia de transmissão 
+e topologia. 
+Seu tamanho é restrito, o que significa que o pior tempo de transmissão é limitado e conhecido 
+com a devida antecedência. O conhecimento desse limite permite a utilização de determinados tipos 
+de projetos que em outras circunstâncias seriam inviáveis, além de simplificar o gerenciamento de rede.
+Quanto à tecnologia de transmissão, uma rede local conecta dispositivos que estão fisicamente 
+próximos uns dos outros usando comutadores como hubs, switches ou, no caso de redes sem fio, os 
+access points. As conexões com fio usam cabos coaxiais, de fibra óptica ou de par trançado. Por outro 
+lado, as conexões sem fio usam Wi-Fi ou rádio.
+A topologia das LANs pode consistir em um cabo apenas, que formaria um barramento ou anel ao 
+qual todas as máquinas estão conectadas. Em uma rede local de topologia barramento (por exemplo, um 
+cabo linear ou, como visto na seção 2.4, uma rede composta de repetidores e hubs), a qualquer momento 
+uma máquina desempenha o papel de mestre e pode realizar uma transmissão. Nesse momento, as 
+outras máquinas devem ser impedidas de enviar algum tipo de mensagem. Faz-se necessário, então, 
+criar um mecanismo de arbítrio para resolver a colisão, que é um conflito presente quando duas ou mais 
+máquinas querem fazer uma transmissão simultaneamente. 
+Porém, a topologia mais comumente utilizada nas LANs é a estrela, que contém um elemento central 
+como o switch LAN ou o access point ao qual todos os dispositivos se conectam, conforme ilustrado na 
+figura a seguir:
+
+===== Página 55 =====
+55
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+2950-24 
+Switch
+PC-PT 
+PC1
+PC-PT 
+PC3
+PC-PT 
+PC0
+PC-PT 
+PC2
+Figura 22 – LAN em topologia estrela
+O padrão Ethernet IEEE 802.3 é um padrão fundamental que define as regras e especificações 
+para a comunicação em redes LAN. Os computadores de uma rede Ethernet podem estabelecer uma 
+transmissão no momento em que quiserem. Se houver uma colisão, cada computador aguardará um 
+tempo aleatório e fará uma nova tentativa.
+A velocidade de uma LAN (Local Area Network) pode variar de 10 Mbps a 100 Gbps, dependendo da 
+tecnologia e do tipo de conexão usada. As velocidades mais comuns incluem:
+• Ethernet:
+— 10/100 Mbps (Fast Ethernet): foi amplamente utilizado no passado, mas atualmente está 
+em desuso em muitas redes.
+— 1 Gbps (Gigabit Ethernet): a forma mais comum de Ethernet hoje em dia, permitindo 
+velocidades de até 1 Gbps. Permite transferir grandes quantidades de dados e assistir a 
+programas de streaming sem interrupções. 
+— 10 Gigabit Ethernet (velocidade máxima de 10 gigabytes por segundo): para redes mais 
+avançadas, como em ambientes empresariais ou datacenters, a velocidade pode chegar a 10 Gbps. 
+Embora menos comum em redes domésticas, é utilizado em algumas aplicações de alta demanda.
+• Wi-Fi:
+— Wi-Fi 5 (802.11ac): pode alcançar até 3,5 Gbps em condições ideais, embora a velocidade real 
+dependa de fatores como distância e interferência.
+— Wi-Fi 6 (802.11ax): oferece até 9,6 Gbps, mas, igualmente, a velocidade prática será menor 
+devido a vários fatores ambientais.
+
+===== Página 56 =====
+56
+Unidade I
+Resumindo, em uma LAN típica, as velocidades mais comuns variam entre 1 Gbps (Gigabit Ethernet) 
+e 10 Gbps, sendo a velocidade de 1 Gbps a mais usual em redes domésticas e pequenas empresas.
+Alguns equipamentos de rede, além das placas de rede que são internas dos computadores e de 
+outros dispositivos, são equipamentos típicos de redes locais, como os repetidores, hubs e switches LAN 
+(Oliveira; Rehder, 2006). Na próxima unidade vamos ver com mais detalhes como cada um funciona, 
+mas segue aqui um resumo das principais características:
+• Repetidor: 
+— A finalidade de um repetidor é gerar os sinais da rede novamente e os retemporizar no nível do 
+bit para que eles trafeguem em uma distância maior nos meios físicos.
+— Dispositivo de camada 1 (camada Física do modelo OSI).
+— Mesmo domínio de colisão.
+• Hub:
+— Repetidor multiportas.
+— Ponto central de conexão para os meios de cabeamento.
+— Dispositivo de camada 1 (camada Física do modelo OSI).
+— Mesmo domínio de colisão.
+• Switch LAN:
+— Ponto central de conexão para os hosts de comunicação.
+— Comutador de dados (envia para o destino certo).
+— Dispositivo de camada 2 (camada de Enlace do modelo OSI).
+— Quebra domínio de colisão.
+— Mesmo domínio de broadcast.
+Ao sair da rede LAN, entra-se na rede de área extensa ou WAN, que é a internet ou outras redes de 
+grande alcance. A LAN é a rede interna de uma residência ou empresa, enquanto a WAN é a rede maior 
+e externa que conecta diferentes locais, como veremos com mais detalhes a seguir.
+
+===== Página 57 =====
+57
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+2.5.2 Rede WAN
+A rede de longa distância, ou WAN (do inglês Wide Area Network), é diferente de uma LAN que 
+conecta estações e equipamentos em uma mesma sala ou prédio. A WAN vai além dos limites de 
+um edifício ou campus, permitindo a conexão de múltiplas localidades distribuídas por uma região 
+geográfica ampla, podendo interligar pontos ao redor do mundo. 
+Também chamada de rede geograficamente distribuída, a WAN abrange uma ampla área geográfica, 
+interligando empresas e suas filiais distribuídas em cidades ou até países diferentes. As organizações 
+usam as WANs para facilitar as interações digitais e o compartilhamento de dados entre funcionários e 
+clientes de diferentes regiões.
+Podemos dizer que a WAN interconecta LANs ou conjuntos de máquinas conectadas em 
+suas respectivas LANs, com a finalidade de executar os programas e aplicações dos usuários. Essas 
+máquinas são os hosts (conforme vimos na seção 1.1.1). Os hosts são conectados por uma sub-rede de 
+comunicação, ou simplesmente sub-rede. A tarefa da sub-rede é transportar mensagens de um host 
+para outro. Quando esses hosts estão em uma mesma sub-rede dentro de um ambiente limitado, apenas 
+os equipamentos daquela LAN precisam atuar. Se um host está fora daquele perímetro, os recursos da 
+WAN serão utilizados para a transmissão dos dados.
+O roteador, para os computadores da LAN em que ele está conectado, funciona como uma rota de 
+saída para a WAN. Por isso o roteador é também chamado de default gateway, ou gateway padrão. 
+Ou seja, o roteador é esse dispositivo que vai permitir à LAN se comunicar com outras redes que ela 
+não conhece.
+Como ilustrado na figura a seguir, os diferentes hosts estão conectados a uma LAN, e cada LAN tem 
+na sua saída um roteador para fazer a interface para a WAN:
+Campus Backbone
+Branch 
+Office
+Telecommuter
+WAN
+Enterprise Campus Remote sitesWAN
+Building 
+Backbone
+Workgroups
+Figura 23 – Interface entre LAN e WAN
+Adaptada de: Cisco (2021).
+
+===== Página 58 =====
+58
+Unidade I
+As redes WAN são responsáveis por interligar diferentes sub-redes para conectar os hosts 
+geograficamente dispersos, utilizando para isso dois componentes distintos: os circuitos (ou linhas 
+de transmissão) e os elementos de comutação. Os circuitos transportam os dados entre os elementos de  
+comutação; já os elementos de comutação são os roteadores, que funcionam como computadores 
+especializados usados para conectar duas ou mais linhas de transmissão. Quando os dados chegam a 
+um circuito conectado a uma porta de entrada do roteador, o roteador deverá escolher uma porta de 
+saída para encaminhá-las. 
+Geralmente, um roteador tem uma variedade de rotas que podem ser usadas para se alcançar um 
+destino. E essa é justamente outra função do roteador: escolher a melhor rota para a transmissão 
+dos pacotes. Analisando suas tabelas de rotas e utilizando algoritmos dos protocolos de roteamento, 
+os roteadores conseguem determinar qual dos vários caminhos disponíveis será o caminho mais 
+eficiente e rápido.
+Esse cenário que foi mostrado é, na verdade, replicado em cada empresa diferente e em cada filial 
+diferente de uma mesma empresa. Por isso, na maioria das WANs, a rede contém numerosos cabos ou 
+linhas de transmissão, todos conectados a um par de roteadores que também são numerosos. Se dois 
+roteadores que não compartilham de um cabo – ou seja, que não estão conectados entre si – desejarem 
+se comunicar, eles só poderão fazê-lo através de outros roteadores. 
+ Observação
+Nas LANs modernas, a topologia estrela é a mais comum de ser 
+encontrada. Nela, todos os dispositivos se conectam a um ponto central, 
+que normalmente é um switch em redes cabeadas ou um access point 
+em redes sem fio. Já no backbone WAN das operadoras, a malha é a 
+topologia frequentemente adotada, pois conecta diversos roteadores entre 
+si, permitindo múltiplos caminhos para o tráfego de dados. Isso oferece 
+uma ótima redundância, aspecto importante em redes que demandam 
+alta disponibilidade.
+ 
+Como o custo de construir uma rede geograficamente distribuída para conectar cada empresa às 
+suas filiais e funcionários remotos seria algo astronômico, os serviços de rede WAN são geralmente 
+fornecidos por operadoras ou provedoras de serviços de telecomunicações. O que uma empresa faz 
+então é apenas contratar um provedor para utilizar os seus recursos. Dentro da nuvem da provedora, o 
+serviço contratado utiliza apenas uma porção de rede necessária para transportar a informação.
+A figura a seguir ilustra como a WAN utiliza essa nuvem da provedora para interconectar uma 
+diversidade de filiais, campus e usuários remotos de uma mesma empresa ou de empresas diversas:
+
+===== Página 59 =====
+59
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Provider 
+network
+Telecommuter
+Central site
+Small office
+Digital 
+PBX
+Home office
+Figura 24 – Rede WAN
+Fonte: Cisco (2000, p. 13).
+Quando uma empresa contrata serviços WAN, o provedor de telecomunicações aloca recursos 
+físicos da sua estrutura para entregar as conexões WAN necessárias. Alguns termos usados para esses 
+componentes físicos seriam:
+• DTE (Data Terminal Equipment): é o dispositivo que conecta as LANs do assinante ao 
+dispositivo de comunicação WAN (ou seja, DCE). Os hosts internos enviam seu tráfego para  
+o dispositivo DTE. O DTE se conecta ao loop local através do DCE. O dispositivo DTE é geralmente 
+um roteador, mas pode ser um host ou servidor.
+• DCE (Data Communications Equipment): também chamado de equipamento de terminação 
+de circuito de dados, é o dispositivo usado para se comunicar com o provedor. O DCE fornece 
+principalmente uma interface para conectar assinantes a um link de comunicação na nuvem WAN.
+• CPE (Customer Premises Equipment): são os dispositivos DTE e DCE (ou seja, roteador, modem, 
+conversor óptico) localizados na extremidade da empresa. O assinante possui o CPE ou aluga o 
+CPE do provedor de serviços.
+• POP (Point-of-Presence): é o ponto em que o assinante se conecta à rede do provedor de serviços.
+• Demarcation Point: é um local físico em um edifício ou complexo que separa oficialmente o 
+CPE do equipamento do provedor de serviços. O ponto de demarcação é normalmente uma caixa 
+de junção de cabeamento, localizada nas instalações do cliente, que conecta a fiação do CPE ao 
+loop local. Identifica o local onde a responsabilidade da operação da rede muda do assinante para 
+o provedor de serviços. Quando surgem problemas, é necessário determinar se o usuário ou o 
+provedor de serviços é responsável pela solução de problemas ou reparo.
+• Local Loop (ou last mile): é o cabo real de cobre ou fibra que conecta o CPE ao CO (Central 
+Office) do provedor de serviço.
+• CO (Central office): é a instalação ou edifício do provedor de serviços local que conecta o CPE à 
+rede do provedor.
+
+===== Página 60 =====
+60
+Unidade I
+• Toll network: inclui linhas de comunicação de fibra óptica, switches, roteadores e outros 
+equipamentos dentro da rede do provedor de WAN.
+• Backhaul network: são redes que conectam vários nós de acesso da rede do provedor de serviços. 
+As redes de backhaul podem se estender por municípios, países e regiões. As redes de backhaul 
+também são conectadas a provedores de serviços de internet e à rede de backbone.
+• Backbone network: são grandes redes de alta capacidade usadas para interconectar redes de 
+provedores de serviços e para criar uma rede redundante. Outros provedores de serviços podem se 
+conectar ao backbone diretamente ou por meio de outro provedor de serviços. Os provedores de 
+serviços de rede backbone também são chamados de provedores Tier-1.
+Vale ressaltar que um cabo conectado a dois roteadores não é a única forma de se conectar uma 
+WAN. Outras possibilidades para uma WAN, além de cabos de cobre, coaxiais ou de fibra óptica, são os 
+rádios e os satélites. 
+ Observação
+A LAN e a WAN podem ser cabeadas ou não cabeadas. Por exemplo, 
+uma empresa pode ter a LAN funcionando com Wi-Fi e o link WAN 
+conectado ao roteador por uma fibra óptica até a rede da provedora. Da 
+mesma forma, pode-se ter uma LAN com cabos UTP conectados a um 
+switch e um link WAN via rádio até a antena da provedora. Ou seja, os 
+meios de transmissão são usados dependendo do alcance e da forma que 
+atendem melhor a localidade daquela rede, seja ela uma rede local ou 
+geograficamente distribuída.
+ 
+Como vimos, o equipamento típico de uma WAN é o roteador, por isso segue aqui um resumo das 
+suas principais características:
+• Roteador:
+— Dispositivo de controle de trafego importante nas grandes redes.
+— Roteamento de pacotes.
+— Seleção de melhor rota para transmissão.
+— Dispositivo de camada 3 (camada de Rede do modelo OSI).
+— Quebra do domínio de broadcast.
+
+===== Página 61 =====
+61
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Os tipos comuns de tecnologias WAN de comutação de pacotes são Ethernet WAN (Metro Ethernet), 
+MPLS (Multiprotocol Label Switching), bem como o Frame Relay legado.
+Tradicionalmente, em uma empresa com várias filiais espalhadas pelo país, ou até pelo mundo, as 
+unidades só se conectavam pela WAN por redes privadas caras, com linhas dedicadas como MPLS, para 
+garantir desempenho e segurança. Porém, outro tipo de rede WAN vem ganhando espaço: a SD-WAN, 
+do inglês Software-Defined Wide Area Network. A SD-WAN é uma arquitetura virtualizada que usa 
+software para gerenciar o tráfego em redes WAN. 
+Utilizando a SD-WAN, a empresa pode usar conexões mais baratas e comuns (como internet banda 
+larga, 4G/5G etc.) de forma inteligente, segura e eficiente, sem depender tanto das conexões privadas 
+tradicionais.
+As principais características da SD-WAN são:
+• Controle centralizado por software, através do qual se gerenciam todas as conexões de forma 
+central, por meio de uma interface simples.
+• Melhor performance para aplicações, pois escolhe automaticamente o melhor caminho para 
+cada tipo de tráfego, por exemplo, priorizando videoconferência em tempo real.
+• Mais segurança com criptografia de ponta a ponta, firewalls integrados e segmentação de tráfego.
+• Redução de custos, ao permitir o uso de links mais baratos sem abrir mão da performance e da segurança.
+• Alta disponibilidade, sendo que se uma conexão cai, outra assume automaticamente, sem interrupção  
+perceptível.
+Considerando um caso prático, vamos imaginar uma filial de uma empresa com duas conexões de 
+internet: uma fibra ótica e um link 4G.
+Com SD-WAN, as videoconferências podem ser roteadas pela fibra, para comunicação mais rápida; 
+os acessos a e-mails ou sistemas podem usar o 4G; e se a fibra cair, tudo automaticamente muda para 
+o 4G, sem precisar de ação manual.
+No entanto, ter um link dedicado principal e um de internet como backup (failover) já era prática 
+comum antes do SD-WAN. Qual a diferença, então? A diferença é como isso é gerenciado, controlado 
+e otimizado.
+Vamos comparar o modelo tradicional com o SD-WAN:
+• Modelo tradicional (pré-SD-WAN):
+— O failover, ou comutação entre links, geralmente é lento e manual ou semiautomático.
+— Normalmente, só um link está ativo por vez. O backup só entra se o principal cai totalmente.
+
+===== Página 62 =====
+62
+Unidade I
+— A comutação geralmente depende de protocolos de roteamento como o BGP ou HSRP, que não 
+são rápidos em detectar falhas de performance, só falhas físicas.
+— Não há controle de qualidade de aplicação, ou seja, não se consegue priorizar videoconferência 
+ou tráfego VoIP de forma inteligente.
+— A segurança precisa ser configurada em cada equipamento, de forma separada, como em 
+firewalls, criptografia, VPNs etc.
+— Há pouco ou nenhum monitoramento em tempo real com visibilidade de tráfego.
+• Modelo SD-WAN:
+— Todos os links (dedicado, internet, 4G etc.) podem ser ativos ao mesmo tempo.
+— O tráfego é distribuído de forma inteligente, com base em latência, jitter e perda de pacotes, 
+tudo em tempo real.
+— Se a qualidade de um link piora, ou se a latência sobe, o SD-WAN pode redirecionar aplicações 
+críticas instantaneamente, mesmo sem queda completa.
+— Há políticas por aplicação, ou seja, pode-se definir que o Microsoft Teams ou o Zoom devem 
+sempre usar o melhor link com baixa latência, enquanto aplicações menos críticas, porém mais 
+pesadas, como um backup de arquivos, vão pelo link com maior banda.
+— Toda a configuração e segurança são centralizadas e padronizadas, inclusive com criptografia 
+ponta a ponta entre filiais.
+— Há visibilidade total do tráfego através de dashboards, que mostram o desempenho dos links, 
+uso de banda por aplicação, estatísticas de qualidade de rede etc.
+A SD-WAN, ainda assim, utiliza VPNs como parte da sua infraestrutura para garantir a segurança 
+do tráfego entre os pontos da rede. Ou seja, dentro da arquitetura SD-WAN, é comum o uso de túneis 
+VPN IPsec entre os dispositivos SD-WAN. Porém, a forma de configuração é diferente.
+No modelo tradicional de redes corporativas (pré-SD-WAN), cada equipamento de rede precisava 
+ser configurado individualmente. Isso inclui firewalls, políticas de segurança, túneis VPN, criptografia e 
+roteamento. Para conectar filiais com segurança, era comum criar túneis VPN IPsec manualmente entre 
+roteadores ou firewalls de cada unidade. Essa abordagem exigia muito trabalho operacional, era difícil 
+de escalar e propensa a erros.
+Na arquitetura SD-WAN, a segurança ainda é necessária, mas é gerenciada de forma centralizada 
+e automatizada. Portanto, a SD-WAN ainda usa VPNs, mas ela cria e gerencia os túneis VPN 
+automaticamente, geralmente com criptografia IPsec ou TLS. O administrador não precisa configurar 
+cada equipamento manualmente, pois a orquestração central trata disso. Além disso, muitas soluções
+
+===== Página 63 =====
+63
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+SD-WAN já integram recursos como firewall integrado, detecção de ameaças, segmentação de rede e 
+controle de aplicações.
+ Saiba mais
+Uma VPN, sigla para Virtual Private Network, ou Rede Privada Virtual, é 
+uma tecnologia que permite a criação de uma conexão segura e criptografada 
+entre dois pontos por meio da internet. Seu principal objetivo é garantir que 
+os dados trafeguem de forma protegida, como se estivessem circulando em 
+uma rede privada, mesmo sendo transmitidos por uma rede pública.
+O uso da VPN é comum em diversos contextos. Ela serve principalmente 
+para garantir a segurança e a privacidade na comunicação de dados. Empresas 
+a utilizam para permitir que funcionários acessem remotamente suas redes 
+internas com segurança. A popularização do home office pós-Covid fez com 
+que muitas pessoas passassem a trabalhar de casa, utilizando sua conexão de 
+internet para acessar as ferramentas da empresa pela VPN.
+Além disso, a VPN é muito usada por pessoas que desejam proteger seus 
+dados ao utilizar redes Wi-Fi públicas ou que querem acessar conteúdos 
+restritos por localização, ocultando seu IP e sua localização geográfica.
+O funcionamento da VPN baseia-se na criação de um túnel criptografado 
+entre o dispositivo do usuário e um servidor VPN. Esse túnel impede que 
+terceiros acessem ou modifiquem os dados em trânsito. Protocolos como 
+IPsec, OpenVPN e WireGuard são usados para garantir a confidencialidade e 
+a integridade da informação durante o tráfego na rede.
+Entre as principais vantagens da VPN estão a segurança em conexões 
+potencialmente inseguras, o acesso remoto a sistemas internos e a privacidade 
+na navegação. No entanto, ela também apresenta algumas limitações, já 
+que pode haver redução na velocidade da conexão devido à criptografia, 
+e a eficácia da proteção depende da correta configuração e do estado 
+de segurança do dispositivo do usuário. Apesar dessas limitações, a VPN 
+continua sendo uma solução eficaz e amplamente adotada para proteger a 
+comunicação digital.
+Para saber mais sobre VPN, leia: 
+TANENBAUM, A.; FEAMSTER, N.; WETHERALL, D. Redes de computadores. 
+5. ed. Rio de Janeiro: Pearson Prentice Hall, 2021.
+
+===== Página 64 =====
+64
+Unidade I
+ Resumo
+Esta unidade apresentou uma introdução abrangente sobre os principais 
+conceitos das redes de computadores, abordando desde os  elementos 
+físicos até os lógicos que sustentam a conectividade em sistemas de 
+informação modernos. A conectividade é vista como base essencial da 
+comunicação digital, e sua eficácia depende de três componentes principais: 
+equipamentos, meios de transmissão e protocolos. 
+Equipamentos como computadores, roteadores, switches e pontos 
+de acesso são classificados em dispositivos finais e intermediários, cada 
+qual com funções específicas na rede. A conectividade entre eles é 
+estabelecida por meio de placas de rede, com destaque para as tecnologias 
+Ethernet e Wi-Fi.
+Os meios de transmissão podem ser cabeados ou não cabeados. Entre 
+os cabeados, destacam-se os cabos coaxiais, os pares trançados (com 
+suas diversas categorias) e as fibras ópticas, cada um com características 
+distintas de velocidade, alcance, imunidade a ruído e custo. Já os meios não 
+cabeados incluem tecnologias como rádio, satélite e redes móveis (como 
+4G e 5G), que viabilizam conexões de longa distância e grande mobilidade. 
+As redes móveis evoluíram significativamente ao longo das gerações, com a 
+5G trazendo baixíssima latência e alta velocidade, sendo fundamental para 
+aplicações modernas como cidades inteligentes.
+No âmbito lógico, os protocolos de rede são indispensáveis para garantir 
+que a comunicação entre dispositivos ocorra de maneira padronizada, 
+segura e eficiente. O protocolo TCP/IP é um exemplo amplamente adotado, 
+permitindo que dados sejam divididos em pacotes, transmitidos e 
+remontados corretamente no destino. Os protocolos trabalham em camadas 
+e operam dentro de modelos como o OSI e o próprio TCP/IP. Eles não apenas 
+padronizam a comunicação, mas também garantem funções como detecção 
+e correção de erros, controle de fluxo e endereçamento de mensagens.
+Outro aspecto abordado no texto é a performance das redes, que pode 
+ser medida por indicadores como taxa de transferência (throughput), 
+latência, jitter e disponibilidade. A performance ideal depende da aplicação 
+em uso, já que atividades como videoconferências são mais sensíveis à 
+latência, enquanto transferências de arquivos demandam maior largura de 
+banda. A QoS (Qualidade de Serviço) é essencial para manter o desempenho 
+de aplicações críticas, utilizando técnicas para priorizar o tráfego de dados 
+mais sensível. A disponibilidade da rede é igualmente vital, especialmente 
+para serviços essenciais que exigem funcionamento contínuo.
+
+===== Página 65 =====
+65
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A transformação digital é fortemente impulsionada pelas redes 
+de comunicação. A crescente adoção de tecnologias digitais como  
+IoT (Internet das Coisas), Big Data, IA (inteligência artificial) e internet 
+móvel vem remodelando modelos de negócio e permitindo novas formas 
+de interação entre consumidores e empresas. A conectividade é, nesse 
+sentido, o fio condutor da digitalização, viabilizando desde a automação 
+industrial até serviços governamentais e entretenimento doméstico.
+As redes podem ainda ser classificadas conforme sua abrangência 
+(LAN, MAN, WAN), tipo de serviço (orientado ou não à conexão), modelo 
+de comunicação (síncrono ou assíncrono) e modo de operação do canal 
+(simplex, half-duplex, full-duplex). Essas classificações ajudam a identificar 
+as características operacionais de cada tipo de rede e sua adequação às 
+diversas necessidades de comunicação.
+Por fim, as topologias de rede, tanto físicas quanto lógicas, definem 
+como os dispositivos estão dispostos e como os dados trafegam entre 
+eles. Topologias físicas como barramento, estrela, anel e malha têm 
+vantagens e desvantagens próprias, assim como as topologias lógicas, que 
+definem a organização do tráfego de dados. A escolha da topologia de 
+rede ideal depende de fatores como escalabilidade, confiabilidade, custo e 
+facilidade de manutenção.
+
+===== Página 66 =====
+66
+Unidade I
+ Exercícios
+Questão 1. (Instituto UniFil/2020, adaptada) Os equipamentos de redes são os elementos 
+responsáveis pela transmissão, pela recepção e pelo encaminhamento de dados. Para o funcionamento 
+de uma rede, são necessários dispositivos que permitam o transporte de dados e a comunicação 
+adequada entre o emissor e o receptor das informações.
+A respeito de equipamentos utilizados em redes de computadores, avalie as afirmativas:
+I – O switch é um importante equipamento que possibilita a conexão de computadores em redes. Ele 
+tem a capacidade de aumentar o desempenho da rede, já que a comunicação está sempre disponível, 
+evitando a colisão de dados da rede.
+II – O hub é um dispositivo de rede que opera na camada Física e transmite os dados recebidos de 
+uma porta para todas as outras, independentemente do destino do pacote.
+III – O roteador é um equipamento usado para fazer a ligação de protocolos e a comunicação entre 
+diferentes redes de computadores, provendo a comunicação entre computadores distantes entre si.
+É correto o que se afirma em:
+A) I, apenas.
+B) III, apenas.
+C) I e III, apenas.
+D) II e III, apenas.
+E) I, II e III.
+Resposta correta: alternativa E.
+Análise das afirmativas
+I – Afirmativa correta. 
+Justificativa: o switch atua na camada de Enlace (camada 2 do modelo OSI) e encaminha os dados 
+de forma inteligente com base nos endereços MAC. Ele cria um canal dedicado entre a origem e o 
+destino durante a transmissão, o que ajuda a evitar colisões.
+
+===== Página 67 =====
+67
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+II – Afirmativa correta. 
+Justificativa: o hub é um dispositivo que atua na camada Física (camada 1 do modelo OSI). Ele 
+retransmite os dados recebidos em uma porta para todas as outras, independentemente do destino.
+III – Afirmativa correta. 
+Justificativa: o roteador opera na camada de Rede (camada 3 do modelo OSI) e é responsável 
+por interligar diferentes redes, além de decidir a melhor rota para encaminhar pacotes. Ele permite a 
+comunicação entre redes com endereçamentos distintos, como uma rede local (LAN), e a internet.
+Questão 2. (Instituto Consulplan/2023, adaptada) Na comunicação de dados, simplex, half-duplex e 
+full-duplex são modalidades de transmissão. Em relação a tais modalidades, avalie as afirmativas:
+I – Simplex é uma modalidade de transmissão em que a comunicação ocorre em ambas as direções 
+simultaneamente.
+II – Half-duplex é uma modalidade de transmissão em que a comunicação ocorre em apenas uma 
+direção por vez.
+III – Na modalidade full-duplex, a comunicação ocorre em ambas as direções simultaneamente.
+É correto o que se afirma em:
+A) I, apenas.
+B) III, apenas.
+C) I e III, apenas.
+D) II e III, apenas.
+E) I, II e III.
+Resposta correta: alternativa D.
+Análise das afirmativas
+I – Afirmativa incorreta. 
+Justificativa: a modalidade simplex permite comunicação apenas em uma direção, sem possibilidade 
+de transmissão no sentido inverso. As transmissões de rádio são exemplos de comunicação simplex.
+
+===== Página 68 =====
+68
+Unidade I
+II – Afirmativa correta. 
+Justificativa: a modalidade half-duplex permite comunicação em ambas as direções, mas não 
+simultaneamente. Desse modo, a comunicação ocorre em uma direção por vez. O walkie-talkie é um 
+exemplo de dispositivo cuja modalidade de transmissão é half-duplex, já que cada indivíduo precisa, em 
+dado momento, ou falar ou ouvir. 
+III – Afirmativa correta. 
+Justificativa: a modalidade full-duplex permite comunicação em ambas as direções simultaneamente. 
+Como exemplo, podemos citar a telefonia moderna, na qual ambas as partes podem falar e ouvir ao 
+mesmo tempo.

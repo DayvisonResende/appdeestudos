@@ -1,0 +1,88 @@
+===== Página 1 =====
+MATERIAL COMPLEMENTAR 
+ 
+Disciplina: Redes de Computadores e Sistemas Distribuídos 
+Professor: Jacqueline Zonichenn dos Reis 
+ 
+ 
+A computação distribuída e os avanços científicos 
+ 
+A transformação digital acelerada nas últimas décadas tem sido sustentada por 
+avanços significativos em áreas como computação distribuída, segurança 
+cibernética e inteligência artificial.  
+ 
+O surgimento de dispositivos conectados, o aumento do  volume de dados e a 
+necessidade de processamento eficiente impulsionaram novas ar quiteturas 
+computacionais, mais colaborativas, descentralizadas e inteligentes. A 
+computação moderna exige não apenas desempenho, mas também resiliência,  
+acessibilidade e proteção contra ameaças cibernéticas. Neste cenário, destaca-se 
+o uso de redes distribuídas para processamentos científicos colaborativos. 
+ 
+O artigo “ BOINC: a contribuição da computação distribuída nos avanços 
+científicos” analisa a importância da computação distribuída para o avanço da 
+ciência, tendo como foco a plataforma BOINC ( Berkeley Open Infrastructure for 
+Network Computing). Por meio desta iniciativa, a  computação distribuída tem se 
+mostrado uma alternativa viável ao uso de supercomputadores,  pois a plataforma 
+viabiliza o aproveitamento de processamento ocioso de computadores pessoais 
+ao redor do mundo. Com essa arquitetura, foi possível realizar pesquisas de alto 
+impacto científico em áreas como biologia molecular, climatologia e fí sica de 
+partículas.  
+ 
+A proposta central é demonstrar como o uso do processamento ocioso de 
+computadores pessoais pode substituir, com eficiência e baixo custo, o uso de 
+supercomputadores em pesquisas científicas complexas. A pesquisa teve como 
+metodologia o levantamento bibl iográfico e a experimentação prática da 
+plataforma, abordando diversas áreas científicas, como biologia, física, astronomia 
+e climatologia. 
+ 
+A computação distribuída é apresentada como uma alternativa eficiente e 
+economicamente viável para o processamento de grandes volumes de dados. 
+Com base em conceitos de autores como Tanenbaum, Deitel e Choffnes, o artigo 
+define sistemas distribuídos como estruturas compostas por múltiplos 
+computadores interconectados, que compartilham poder de processamento. O 
+middleware, uma camada de software entre o sistema operacional e os aplicativos, 
+é fundamental para garantir a uniformidade e integração entre diferentes máquinas 
+e sistemas operacionais.
+
+===== Página 2 =====
+O BOINC, criado na Universidade da Califórnia a partir do projeto GIMPS, su rge 
+como uma plataforma consolidada que permite a qualquer usuário doar 
+capacidade computacional para projetos científicos.  
+ 
+Entre os principais projetos hosped ados na plataforma, destaca -se o 
+Rosetta@home que trabalha a  simulação de estruturas proteicas para o 
+desenvolvimento de novos medicamentos. Utilizando a computação distribuída, 
+cientistas passaram a simular o processo de dobra de proteínas, o que tem grande 
+impacto em áreas como biotecnologia e medicina. A plataforma Rosetta permite a 
+criação de proteínas artificiais com finalidades específicas, como o combate a vírus 
+e a indução de respostas imunológicas em células cancerígenas. A parceria entre 
+pesquisadores, voluntários e tecnologias avançadas tem potencializado  
+descobertas inovadoras e viabilizado simulações de altíssimo nível de 
+complexidade. 
+ 
+A experiência prática relatada pelos autores envolve a execução do BOINC e do 
+Rosetta@home em um computador pessoal, com monitoramento do uso de disco, 
+CPU e métricas de desempenho. O experimento comprovou que os recursos 
+utilizados são, de fato, ociosos, e que o sistema respeita os limites configurados 
+pelo usuário, validando a proposta da computação colaborativa. 
+ 
+“O Rosetta recruta voluntários para doar processamento em  seus computadores 
+pessoais, e eventualmente, em sistemas Android. Nos últimos 13 anos, 1.266.542 
+pessoas aderiram à comunidade”, afirmam os autores. Essa iniciativa democratiza 
+o acesso à infraestrutura científica, ao mesmo tempo em que acelera descobertas 
+biomoleculares cruciais. 
+ 
+Na conclusão, os autores destacam a capacidade da computação distribuída de 
+transformar o cenário da pesquisa científica. A partir da colaboração entre milhões 
+de usuários, torna-se possível realizar experimentos antes inviáveis devido ao alto 
+custo comput acional. A computação distribuída, portanto, representa uma 
+alternativa sustentável, escalável e inclusiva, especialmente em áreas como a 
+saúde, onde projetos como o Rosetta@home já contribuem significativamente para 
+a busca de soluções para doenças como o câncer e o HIV. 
+ 
+ 
+Referência 
+REQUIÃO, B. C.; KOVATLI, M. de F.; GEESDORF, C. BOINC: a contribuição da 
+computação distribuída nos avanços científicos / BOINC: the contribution of 
+computing distributed in scientific advances. Brazilian Journal of Developmen t, 
+7(3), 22016–22035, 2021.

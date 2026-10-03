@@ -1,0 +1,550 @@
+===== Página 1 =====
+Profa. Dra. Jacqueline Zonichenn
+UNIDADE III
+Redes de Computadores
+e Sistemas Distribuídos
+
+===== Página 2 =====
+5. Endereçamento
+5.1. Endereçamento IP
+5.2. Criando sub-redes
+5.3. IPV6
+6. VLANs
+6.1. Características
+6.2. Benefícios das VLANs
+6.3. Associação de VLANs
+Conteúdo da Unidade III
+
+===== Página 3 =====
+ O IP é um protocolo de camada de rede (nível 3).
+ Um endereço IP consiste em 4 bytes ou 32 bits. Ao invés de trabalhar com 32 bits 
+sequenciais, o endereço IP é segmentado em quatro campos de 8 bits chamados de octetos. 
+ Cada octeto é convertido em um número de base decimal na escala de 0-255 e separados 
+por um ponto. Este formato é chamado notação decimal pontuada. Em uma rede, estes 
+números devem ser únicos e seguir algumas regras que veremos nos próximos slides.
+ Exemplo. 200.192.45.12
+Endereço lógico: IP
+
+===== Página 4 =====
+ Para converter os valores da notação decimal para binário, ou vice-versa, são usados os 
+pesos que cada dígito tem na sua posição, do mais significativo à esquerda (que é 2 7 = 128) 
+até o menos significativo à direita (20 = 1). 
+ Cada bit no octeto tem um peso binário: 128, 64, 32, 16, 8, 4, 2, 1, somando 255.
+ O valor mínimo para um octeto é 0; ele contém todos os bits em 0.
+ O valor máximo para um octeto é 255; ele contém todos os bits em 1.
+Endereço lógico: IP
+Fonte: livro-texto.
+
+===== Página 5 =====
+ Cada endereço IP inclui uma identificação de rede e uma de host (máquina).
+ A identificação de rede (também conhecida como endereço de rede) identifica os sistemas 
+que estão localizados no mesmo segmento físico de rede na abrangência de roteadores IPs. 
+Todos os dispositivos na mesma rede física devem ter a mesma identificação de rede.
+ A identificação de host (também conhecido como endereço de host) identifica uma estação 
+de trabalho, servidor, roteador, ou outro host TCP/IP (nó da rede) dentro de uma rede. O 
+endereço para cada host deve ser único para a identificação de rede.
+Porção de rede e host
+
+===== Página 6 =====
+Porção de rede e host
+Fonte: adaptado de: livro-texto.
+Porção de rede Porção de host
+Endereço IPv4
+192     .    168     .     10               .        10
+11000000   10101000  00001010                
+0001010
+
+===== Página 7 =====
+ O endereço lógico identifica a localização do elemento dentro da rede, por isso cada 
+interface de rede possui um endereço IP único, que identifica a localização do host sem 
+conflitos ou duplicidade.
+Porção de rede e host
+
+===== Página 8 =====
+ Existem 5 classes (A, B, C, D, E) de endereços IP, que irão variar conforme a quantidade de 
+endereços de rede existente em cada classe.
+ O objetivos das classes é determinar qual parte do endereço IP pertence à rede e qual
+parte do endereço IP pertence ao host, além de permitir uma melhor distribuição dos
+endereços IPs.
+Classes de endereço IP
+8 bits 8 bits 8 bits 8 bits
+Rede Host Host Host
+Rede Rede Host Host
+Rede Rede Rede Host
+ Classe A:
+ Classe B:
+ Classe C:
+ Classe D: Multicast
+ Classe E: Pesquisa
+Fonte: adaptado de: livro-texto.
+
+===== Página 9 =====
+ As classes utilizadas pelas empresas e pela Internet são as classes A, B e C.
+ Os bits mais significativos do primeiro octeto do endereço determinam a classe de 
+endereçamento IP.
+Classes de endereço IP
+redeClasse A:
+Classe B:
+Classe C:
+rede
+rede
+host
+host
+host
+0
+01
+011
+Fonte: adaptado de: livro-texto.
+
+===== Página 10 =====
+Classe A
+ O primeiro byte do endereço está entre 1 e 127. Exemplo: 13.0.0.1
+ Primeiro octeto identifica a rede e os outros três octetos identificam o próprio host. 
+ Número de hosts suportados: 16.777.214
+Classes de endereço IP
+
+===== Página 11 =====
+Classe B
+ O primeiro byte do endereço está entre 128 e 191. Exemplo: 140.16.239.1
+ Dois primeiros octetos identificam a rede e os outros dois octetos identificam o host.
+ Número de hosts suportados: 65.534
+Classes de endereço IP
+
+===== Página 12 =====
+Classe C
+ O primeiro byte do endereço está entre 192 e 223. Exemplo: 200.25.10.99
+ Três primeiros octetos identificam a rede e o último octeto identifica o host. 
+ Número de hosts suportados: 254
+Classes de endereço IP
+
+===== Página 13 =====
+Classes de endereço
+Fonte: livro-texto.
+Classe 1º Octeto Máx redes Formato Exemplo Máx. Host
+A 1-126 126 R.H.H.H 100.1.240.28 16777214
+B 128-191 16.384 R.H.H.H 157.100.5.19 65534
+C 192-223 2.097.152 R.H.H.H 205.35.4.120 254
+D 224-239 Multicast
+E 240-255 Reservado
+
+===== Página 14 =====
+Qual dos endereços IP abaixo é um endereço IP de classe C?
+a) 10.0.0.1
+b) 13.200.20.198
+c) 192.168.100.2
+d) 128.40.1.5
+e) 172.16.130.17
+Interatividade
+
+===== Página 15 =====
+Qual dos endereços IP abaixo é um endereço IP de classe C?
+a) 10.0.0.1
+b) 13.200.20.198
+c) 192.168.100.2
+d) 128.40.1.5
+e) 172.16.130.17
+Resposta
+
+===== Página 16 =====
+ Identificamos um host com o endereço IP e a máscara.
+ O endereço IP identifica o endereço lógico do host. 
+ A máscara indica a que rede ou sub-rede aquele host pertence através do cálculo de 
+quantos bits estão sendo usados para rede e quantos estão sendo usados para host.
+Exemplo:
+ Endereço IP: 192.168.10.10
+ Máscara padrão 255.255.255.0
+ Porção de rede: 192.168.10   Porção de host: .10
+Máscara de rede
+
+===== Página 17 =====
+ A simples leitura de um endereço IP é insuficiente para os dispositivos de rede definirem         
+o que fazer e como encaminhar determinado pacote. É preciso analisar conjuntamente o 
+endereço IP e a máscara de rede para a correta identificação do esquema de 
+endereçamento utilizado. Somente assim será possível realizar a correta leitura dos bits 
+reservados para rede e host.
+Máscara de rede
+
+===== Página 18 =====
+ Para calcular qual é a porção de rede e qual é a porção de host de um endereço, os 
+computadores e roteadores executam a operação lógica AND.
+ O endereço IP de um host é comparado com a máscara de sub-rede por meio da operação 
+AND bit a bit. O resultado dessa operação é o endereço de rede, que permite ao computador 
+saber se outro IP está na mesma rede ou se o tráfego deve ser enviado ao default gateway.
+Máscara de rede
+
+===== Página 19 =====
+ Primeiramente, cada octeto do endereço e da máscara são passados da notação decimal 
+para a notação binária. Em seguida, é feita a operação lógica AND desses valores. 
+ No exemplo abaixo, o resultado mostra o endereço de rede 172.16.0.0, que é a rede à qual o 
+endereço IP 172.16.2.160 pertence quando sua máscara padrão 255.255.0.0 é utilizada.
+Máscara de rede
+Fonte: adaptado de: livro-texto.
+Network Host
+172.16.2.160
+255.255.0.0
+Network
+Number
+10101100
+11111111 11111111 00000000 00000000
+00000000 00000000
+00010000 00000010 10100000
+0001000010101100
+0 016172
+
+===== Página 20 =====
+ A figura a seguir ilustra como fica uma rede utilizando a máscara padrão. 
+ Todos os pacotes endereçados à rede 172.16.0.0 são tratados da mesma forma, 
+independentemente do terceiro e quarto octetos do endereço.
+Máscara de rede
+172.16.0.1 172.16.0.2 172.16.0.3 172.16.255.253 172.16.255.254
+172.16.0.0
+.....
+Fonte: adaptado de: livro-texto.
+
+===== Página 21 =====
+Classe A:
+ Máscara padrão 255.0.0.0
+ O primeiro octeto (primeiros 8 bits) identifica a rede, enquanto os três últimos octetos (os 
+últimos 24 bits) identificam os hosts.
+Classe B:
+ Máscara padrão 255.255.0.0
+ Os dois primeiros octetos (os primeiros 16 bits) identificam a rede, e os dois últimos octetos 
+(os últimos 16 bits) identificam os hosts.
+Classe C:
+ Máscara padrão 255.255.255.0
+ Os três primeiros octetos (os primeiros 24 bits) identificam a 
+rede, e o último octeto (os últimos 8 bits) identifica os hosts.
+Máscara de rede
+
+===== Página 22 =====
+Considerando um host desejando transmitir um pacote, temos o seguinte algoritmo:
+ SE (end_IP_destino E máscara) = (end_IP_origem E máscara)
+ ENTÃO resolve localmente via ARP
+ SENÃO envia para o default gateway
+Algoritmo dos hosts
+
+===== Página 23 =====
+Considerando um host desejando transmitir um pacote, temos o seguinte algoritmo:
+ SE (end_IP_destino E máscara) = (end_IP_origem E máscara)
+ ENTÃO resolve localmente via ARP
+ SENÃO localiza rota na tabela de roteamento
+Algoritmo dos roteadores
+
+===== Página 24 =====
+Para definirmos os IPs de uma rede, precisamos seguir basicamente estas duas regras:
+ Em uma rede, os IPs de todas as máquinas devem estar na mesma rede (a parte de rede do 
+endereço será igual).
+ Em uma mesma rede não poderá haver endereços IPs iguais.
+Por exemplo, o endereço de Classe B 172.16.12.12
+ 172.16 é a porção de rede e .12.12 é o host.
+ Todos os hosts desta rede devem ter IPs começados por 172.16, incluindo o
+default gateway.
+Endereçamento IP
+
+===== Página 25 =====
+ Um erro no endereçamento desta rede é que o IP da primeira estação está igual ao do 
+default gateway na rede 172.16.0.0. 
+ Ambos estão configurados como 172.16.2.1 e um deles precisa ser modificado, do contrário, 
+este conflito impossibilitará a rede de funcionar adequadamente.
+Endereçamento IP
+Fonte: livro-texto.
+
+===== Página 26 =====
+Para que um host possa se comunicar, principalmente com outras redes diferentes da sua rede 
+local, ele precisa de três informações principais:
+1. Endereço IP, que é o identificador único do host em uma rede.
+2. Máscara, que indica quais bits do endereço IP pertencem à rede e quais pertencem aos 
+hosts. Essa informação vai determinar se o outro endereço está na mesma rede local ou se 
+a comunicação precisa ser encaminhada para o default gateway.
+3. Default gateway ou gateway padrão, que é o roteador ou dispositivo que permite ao host se 
+comunicar com outros dispositivos fora da sua rede local. Quando o host deseja enviar 
+dados para um IP que não está na mesma rede, ele envia para o default gateway.
+Endereçamento IP
+
+===== Página 27 =====
+Qual alternativa indica a máscara padrão de um endereço IP de classe A?
+a) 0.0.0.0
+b) 255.255.0.0
+c) 255.255.255.0
+d) 255.0.0.0
+e) 10.0.0.0
+Interatividade
+
+===== Página 28 =====
+Qual alternativa indica a máscara padrão de um endereço IP de classe A?
+a) 0.0.0.0
+b) 255.255.0.0
+c) 255.255.255.0
+d) 255.0.0.0
+e) 10.0.0.0
+Resposta
+
+===== Página 29 =====
+ Uma vez determinada a porção da rede, pode-se determinar o número total de hosts na rede 
+somando todas as combinações disponíveis de 1 e 0 dos bits de endereço restantes e 
+subtraindo dois. Deve-se subtrair dois porque um endereço composto apenas por bits 0 
+(zero) é usado para especificar a rede e um endereço composto apenas por bits 1 (um) é 
+usado para broadcast.
+O mesmo resultado pode ser obtido usando a seguinte fórmula:
+ 2n - 2 = número de hosts válidos (em que n é o número de bits na porção do host)
+Calculando número de hosts
+
+===== Página 30 =====
+ Na classe C, por exemplo, utilizando máscara padrão, temos no último octeto o cálculo de 2 8, 
+o que nos daria 256 hosts.
+ No entanto, o primeiro endereço identifica a rede em si e não poderá ser utilizado em 
+nenhum equipamento. O último endereço também não poderá ser utilizado, pois é reservado 
+para broadcast dentro daquela rede.
+ Exemplo: 200.220.171.4  255.255.255.0
+ Endereço de Rede: 200.220.171.0
+ Endereço de Broadcast: 200.220.171.255
+ Número de hosts válidos: 254
+Calculando número de hosts
+
+===== Página 31 =====
+ Tanto a parte rede como a parte host do endereço IP não podem ter todos os bits zerados  
+ou ligados, ou seja, a porção de rede não pode estar toda setada com 0 nem toda com 1.     
+Se a parte host do endereço IP tem todos os seus bits ligados, isso indica um endereço de 
+broadcast. Se a parte host do endereço IP tem todos os bits zerados, isto indica que está 
+sendo representada a rede em si, não especificando nenhum dispositivo em particular.
+Calculando número de hosts
+Fonte: : livro-texto.
+
+===== Página 32 =====
+ Em algumas situações, é preciso dividir uma rede maior em várias redes menores. Isso é 
+feito para organizar melhor os dispositivos, melhorar o desempenho da rede ou aumentar a 
+segurança. Esse processo é chamado de sub-redes ou subnetting.
+ Ao dividir a rede em segmentos menores, ou sub-redes, o uso dos endereços de rede é mais 
+eficiente. Não há mudança na forma como o mundo externo vê a rede, mas dentro da 
+organização há uma estrutura adicional.
+ A máscara de sub-rede serve para confirmar ou alterar o 
+funcionamento das classes de endereços padrões do TCP/IP.
+Máscara de sub-rede
+
+===== Página 33 =====
+ A figura a seguir ilustra um exemplo em que a máscara padrão de classe B foi alterada, com 
+mais 8 bits ativados, estendendo a porção de rede e criando um campo secundário que se 
+estende a partir do final da máscara padrão e utiliza 8 bits do host. Este campo secundário é 
+o campo de sub-rede e é usado para representar as sub-redes dentro da rede.
+Máscara de sub-rede
+Fonte: livro-texto.
+
+===== Página 34 =====
+ Com as sub-redes, o endereçamento é otimizado, evitando desperdício de endereços IP. 
+Além disso, a utilização dos endereços IP se torna mais flexível. 
+ Na figura a seguir, o endereço 172.16.0.0 foi dividido em quatro sub-redes, uma para cada 
+segmento: 172.16.1.0, 172.16.2.0, 172.16.3.0 e 172.16.4.0.
+Máscara de sub-rede
+Fonte: adaptado de: livro-texto.
+ 172.16.3.0
+172.16.4.0
+172.16.2.0172.16.1.0
+
+===== Página 35 =====
+ O endereço IP é um endereço lógico único em toda a rede. Quando estamos navegando na 
+Internet, por exemplo, estamos utilizando um endereço IP público.
+Em redes locais ou corporativas, utilizamos alguns endereços que não são válidos na Internet  
+e são reservados para redes privadas. As faixas reservadas de endereços são:
+ 10.x.x.x Máscara 255.0.0.0
+ 172.16.x.x até 172.31.x.x  Máscara 255.255.0.0
+ 192.168.0.x até 192.168.255.x Máscara 255.255.255.0
+Endereços IP privados e públicos
+
+===== Página 36 =====
+ Com o crescimento da internet e o possível esgotamento dos endereços IPv4, padrão de 32 
+bits que permite pouco mais de 4 bilhões de endereços únicos, surgiu a necessidade de um 
+novo protocolo: o IPv6.
+ O IPv6 (Internet Protocol version 6), ou Protocolo IP versão 6, é a nova geração do protocolo 
+IP, criado para resolver o problema de limitação de endereços IPv4, que estão em uso desde 
+os anos 1980.
+IPV6
+
+===== Página 37 =====
+ O IPv6 expande o espaço de endereçamento para 128 bits, permitindo um número 
+praticamente ilimitado de endereços, além de trazer melhorias em segurança,
+desempenho e autoconfiguração.
+Comparando o tamanho dos dois tipos de endereço, temos:
+ IPv4: 32 bits → exemplo: 192.168.0.1
+ IPv6: 128 bits → exemplo: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+IPV6
+
+===== Página 38 =====
+As principais vantagens do IPv6 são:
+ endereçamento praticamente ilimitado;
+ melhor desempenho em roteamento;
+ segurança integrada;
+ configuração automática sem servidor;
+ fim da necessidade de NAT;
+ multicast nativo (sem precisar de broadcast).
+IPV6
+
+===== Página 39 =====
+ Enquanto não há uma substituição total de um endereçamento pelo outro, é comum a 
+operação em dual stack (IPv4 + IPv6 ao mesmo tempo), permitindo que a migração de um 
+endereçamento para o outro seja mais lenta e gradual, com os dois coexistindo em muitas 
+redes. Existem os túneis IPv6 sobre IPv4, que usam técnicas de encapsulamento de 
+pacotes, e também o NAT(Network Address Translation), ou Tradução de Endereço de 
+Rede, que permite que dispositivos em uma rede privada, com endereços privados, se 
+comuniquem com a internet com apenas um endereço IP público.
+IPV6
+
+===== Página 40 =====
+Qual dos endereços a seguir não é um endereço IP reservado para redes privadas?
+a) 200.10.2.1
+b) 10.36.54.27
+c) 192.168.100.54
+d) 172.16.20.180
+e) 10.10.0.1
+Interatividade
+
+===== Página 41 =====
+Qual dos endereços a seguir não é um endereço IP reservado para redes privadas?
+a) 200.10.2.1
+b) 10.36.54.27
+c) 192.168.100.54
+d) 172.16.20.180
+e) 10.10.0.1
+Resposta
+
+===== Página 42 =====
+ As redes locais virtuais ou VLANs são domínios lógicos definidos em switches, ou seja, são 
+segmentações de uma rede em outras redes, de forma a diminuir o domínio de broadcast, 
+sem utilizar necessariamente um equipamento de camada 3 (rede).
+ Hosts associados a uma determinada VLAN só enxergam hosts da mesma VLAN. Assim, 
+máquinas, ainda que estejam fisicamente interligadas a um mesmo switch, podem estar em 
+redes diferentes se estiverem em VLANs diferentes.
+Redes locais virtuais
+
+===== Página 43 =====
+ Segmentação de domínios de broadcast.
+ Organização de VLANs por localidade, função, departamento, entre outros.
+ Melhoria na performance e no gerenciamento das redes locais.
+ Melhoria na segurança e no controle de acesso aos recursos de uma LAN.
+ Aumento da flexibilidade e da escalabilidade.
+Benefícios das VLANs
+
+===== Página 44 =====
+Redes locais virtuais
+SW1
+SW2
+RT1
+SW3
+VLAN 1 VLAN 2 VLAN 3
+Fonte: adaptado de: livro-texto.
+
+===== Página 45 =====
+ Portas de acesso
+ Portas tronco
+Portas de um switch operando com VLANs
+
+===== Página 46 =====
+ As VLANs podem ser associadas de duas formas: estática e dinâmica. 
+ Na associação estática, o administrador da rede associa manualmente as portas do switch a 
+uma VLAN até que nova mudança manual seja feita nessa perspectiva de VLAN. 
+ Na associação dinâmica, todo o processo é conduzido por um servidor especial chamado de 
+VMPS (VLAN Management Policy Server), que executa a configuração dinâmica das VLANs 
+em cada um dos switches.
+Associação de VLANs
+
+===== Página 47 =====
+ Método ISL – proprietário do fabricante de equipamentos de rede Cisco. Efetua um 
+encapsulamento de frames por meio da adição de um novo cabeçalho com as informações 
+da VLAN. No ISL, o quadro não é alterado – apenas são inseridos 26 bytes por meio de um 
+novo encapsulamento.
+ Método IEEE 802.1q – também conhecido como método dot1q, é o padrão para identificação 
+de VLANs em quadros da tecnologia ethernet. Consiste em inserir no quadro ethernet um 
+campo específico que identifica VLANs, modificando assim o cabeçalho.
+Métodos de identificação de VLANs
+
+===== Página 48 =====
+ Ao se utilizar várias VLANs em uma rede local com vários switches cascateados, um dos 
+cuidados que se deve ter é com a criação de redundâncias e contingências, que por sua vez 
+geram loops na rede.
+Redundância e loops
+Fonte: adaptado de: livro-texto.
+PC-PT
+PC5
+2950-24
+SW__A
+2950-24
+SW__B
+Fa0/3 Fa0/1
+Fa0/2
+Fa0
+Fa0/4
+Fa0/5
+Fa0/1 Fa0
+PC-PT
+PC6
+
+===== Página 49 =====
+ O protocolo STP foi criado por uma empresa chamada DEC e homologado pelo IEEE como 
+padrão IEEE 802.1d. 
+ A tarefa do STP consiste em evitar loops em redes comutadas, a partir de um 
+monitoramento da rede, identificando redundâncias e desativando caminhos alternativos 
+que podem gerar problemas.
+Spanning Tree Protocol
+
+===== Página 50 =====
+ Eleição do switch-raiz.
+ Portas do switch-raiz são transformadas pelo protocolo STP em portas designadas 
+(habilitadas para a transmissão).
+ Cada switch que não foi eleito raiz e que está interligado diretamente ao switch-raiz tem a 
+sua porta de menor custo transformada em porta-raiz (habilitada para a transmissão).
+ Após a designação das portas-raiz, prossegue-se com a 
+determinação das outras portas designadas e não designadas 
+(desabilitadas para a transmissão) nos outros switches
+não raiz.
+Operação do STP
+
+===== Página 51 =====
+ Essa eleição ocorre por meio da troca de informações de controle de loop contidas na BPDU 
+(Bridge Protocol Data Unit).
+ A partir da troca das BPDUs, é eleito o switch-raiz aquele que tiver a menor prioridade 
+encontrada no BID. 
+ Em caso de empate, será escolhido aquele que tiver menor endereço MAC.
+ Caso o administrador da rede queira forçar a eleição de um 
+switch como raiz, é preciso apenas alterar sua prioridade e 
+colocar um valor mais baixo.
+Eleição do switch-raiz
+
+===== Página 52 =====
+ Bridge ID (BID): número de oito bytes formado pela prioridade (dois bytes) do switch no 
+processo STP e pelo endereço MAC do switch (seis bytes).
+ Custo das portas (interfaces): cada porta do switch opera com uma determinada largura de 
+banda, que possui um custo.
+Informações carregadas pela BPDU
+
+===== Página 53 =====
+Custo das portas na operação STP
+Fonte: livro-texto.
+Velocidade
+ Custo
+100 Gbps 1
+10 Gbps 2
+1 Gbps 4
+100 Mbps 19
+10 Mbps 100
+
+===== Página 54 =====
+Qual é o protocolo utilizado para prevenção de loops em redes com redundância, 
+utilizando switches?
+a) STP
+b) UTP
+c) VTP
+d) TCP
+e) IP
+Interatividade
+
+===== Página 55 =====
+Qual é o protocolo utilizado para prevenção de loops em redes com redundância, 
+utilizando switches?
+a) STP
+b) UTP
+c) VTP
+d) TCP
+e) IP
+Resposta
+
+===== Página 56 =====
+ATÉ A PRÓXIMA!

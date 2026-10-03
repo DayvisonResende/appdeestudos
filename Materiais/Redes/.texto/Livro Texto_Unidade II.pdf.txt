@@ -1,0 +1,1921 @@
+===== Página 1 =====
+69
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Unidade II
+3 PADRONIZAÇÃO DE REDE
+Para evitar soluções proprietárias nas redes, foram apresentadas sugestões de padrões de 
+arquiteturas abertas. Duas dessas arquiteturas são de particular importância e estão contidas nos 
+modelos de referência OSI e TCP/IP, os quais veremos com mais detalhes nesta unidade.
+3.1 Padrões de rede
+Existem muitos fabricantes e fornecedores de rede, cada qual com sua própria concepção. Ao longo 
+do tempo, muitas empresas criaram serviços e produtos que frequentemente usam tecnologias de 
+maneiras não convencionais. Além disso, as redes de computadores parecem complexas porque as 
+tecnologias podem ser usadas e combinadas de muitas maneiras diferentes (Comer, 2016). Sem uma 
+padronização que permita uma coordenação mínima de recursos de hardware e software, haveria um 
+caos completo, e os usuários e fornecedores nada conseguiriam. A única alternativa de que a indústria 
+dispõe é a criação de alguns padrões de rede.
+Além de permitirem que diferentes computadores se comuniquem, os padrões também ampliam 
+o mercado para os produtos que aderem às suas regras. Tudo isso estimula a produção em massa e 
+proporciona uma economia no processo de produção, o que diminui os preços e aumenta a aceitação de  
+um produto.
+Padrões legais são padrões formais adotados por uma instituição de padronização autorizada. 
+Em geral, as autoridades de padronização internacionais são divididas em duas classes: as que foram 
+estabelecidas por tratados entre governos nacionais e aquelas que foram criadas independentemente 
+de tratados. Na área de padrões de redes de computadores, há diversas organizações de ambos os tipos, 
+que serão discutidas a seguir.
+Em 1865, representantes de diversos governos europeus se reuniram para formar a ITU (International 
+Telecommunication Union). A missão da ITU era a de padronizar as telecomunicações internacionais, 
+então dominadas pelos telégrafos. Já naquela época estava claro que, se metade dos países utilizasse 
+o código Morse e a outra metade usasse outro código, haveria problemas de comunicação. Quando o 
+telefone passou a ser um serviço internacional, a ITU também se encarregou de padronizar a telefonia. 
+Em 1947, a ITU tornou‑se então um órgão das Nações Unidas, tendo como um dos seus setores principais 
+o ITU‑T, que era o Setor de Padronização de Telecomunicações.
+A ITU tem três setores principais:
+• Setor de Radiocomunicação (ITU‑R).
+
+===== Página 2 =====
+70
+Unidade II
+• Setor de Padronização de Telecomunicações (ITU‑T).
+• Setor de Desenvolvimento (ITU‑D).
+Quando se fala em redes de telecomunicações, nossa atenção se volta à ITU‑T, apesar de a ITU‑R 
+também desempenhar um papel importante regulando a alocação de frequências de rádio em todo o 
+mundo. Prova disso é que, recentemente, a ITU‑R chegou a um consenso sobre o padrão global 6G, que 
+será um marco no desenvolvimento dessa tecnologia.
+A ITU‑T controla os sistemas de telefonia e de comunicação de dados. De 1956 a 1993, a ITU‑T foi 
+conhecida como CCITT, acrônimo de Comité Consultatif International Télégraphique et Téléphonique. 
+No dia 1º de março de 1993, o CCITT foi reorganizado para se tornar menos burocrático e teve seu 
+nome alterado para refletir as novas funções. O ITU‑T e o CCITT publicavam recomendações na área de 
+telefonia e de comunicações de dados. Mesmo depois de 1993, ainda é possível encontrar uma série  
+de recomendações do CCITT, como o CCITT X‑25, muito embora desde 1993 as recomendações ostentem 
+o rótulo ITU‑T.
+A tarefa do ITU‑T é definir recomendações técnicas para interfaces de comunicação de dados, 
+telégrafo e telefone. Em geral, essas recomendações se transformavam em padrões reconhecidos 
+internacionalmente, como o V.24 (também conhecido como EIA RS‑232), que especifica a posição e o 
+significado de muitos pinos do conector usado pela maioria dos terminais assíncronos.
+Vale lembrar que, tecnicamente, as recomendações do ITU‑T são sugestões que os governos podem 
+adotar ou ignorar, se assim o desejarem. Com isso, os Estados‑membros podem adotar recomendações 
+nas leis ou regulamentos nacionais, tornando‑as obrigatórias nesses países. Na prática, um país que 
+deseja adotar um padrão de telefonia diferente do restante do mundo tem toda a liberdade para fazê‑lo, 
+mas ele ficará isolado de todos. 
+Mas os padrões internacionais, quem de fato os produz? Os padrões internacionais são 
+produzidos pela ISO (International Organization for Standardization), uma organização voluntária 
+independente fundada em 1946, com sede em Genebra, na Suíça. Cada país tem um membro nacional 
+da ISO, que é o seu órgão de padrões mais representativo. Para exemplificar, aqui estão algumas 
+dessas organizações‑membro: ANSI (American National Standards Institute), nos Estados Unidos;  
+DIN (Deutsches Institut für Normung e.V.), na Alemanha; ABNT (Associação Brasileira de Normas 
+Técnicas), no Brasil; IPQ (Instituto Português da Qualidade), em Portugal, entre muitas outras. 
+A ISO publica padrões sobre uma vasta gama de assuntos, que vão de parafusos e porcas (literalmente) 
+ao revestimento usado nos postes de telefone. Os padrões ANSI, que é a organização representante dos 
+Estados Unidos na ISO, são frequentemente adotados pela ISO como padrões internacionais. 
+Outra estrela do mundo dos padrões é o IEEE (Institute of Electrical and Electronics Engineers), a 
+maior organização profissional do mundo. Além de publicar uma série de jornais e promover diversas 
+conferências a cada ano, o IEEE tem um grupo de padronização que desenvolve padrões nas áreas 
+da engenharia elétrica e da informática. O padrão 802 do IEEE para as redes locais é o padrão mais 
+importante adotado pelas LANs. Foi a partir dele que a ISO criou o ISO 8802.
+
+===== Página 3 =====
+71
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A ITU‑R, Setor de Radiocomunicação do ITU, está atualmente desenvolvendo o padrão para a próxima 
+geração de redes móveis, conhecida como 6G, sob a designação oficial de IMT‑2030 (International 
+Mobile Telecommunications for 2030 and beyond).
+O processo de padronização teve início em 2021, quando o ITU‑R lançou o estudo para a 
+Recomendação ITU‑R M.2160, que estabelece o arcabouço e os objetivos gerais para o desenvolvimento 
+futuro das telecomunicações móveis para 2030 e além. Essa recomendação foi aprovada pela Assembleia 
+de Radiocomunicações em 2023 e serve como base para o desenvolvimento do IMT‑2030.
+O cronograma atual prevê que as especificações técnicas da interface rádio terrestre sejam 
+concluídas até 2030. As empresas e associações da indústria poderão começar a submeter propostas 
+de RIT (Tecnologias de Interface Rádio) para o ITU‑R a partir de 2027. Essas propostas serão avaliadas 
+com base nos requisitos mínimos estabelecidos pelo Grupo de Trabalho 5D do ITU‑R, com o objetivo de 
+aprovar um conjunto final de padrões tecnológicos para o 6G até 2030 (Unidir, 2024).
+ Saiba mais
+Para saber mais sobre o tema, acesse o conteúdo a seguir:
+UNIDIR. ITU‑R Update: IMT‑2030 (6G). Genebra, 2024. Disponível em: 
+https://tinyurl.com/bdhd8t7e. Acesso em: 26 maio 2025.
+3.2 Modelo OSI
+O modelo de redes OSI foi desenvolvido entre o final dos anos 1970 e o ano de 1984 com o objetivo 
+de interligar sistemas abertos e organizar os desafios das redes de computadores em camadas funcionais.
+Esse modelo foi criado pela ISO, uma das maiores entidades internacionais de padronização, composta 
+por representantes de diversos países e atuante em várias áreas da tecnologia.
+Com a introdução do modelo OSI, os fabricantes passaram a desenvolver seus sistemas seguindo 
+esse padrão, o que permitiu a interoperabilidade entre diferentes equipamentos. Sem essa padronização, 
+cada fabricante poderia adotar um modelo próprio de comunicação, como o Sistema A incompatível 
+com os Sistemas B, C ou D, o que impediria a comunicação entre redes heterogêneas.
+Os elementos da rede corporativa, ao se enquadrarem no modelo OSI, permitem que os dados 
+sejam transmitidos de forma transparente de um nó da rede para outro. A divisão em níveis, além de 
+simplificar o projeto de rede, facilita a depuração de problemas, permite o desenvolvimento de cada 
+nível independentemente dos demais e agiliza a adequação às novas tecnologias de rede. O modelo OSI 
+traz benefícios que:
+• permitem independência no desenvolvimento de produtos;
+
+===== Página 4 =====
+72
+Unidade II
+• agilizam a adoção de novas tecnologias;
+• facilitam a depuração de problemas na rede;
+• servem como referência para as diversas arquiteturas de rede;
+• impedem que mudanças em uma camada afetem outras;
+• estabelecem uma linguagem comum.
+A figura a seguir ilustra as sete camadas do modelo OSI, em que cada camada só se comunica com 
+aquela imediatamente superior ou inferior. Ele pode ser dividido em dois blocos: as camadas de aplicação, 
+que servem ao usuário (são as camadas Aplicação, Apresentação e Sessão), e as camadas de transporte, que 
+têm a função de servir às camadas de aplicação (são as camadas Física, Enlace, Rede e Transporte).
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 25 – Modelo OSI
+Fonte: Oliveira e Rehder (2006, p. 31).
+Cada camada funcional possui uma unidade de informação, denominada PDU (Protocol Data Unit). 
+A partir da camada de Transporte, cada PDU recebe um nome específico, identificando‑o conforme 
+as funções que devem ser executadas em cada camada. Na camada de Transporte, a PDU é conhecida 
+como segmento, como no caso do segmento TCP. Na camada de Rede, recebe o nome de datagrama ou 
+pacote, como o datagrama IP. Já na camada de Enlace, a unidade é chamada de quadro ou frame, como 
+ocorre no frame Ethernet. Na camada Física, a informação a ser transportada é codificada como uma 
+sequência de bits. 
+O PDU de cada camada do modelo OSI, portanto, é:
+• camada 7: dados; 
+• camada 6: dados;
+
+===== Página 5 =====
+73
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• camada 5: dados;
+• camada 4: segmento;
+• camada 3: pacote ou datagrama;
+• camada 2: quadro ou frame;
+• camada 1: bit.
+Importante ressaltar que o modelo OSI não contém nenhum requisito de implementação, 
+servindo apenas como um guia conceitual ou referência (framework) para os desenvolvedores de 
+sistemas em rede.
+Um modelo de referência em camadas permite discutir e entender a arquitetura de rede de forma 
+estruturada. Essa divisão modular torna mais fácil a identificação de falhas, além de simplificar a 
+manutenção e o desenvolvimento dos sistemas. Inclusive, na linguagem do dia a dia das provedoras 
+de telecomunicações ou setores de TI e Telecom das empresas, é usual ouvirmos frases do tipo “esse 
+problema é de camada 3”, ou “o suporte dado por esse Service Desk é somente até o nível 2” . Nessas 
+frases, as camadas a que eles se referem são as do modelo OSI. Nesta unidade, ainda veremos o que 
+querem dizer essas frases, pois passaremos por cada camada em detalhe.
+3.3 Encapsulamento
+No processo de comunicação entre elementos na rede, a informação sai da aplicação do usuário e 
+atravessa as diversas camadas funcionais apresentadas no modelo OSI até chegar na camada Física, em 
+que os dados são transmitidos na forma de bits pelo meio de transmissão.
+A partir da aplicação do usuário, a informação a ser transmitida será submetida a funções em cada 
+camada do modelo OSI, podendo receber um cabeçalho que adiciona instruções para orientar a camada 
+funcional equivalente no equipamento destino. Esse processo é denominado encapsulamento de dados, 
+conforme ilustrado na figura a seguir.
+
+===== Página 6 =====
+74
+Unidade II
+Aplicação Aplicaçãoprotocolo  
+de aplicação
+protocolo  
+de apresentaçãoApresentação Apresentação
+protocolo  
+de sessãoSessão Sessão
+protocolo  
+de transporteTransporte Transporte
+protocolo  
+de redeRede Rede
+Enlace Enlace
+Física Física
+processo 
+emissor
+processo 
+receptor
+DADOS
+DADOSAH
+DADOSPH
+DADOSSH
+DADOSTH
+DADOSNH
+DADOSDH
+BITS
+meio de transmissão de dados
+Figura 26 – Encapsulamento de dados no modelo OSI
+Fonte: Tanenbaum, Feamster e Wetherall (2021, p. 39).
+O processo de encapsulamento de dados irá se repetir até que o quadro da camada Enlace seja 
+encaminhado, através do meio físico, para o equipamento de destino.
+Quando uma aplicação transmite dados por meio de um sistema em camadas, cada camada 
+acrescenta informações específicas, chamadas de cabeçalhos, que são essenciais para o funcionamento 
+do protocolo correspondente. Essas informações adicionais são utilizadas apenas pela camada que as 
+inseriu, sem interferir no conteúdo das demais camadas do modelo.
+Quando o pacote chega ao seu destino, as instruções contidas no cabeçalho são retiradas à medida 
+que o pacote “sobe” pelas camadas do modelo OSI, até a sua chegada à camada de Aplicação. Esse 
+processo é o oposto do encapsulamento, sendo chamado de desencapsulamento de dados, no qual cada 
+camada remove as informações adicionadas anteriormente para interpretar e encaminhar os dados 
+corretamente.
+Cada camada do modelo OSI provê serviços para a camada imediatamente acima. Por exemplo, 
+a camada de Rede escolherá a melhor rota para “encaminhar” os dados oriundos da camada de 
+Transporte, que, por sua vez, fará um “túnel lógico” fim‑a‑fim, garantindo o transporte dos dados para 
+a camada de Sessão.
+É importante notar que nem todas as arquiteturas de rede implementam as sete camadas do modelo OSI 
+separadamente. É o caso, por exemplo, do TCP/IP, que aglutina algumas camadas. Estudaremos sobre esse 
+modelo também nesta unidade.
+
+===== Página 7 =====
+75
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+3.4 Camadas do modelo OSI
+O modelo OSI é composto por sete camadas distintas, cada uma com funções específicas dentro do 
+processo de comunicação em redes. Vamos agora estudar em detalhe cada uma delas.
+3.4.1 Camada Física
+A camada Física é responsável pela ativação, desativação e manutenção do sinal no meio físico, 
+definindo a interface elétrica e mecânica da rede, o tipo do sinal, a tecnologia de transmissão, o tipo de 
+conexão e a forma de multiplexação do sinal.
+Ela determina o tipo de mídia, conector e sinalização, especificando os requisitos elétricos, mecânicos, 
+processuais e funcionais para ativar, manter e desativar o link físico entre sistemas finais. A camada Física 
+especifica características como níveis de voltagem, taxas de dados, distâncias máximas de transmissão 
+e conectores físicos. 
+A camada Física recebe os dados da camada de Enlace e é responsável por definir os métodos e os 
+recursos técnicos necessários para transmitir os sinais pelo meio físico de comunicação, como cabos ou 
+ondas de rádio. Ela transforma os dados em sinais compatíveis com o meio onde os dados deverão ser 
+transmitidos, que pode ser um cabo UTP, um sistema de rádio, pulsos de luz etc. Uma analogia para a 
+camada Física é uma rua do centro, avenida ou rodovia. São diferentes tipos de caminhos que permitem 
+que as pessoas sigam de um local para outro. A qualidade e as especificações desses diferentes meios 
+impactam a velocidade na qual podemos dirigir.
+Portanto, a camada Física do modelo OSI (veja a figura a seguir) é a camada que determina como os 
+quadros ou frames serão transformados em bits e enviados ao receptor. Do lado do receptor, da mesma 
+forma, a camada Física é responsável por receber e tratar os sinais recebidos.
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 27 – Camada Física do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+
+===== Página 8 =====
+76
+Unidade II
+Em um segmento Ethernet compartilhado, cada estação pode enviar um quadro por vez, mas todas 
+as estações recebem e olham para o quadro para determinar se é para elas. Todas as estações finais em 
+um segmento ouvem todo o tráfego no fio por todo o tempo, por isso dizemos que elas estão no mesmo 
+domínio de colisão. Ocasionalmente, mais de uma estação tentará enviar dados ao mesmo tempo. Se 
+isso ocorrer, resultará em uma colisão. Estações que estão no mesmo domínio de colisão também estão 
+no mesmo domínio de broadcast, pois todas as estações em um segmento ouvem todas as transmissões 
+enviadas no segmento.
+Os repetidores e os hubs – alem dos modems, multiplexadores, conversores e cabos – são considerados 
+como equipamentos que trabalham na camada Física (Cisco, 2021).
+O repetidor é um equipamento utilizado quando se deseja repetir o sinal enviado por uma distância 
+que excede o máximo recomendado. Ele é responsável por ampliar o tamanho máximo do cabeamento 
+de uma rede, funcionando como um amplificador de sinal, regenerando o sinal recebido e transmitindo‑o 
+para outro segmento da rede.
+Esse tipo de equipamento não analisa os quadros de dados para verificar para qual segmento ele 
+será destinado. O repetidor apenas retransmite os dados recebidos em uma porta para todas as demais, 
+sem qualquer tipo de análise. Isso significa que as informações enviadas para um computador em um 
+segmento da rede serão disponibilizadas em todos os segmentos, já que o repetidor não verifica o 
+destino dos quadros de dados.
+Sendo assim, ele realmente funciona como um extensor do cabeamento da rede, fazendo com que 
+pareça que todos os segmentos de rede estão fisicamente instalados no mesmo segmento.
+Apesar de aumentar o tamanho do comprimento do cabo da rede, o repetidor tem a desvantagem 
+de diminuir o desempenho da rede, pois, como possivelmente existirá mais máquinas na rede, a 
+chance de o cabeamento estar livre para um envio de um dado é menor. Isso aumenta a chance de 
+haver colisão de dados. Outra desvantagem do uso de repetidores é o fato de que qualquer falha 
+presente em uma das portas do repetidor pode afetar a comunicação de todos os dispositivos 
+conectados a ele.
+Esse tipo de equipamento vem introduzido dentro de outros, geralmente em um hub, que também 
+é um elemento utilizado em redes locais.
+O hub é um equipamento concentrador utilizado para centralizar a distribuição dos dados em redes 
+fisicamente ligadas em estrela. Importante lembrar que apesar de a topologia física em que o hub se 
+encontra ser uma topologia em estrela, a topologia lógica é um barramento. Isso porque o hub trabalha 
+como se todas as máquinas estivessem conectadas em um mesmo cabo. Os hubs replicam em todas as 
+portas as informações recebidas pelas máquinas da rede. Por isso os hubs, assim como os repetidores e 
+cabos, estão na camada Física do modelo OSI e no mesmo domínio de colisão.
+É possível conectar dois ou mais hubs entre si, desde que eles possuam uma porta chamada uplink, 
+projetada especificamente para esse tipo de conexão. Para isso, basta utilizar um cabo de rede comum
+
+===== Página 9 =====
+77
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+entre as portas uplink dos hubs, permitindo que eles passem a se comunicar entre si. Alguns hubs não 
+possuem essa porta, porém, há ainda a possibilidade de utilizar um cabo cruzado (em inglês, cross‑over), 
+que serve para conectar dois hubs utilizando duas portas comuns em vez das portas up‑link. 
+A implementação de hubs cascateados é indicada somente para redes de pequeno porte, pois 
+qualquer sinal enviado por um computador será retransmitido para todos os outros dispositivos na rede, 
+o que pode gerar congestionamento e falta de eficiência. Isso quer dizer que, quanto mais computadores 
+tivermos em uma rede, maior será o tráfego e mais lenta a rede ficará.
+ Observação
+O domínio de colisão é uma área onde vários hosts podem tentar 
+transmitir sinais simultaneamente, causando colisões. Em redes com muitos 
+hosts, o uso de repetidores ou hubs não é recomendado, pois isso aumenta 
+o número de colisões, o que prejudica o desempenho e a eficiência da rede. 
+A adição de um hub ou repetidor apenas expande o domínio de colisão. 
+O ideal é que as redes LAN mantenham domínios de colisão pequenos para 
+garantir melhor desempenho.
+Embora o modelo OSI sugira que um determinado nível possa ser usado para transportar dados de 
+qualquer padrão de nível superior, esse não é o caso do nível Físico. Alguns padrões de nível Físico só 
+podem ser usados por protocolos de camada de Enlace de WAN, enquanto outros foram definidos para 
+serem usados pelos protocolos de LAN (Cisco, 2021). Vamos estudar os diferentes protocolos de camada 
+de Enlace para WAN e LAN na seção 3.4.2.
+Síntese
+A camada Física:
+• Define os mecanismos necessários para inserir os sinais nos meios de transmissão e para receber 
+os sinais desses meios. 
+• Trata bits.
+• Trabalha com especificações elétricas, mecânicas, níveis de tensão, taxas de transmissão, 
+parâmetros físicos das interfaces, cabos e conectores.
+Exemplos: cabeamento e hubs.
+3.4.2 Camada de Enlace
+A camada de Enlace de Dados (do inglês Data Link), ou simplesmente Enlace, organiza os bits da 
+camada Física em unidades lógicas de informação denominados quadros ou frames. A figura 28 mostra 
+a camada de Enlace de dados no modelo OSI.
+
+===== Página 10 =====
+78
+Unidade II
+O seu objetivo é controlar o fluxo dos dados no meio físico, corrigir os erros causados por um meio 
+físico não confiável e fazer o endereçamento físico para identificação dos nós na rede.
+A camada de Enlace garante que os dados sejam enviados para o equipamento correto, funcionando 
+como uma ponte entre a camada de Rede, imediatamente superior, e a camada Física, imediatamente 
+inferior. Ela torna possível a transmissão dos dados por diversos meios físicos.
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 28 – Camada de Enlace do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+O nível de Enlace foi dividido em dois subníveis:
+• LLC (Controle Lógico do Enlace, do inglês Logical Link Control): constitui a interface entre 
+o método de acesso ao meio e os protocolos da camada de Rede, ou seja, cuida de todas as 
+tratativas com os protocolos de alto nível.
+• MAC (Controle de Acesso ao Meio, do inglês Media Access Control): é responsável pela 
+conexão com o meio físico e pelo endereçamento físico, também conhecido como endereço MAC. 
+Também é responsável pela montagem do quadro.
+A camada de Enlace formata os dados em quadros (frames) e adiciona um cabeçalho contendo, 
+entre outras informações, o endereço MAC de origem e destino.
+O endereço MAC é composto por 48 bits (ou 12 dígitos hexadecimais, sendo que 4 bits correspondem 
+a cada dígito hexadecimal). Esse endereço é dividido em duas partes iguais: a primeira, com 6 dígitos 
+hexadecimais (24 bits), é conhecida como OUI (Identificador Organizacional Único), que representa o 
+código do fabricante do dispositivo. A segunda parte corresponde ao número de série do equipamento 
+(veja a figura 29).
+O endereço MAC está armazenado na memória ROM da placa de rede do computador ou nas 
+memórias dos roteadores e switches que possuem portas Ethernet.
+
+===== Página 11 =====
+79
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+24 bits 24 bits
+Código do fornecedor Número de série
+00AA00.2CFACA
+Figura 29 – Formato de endereço MAC
+A figura a seguir traz um exemplo de saída do comando “ipconfig /all” executado em um 
+computador. O endereço MAC do adaptador Ethernet do host – ou seja, da placa de rede desse 
+dispositivo – é o D0‑8E‑79‑E1‑C6‑94, conforme marcado em vermelho. Os primeiros seis dígitos, 
+D08E79, trazem o código OUI do fabricante, e os outros dígitos, E1C694, formam o número de série 
+da placa. Se fizermos uma busca na internet pelo código OUI “D08E79”, vamos descobrir que essa 
+placa é fabricada pela Broadcom.
+Figura 30 – Endereço MAC de um host
+Ao receber um quadro no destino, a camada de Enlace confere se o dado chegou corretamente e, 
+em caso afirmativo, envia uma confirmação de recebimento. Quando essa confirmação não é recebida, 
+a camada de Enlace do transmissor reenvia o quadro novamente, utilizando mecanismos de controle de 
+erro e retransmissão.
+ Observação
+Cada interface tem seu endereço MAC único para que seja possível 
+saber quem é quem na rede local. Assim, o endereço MAC cumpre o papel 
+de identificar exclusivamente cada interface de rede.
+Vimos na seção 3.4.1 que alguns padrões de camada Física só podem ser usados por protocolos de 
+camada de Enlace de WAN, enquanto outros foram definidos para serem usados pelos protocolos de LAN. 
+Vamos ver agora os diferentes protocolos de camada de Enlace.
+
+===== Página 12 =====
+80
+Unidade II
+São padrões e protocolos de camada de Enlace para rede LAN:
+• Ethernet: é o padrão mais amplamente adotado em redes locais em todo o mundo, sendo 
+também utilizado em redes metropolitanas chamadas Metro Ethernet. Ele opera com um 
+método de acesso por contenção, permitindo que hosts compartilhem o meio físico e definindo 
+as especificações para as camadas Física e de Enlace.
+• Wi‑Fi (IEEE 802.11): é o padrão mais comum para redes sem fio, operando nas camadas Física 
+e de Enlace do modelo OSI. Esse padrão define como os pacotes dos protocolos de nível superior 
+são recebidos e encapsulados em quadros, que são então transmitidos por meio de ondas 
+eletromagnéticas.
+• Token Ring: desenvolvido pela IBM para competir com o crescente uso do padrão Ethernet, 
+o Token Ring ainda é utilizado em algumas redes, embora esteja praticamente obsoleto. Ele é 
+raramente encontrado fora de ambientes de grande porte, como em mainframes.
+• FDDI (Fiber Distributed Data Interface): é um dos primeiros padrões de redes LAN a utilizar 
+fibra óptica, também operando nas camadas Física e de Enlace do modelo OSI. As redes FDDI 
+utilizam uma tecnologia de transmissão similar ao Token Ring.
+São protocolos de camada de Enlace para a rede WAN:
+• X.25: desenvolvido na década de 1970, quando as linhas de transmissão digitais eram escassas, 
+o X.25 permite a conexão de computadores a redes públicas globais, utilizando comutação de 
+pacotes. Entre suas principais características, estão conectividade, velocidade de serviço, custo, 
+flexibilidade, confiabilidade e segurança.
+• Frame Relay: uma rede de transporte utilizada como infraestrutura pelas operadoras de 
+telecomunicações. A rede Frame Relay é representada por enlaces que funcionam através  
+de circuitos virtuais, geralmente permanentes, chamados de PVC (Permanent Virtual Circuit). Ela é 
+geralmente representada como uma nuvem, pois não se trata apenas de uma conexão física entre 
+dois pontos, mas de uma rede mais complexa.
+• HDLC (High‑Level Data Link Control): protocolo proprietário da Cisco, utilizado na camada 
+de Enlace para transmissão bit a bit. Ele define um método de encapsulamento de dados para 
+conexões seriais síncronas e é usado em conexões ponto a ponto em linhas privadas, não possuindo 
+qualquer método de autenticação.
+• PPP (Point‑to‑Point Protocol): desenvolvido e padronizado pela RFC 1548 em 1993, o PPP foi 
+criado para transportar todo o tráfego entre dois dispositivos através de uma conexão serial única 
+e full‑duplex. O protocolo PPP permite multiplexação de diferentes protocolos da camada de 
+Rede através de um único link, sendo dividido em dois protocolos: LCP (Link Control Protocol) e  
+NCP (Network Control Protocol).
+
+===== Página 13 =====
+81
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+ Observação
+O switch LAN trabalha na camada de Enlace. Existem switches de nível 3 
+que trabalham na camada de Rede, porém eles já se igualam aos roteadores. 
+Didaticamente, quando mencionamos switches, estamos nos referindo aos 
+switches LAN, que trabalham na camada de Enlace.
+O switch é um hub que não funciona como um repetidor, ou seja, é um equipamento central 
+multiportas que em vez de replicar os dados recebidos para todas as suas portas, envia os dados somente 
+para o computador que os requisitou. Isso ocorre porque o switch utiliza o endereçamento físico de cada 
+host para realizar o processo de identificação. Vimos neste tópico que esse endereço físico, chamado de 
+MAC address, é o endereço da placa de rede do computador. 
+Portanto, o switch tem tarefas importantes, que diferenciam o seu funcionamento se comparado a 
+um hub, por exemplo:
+• Aprendizagem de endereços: processo de registrar os endereços MAC dos hosts que transmitem 
+dados na rede.
+• Decisões de filtragem e encaminhamento: processo de determinar qual porta deve ser utilizada 
+para enviar um quadro específico.
+O switch possui a capacidade de interpretar e examinar os dados que trafegam pela rede, sendo capaz 
+de identificar e ler os campos de endereço MAC presentes nos quadros transmitidos. Isso possibilita que 
+o switch direcione o frame para o computador de destino na porta de saída em que ele está conectado 
+e não replique para outras portas sem necessidade, fazendo do switch um hub inteligente.
+Além disso, o switch cria e mantém uma tabela interna com os endereços MAC dos hosts 
+conectados às suas portas, o que permite tomar decisões precisas sobre o encaminhamento adequado 
+das informações que transitam pela rede.
+• Switch LAN e os domínios de colisão: 
+— Ao substituir hubs por switches em uma rede LAN, é possível “quebrar” o domínio de colisão, 
+segmentando grandes domínios de colisão criados pelos hubs.
+— Todas as portas de um hub estão no mesmo domínio de colisão; enquanto no switch LAN, cada 
+porta é um domínio de colisão diferente.
+Um switch já vem pronto de fábrica, com todas as configurações para funcionar. De qualquer forma, 
+para criar padrões, aumentar a segurança e gerenciar melhor uma rede, convém estabelecer mais 
+configurações do que aquelas de fábrica que são básicas.
+
+===== Página 14 =====
+82
+Unidade II
+Quando o switch começa a operar ou é reiniciado, sua tabela de endereços MAC está vazia, ou seja, 
+ele não possui informações sobre os hosts conectados. Nesse estágio inicial, o switch se comporta de 
+maneira semelhante a um hub, que também não tem conhecimento dos dispositivos conectados às suas 
+portas. Dessa forma, se qualquer dispositivo enviar um quadro para o switch, ele irá retransmiti‑lo para 
+todas as portas, pois sua tabela MAC ainda está vazia, sem dados sobre os hosts.
+Após receber quaisquer quadros por uma porta, o switch inicia o aprendizado com base no endereço 
+MAC de origem, preenchendo a tabela MAC. Assim como o switch aprende novos endereços MAC, 
+associando‑os às suas interfaces para preencher a tabela MAC, ele também pode esquecer informações. 
+Isso acontece quando os hosts deixam de transmitir por um período, fazendo com que os registros 
+inativos sejam removidos. Dessa maneira, a tabela MAC se mantém sempre atualizada.
+Quando um quadro chega a uma interface, o switch verifica se há um registro correspondente na 
+tabela MAC para tomar a decisão correta. Se encontrar, ele encaminha o quadro exclusivamente para a 
+interface indicada na tabela. Caso não haja um registro que ajude na filtragem, o quadro será enviado 
+para todas as interfaces ativas, exceto para aquela de origem.
+Esse processo de encaminhamento ocorre no switch porque todas as suas portas estão no mesmo 
+domínio de broadcast.
+• Switch LAN e o domínio de broadcast:
+— O domínio de broadcast é uma área lógica onde um computador ou qualquer outro dispositivo 
+na rede pode receber pacotes de broadcast.
+— Ele simplifica a comunicação entre dispositivos em uma rede local, permitindo a descoberta de 
+dispositivos, anúncios de serviços e atualizações de configuração.
+— O switch utiliza esse domínio de broadcast no processo de aprendizagem dos endereços MAC, 
+pois ao receber um primeiro frame cuja porta de destino ainda é desconhecida, o switch envia 
+um broadcast para todas as portas (também chamado de ARP, que veremos na seção 4.1). 
+A partir do momento que o switch aprende os endereços e preenche sua tabela MAC, esse 
+processo não se repete mais.
+Concluindo, o switch “quebra” o domínio de colisão em vários, pois cada porta de um switch está 
+em um único domínio de colisão. Porém, todas as portas de um switch estão no mesmo domínio de 
+broadcast. Apenas um dispositivo de camada 3 (camada de Rede) é capaz de “quebrar” o domínio  
+de broadcast de camada 2. Roteadores são utilizados para segmentar tanto os domínios de broadcast 
+quanto os domínios de colisão.
+Após o switch aprender os endereços físicos e estabilizar sua tabela MAC, ele ainda pode 
+trabalhar de três formas diferentes com relação ao encaminhamento dos frames. São modos  
+de comutação do switch:
+
+===== Página 15 =====
+83
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• Store‑and‑Forward: esse método consiste em receber e armazenar o quadro por completo 
+antes de encaminhá‑lo para a porta correta. Antes da retransmissão, o quadro passa por uma 
+verificação de erros, com base no último campo do quadro Ethernet. Se o cálculo de redundância 
+cíclica, executado pelo checksum, indicar erro, o quadro será descartado.
+• Cut‑Through: esse modo é utilizado em switches que priorizam baixa latência e alta performance 
+na transmissão de quadros. Consiste em receber o quadro, analisar o endereço MAC de destino e 
+encaminhá‑lo imediatamente para a porta apropriada. No entanto, o ponto negativo desse método 
+é que o quadro é encaminhado antes da verificação de erros, que só é realizada posteriormente 
+pelo cálculo de redundância cíclica no checksum.
+• FragmentFree: também conhecido como Cut‑Through modificado, esse método aguarda até 
+que os 64 primeiros bytes do quadro, conhecidos como janela de colisão, sejam recebidos antes 
+de encaminhá‑lo. Isso permite identificar se o quadro é válido ou se se trata de um fragmento 
+resultante de uma colisão.
+Síntese
+A camada de Enlace:
+• Restringe a dois nós de rede somente, pois tem como função principal fazer com que os dados 
+transmitidos de um computador cheguem ao próximo nó, ou seja, ao computador ou dispositivo 
+diretamente ligado a ele. 
+• Trata frames ou quadros.
+• É responsável por detectar erros de transmissão. 
+• Faz o endereçamento físico (endereços MAC).
+Exemplos: protocolos Ethernet, ARP e switches LAN.
+3.4.3 Camada de Rede
+A camada de Rede envolve a comunicação entre dispositivos que fazem parte de redes logicamente 
+separadas, mas que estão conectadas fisicamente de alguma forma.
+Essa camada é usada quando a rede possui mais de um segmento e, por isso, existe mais de um 
+caminho para um pacote de dados trafegar. Ela utiliza algoritmos de roteamento que podem ser usados 
+para conduzir os pacotes de suas redes de origem para as de destino, sendo, portanto, responsável pela 
+determinação da rota que os pacotes irão seguir para atingir o seu destino.
+A camada de Rede do modelo OSI (veja a figura a seguir) utiliza o endereço lógico, que é o endereço IP 
+do host, para rotear os pacotes dentro de uma rede. O endereçamento lógico identifica a localização de cada 
+elemento (domínio, área, segmento) dentro da rede.
+
+===== Página 16 =====
+84
+Unidade II
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 31 – Camada de Rede do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+Enquanto o endereço físico MAC é pré‑estabelecido de fábrica, o endereço lógico IP é normalmente 
+definido pelo administrador de rede, de acordo com o seu esquema de endereçamento. 
+Caso um host ou dispositivo da rede mude de localização física, o endereço MAC permanecerá 
+inalterado. Já o endereço lógico poderá sofrer modificações, dependendo do segmento, área ou sub‑rede 
+em que se encontra.
+Um endereço IP, no padrão IPv4, é composto por 32 bits, expressos em formato decimal com pontos, 
+como quatro números separados por pontos (octetos), cada um variando de 0 a 255 (veja a figura a 
+seguir). Estudaremos o endereçamento IP com mais detalhes na unidade III.
+. . .
+. . .
+32 bits (4 bytes)
+11000000
+192
+8 bits (1 bytes)
+1º Octeto
+168
+10101000
+8 bits (1 bytes)
+2º Octeto
+241
+11110001
+8 bits (1 bytes)
+4º Octeto
+43
+00101011
+8 bits (1 bytes)
+3º Octeto
+Figura 32 – Formato de endereço IP
+Adaptada de: Multirede (2000).
+Outra característica que diferencia os endereços de camada de Rede (IP) dos endereços de camada de 
+Enlace (MAC) é que os endereços MAC existem dentro de um espaço de endereço plano; já os endereços IP 
+são geralmente hierárquicos, pois definem redes e, em seguida, dispositivos (nós) associados a cada rede. 
+Em outras palavras, os endereços IP são como endereços postais, que descrevem a localização de uma
+
+===== Página 17 =====
+85
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+pessoa fornecendo um país, um estado, um código postal, uma cidade, uma rua, um endereço da rua e, 
+finalmente, um nome.
+A figura a seguir traz um exemplo de saída do comando “ipconfig /all”, executado em um computador, 
+com o endereço IP marcado em vermelho. O IP do computador, nesse exemplo, é 192.168.1.1.
+Figura 33 – Endereço IP de um host
+São exemplos de padrões definidos para a camada de Rede o IP (Internet Protocol), o IPX (Internetwork 
+Packet eXchange) e o CLNP (ConnectionLess Network Protocol). Embora o IPX e o CLNP tenham sido 
+proeminentes no passado, eles não são mais usados em redes modernas, pois tudo praticamente 
+migrou para o IP. Um protocolo que opera também na camada de Rede é o ICMP (Internet Control 
+Message Protocol), ou Protocolo de Mensagens de Controle da Internet. Ele é utilizado para testes de 
+conectividade, como o comando Ping. Veremos mais sobre o ICMP na seção 4.2.
+Existem dois tipos fundamentais de pacotes da camada de Rede:
+• Pacotes de dados: incluem dados do usuário e informações de controle apropriadas da 
+camada superior.
+• Pacotes de descoberta/atualização de rota: esses tipos de pacotes são enviados e recebidos pelos 
+roteadores. Os roteadores são responsáveis por rastrear quais redes existem e como alcançá‑las. 
+Pacotes de atualização de roteamento incluem informações sobre cada rede conhecida, o caminho 
+para chegar a cada rede e a distância (definida por uma métrica) entre a rede de origem e a 
+rede de destino.
+O roteador opera na camada de Rede do modelo OSI, pois ele é o equipamento que possui o 
+conhecimento das diferentes redes que estão interligadas em suas portas. 
+O roteador adquire seu conhecimento a partir do endereçamento lógico, que corresponde ao 
+endereço IP atribuído a cada rede. Assim, o roteador constrói e armazena uma tabela interna com
+
+===== Página 18 =====
+86
+Unidade II
+os endereços IP das redes interligadas às suas portas, ou das redes conhecidas através dessas portas, 
+formando uma tabela de roteamento. Essa tabela conta também com métricas que possibilitam o 
+processo de tomada de decisão sobre o melhor caminho para a rede de destino.
+O roteador encaminha os pacotes para o endereço IP da rede de destino, esteja essa rede diretamente 
+ou indiretamente conectada a uma de suas interfaces. Caso o roteador não tenha “aprendido” essa rede 
+por nenhuma de suas interfaces, o pacote é descartado.
+• Roteador e os domínios de broadcast:
+— Ao adicionar um roteador em uma rede, consegue‑se “quebrar” o domínio de broadcast a partir 
+da segmentação (divisão) das redes. 
+— O roteador é a interface entre a rede LAN e a rede WAN.
+— Todas as portas de um switch LAN estão no mesmo domínio de broadcast, enquanto cada porta 
+no roteador é um domínio de broadcast distinto.
+O roteador, para os computadores da LAN em que ele está conectado, funciona como o default 
+gateway ou rota de saída padrão para a WAN. Ele tem esse papel na camada de Rede justamente por ser 
+o dispositivo que interconecta redes diferentes fazendo uso do endereçamento lógico.
+Os protocolos que trabalham na camada de Rede não garantem a entrega dos pacotes de dados de 
+forma confiável. A sua função principal é o roteamento e encaminhamento dos dados entre redes, e a 
+garantia da entrega confiável é responsabilidade da camada de Transporte, que veremos a seguir.
+Síntese
+A camada de Rede:
+• Determina a rota que os dados irão seguir para atingir seu destino (roteamento).
+• Trata pacotes.
+• É responsável pelo endereçamento lógico dos pacotes, ou seja, define um endereço de origem e 
+destino associados ao protocolo, independentemente da aplicação.
+• Não garante a entrega (sem confirmação).
+Exemplos: protocolos IP, ICMP, IPSEC e roteadores.
+
+===== Página 19 =====
+87
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+3.4.4 Camada de Transporte
+Enquanto os protocolos das camadas inferiores estão relacionados à transmissão das mensagens 
+entre os dispositivos, a camada de Transporte é responsável pela transmissão das mensagens entre os 
+processos que estão sendo executados nesses dispositivos.
+Ao receber as mensagens (veja a figura a seguir), a camada de Transporte divide as mensagens 
+vindas das camadas superiores em segmentos que possam ser manipulados pelas camadas inferiores e 
+os pacotes vindos das camadas inferiores em mensagens que possam ser entendidas pelas superiores. 
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 34 – Camada de Transporte do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+Sempre que um dispositivo estiver utilizando um sistema operacional multitarefa e, provavelmente, 
+estiver executando vários processos no dispositivo, será fundamental que as mensagens sejam 
+remetidas do processo do dispositivo transmissor para o processo parceiro do dispositivo receptor. 
+Esses processos, muitas vezes, correspondem às aplicações cliente‑servidor. A camada de Transporte 
+implementa procedimentos para assegurar que será feita uma transmissão confiável desses segmentos 
+até seus dispositivos de destino. Para tanto, se utiliza de mecanismos que podem garantir a entrega 
+de dados, como correção de erros e controle de fluxo (veja a figura a seguir) para colocar os pacotes 
+recebidos em ordem.
+
+===== Página 20 =====
+88
+Unidade II
+transmite
+transmite
+buffer cheio
+buffer cheio
+Figura 35 – Controle de fluxo da camada de Transporte
+Fonte: Multirede (2000, p. 14).
+Durante a transferência de dados, pode ocorrer congestionamento na rede por duas principais razões:
+• Um elemento da rede está gerando mais tráfego do que a rede tem condições de atender.
+• Vários elementos na rede necessitam enviar pacotes simultaneamente através de um único elemento 
+de interconexão, ou para um mesmo destino, estando este temporariamente sem condições de 
+tratar tantas requisições.
+Quando o pacote chega mais rápido do que o elemento destinatário ou o equipamento de interconexão 
+de rede têm condições de tratar, essa situação será sinalizada para o remetente dos pacotes e, caso este 
+insista no envio, todos os pacotes nesse período de congestionamento serão descartados. Normalmente, 
+ao ser alertado sobre a existência do problema, o remetente irá reduzir a taxa de envio dos pacotes até 
+ser sinalizado do fim do congestionamento. Faz parte da camada de Transporte controlar a capacidade 
+dos buffers de recepção e sinalizar aos elementos da rede a existência do problema.
+O termo confiável não significa que não ocorrerão erros, mas sim que eles serão detectados caso 
+ocorram. Quando uma perda de dados é detectada, a camada de Transporte solicita uma retransmissão 
+ou notifica os protocolos das camadas superiores para que eles possam tomar as medidas necessárias.
+Os serviços orientados a conexão e não orientados a conexão são classificações de redes na camada 
+de Transporte:
+• Serviço orientado a conexão: estabelece uma conexão antes da transmissão de dados, garantindo 
+a entrega e a ordem correta dos pacotes. Exemplo: TCP (Transmission Control Protocol).
+
+===== Página 21 =====
+89
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• Serviço orientado a conexão: não estabelece uma conexão prévia e envia pacotes de forma 
+independente, sem garantir a entrega ou a ordem. Exemplo: UDP (User Datagram Protocol).
+Síntese
+A camada de Transporte:
+• Estabelece a comunicação fim‑a‑fim em uma transmissão e trata segmentos. 
+• Deve garantir que os dados transmitidos cheguem ao seu destino com integridade, usando para 
+isso mecanismos como controle de fluxo e correção de erros. 
+• Trabalha com portas de aplicação.
+Exemplos: protocolos TCP e UDP.
+3.4.5 Camada de Sessão
+Da camada Física até a camada de Transporte, as funções se baseiam em conectividade física e lógica 
+com o objetivo de estabelecer uma conexão fim‑a‑fim entre origem e destino. A partir do momento 
+que essa conexão se estabelece, as próximas camadas (Sessão, Apresentação e Aplicação) vão servir às 
+aplicações do usuário, estabelecendo a comunicação de fato entre o emissor e o receptor da mensagem.
+A camada de Sessão (veja a figura 36) possui mecanismos que estabelecem o diálogo entre dois 
+computadores, estabelecendo, mantendo, sincronizando, gerenciando e encerrando a comunicação.
+Caso a rede sofra uma falha, os computadores retomarão a transmissão dos dados a partir do último 
+ponto de verificação recebido pelo computador receptor.
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 36 – Camada de Sessão do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+
+===== Página 22 =====
+90
+Unidade II
+Entre os serviços oferecidos pela camada de Sessão, podemos destacar o controle de diálogo e a 
+administração da sessão:
+• Controle de diálogo: pode ser feita de três formas: simplex, half‑duplex e full‑duplex:
+— Diálogos simplex: a transferência de dados é feita em mão única.
+— Diálogos half‑duplex: a transferência de dados em mão dupla, nas quais os dados fluem em 
+apenas uma direção por vez.
+— Diálogos full‑duplex: permitem transferências de dados simultâneas em mão dupla, tendo 
+cada dispositivo um canal de comunicação separado.
+• Administração da sessão: uma sessão é um diálogo formal entre um solicitante de serviço e um 
+provedor de serviços. Cada sessão possui pelo menos três fases:
+— Estabelecimento da conexão: um requerente de serviço pede a inicialização de um serviço. 
+Durante o processo de configuração, são estabelecidas a comunicação e as normas sobre ela. 
+Quando uma sessão é iniciada, várias tarefas podem ser realizadas, como a autenticação 
+do login do usuário, a negociação de protocolos e parâmetros do protocolo, e a notificação de 
+identificadores de conexão.
+— Transferência de dados: quando uma conexão está estabelecida, os dispositivos podem iniciar 
+um diálogo. Além de trocar dados, esses dispositivos trocam confirmações e outros dados de 
+controle que gerenciam o diálogo. A camada de Sessão também pode incorporar protocolos 
+para continuar os diálogos interrompidos.
+— Release da conexão: quando a sessão é encerrada, o diálogo termina de uma forma sistemática. 
+Esse é um processo ordenado que desativa a comunicação e libera os recursos no provedor 
+de serviços.
+Síntese
+A camada de Sessão:
+• Permite que usuários de diferentes máquinas estabeleçam sessões (comunicação) entre eles.
+• Estabelece, gerencia e termina as sessões entre entidades da camada de Apresentação.
+• Controle de diálogo.
+Exemplo: autenticação de login ao iniciar a sessão.
+
+===== Página 23 =====
+91
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+3.4.6 Camada de Apresentação
+A camada de Apresentação também é conhecida como camada de Tradução. Ela converte os dados 
+para um formato comum que pode ser entendido plenamente pelos computadores que transmitem e 
+recebem dados na rede, mesmo que cada computador individualmente utilize códigos diferentes.
+A camada de Apresentação (veja a figura a seguir) é responsável por fazer a confirmação dos dados de 
+forma que a aplicação os receba em um formato reconhecível. Além de negociar a sintaxe dos dados 
+na rede, essa camada, se necessário, fará a tradução entre os diversos formatos de representação dos 
+dados (EBCDIC para ASCII, por exemplo).
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 37 – Camada de Apresentação
+Adaptada de: Oliveira e Rehder (2006).
+Essa camada é responsável também por realizar a compressão de dados e a criptografia. A compressão 
+de dados pega os dados recebidos da camada de Aplicação e os comprime, como se fosse um compactador. 
+A camada de Apresentação do dispositivo receptor fica responsável por descompactar esses dados. Dessa 
+forma, a transmissão dos dados torna‑se mais rápida. A camada provê o suporte aos diversos formatos de 
+compressão de imagem (GIF, JPEG), sons (MIDI, WAV) e vídeo (MPEG, AVI).
+Para aumentar a segurança, pode‑se usar um esquema de criptografia, sendo que os dados só serão 
+decodificados na camada de Apresentação do dispositivo receptor. A criptografia provê uma maior 
+privacidade no acesso de informações. Importante ressaltar que o nome camada de Apresentação 
+não significa exibição de dados ao usuário, pois isso é uma função realizada por aplicativos que são 
+executados acima da camada de Aplicação.
+Síntese
+A camada de Apresentação:
+• Atua nos aspectos sintáticos e semânticos da informação, sendo responsável pela formatação  
+dos dados.
+
+===== Página 24 =====
+92
+Unidade II
+• Realiza a compactação e codificação dos dados, garantindo que a aplicação os receba em um 
+formato compreensível.
+• Também é conhecida como a camada de tradução.
+Exemplos: formatação EBCDIC para ASCII e criptografia de dados.
+3.4.7 Camada de Aplicação
+A camada de Aplicação faz a interface entre o protocolo de comunicação e o aplicativo que solicitou 
+ou que receberá informações através da rede. É a camada mais próxima do usuário (veja a figura a seguir).
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+Figura 38 – Camada de Aplicação do modelo OSI
+Adaptada de: Oliveira e Rehder (2006).
+Essa camada realiza funções especializadas referentes aos aplicativos, como envio de arquivos com 
+a aplicação FTP, terminal virtual com a aplicação Telnet, envio de e‑mail com a aplicação SMTP etc. 
+Ela se refere aos serviços completos na rede, ou seja, mecanismos que, por exemplo, indicam quais 
+são as pastas compartilhadas que cada máquina tem na rede. Além disso, essa camada também é 
+responsável por avisar sobre a disponibilidade de serviços remotos disponíveis em outras máquinas da 
+rede, independentemente da localização.
+A camada de Aplicação realiza duas funções relacionadas à utilização dos serviços na rede. Uma 
+envolve a divulgação dos serviços disponíveis e a outra, o uso desses serviços.
+Síntese
+A camada de Apresentação:
+• É a camada mais próxima do usuário.
+
+===== Página 25 =====
+93
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• É responsável em permitir o acesso das aplicações à rede, provendo serviços de rede ao usuário de 
+forma transparente.
+• Realiza a definição dos protocolos da aplicação propriamente ditos.
+Exemplos: FTP, SMTP, SNMP etc.
+ Lembrete
+O modelo OSI possui sete camadas, cada uma com funções bem definidas, 
+que facilitam o entendimento, o desenvolvimento e a manutenção das redes 
+de computadores.
+3.5 Modelo TCP/IP
+O modelo TCP/IP, também denominado modelo DoD (Departamento de Defesa dos Estados Unidos), 
+foi desenvolvido para atender à necessidade de criar a rede de computadores da Arpa (Agência de 
+Projetos de Pesquisa Avançada do Departamento de Defesa).
+Enquanto o modelo OSI é uma referência para entender redes em geral, a internet tem seu próprio 
+modelo, que é o TCP/IP. Isso porque a internet tem seus próprios mecanismos de padronização, que são 
+bastante diferentes dos adotados pelo ITU‑T e pela ISO. Para efeito de comparação, pode‑se dizer que as 
+pessoas que participam das reuniões de padronização da ITU ou da ISO vão de paletó e gravata, já as que 
+comparecem às reuniões de padronização da internet vão de jeans ou uma vestimenta mais informal. 
+As reuniões do ITU‑T e da ISO são frequentadas por pessoas ligadas à iniciativa privada e ao governo 
+cuja especialidade é a padronização. Para elas, a padronização é importante e, por isso, se dedicam a 
+ela. As pessoas da internet, por outro lado, têm uma natureza mais anárquica. No entanto, às vezes elas 
+também precisam criar regras para facilitar o funcionamento da rede. Por essa razão, os padrões, apesar 
+dos pesares, acabam se fazendo necessários.
+Quando a Arpanet foi configurada, o DoD (Department of Defense) criou uma comissão informal para 
+supervisioná‑la. Em 1983, essa comissão informal que supervisionava a Arpanet passou a ser chamada 
+de IAB (Internet Activities Board) e teve seus poderes ampliados. Isso permitiu manter os pesquisadores 
+envolvidos com a Arpanet e a internet mais ou menos voltados para uma mesma direção, tarefa bastante 
+árdua. Mais tarde, o significado do acrônimo IAB foi alterado para Internet Architecture Board.
+Cada um dos cerca de 10 membros do IAB coordenou uma força‑tarefa sobre alguma questão 
+importante. O IAB promovia diversas reuniões anuais para discutir os resultados e prestar contas ao DoD 
+e à NSF, que na época financiava a maior parte de suas atividades. Quando havia necessidade de um 
+padrão (por exemplo, um novo algoritmo de roteamento), os membros do IAB elaboravam e, em seguida, 
+anunciavam a mudança de modo que os universitários envolvidos na produção do software pudessem 
+implementá‑lo. As comunicações eram feitas por uma série de relatórios técnicos, chamados de RFCs 
+(Request For Comments). Os RFCs são armazenados on‑line e todas as pessoas interessadas podem ter 
+acesso a eles. Eles são numerados pela ordem cronológica de sua criação e já estão na casa dos 2 mil.
+
+===== Página 26 =====
+94
+Unidade II
+Devido a seu crescimento, a internet teve de abdicar de seu estilo altamente informal a partir do final 
+da década de 1980. Muitos fabricantes estavam oferecendo produtos TCP/IP e não queriam mudá‑los só 
+porque uma dezena de pesquisadores acreditava ter uma ideia melhor. No verão de 1989, o IAB voltou a 
+ser organizado. Os pesquisadores foram reunidos em torno da IRTF (Internet Research Task Force), que foi 
+transformada em uma subsidiária do IAB, assim como a IETF (Internet Engineering Task Force). Em torno 
+da nova IAB, reuniram‑se pessoas de um grupo de organizações maior do que a comunidade acadêmica. 
+Inicialmente, os membros do grupo teriam um mandato indireto de dois anos, ao final do qual eles 
+indicariam seus sucessores. Mais tarde, foi criada a Internet Society, integrada por pessoas interessadas na 
+internet. De certa forma, a Internet Society pode ser comparada à ACM ou ao IEEE. Ela é administrada por 
+conselheiros eleitos, que, por sua vez, indicam os membros do IAB. 
+O modelo TCP/IP é um modelo aberto e de estrutura relativamente simples. Os dois principais 
+protocolos que o compõem, TCP (Transmission Control Protocol) e IP (Internet Protocol), deram nome 
+à arquitetura. Esses protocolos permitem que computadores se comuniquem, independentemente do 
+fabricante ou sistema operacional. Além disso, os protocolos TCP/IP podem ser utilizados sobre qualquer 
+tipo de infraestrutura de rede. Exemplos: Ethernet, PPP, MPLS etc.
+O protocolo TCP/IP é o mais utilizado em redes. Uma grande vantagem desse protocolo em relação 
+aos outros é que ele é roteável, ou seja, foi criado pensando em redes grandes e de longa distância em 
+que pode haver diversos caminhos para o dado atingir o computador receptor.
+Assim como o modelo OSI, o modelo TCP/IP divide as funções do sistema de comunicação em 
+camadas estruturadas. A diferença é que enquanto o modelo OSI possui sete camadas, o modelo TCP/IP 
+consegue traduzir toda a problemática das redes em quatro camadas, sendo cada uma responsável por 
+executar funções específicas de rede e envolvendo diversos protocolos. 
+As quatro camadas do modelo TCP/IP estão ilustradas na figura a seguir. São elas: camada de 
+Aplicação, camada de Transporte, camada Internet e camada de Acesso à Rede.
+Aplicação
+Transporte
+Internet
+Acesso à Rede
+Figura 39 – Modelo TCP/IP
+Adaptada de: Oliveira e Rehder (2006).
+
+===== Página 27 =====
+95
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A camada de Aplicação serve ao usuário, já as camadas de Transporte, Internet e Acesso à Rede têm 
+a função de servir à camada de Aplicação. Vamos ver com mais detalhes cada uma delas.
+3.5.1 Camada de Acesso à Rede
+A camada de Acesso à Rede é responsável por gerenciar a transmissão da informação no meio físico 
+e corresponde às camadas Física e Enlace do modelo OSI. 
+Essa camada (veja a figura a seguir) trabalha o próprio meio físico da rede, ou seja, lida com qualquer 
+comunicação entre os computadores que passa pelo meio de transmissão, onde são conectados os 
+cabos, conectores, placas etc. Ela é responsável por enviar o datagrama recebido da camada Internet em 
+forma de quadro através da rede.
+Aplicação
+Transporte
+Internet
+Acesso à Rede
+Figura 40 – Camada de Acesso à Rede do modelo TCP/IP
+Adaptada de: Oliveira e Rehder (2006).
+Assim como no encapsulamento do modelo OSI, no modelo TCP/IP cada camada também se comunica, 
+de forma lógica, com a sua equivalente em outro computador por intermédio de seus protocolos. Portanto, 
+em uma comunicação, teremos os protocolos das camadas de Aplicação, Transporte, Internet e Acesso à 
+Rede sendo executados em conjunto. A conexão física, onde os bits são transmitidos em forma de sinais 
+elétricos, é estabelecida apenas entre as placas de interface com a rede, através de algum tipo de meio 
+físico de comunicação.
+Até os dados do usuário, gerados nos programas executados na camada de Aplicação, chegarem ao 
+meio físico, eles são transferidos de camada em camada.
+Síntese
+A camada de Acesso à Rede:
+• Abrange o nível físico, correspondente à placa de rede e outros detalhes de hardware necessários 
+para o interfaceamento físico com a rede.
+
+===== Página 28 =====
+96
+Unidade II
+• É responsável por estabelecer um enlace até o próximo nó.
+• Inclui detalhes das tecnologias de LAN e WAN que foram empregadas.
+• Equivale às camadas Física e de Enlace do modelo OSI.
+Exemplos de protocolos dessa camada: Ethernet e ARP.
+3.5.2 Camada Internet
+A camada Internet executa o processo de roteamento de pacotes e endereçamento lógico. Essa 
+camada (veja a figura a seguir) recebe os dados da camada de Transporte e acrescenta o seu cabeçalho, 
+constituindo o pacote, forma pela qual é conhecida a unidade de dados da camada Internet.
+Aplicação
+Transporte
+Acesso à Rede
+Internet
+Figura 41 – Camada Internet do modelo TCP/IP
+Adaptada de: Oliveira e Rehder (2006).
+O pacote da camada Internet será entregue à camada de Acesso à Rede, que, por sua vez, adiciona 
+seu cabeçalho ao pacote, fechando a unidade de dados, chamada de quadro. Por fim, a camada de 
+Acesso à Rede cuidará de todos os detalhes físicos e eletrônicos da transmissão para transmitir os bits 
+pelo meio físico da rede em questão.
+Os cabeçalhos transportam as informações que permitem aos protocolos de cada camada 
+desempenhar suas funções. O TCP/IP é, na verdade, um conjunto de protocolos, sendo que os mais 
+conhecidos são justamente os que dão nome a ele: o TCP e o IP.
+Na camada Internet está o protocolo IP, cuja função principal é realizar o roteamento, sendo o 
+responsável por adicionar mecanismos para que os dados cheguem o mais rapidamente ao seu destino.
+O IP identifica os computadores e os sistemas de comunicação através de endereços que são 
+compostos por uma série de quatro números separados por pontos, sendo que cada série pode variar 
+entre 0 e 255, por exemplo, 200.230.64.33. Cada servidor e cada computador têm o seu endereço IP 
+único. Um fato que tornou o TCP/IP popular é que sua arquitetura é aberta e qualquer fabricante pode 
+adotar a sua própria versão do TCP/IP em seu sistema operacional. Com isso, a maioria dos fabricantes
+
+===== Página 29 =====
+97
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+de sistema operacional acaba adotando esse protocolo, possibilitando assim que todos os sistemas 
+possam se comunicar entre si.
+Síntese
+A camada Internet:
+• É responsável por gerenciar o encaminhamento e o roteamento de pacotes dentro da rede.
+• Seu objetivo é garantir que os pacotes sejam entregues do ponto de origem em qualquer sub‑rede 
+da inter‑rede até o destino final, independentemente do trajeto ou das redes intermediárias, 
+utilizando como identificador principal o endereço IP.
+• Corresponde à camada de Rede do modelo OSI.
+Alguns protocolos pertencentes a essa camada incluem: IP (Internet Protocol) e ICMP (Internet 
+Control Message Protocol).
+3.5.3 Camada de Transporte
+A camada de Transporte, também chamada de camada host‑a‑host, é responsável por gerenciar o 
+fluxo de dados entre dispositivos e controlar o tipo de transmissão utilizada.
+Seguindo o fluxo do encapsulamento, a mensagem que vem da Aplicação é passada à camada de 
+Transporte (veja a figura a seguir), que, por sua vez, adiciona o cabeçalho a ser utilizado na execução do 
+protocolo de transporte. Nessa variação, dependendo do protocolo utilizado, se TCP ou UDP, a unidade 
+de dados (mensagem + cabeçalho de transporte) pode ser o segmento, quando o TCP é utilizado, ou o 
+datagrama, quando o UDP é utilizado.
+Aplicação
+Acesso à Rede
+Internet
+Transporte
+Figura 42 – Camada de Transporte do modelo TCP/IP
+Adaptada de: Oliveira e Rehder (2006).
+
+===== Página 30 =====
+98
+Unidade II
+O protocolo TCP tem a função de estabelecer a comunicação fim‑a‑fim, garantindo que os dados 
+cheguem ao seu destino. O protocolo quebra os dados em seções menores chamadas pacotes e entrega 
+esses pacotes em seu destino. Depois de serem entregues, o protocolo remonta os pacotes em sua 
+forma original.
+O protocolo UDP é um protocolo não orientado à conexão, diferente do TCP, que é orientado à 
+conexão. Com isso, o UDP envia os dados mais rapidamente, sem garantir a ordem ou a entrega de todos 
+os pacotes. É o protocolo utilizado naquelas aplicações que toleram perda de dados, mas que requerem 
+mais fluidez, como aplicações de voz e vídeo.
+Síntese
+A camada de Transporte: 
+• É responsável pelo transporte de dados fim‑a‑fim, sem se preocupar com os dispositivos 
+intermediários nem com os caminhos percorridos.
+• Possui funções que incluem garantir a qualidade do serviço, oferecer confiabilidade na 
+comunicação, controlar o fluxo de pacotes e realizar a detecção e correção de erros.
+• Corresponde à camada de Transporte do modelo OSI.
+Os principais protocolos dessa camada são o TCP (Transmission Control Protocol) e o UDP (User 
+Datagram Protocol).
+3.5.4 Camada de Aplicação
+A camada de Aplicação, também chamada de camada de processo, é responsável por interagir 
+diretamente com os aplicativos nos dispositivos de origem e destino.
+A camada de Aplicação (veja a figura a seguir) é a camada mais próxima do usuário.
+Transporte
+Acesso à Rede
+Internet
+Aplicação
+Figura 43 – Camada de Aplicação do modelo TCP/IP
+Adaptada de: Oliveira e Rehder (2006).
+
+===== Página 31 =====
+99
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Essa camada equivale às camadas de Sessão, Apresentação e Aplicação do modelo OSI e faz a 
+comunicação entre os aplicativos e o protocolo de transporte, incluindo as aplicações processadas. 
+Existem vários protocolos que operam nessa camada, fornecendo serviços que suportam as aplicações 
+do usuário. Os principais protocolos são o HTTP (navegação web), FTP (transporte de arquivos),  
+SMTP (envio de e‑mail), DNS (resolução de nomes de domínio), Telnet (terminal virtual), entre outros.
+Na máquina de origem, os dados gerados pelo programa em execução são entregues à camada 
+de Aplicação, que adiciona um cabeçalho a esses dados, compondo a unidade de dados da camada de 
+Aplicação, ou seja, a mensagem. Na máquina de destino, o protocolo da camada de Aplicação utilizará os 
+dados desse cabeçalho para aplicar o tratamento adequado aos dados recebidos.
+Lembrando que, quando os dados são recebidos pela máquina de destino, todas as operações 
+descritas anteriormente são repetidas na ordem inversa. A camada de Acesso à Rede recebe os bits do 
+meio físico e os envia à camada Internet, que reconstitui o quadro. Esta, após extrair os dados (cabeçalho 
+e fechamento) do quadro, que dizem respeito somente ao protocolo dessa camada, entrega o pacote à 
+camada Internet. A camada Internet, por sua vez, retira os dados do cabeçalho de Internet, realizando 
+o mesmo processamento do protocolo utilizado e passa o restante dos dados (segmento ou datagrama) 
+para a camada de Transporte. Esse procedimento é repetido até a restauração dos dados do usuário pelo 
+programa em execução na camada de Aplicação. 
+Esse processo garante que os dados cheguem ao destino da mesma forma que foram enviados na 
+origem e que a transmissão seja organizada e eficiente. 
+Síntese
+A camada de Aplicação: 
+• Agrupa os protocolos que oferecem serviços de comunicação tanto ao sistema quanto ao usuário.
+• Corresponde às camadas de Apresentação, Sessão e Aplicação do modelo OSI.
+Exemplos de protocolos dessa camada incluem: DNS (Domain Name System), DHCP (Dynamic Host 
+Configuration Protocol), FTP (File Transfer Protocol), HTTP (Hypertext Transfer Protocol) e SMTP (Simple 
+Mail Transfer Protocol).
+3.6 Semelhanças e diferenças entre o modelo OSI e o TCP/IP
+Dada a necessidade de adotar modelos abertos em sistemas de comunicação, é fundamental entender 
+os dois principais modelos utilizados em arquiteturas de redes: o modelo OSI e o modelo TCP/IP, assim 
+como suas semelhanças e diferenças. 
+A primeira semelhança entre esses modelos é que ambos são estruturados em camadas. A figura a 
+seguir apresenta a comparação lado a lado do modelo OSI com o modelo TCP/IP, em que podemos ver 
+claramente equivalências das funções entre as camadas.
+
+===== Página 32 =====
+100
+Unidade II
+Aplicação
+Transporte
+Acesso à Rede
+Internet
+Transporte
+Sessão
+Apresentação
+Aplicação
+Rede
+Enlace
+Física
+Figura 44 – Comparação entre os modelos OSI e TCP/IP
+As principais semelhanças entre os dois modelos são: 
+• Os dois são organizados em camadas.
+• Ambos possuem camadas de Aplicação.
+• Ambos possuem camadas de Transporte e de Rede (Transporte e Internet, no caso do TCP/IP), com 
+funções comparáveis.
+• Os dois pressupõem o fluxo de pacotes e o encapsulamento dos dados.
+• Os profissionais da área precisam conhecer ambos.
+Apesar de vermos bastante similaridade entre os modelos OSI e TCP/IP, existem também diferenças. 
+A principal diferença entre eles é que o modelo OSI surgiu de uma definição formal criada por comissões 
+da ISO para orientar o desenvolvimento de produtos, enquanto o TCP/IP nasceu da demanda do mercado 
+e da necessidade de soluções para problemas de comunicação. O TCP/IP evoluiu a partir de diversas 
+implementações de produtos desenvolvidos fora da arquitetura da internet, mas que posteriormente 
+foram incorporados a ela. 
+Ao contrário do modelo OSI, o TCP/IP não é apenas um modelo conceitual ou didático, pois ele 
+especifica os protocolos a serem usados em cada camada.
+As diferenças entre os dois modelos, resumidamente, são:
+• O TCP/IP combina os aspectos das camadas de Apresentação e de Sessão do modelo OSI dentro da 
+sua camada de Aplicação.
+• O TCP/IP combina as camadas Física e de Enlace do modelo OSI em uma única camada de 
+Acesso à Rede.
+
+===== Página 33 =====
+101
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+• O TCP/IP parece ser mais simples por ter menos camadas, mas desempenha funções equivalentes.
+• O modelo OSI é uma padronização, um modelo mais conceitual que serve como guia.
+• Os protocolos TCP/IP são os padrões fundamentais sobre os quais a internet foi construída, 
+enquanto o modelo OSI foi criado para padronizar a interconexão de diferentes redes. 
+A arquitetura TCP/IP, por ter menos camadas do que o modelo OSI, resulta em algumas camadas 
+assumindo funções que não são originalmente atribuídas a elas. Por exemplo, na transferência 
+de arquivos em um ambiente TCP/IP, as funções correspondentes à camada de Apresentação são 
+desempenhadas pelo próprio protocolo de transferência de arquivos FTP. Contudo, o TCP/IP nos fornece 
+aplicações mais simples, eficientes e de fácil implementação em nível de produtos.
+O IP está relacionado à camada de Rede, enquanto o TCP e o UDP fornecem serviços semelhantes aos 
+dos protocolos de Transporte orientados e não orientados à conexão do modelo OSI, respectivamente. Já 
+na camada de Aplicação, a arquitetura TCP/IP engloba os serviços oferecidos pelas camadas de Sessão, 
+Apresentação e Aplicação do modelo OSI.
+A arquitetura OSI sofre críticas por apresentar modelos e soluções que objetivam atendimento a 
+requisitos de propósito geral, em prejuízo de soluções imediatas, compatíveis com as exigências atuais 
+dos usuários. É também criticada por não oferecer formas de migração entre as arquiteturas em operação 
+e suas soluções.
+Podemos, no entanto, observar que sempre houve um esforço de aproximação entre as duas arquiteturas, 
+com o objetivo de aproveitar o melhor de cada uma, de forma a encontrar soluções combinadas.
+4 PROTOCOLOS DE COMUNICAÇÃO
+Os protocolos de comunicação são parte fundamental da pilha de protocolos TCP/IP, pois são 
+essenciais para o funcionamento da internet e das redes de computadores. Vamos ver a seguir, os 
+protocolos ARP, ICMP, IP, TCP e UDP, e estudaremos, também, os protocolos de camada de Aplicação 
+mais comuns, tanto os que utilizam o TCP, como os que utilizam o UDP como protocolo de transporte.
+4.1 ARP
+O protocolo ARP (Address Resolution Protocol), ou Protocolo de Resolução de Endereço, tem a 
+finalidade de chegar a um endereço físico (MAC address) a partir de um endereço IP. 
+O ARP funciona na camada de Enlace de Dados do modelo OSI. No modelo TCP/IP, é considerado 
+parte da camada de Acesso à Rede, uma vez que essa camada abrange tanto as camadas Física quanto 
+de Enlace do modelo OSI.
+Uma estação da rede, ao querer transmitir um pacote para o nó destino localizado no mesmo segmento 
+local, consulta sua tabela ARP em cache, para saber se há alguma entrada associando o endereço IP do
+
+===== Página 34 =====
+102
+Unidade II
+nó com algum endereço MAC. Se não houver a entrada, a estação enviará um broadcast solicitando que 
+o “dono” do endereço IP requerido envie seu endereço MAC. Ou seja, o ARP é enviado como uma consulta 
+às máquinas na rede local para procurar seus endereços físicos a partir de um endereço IP. Quem possuir 
+esse endereço IP, responderá com um pacote ARP Reply contendo o endereço MAC solicitado. A estação 
+que originou o ARP Request guardará essa resposta em memória (cache) para uso futuro.
+Assim, o ARP mantém em seu cache a tabela de “endereços físicos x endereços IP” . Toda vez que 
+um determinado IP de destino precisa ser localizado para algum envio de dados, o cache do ARP é 
+consultado para checar se esse endereço está na rede local. 
+Se o endereço físico já estiver no cache do ARP, então o endereço físico correspondente é usado para 
+enviar o frame diretamente para o adaptador de rede físico do host de destino desejado. 
+Se o endereço IP não estiver no cache do ARP, então o ARP faz uma transmissão na LAN. O pedido, 
+enviado como broadcast, inclui o endereço do IP do computador desejado. Toda máquina que está 
+nessa mesma LAN recebe e examina esse pedido, pois todas as máquinas conectadas ao switch LAN 
+compartilham de um mesmo domínio de broadcast. Se o endereço corresponder, o computador em 
+questão gerará uma resposta ao ARP que inclui o seu endereço físico, e o IP pode assim prosseguir e 
+enviar os dados diretamente para o adaptador de rede do computador desejado.
+O ARP faz então o mapeamento do endereço lógico IP para o endereço físico MAC, a fim de permitir 
+a comunicação em redes com múltiplos nós em um mesmo segmento, como um segmento Ethernet.
+Existe também o Reverse ARP, que realiza a função oposta do ARP. O RARP é ativado quando o 
+endereço físico é conhecido, mas o endereço IP não.
+4.2 ICMP
+O protocolo ICMP (Internet Control Message Protocol), ou Protocolo de Mensagens de Controle da 
+Internet, tem como função testar a conectividade entre dois hosts. 
+O ICMP opera na camada de Rede do modelo OSI e na camada de Internet do modelo TCP/IP. Ele 
+é utilizado para notificar o IP e os protocolos das camadas superiores sobre erros no nível da rede e 
+problemas no controle do fluxo.
+O comando Ping (Packet InterNet Groper), ou Procurador de Pacotes Internet, bastante conhecido e 
+utilizado para testar a conectividade nas redes, faz parte do protocolo ICMP. Ele envia um pacote para um 
+endereço e solicita que o computador de destino retorne os dados enviados em um pacote de resposta. 
+O Ping acompanha todos os produtos TCP/IP e é utilizado para testar se um nó da rede está ativo. 
+O comando envia mensagens ICMP de solicitação de eco (echo request) e, se o host de destino for 
+localizado, ele responderá com uma mensagem de resposta de eco (echo reply).
+
+===== Página 35 =====
+103
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A figura a seguir mostra como funciona esse processo.
+O host B está aí?
+Sim, eu estou aqui.
+ICMP echo request
+ICMP echo reply
+B
+A
+Figura 45 – Funcionamento do Ping do protocolo ICMP
+Fonte: Multirede (2000, p. 29).
+Esse comando permite a confirmação da funcionalidade do protocolo de rede nos dois elementos 
+envolvidos, além do tempo de ida e volta do pacote com uma determinada quantidade de dados  
+(< 65536 bytes).
+O Ping é dado através do prompt de comando do sistema Windows ou do terminal Linux/macOS. 
+Deve‑se digitar “ping” seguido do endereço IP ou nome de domínio do dispositivo que se quer testar. 
+A figura a seguir traz um exemplo de um comando no prompt do Windows que foi bem‑sucedido e 
+obteve retorno do host destino.
+Figura 46 – Exemplo de comando “ping” com sucesso
+
+===== Página 36 =====
+104
+Unidade II
+Neste caso, vemos que a resposta ao ping foi positiva, pois há indicação do tempo que a mensagem 
+levou para ir e voltar do host destino, em ms (milissegundos). Quando o teste não é bem‑sucedido, o 
+comando mostra que não houve resposta do dispositivo remoto, indicando um time out, ou tempo 
+esgotado, como mostra a figura a seguir.
+Figura 47 – Exemplo de comando “ping” sem sucesso
+Outras funções do protocolo ICMP são: controlar a velocidade de transmissão de um computador 
+para o outro, para que não haja sobrecarga de dados; avisar quando um computador de destino não foi 
+achado na rede; e avisar quando o TTL (time to live) de um datagrama chegou a zero, indicando que o 
+número de hops é muito grande até o destino.
+4.3 IP
+O IP (Internet Protocol, ou Protocolo Internet) cuida do endereçamento dos computadores em uma 
+rede TCP/IP.
+O protocolo IP pode ser considerado um dos protocolos mais importantes, se não o mais importante, 
+para o funcionamento da internet. Isso porque ele é a base do endereçamento e do roteamento de 
+pacotes de dados entre dispositivos conectados em redes locais e globais. Sem ele, a troca de informações 
+entre computadores, servidores e outros dispositivos na internet simplesmente não seria possível.
+O IP opera na camada de Rede do modelo OSI, ou na camada Internet do modelo TCP/IP, sendo 
+utilizado para identificar cada host com seu endereçamento lógico (o endereço IP). O IP é formado por 
+quatro octetos, representando um endereço único na internet, por exemplo, 200.192.55.2.
+Para o protocolo IP, uma rede é formada por diversos segmentos de rede lógicos, onde cada segmento 
+tem uma identificação única. Além disso, cada dispositivo conectado a um segmento de rede tem um 
+endereço IP único que permite a sua localização dentro da rede.
+O protocolo IP é fundamental para o roteador exercer a sua função de encaminhar pacotes de 
+dados para o seu destino, pois o IP fornece o endereço lógico para cada dispositivo em uma rede, e os
+
+===== Página 37 =====
+105
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+roteadores usam esses endereços IP para determinar o caminho mais eficiente para enviar os pacotes 
+entre redes.
+O IP é um protocolo não orientado à conexão, o que significa que ele não estabelece uma conexão 
+prévia entre os dispositivos antes de enviar os dados. Em outras palavras, ele apenas encaminha os 
+pacotes de dados de forma independente, sem garantir que eles chegarão ao destino nem que chegarão 
+na ordem correta. Essa tarefa de garantir a entrega dos dados de forma confiável é delegada a protocolos 
+de camada superior, como o TCP.
+O protocolo IP também é considerado um protocolo sem garantia de entrega. Isso quer dizer que 
+pacotes podem ser perdidos, duplicados ou entregues fora de ordem. Ainda assim, ele é extremamente 
+eficiente para garantir que os dados trafeguem pela rede, especialmente por seu modelo de 
+funcionamento simples, que facilita a escalabilidade da internet.
+Por fim, o protocolo IP trabalha em conjunto com outros protocolos da pilha TCP/IP para formar a espinha 
+dorsal da internet. Ele atua como o sistema de navegação, definindo para onde os dados devem ir. Sem o IP, 
+não seria possível fazer com que pacotes de dados encontrados em uma rede local viajassem por diversos 
+dispositivos intermediários e chegassem a redes remotas, identificando com precisão cada computador ao 
+longo do caminho.
+4.4 TCP
+O TCP (Transmission Control Protocol, ou Protocolo de Controle de Transmissão) é uma das principais 
+formas de transmissão de dados em redes na internet. É um protocolo de comunicação orientado à 
+conexão que permite o envio de dados e a verificação da entrega de dados por dispositivos e aplicativos 
+de computação.
+O protocolo TCP opera na camada de Transporte, tanto no modelo OSI quanto no modelo TCP/IP, 
+e é, na verdade, o principal protocolo de transporte da internet. Ele aceita mensagens de qualquer 
+tamanho de um protocolo da camada superior e oferece transporte full‑duplex. Além disso, realiza a 
+sincronização de sequências de transmissão, criando caminhos entre origem e destino no momento 
+da transmissão para envio do pacote. Por ser orientado à conexão, o protocolo TCP confirma a entrega 
+dos pacotes.
+O TCP organiza os dados para que possam ser transmitidos entre um servidor e um cliente. Ele garante 
+a integridade dos dados que são comunicados em uma rede e também divide grandes quantidades de 
+dados em pacotes menores, garantindo que essa integridade esteja em vigor durante todo o processo. 
+Antes de transmitir os dados, o TCP estabelece uma conexão entre origem e destino, que garante 
+que permanecerá ativa até que a comunicação comece. Esse processo é também chamado de three‑way 
+handshake, que significa “aperto de mão de três vias”, como mostrado na figura a seguir.
+
+===== Página 38 =====
+106
+Unidade II
+ESTABLISHED
+ACK
+SYN‑ACK
+SYN
+Figura 48 – Three‑way handshake do TCP/IP
+Fonte: Multirede (2000, p. 7).
+Além do estabelecimento de conexão, o TCP possui outras características:
+• Retransmissão: o protocolo TCP garante a entrega dos dados de forma confiável. Quando um 
+erro é detectado (por exemplo, se um pacote se perde ou chega corrompido), o protocolo solicita 
+a retransmissão do pacote afetado.
+• Controle de erros: o TCP utiliza mecanismos como checksum, números de sequência,  
+ACKs (acknowledgments) e tempo de espera (timeout) para garantir que os pacotes corrompidos 
+ou ausentes sejam reenviados até que a entrega seja bem‑sucedida.
+• Descartes ou retransmissão dependendo do protocolo: protocolos confiáveis, como o TCP, 
+sempre tentam retransmitir pacotes quando ocorrem erros. Protocolos não confiáveis, como o 
+UDP que veremos a seguir, descartam pacotes com erro sem tentar retransmiti‑los. Protocolos em 
+camadas mais baixas, como Ethernet, podem descartar ou retransmitir pacotes, dependendo do 
+caso e do protocolo específico. Portanto, concluímos que os pacotes podem ser retransmitidos ou 
+descartados dependendo do protocolo em uso.
+ Lembrete
+Os protocolos de rede garantem que os dados transmitidos 
+cheguem corretamente ao destino, organizando e controlando o fluxo  
+da comunicação.
+Protocolos, como Ethernet, também podem detectar erros de transmissão usando mecanismos 
+como checksums ou CRC (Cyclic Redundancy Check). Em casos de erro, o protocolo pode optar 
+por descartar pacotes, se for uma transmissão simples e a camada superior não exigir correção, ou 
+retransmitir o pacote se for necessário, como no caso do MAC layer do Wi‑Fi, que pode solicitar  
+a retransmissão de pacotes corrompidos ou perdidos.
+
+===== Página 39 =====
+107
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Os protocolos de aplicação TCP/IP são aqueles que desempenham funções de alto nível e que utilizam 
+os serviços de camada de Transporte para a comunicação das aplicações. São vários protocolos de 
+aplicação que utilizam o TCP na camada de Transporte. Esses protocolos realizam funções diretamente 
+acessíveis pelo usuário, como FTP, HTTP, SMTP, Telnet, entre outros. 
+O envio dos pacotes é realizado atribuindo um identificador de cada segmento, chamado porta,  
+que está relacionado ao protocolo da camada de Aplicação que está sendo transportado. Na lista a seguir 
+estão as portas relacionadas com cada um dos principais protocolos de aplicação que utilizam o TCP:
+• FTP: portas 20 e 21.
+• Telnet: porta 23.
+• SMTP: portas 25 e 587.
+• HTTP: portas 80 e 8080.
+4.4.1 FTP
+O FTP (File Transfer Protocol), ou Protocolo de Transferência de Arquivos, é um dos protocolos 
+mais antigos e simples ainda em uso para transferência de dados. Ele utiliza canais individuais para 
+comunicação de dados do tipo cliente/servidor.
+Um servidor FTP é um computador dedicado à transferência de arquivos e ao compartilhamento 
+remoto de dados via internet entre um servidor (remetente) e um computador cliente (destinatário) 
+por meio de uma conexão baseada no protocolo FTP. Esse tipo de servidor geralmente concede ao 
+dispositivo cliente o acesso a um diretório com vários subdiretórios. Os usuários se conectam a esses 
+servidores como “clientes FTP” .
+O FTP utiliza sempre dois canais TCP distintos: o canal de controle utiliza a porta 21, por onde passam os 
+comandos e respostas (por exemplo, USER, PASS, LIST, RETR, STOR), e o canal de dados utiliza a porta 20 no 
+modo ativo, ou uma porta dinâmica no modo passivo, que é por onde trafegam efetivamente os arquivos e 
+listagens de diretório.
+Sobre os modos de operação ativo e passivo, temos: o modo ativo, em que o cliente abre uma porta 
+aleatória e informa ao servidor (“PORT”) para onde enviar o dado, que então conecta de volta ao cliente 
+na porta especificada, e o modo passivo, em que o servidor abre uma porta aleatória e informa ao 
+cliente (“PASV”) onde ele deve se conectar. Esse último modo é mais amigável para clientes funcionando 
+atrás de firewalls/NAT, pois evita conexões de entrada no cliente.
+Existem dois tipos de servidores que utilizam o protocolo FTP: públicos e privados. A diferença 
+fundamental entre eles é a necessidade de um login e senha para acessar os arquivos nos servidores privados.
+
+===== Página 40 =====
+108
+Unidade II
+O FTP segue o padrão definido pelo RFC 959 do ano de 1971, mas, ao longo dos anos, ganhou 
+extensões para segurança e compressão. Assim, em muitas empresas, o FTP tradicional foi substituído 
+por SFTP ou FTPS, onde o S significa Secure (ou Seguro), para atender requisitos de compliance, como a 
+LGPD (Lei Geral de Proteção de Dados). 
+O FTP clássico transmite credenciais e dados em texto puro, o que o torna vulnerável à captura de 
+pacotes (sniffing). O FTPS adiciona TLS/SSL (Transport Layer Security/Secure Sockets Layer) ao FTP 
+clássico. O FTPS “implícito” utiliza a porta 990, enquanto o FTPS “explícito” começa na 21 e sobe para 
+TLS após o comando “AUTH TLS” . O SFTP (SSH File Transfer Protocol) é um protocolo completamente 
+diferente, que roda sobre SSH (porta 22) e é geralmente mais seguro e simples de configurar em 
+ambientes modernos.
+A linha de comando é ftp (nativo em Unix/Windows), lftp (Linux) ou ncftp. Muitos clientes FTP 
+suportam retomada de upload/download (via comando REST), muito útil em conexões instáveis.
+O FTP ainda é amplamente utilizado em roteadores e dispositivos de rede para atualização de 
+firmware via script automatizado.
+4.4.2 Telnet
+O Telnet (Teletype Network), que significa Rede de Teletipo ou, ainda, Remote Terminal Emulation 
+(Emulação de Terminal Remoto, em português), é um recurso que permite estabelecer uma conexão 
+com outro computador ou dispositivo da rede, ou da internet, se estiver conectado a ela, oferecendo a 
+oportunidade de estar em um sistema computacional e trabalhar em outro.
+Através do Telnet, o usuário consegue manipular um computador ou equipamento remoto como se 
+estivesse sentado à sua frente, quando na verdade não está. Ou seja, ocorre uma simulação de terminal 
+no PC Local. 
+O Telnet permite que usuários acessem os aplicativos com base em host de rede, com PCs 
+funcionando como se fossem terminais burros. Assim, o Telnet tem uma função parecida com a 
+do aplicativo de acesso remoto do Windows, uma aplicação utilizada para gerenciamento de rede 
+remoto, complementando outros testes como o Ping, que apresentamos na seção 4.2. Enquanto o 
+Ping testa a conectividade, o Telnet permite o acesso remoto para realizar verificações e configurações 
+no dispositivo. 
+Para a configuração remota de um roteador, por exemplo, utiliza‑se o comando telnet e o endereço IP 
+do roteador que se deseja acessar. A figura a seguir mostra esse exemplo de uso do Telnet, em que o IP do 
+roteador é 192.168.1.254. O comando fica, então, “telnet 192.168.1.254” .
+
+===== Página 41 =====
+109
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Figura 49 – Acesso remoto ao roteador utilizando Telnet
+Tudo que vemos passando na tela do terminal do usuário, na verdade, está ocorrendo no dispositivo 
+remoto, não no micro do usuário. Primeiramente, existe o pedido de senha para o acesso remoto. Em 
+seguida, são dados os comandos para entrar no modo de configuração e para alterar o nome do roteador 
+para roteador_matriz, o que já aparece atualizado logo no prompt seguinte.
+A sensação do usuário ao acessar outro computador ou dispositivo por Telnet é como se o terminal 
+estivesse ligado diretamente àquele equipamento, com a única diferença de que a resposta aos seus 
+comandos pode ser um pouco mais lenta.
+O Telnet utiliza a porta 23 do TCP como porta padrão. O computador ou dispositivo receptor deve 
+estar com a porta 23 acessível, para que o protocolo Telnet consiga alcançá‑lo.
+Além disso, para utilizar o Telnet, é necessário saber o endereço IP ou o nome do host que se 
+deseja acessar. Os nomes de domínio são limitados a 256 caracteres de comprimento. Geralmente, o 
+host remoto solicitará que seja digitada alguma senha de proteção para acesso, o que é geralmente 
+configurado em todos os dispositivos de uma rede previamente por questões de segurança.
+Vale ressaltar que o Telnet transmite dados sem criptografia, o que pode representar um risco de 
+segurança. Por essa razão, o Telnet vem sendo amplamente substituído pelo SSH (Secure Shell), que 
+oferece uma versão mais segura e criptografada da mesma funcionalidade.
+
+===== Página 42 =====
+110
+Unidade II
+ Saiba mais
+O SSH, que significa Secure Shell, é um protocolo de rede que permite 
+o acesso remoto seguro a um computador, servidor ou dispositivo. É usado 
+para enviar comandos, transferir arquivos e executar tarefas de administração 
+remotamente, tudo de forma criptografada e segura. 
+Em termos simples, SSH é como uma forma segura de entrar em um 
+computador à distância, como se estivesse sentado na frente dele, mas sem 
+estar fisicamente presente. 
+Os principais usos do SSH são: o acesso remoto, permitindo que usuários 
+se conectem a servidores e dispositivos remotamente para executar tarefas, 
+como configurar sistemas, gerenciar arquivos ou executar comandos; a 
+transferência de arquivos, que facilita a transferência segura de arquivos entre 
+computadores, usando protocolos como SCP (Secure Copy) e SFTP (Secure File 
+Transfer Protocol); e a autenticação utilizando criptografia para autenticar 
+usuários e proteger as conexões, evitando que informações sejam interceptadas 
+por terceiros. 
+O SSH oferece uma alternativa segura para protocolos mais antigos, como 
+o Telnet, pois ao utilizar criptografia, o SSH garante a confidencialidade e a 
+integridade das informações transmitidas.
+Para saber mais sobre SSH, leia: 
+KUROSE, J. F; ROSS, K. W. Redes de computadores e a internet : uma 
+abordagem top‑down. 8 ed. São Paulo: Pearson Education do Brasil, 2021.
+4.4.3 SMTP
+O SMTP (Simple Mail Transfer Protocol), Protocolo de Transferência de Correio Simples, é o protocolo 
+padrão usado para envio de e‑mails pela internet. Foi definido originalmente pelo RFC 821 em 1982 e 
+atualizado em 2008 pelo RFC 5321, que introduziu extensões.
+Tais extensões foram criadas para uma maior segurança do protocolo. O SMTP “puro”, sem  
+TLS (Transport Layer Security), envia tudo em texto claro, o que é suscetível a sniffing ou captura de 
+pacotes. Camadas adicionais de proteção contra falsificação de remetente e spam também podem 
+ser implementadas à parte do SMTP. Para autenticação forte, são usados mecanismos como OAuth2, 
+protocolo de autorização que permite que uma aplicação se autentique em outra, o que é usado em 
+servidores modernos como Gmail, em vez de usuário/senha simples.
+
+===== Página 43 =====
+111
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Historicamente, a porta 25 era a porta padrão para SMTP, mas agora ela se encontra frequentemente 
+bloqueada por ISPs devido ao uso excessivo de spam. Atualmente, a porta 587 é a porta padrão 
+recomendada para envio de e‑mails, especialmente com criptografia STARTTLS. 
+Para o recebimento de e‑mails, existem protocolos complementares que são o POP3 (Post Office 
+Protocol), definido pelo RFC 1939, e o IMAP4 (Internet Message Access Protocol), definido pelo RFC 3501. 
+Ambos são protocolos de roteamento de correio eletrônico.
+A figura a seguir traz um exemplo de envio de e‑mail, experiência que é comum a milhões de 
+usuários que se conectam às redes para troca de mensagens.
+MAIL FROM: <remetente@domínio>
+RCPT TO: <destinatário@domínio> (pode repetir para múltiplos RCPTs)
+DATA → cliente envia cabeçalhos (From, To, Subject) + corpo + . em linha 
+separada para finalizar.
+Figura 50 – Exemplo de envio de e‑mail
+Adaptada de: Oliveira e Rehder (2006).
+O envio de um e‑mail pode ser bem‑sucedido ou não. Para cada situação, temos um código de 
+resposta diferente do protocolo. São códigos de resposta possíveis:
+• 2xx: sucesso (por exemplo, 250 significa “OK”, mensagem aceita para entrega).
+• 3xx: redirecionamento (por exemplo, 354 significa “Continue”, logo, o cliente deve inserir os dados).
+• 4xx: erro temporário (por exemplo, 421 significa “Tentar mais tarde”).
+• 5xx: erro permanente (por exemplo, 550 significa “Destinatário não encontrado” e 552 significa 
+“Armazenamento excedido”, ou seja, a mensagem não pôde ser entregue porque a caixa de correio 
+do destinatário está cheia ou não tem espaço suficiente). 
+É importante entender esses códigos para diagnosticar e resolver problemas de entrega de e‑mails. 
+O fluxo de envio de mensagens então seria: remetente envia a mensagem para o destinatário; em 
+seguida, o servidor de origem roteia através da rede corporativa ou da internet até a mensagem alcançar 
+o servidor de destino; e, por último, o servidor de destino entrega a mensagem à caixa do usuário 
+via IMAP/POP3.
+4.4.4 HTTP
+O HTTP (Hyper Text Transfer Protocol), que significa Protocolo de Transferência de Hipertexto, 
+é o protocolo de transferência de documentos da web e a base de toda a sua funcionalidade. Ele 
+permite que os usuários que inserem a URL de um site na web visualizem os conteúdos e dados 
+presentes nele.
+
+===== Página 44 =====
+112
+Unidade II
+Esse sistema é fundamental para a comunicação na internet, permitindo que sites e conteúdos 
+com hiperlinks sejam acessados de forma simples pelo público, com um único clique do mouse ou 
+toque na tela.
+Leve e veloz, o protocolo HTTP utiliza o TCP na camada de Transporte, por isso é orientado à conexão.  
+Com isso, o protocolo HTTP permite que os browsers conversem com os servidores web, façam pedidos 
+e recebam a resposta em forma de documento, através de uma conexão com a internet. A transferência 
+de documentos hipermídia é feita através do protocolo HTTP. Um servidor hospeda sites, enquanto um 
+cliente faz a requisição dos documentos lá contidos. Essa transferência é feita usando a porta 8080 do 
+protocolo TCP.
+Cada servidor utilizado para hospedar um site conta com um programa específico para processar 
+solicitações HTTP. Dessa forma, o navegador utilizado atua como um cliente HTTP, enviando 
+constantemente solicitações ao servidor. Quando um usuário digita a URL de um site, o navegador 
+gera uma solicitação HTTP e a envia para o endereço IP indicado pela URL. O servidor então 
+recebe essa solicitação e retorna os arquivos correspondentes, que representam o site solicitado  
+na internet.
+Esses arquivos serão utilizados como recurso por todo ecossistema de um sistema distribuído, 
+principalmente aplicações web/mobile. 
+ Observação
+Os servidores web têm a função de hospedar sites e disponibilizar 
+conteúdo online para usuários em toda a internet. Quando um usuário 
+acessa um site por meio de um navegador, o servidor web processa 
+a solicitação e retorna os arquivos necessários, que podem incluir 
+documentos HTML, que estruturam a página; arquivos CSS, que tratam do 
+estilo visual da página; scripts JavaScript, que garantem a interatividade; 
+além de imagens, vídeos e outros tipos de mídia. Muitos servidores web 
+também permitem a geração dinâmica de conteúdo, utilizando linguagens 
+de script do lado do servidor, como PHP, Python ou Ruby, para criar 
+páginas em tempo real com base em dados do servidor ou entradas 
+fornecidas pelo usuário. 
+4.5 UDP
+O UDP, ou Protocolo de Datagramas do Usuário (do inglês User Datagram Protocol), é um dos protocolos 
+de transporte que permite a transferência de dados pelas redes. Junto com o protocolo TCP, o UDP forma 
+a base da transferência global de dados. A diferença básica em comparação ao TCP é que o UDP não é 
+orientado à conexão.
+
+===== Página 45 =====
+113
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+Por ser um protocolo não orientado à conexão, o UDP não é confiável, ou seja, não garante a 
+entrega de pacotes. Ele permite o envio de dados sem verificação da entrega de dados por dispositivos 
+e aplicativos de computação. Quando ocorre um erro, como perda ou corrupção de dados, o protocolo 
+não tenta retransmitir o pacote. O pacote é simplesmente descartado e o receptor pode não receber as 
+informações corretamente.
+Por esse motivo, o UDP é também mais leve e rápido, sendo o protocolo de transporte mais adequado 
+para sistemas de comunicação e difusão em tempo real, como transmissão de voz e vídeo.
+Uma vez que não ocorre a verificação de erro ou correção com o UDP, a responsabilidade pela 
+confiabilidade, caso desejada, fica com a camada superior da Aplicação. 
+Alguns protocolos de aplicação que utilizam UDP incluem DNS (Domain Name System),  
+DHCP (Dynamic Host Configuration Protocol), SNMP (Simple Network Management Protocol), além de 
+outras aplicações sensíveis ao tempo, como jogos online, streaming de vídeo e VoIP. O UDP é preferível 
+em situações nas quais a velocidade é mais importante do que a confiabilidade, pois não requer um 
+handshake para estabelecer a conexão como o TCP.
+Na lista a seguir estão as portas relacionadas com cada um dos principais protocolos de aplicação 
+que utilizam o UDP:
+• DNS: porta 53.
+• DHCP: portas 67 e 68.
+• SNMP: portas 161 e 162.
+Veremos agora esses protocolos de aplicação, um a um.
+4.5.1 DNS
+DNS (Domain Name System), ou Sistema de Nomes de Domínio, é um sistema de banco de dados 
+distribuídos que fazem a resolução do endereço/nome para as aplicações do cliente. Ele atua como uma 
+espécie de catálogo telefônico, traduzindo nomes de domínio como “www.exemplo.com” para seus 
+endereços IP correspondentes. 
+Todas as máquinas em uma rede TCP/IP possuem um endereço IP, porém esses endereços não são 
+fáceis de serem memorizados. Para isso, foi criado o sistema DNS, que permite dar nomes a endereços IP, 
+possuindo duas funções: converter endereços nominais em endereços IP e vice‑versa. Ou seja, o DNS é 
+basicamente um mapeamento entre endereços e nomes.
+O DNS depende fortemente do UDP, utilizando a porta 53 tanto para consultas como para respostas. 
+Ele especifica duas partes principais: regras de sintaxe para a definição de domínios e o protocolo 
+utilizado para a consulta de nomes.
+
+===== Página 46 =====
+114
+Unidade II
+Ao operar de forma distribuída, hierárquica e eventualmente consistente, o DNS permite que os 
+usuários encontrem os serviços desejados, mesmo em uma estrutura altamente descentralizada.
+Os nomes das máquinas são compostos por partes separadas por pontos, sendo que cada parte 
+representa um domínio de autoridade diferente. O primeiro nome indica o nível mais baixo da hierarquia, 
+enquanto o último representa o nível mais alto. No caso do nível mais alto, alguns nomes são reservados 
+para fins específicos, como:
+• .com: organizações comerciais.
+• .edu: instituições educacionais.
+• .gov: instituições governamentais.
+• .int: organizações internacionais.
+• .org: outras organizações.
+Por exemplo, ao digitar www.empresa.com no browser, o DNS irá realizar uma conversão desse 
+nome para o endereço IP válido dessa página, pois na internet o endereçamento é feito através de 
+endereço IP. O protocolo também realiza a função inversa, convertendo um endereço IP em um 
+domínio válido.
+4.5.2 DHCP
+DHCP (Dynamic Host Configuration Protocol), ou Protocolo de Configuração Dinâmica de Hosts, 
+é utilizado para atribuir automaticamente endereços IP e outros parâmetros de rede a dispositivos 
+em uma rede. 
+Quando não é utilizado IP fixo nas máquinas de uma rede, deve existir um servidor DHCP na rede 
+para conceder dinamicamente endereços IP para cada nova conexão de uma máquina.
+O processo de atribuição de IPs pelo DHCP segue quatro etapas principais, conhecidas pela sigla Dora:
+• Discover (Descoberta): o cliente envia um broadcast procurando por servidores DHCP disponíveis.
+• Offer (Oferta): o servidor DHCP responde com uma oferta de um endereço IP e outros 
+parâmetros de rede.
+• Request (Solicitação): o cliente responde escolhendo uma das ofertas (caso tenha recebido 
+várias) e solicita formalmente o IP.
+• ACK (Reconhecimento): o servidor confirma a concessão do IP e envia os parâmetros finais de 
+rede (gateway, DNS etc.).
+
+===== Página 47 =====
+115
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+O servidor DHCP escuta as requisições na porta 67, enquanto o cliente envia solicitações para a 
+porta 68. Além do endereço IP, o DHCP também pode fornecer máscara de sub‑rede, gateway padrão, 
+servidores DNS, servidores WINS, tempo de concessão (lease time) e domínio de busca (domain name).
+Os endereços IP são atribuídos por um tempo limitado, chamado lease time. A máquina cliente tenta 
+renovar esse lease antes que expire. Normalmente, após 50% do tempo, tenta renovar com o mesmo 
+servidor; ou, após 87,5% do tempo, tenta renovar com qualquer servidor disponível.
+Os principais benefícios do DHCP são:
+• Reduz a administração manual de IPs.
+• Evita conflitos de IP.
+• Permite mudanças rápidas na configuração de rede.
+• É escalável para grandes redes.
+Um servidor DHCP falso ou rogue DHCP pode fornecer configurações incorretas e ser usado para 
+ataques cibernéticos, como man‑in‑the‑middle. Em ambientes críticos, recomenda‑se usar filtros de MAC, 
+DHCP Snooping em switches gerenciáveis e autenticação de clientes.
+4.5.3 SNMP
+SNMP (Simple Network Management Protocol), ou Protocolo Simples de Gerenciamento de Redes, 
+como o próprio nome diz, é um protocolo para gerência de redes.
+O SNMP é uma aplicação que utiliza o UDP para gerenciar dispositivos de rede e coletar informações. 
+Ele usa as portas 161 e 162 do UDP como protocolo de transporte, sendo que a porta 161 é a porta padrão 
+utilizada para as solicitações gerais de informações de gerenciamento e a porta 162 é a porta padrão para 
+traps SNMP, que são notificações enviadas pelos dispositivos.
+O SNMP foi projetado para gerenciamento de redes, a natureza sem conexão e a velocidade do 
+UDP são adequadas para essa finalidade. O UDP é mais rápido que o TCP porque não tem a sobrecarga  
+de estabelecimento de conexão e confirmações. Ele também é mais resiliente ao congestionamento de 
+rede do que o TCP, pois não requer retransmissões para pacotes perdidos. Além disso, o UDP é um protocolo 
+mais simples, o que o torna mais fácil de implementar e gerenciar. Embora menos comum, o SNMP 
+também pode operar sobre TCP, especialmente em cenários nos quais a entrega e a ordenação garantidas 
+dos pacotes são cruciais.
+O modelo SNMP é um protocolo de gerenciamento público e não proprietário, conhecido por sua 
+fácil implementação e pela capacidade de gerenciar ambientes de rede heterogêneos.
+O modelo de gerenciamento SNMP, cuja arquitetura é representada na figura a seguir, consiste em 
+um esquema centralizado, isto é, uma estação é configurada como gerente e os demais elementos da 
+rede desempenham o papel de agentes (mesmo conceito utilizado no modelo OSI de gerenciamento). 
+Os agentes e os gerentes se comunicam através do protocolo SNMP.
+
+===== Página 48 =====
+116
+Unidade II
+Manager
+Managed
+Device
+Agent
+MIB
+Managed
+Device
+Agent
+MIB
+SNMP Message Exchange
+Figura 51 – Modelo SNMP
+Fonte: Cisco (2010, p. 72).
+O modelo SNMP aborda os seguintes elementos básicos:
+• MIB (Management Information Base): base de dados distribuída que armazena informações 
+sobre os objetos gerenciados na rede.
+• SMI (Structure of Management Information): linguagem usada para definir os dados e a 
+estrutura dos objetos presentes na MIB.
+• Protocolo SNMP: responsável por transportar informações e comandos entre o gerenciador e os 
+dispositivos gerenciados.
+• Segurança e funcionalidades administrativas: recursos incorporados a partir da versão SNMPv3.
+A MIB (Management Information Base), ou Base de Informações de Gerenciamento, é um banco 
+de dados virtual que armazena objetos gerenciados, cujos valores refletem, de forma coletiva, o estado 
+atual da rede. Os valores podem ser consultados e/ou definidos (setados) por um gerente através do 
+protocolo SNMP. Os objetos gerenciados são especificados utilizando construções, por exemplo, do tipo 
+Object‑Type e Module‑Identity definidos pela SMI (Structure of Management Information), ou Estrutura 
+de Informações de Gerenciamento. As informações dos objetos são guardadas hierarquicamente 
+seguindo a linguagem ASN.1.
+As informações dos objetos são alocadas em uma árvore, e cada “ramo” dela recebe um nome e um 
+número. Assim, qualquer ponto da árvore pode ser identificado pela sequência de nomes e números que 
+especificam o trajeto da raiz até aquele ponto que se quer chegar. 
+O SNMP tem cinco tipos de mensagens: GET Request, GET Response, GET NEXT Request, SET Request  
+e Trap.
+
+===== Página 49 =====
+117
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+A estação de gerenciamento SNMP usa o GET Request para ler informações de um dispositivo de 
+rede que possua um agente SNMP. O agente SNMP, por sua vez, responde a mensagem de GET Request 
+com um GET Response. Essas mensagens de resposta podem incluir o nome do dispositivo, a quanto 
+tempo o agente está “rodando” e o número de interfaces do dispositivo.
+Um GET NEXT Request é usado em conjunto com o GET Request para obter as linhas de registro que 
+compõem a tabela de um objeto. A mensagem de SET Request permite alterar a configuração de um 
+dispositivo remotamente. Alguns exemplos são a alteração do nome de um dispositivo, habilitação ou 
+desabilitação remota de uma interface etc.
+Uma SNMP Trap é uma mensagem enviada pelo agente à estação de gerenciamento. Essa mensagem 
+informa a ocorrência de um evento específico. Por exemplo, um trap pode ser enviado informando a 
+falha de um circuito de comunicação.
+Alguns tipos de mensagem são enviadas sempre do gerenciador para o agente e outras do agente 
+para o gerenciador, conforme ilustrado na figura a seguir.
+Managed
+Device
+Agent
+MIB
+Manager
+GET Request
+Recupera o valor de uma variável MIB específica
+GET NEXT Request
+Recupera a próxima emissão da variável MIB
+SET Request
+Modifica o valor da variável MIB
+GET Response
+Contém valores da variável solicitada
+Trap
+Transmite uma condição de alarme não solicitada
+Figura 52 – Mensagens SNMP
+Adaptada de: Cisco (2010, p. 73).
+A configuração do SNMP é baseada no conceito de comunidade. No cabeçalho da mensagem é 
+inserido um campo que indica a comunidade do gerente. Através do cabeçalho, o agente verifica se o 
+gerente está habilitado a acessar os seus recursos e se ele pode “setar” algum valor dos objetos (read‑write) 
+ou somente ler os objetos (read‑only). O campo de comunidade não é criptografado no SNMPv1.
+Existem três versões do protocolo SNMP, com algumas evoluções em cada nova versão.
+
+===== Página 50 =====
+118
+Unidade II
+As características do SNMPv1 são:
+• SNMPv1 resolve emergencialmente o problema de gerenciamento, ou seja, possibilita uma 
+monitoração relativamente boa dos recursos de rede (objetos).
+• É oficialmente padronizado apenas para uso em redes que utilizem o protocolo IP na 
+camada de Rede. 
+• É ineficiente para a aquisição de grandes quantidades de informação.
+• Problemas de segurança são evidentes nessa versão.
+• O objetivo principal é remover algumas deficiências do SNMP, aumentar sua aplicabilidade para 
+incluir redes baseadas no modelo OSI e aceitar troca de mensagens entre gerentes.
+As características do SNMPv2 são:
+• Ele procurou melhorar o desempenho e as funcionalidades do padrão, inserindo mais funções de 
+controle. Nesse ponto, aproximou‑se do modelo de gerenciamento OSI.
+• Além de possuir as mesmas funcionalidades da primeira versão, possui também novos tipos de 
+mensagens, novos objetos na MIB e melhor recuperação de mensagens na tabela de um objeto. 
+• Ele incorporou dois novos tipos de mensagens: o InformRequest e o GET BULK Request.
+• Uma mensagem InformRequest permite a troca de informações entre dois sistemas de gerência.
+• A mensagem GET BULK Request foi criada para otimizar a leitura de grandes quantidades de 
+informações de gerenciamento.
+As características do SNMPv3 são:
+• É uma versão do SNMP que apresenta uma proposta de solução para o problema de segurança 
+encontrado nas versões anteriores do protocolo. 
+• As propriedades de segurança abordadas são: autenticação, criptografia, controle de acesso e 
+proteção contra ataques de reprodução.
+ Autenticação: criar procedimentos para autenticação. Agente somente envia uma mensagem 
+ao gerente ou aceita alterações na sua MIB após confirmação de uma chave de autenticação.
+— Criptografia: mensagem SNMP criptografada.
+
+===== Página 51 =====
+119
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+— Controle de acesso: a entidade SNMP mantém uma base de dados de direitos de acesso e 
+regras para vários usuários.
+— Proteção contra reprodução: o agente exige que seja enviado um contador no cabeçalho do 
+quadro para evitar repetição de mensagens.
+A figura a seguir ilustra as melhorias incorporadas pelo SNMPv3.
+O agente pode impor uma política de 
+controle de acesso para restringir cada 
+principal a certas ações em certas partes 
+de seus dados
+A transmissão entre o gerente e o 
+agente pode ser autenticada para 
+garantir a identidade do remetente 
+e a integridade e a viabilidade da 
+mensagem
+Mensagens 
+SNMPv3 podem 
+ser criptografadas 
+para garantir 
+privacidade
+Túnel Criptografado
+Agent
+Agent
+Agent
+Agent
+Manager
+Manager
+Manager
+Figura 53 – SNMPv3
+Adaptada de: Cisco (2010, p. 75).
+
+===== Página 52 =====
+120
+Unidade II
+ Resumo
+Esta unidade explorou detalhadamente os modelos de padronização de 
+redes de computadores, com foco nos modelos OSI e TCP/IP. A padronização 
+surgiu como resposta à diversidade de soluções proprietárias adotadas 
+por diferentes fabricantes, o que dificultava a interoperabilidade entre 
+sistemas. Com a criação de modelos abertos, como o OSI, desenvolvidos pela 
+ISO, e o TCP/IP, originado do Departamento de Defesa dos EUA, tornou‑se 
+possível estabelecer uma linguagem comum e garantir a compatibilidade 
+entre dispositivos de diferentes origens. A importância de organizações 
+como ITU, ISO e IEEE foi destacada, pois elas foram responsáveis por criar 
+normas essenciais que permitiram o crescimento coordenado das redes  
+de comunicação.
+O modelo OSI é dividido em sete camadas, cada uma com funções 
+específicas e bem definidas, o que facilita a compreensão e o desenvolvimento 
+das redes ao modularizar suas funções.  
+Ao longo da unidade, explicamos cada uma das camadas em detalhes. 
+A camada Física trata dos sinais elétricos e conectores, enquanto a camada 
+de Enlace organiza os bits da camada Física em quadros, verifica erros 
+e assegura o envio correto dos dados através do endereço físico (MAC). 
+Tecnologias como Ethernet e Wi‑Fi são exemplos clássicos dessa camada. 
+A camada de Rede, por sua vez, trata do endereçamento lógico (IP) e do 
+roteamento entre redes distintas. Os roteadores operam nessa camada, 
+sendo responsáveis por encontrar os melhores caminhos para os pacotes 
+chegarem ao destino. Já a camada de Transporte garante a entrega 
+confiável das mensagens entre os processos dos dispositivos, com o uso 
+de protocolos como TCP e UDP, cada um com suas características quanto à 
+confiabilidade e ordem da entrega.
+As camadas superiores gerenciam a comunicação entre os aplicativos 
+dos usuários. A camada de Sessão estabelece e mantém o diálogo entre 
+sistemas, enquanto a de Apresentação assegura a compatibilidade dos 
+formatos de dados, realizando funções como criptografia e compressão. A 
+camada de Aplicação, a mais próxima do usuário, gerencia a interface dos 
+aplicativos com a rede, utilizando protocolos como HTTP, FTP e SMTP. Essas 
+camadas juntas tornam possível a interação transparente entre usuários e 
+sistemas, ocultando a complexidade do funcionamento da rede.
+
+===== Página 53 =====
+121
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+O modelo TCP/IP, base da internet, tem uma estrutura mais simplificada 
+com quatro camadas: Acesso à Rede, Internet, Transporte e Aplicação. Ele 
+foi desenvolvido de forma prática para atender às necessidades reais da 
+Arpanet e, posteriormente, da internet. A principal diferença em relação 
+ao OSI é sua origem mais pragmática e sua aplicação direta em produtos 
+comerciais. Cada camada do TCP/IP corresponde a uma ou mais camadas 
+do OSI, com a vantagem de ser amplamente adotado e suportado por quase 
+todos os fabricantes de software e hardware.
+A camada de Acesso à Rede do modelo TCP/IP compreende os aspectos 
+físicos e de enlace da rede, lidando com cabeamento, conectores e 
+transmissão de dados em quadros. Já a camada Internet se responsabiliza 
+pelo roteamento e endereçamento lógico dos pacotes, utilizando o 
+protocolo IP. A camada de Transporte atua com os protocolos TCP e UDP, 
+gerenciando a confiabilidade da comunicação entre hosts. A camada de 
+Aplicação engloba as funcionalidades das três camadas superiores do OSI, 
+suportando protocolos como HTTP, DNS e SMTP, que permitem a navegação 
+web, o envio de e‑mails e outros serviços fundamentais.
+O texto também detalhou os principais protocolos que sustentam 
+a comunicação nas redes TCP/IP, como: o ARP, responsável por traduzir 
+endereços IP em endereços MAC; o ICMP, usado para testes de conectividade 
+(comando ping); o IP, que realiza o endereçamento lógico; o TCP, que 
+garante a entrega confiável de dados; e o UDP, protocolo não orientado à 
+conexão, mais utilizado para transmissões em tempo real. Esses protocolos 
+operam em camadas distintas do modelo TCP/IP, mas trabalham em 
+conjunto para assegurar o funcionamento eficaz das redes modernas.
+
+===== Página 54 =====
+122
+Unidade II
+ Exercícios
+Questão 1. (FGV/2023, adaptada) Paulo, analista de sistemas da empresa X, fez a especificação 
+para interligar as LANs dos setores financeiro e jurídico da empresa. Ele definiu que a interligação deve 
+utilizar um equipamento que atue na camada de Rede do modelo OSI.
+Assim, a empresa deve adquirir um:
+A) gateway.
+B) hub.
+C) repetidor.
+D) switch.
+E) roteador.
+Resposta correta: alternativa E.
+Análise das alternativas
+A) Alternativa incorreta. 
+Justificativa: gateway é um dispositivo ou um software que atua como um intermediário entre redes 
+ou sistemas com arquiteturas diferentes, permitindo a comunicação entre eles. O gateway, portanto, 
+atua em múltiplas camadas do modelo OSI, mas, geralmente, é usado para conversão de protocolos 
+em camadas superiores à camada 3. Além disso, não é o equipamento mais comum para a simples 
+interligação de redes locais. 
+B) Alternativa incorreta.
+Justificativa: o hub opera na camada Física (camada 1) e apenas retransmite sinais para todas  
+as portas.
+C) Alternativa incorreta. 
+Justificativa: o repetidor também opera na camada Física (camada 1) e apenas amplifica o sinal.
+D) Alternativa incorreta. 
+Justificativa: o switch opera na camada de Enlace (camada 2) e encaminha quadros por endereços MAC.
+
+===== Página 55 =====
+123
+REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS
+E) Alternativa correta.
+Justificativa: o roteador opera na camada de Rede (camada 3) e usa endereços IP para rotear pacotes 
+de dados entre diferentes redes. É o equipamento mais adequado para interligar redes locais entre si. 
+Questão 2. (Instituto Access/2024, adaptada) Considere as características a seguir de um protocolo 
+do modelo TCP/IP:
+I – Conexão não orientada.
+II – Sem confirmação de entrega.
+III – É um protocolo da camada de Transporte.
+IV – Sem controle de congestionamento.
+O protocolo referido é o:
+A) TCP (Transmission Control Protocol).
+B) DHCP (Dynamic Host Configuration Protocol).
+C) UDP (User Datagram Protocol). 
+D) ARP (Address Resolution Protocol). 
+E) ICMP (Internet Control Message Protocol).
+Resposta correta: alternativa C.
+Análise das alternativas
+A) Alternativa incorreta. 
+Justificativa: o protocolo TCP é orientado à conexão, usa confirmação de entrega e tem controle de 
+congestionamento.
+B) Alternativa incorreta. 
+Justificativa: o protocolo DHCP opera na camada de Aplicação e serve para a atribuição automática 
+de endereços IP.
+
+===== Página 56 =====
+124
+Unidade II
+C) Alternativa correta. 
+Justificativa: o protocolo UDP atende a todas as características mencionadas no enunciado: não 
+é orientado à conexão, não usa confirmação de entrega, atua na camada de Transporte e não tem 
+controle de congestionamento. Ele é utilizado em aplicações em que a velocidade é mais importante do 
+que a confiabilidade, como em jogos online.
+D) Alternativa incorreta. 
+Justificativa: o protocolo ARP opera na camada de Rede e mapeia endereços IP para MAC.
+E) Alternativa incorreta. 
+Justificativa: o protocolo ICMP opera na camada de Rede.

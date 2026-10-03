@@ -1,0 +1,703 @@
+===== Página 1 =====
+Profa. Dra. Jacqueline Zonichenn
+UNIDADE II
+Redes de Computadores
+e Sistemas Distribuídos
+
+===== Página 2 =====
+3. Padronização de Rede
+3.1. Padrões de Rede
+3.2. Modelo OSI
+3.3. Encapsulamento
+3.4. Camadas do Modelo OSI
+4. Protocolos
+4.1. Protocolos de Comunicação
+4.2. Protocolos de Aplicação
+Conteúdo da unidade II
+
+===== Página 3 =====
+ Para evitar soluções proprietárias nas redes, foram apresentadas sugestões de padrões de 
+arquiteturas abertas. 
+ Duas dessas arquiteturas são de particular importância e estão contidas nos modelos de 
+referência OSI e TCP/IP.
+Padrões internacionais
+
+===== Página 4 =====
+ O modelo OSI foi criado entre o final da década de 1970 e o ano de 1984 pela ISO 
+(Internacional Organization for Standardization), que é uma das maiores organizações 
+internacionais de padronização, atuando em diversas áreas de desenvolvimento tecnológico.
+Modelo OSI
+
+===== Página 5 =====
+ Auxilia na elaboração do protocolo.
+ Estabelece uma linguagem comum para os fabricantes.
+ Permite dividir os problemas em camadas.
+ Impede que mudanças em uma camada afetem as outras.
+Benefícios trazidos pelo modelo OSI
+
+===== Página 6 =====
+ Quando uma aplicação envia seus dados através de um sistema baseado em camadas, cada 
+uma dessas “partes” acrescenta informações importantes para a manipulação daquele 
+pacote pelo respectivo protocolo da camada.
+ Os dados acrescentados por uma camada são importantes somente para ela, e não 
+influenciam os dados de outras camadas.
+ No final, os dados são enviados como uma sequência única de bits pela rede.
+Encapsulamento de dados
+
+===== Página 7 =====
+ Cada camada introduz um cabeçalho com informações de controle, além dos próprios dados 
+para operação. Esse conjunto de dados de controle mais dados do usuário é conhecido 
+como PDU - Protocol Data Unit ou Unidade de Dados de Protocolo.
+Encapsulamento de dados
+Fonte: Adaptado de: livro-texto.
+PDU
+Nó de Origem
+Encapsulamento
+Nó de Destino
+PDU
+Dados
+Segmento
+Pacote
+Quadro
+Bits
+Dados
+Segmento
+Pacote
+Quadro
+Bits
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Físico
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Físico
+Aplicação Dados
+Dados
+Dados
+DadosDadosDados
+Cabeçalho
+de Rede
+Cabeçalho
+de Rede
+Cabeçalho
+de Rede
+Trailer de
+Quadro
+Bits
+1 0 1 0 0 1 1 1 0 0 1
+Em diagramas, sinais nos meios físicos são ilustrados
+por este símbolo de linha.
+
+===== Página 8 =====
+Camadas do modelo OSI
+Fonte: livro-texto.
+
+===== Página 9 =====
+ Define os mecanismos necessários para inserir os sinais nos meios de transmissão e para 
+receber os sinais desses meios. Trata bits.
+ Por ex.: especificações elétricas, mecânicas, níveis de tensão, taxas de transmissão etc.
+ Parâmetros físicos das interfaces (cabos, conectores etc.).
+ Exemplos: cabeamento/hubs.
+Camada física do modelo OSI
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace de Dados
+Física
+7
+6
+5
+4
+3
+2
+1
+-
+Fonte: livro-texto.
+
+===== Página 10 =====
+ Restringe-se a dois nós de rede somente. Tem como função principal fazer com que os 
+dados transmitidos de um computador cheguem ao próximo nó, ou seja, ao computador ou 
+dispositivo diretamente ligado a ele. Trata frames ou quadros.
+ Responsável por detectar erros de transmissão. 
+ Faz o endereçamento físico.
+ Exemplos: protocolos Ethernet, ARP/Switches LAN.
+Camada de enlace do modelo OSI
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+-
+Fonte: livro-texto.
+
+===== Página 11 =====
+ Determina a rota que os dados irão seguir para atingir seu destino (roteamento). 
+Trata pacotes.
+ Responsável pelo endereçamento lógico dos pacotes, ou seja, define um endereço de 
+origem e destino associados ao protocolo, independentemente da aplicação.
+ Não garante a entrega (sem confirmação).
+ Exemplos: protocolos IP, ICMP, IPSEC/Roteadores.
+Camada de rede do modelo OSI
+Aplicação
+Apresentação
+Sessão
+Transporte
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+Rede
+-
+Fonte: livro-texto.
+
+===== Página 12 =====
+ Estabelece a comunicação “fim a fim” em uma transmissão. Trata segmentos. 
+ Devem garantir que os dados transmitidos cheguem ao seu destino com integridade, usando 
+para isso mecanismos como controle de fluxo e correção de erros. 
+ Trabalha com portas de aplicação.
+ Exemplos: protocolos TCP, UDP.
+Camada de transporte do modelo OSI
+Aplicação
+Apresentação
+Sessão
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+Rede
+Transporte
+-
+Fonte: livro-texto.
+
+===== Página 13 =====
+ Permite que usuários de diferentes máquinas estabeleçam sessões (comunicação) 
+entre eles.
+ O nível de sessão estabelece, gerencia e termina as sessões entre entidades da camada 
+de apresentação.
+ Controle de diálogo.
+ Exemplo: autenticação de login ao iniciar a sessão.
+Camada de sessão do modelo OSI
+Aplicação
+Apresentação
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+Rede
+Transporte
+Sessão
+-
+Fonte: livro-texto.
+
+===== Página 14 =====
+ Também chamada de camada de tradução.
+ Trabalha com aspectos sintáticos e semânticos da informação, é  responsável pela 
+formatação de dados.
+ Compactação/codificação dos dados, de modo que a aplicação os receba em um
+formato reconhecível
+ Exemplos: formatação EBCDIC para ASCII/Criptografia de dados.
+Camada de apresentação do modelo OSI
+Aplicação
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+Rede
+Transporte
+Sessão
+Apresentação
+-
+Fonte: livro-texto.
+
+===== Página 15 =====
+ Camada mais próxima do usuário.
+ Responsável em permitir o acesso das aplicações à rede, provendo serviços de rede ao 
+usuário de forma transparente.
+ Definição dos protocolos da aplicação propriamente ditos.
+ Exemplos: FTP, SMTP, SNMP etc.
+Camada de aplicação do modelo OSI
+Física
+7
+6
+5
+4
+3
+2
+1
+Enlace de Dados
+Rede
+Transporte
+Sessão
+Apresentação
+Aplicação
+-
+Fonte: livro-texto.
+
+===== Página 16 =====
+Qual das organizações a seguir desenvolveu o modelo OSI?
+a) IEEE (Institute of Electrical and Eletronics Engineers).
+b) ANSI (American National Standards Institute).
+c) ITU-T (International Telecommunication Union).
+d) IEC (International Electrotechnical Commission).
+e) ISO (International Organization for Standardization).
+Interatividade
+
+===== Página 17 =====
+Qual das organizações a seguir desenvolveu o modelo OSI?
+a) IEEE (Institute of Electrical and Eletronics Engineers).
+b) ANSI (American National Standards Institute).
+c) ITU-T (International Telecommunication Union).
+d) IEC (International Electrotechnical Commission).
+e) ISO (International Organization for Standardization).
+Resposta
+
+===== Página 18 =====
+ Hub e switch são equipamentos concentradores.
+ Hub é um equipamento de camada 1 (física).
+ Switch é um equipamento de camada 2 (enlace).
+Hub x switch
+Fonte: Adaptado de: livro-texto.
+PC-PT
+PC0
+PC-PT
+PC2
+PC-PT
+PC1
+PC-PT
+PC3
+Hub
+PC-PT
+PC0
+PC-PT
+PC2
+PC-PT
+PC1
+PC-PT
+PC3
+2950-24
+Switch
+
+===== Página 19 =====
+ O hub é um equipamento que trabalha na camada física do modelo OSI, responsável por 
+repetir, amplificar e regenerar um sinal para toda a rede.
+ O hub também é conhecido como repetidor multiporta, devido ao fato de repetir bits 
+recebidos em uma porta para todas as outras portas, sem a utilização de quaisquer 
+processos inteligentes. Isto é, o hub não tem o conhecimento dos hosts que estão 
+interligados nas suas portas. 
+ As portas de um hub estão todas em um mesmo domínio de colisão.
+Hub
+
+===== Página 20 =====
+ O domínio de colisão é uma área lógica em que há a possibilidade de mais de um host 
+transmitir sinais ao mesmo tempo. 
+ Em redes com grande número de hosts não é recomendável a utilização de hub, devido a 
+causar um aumento do número de colisões. 
+ Essas colisões ocorrem quando mais de um host tenta transmitir ao mesmo tempo, 
+degradando assim o desempenho e a eficiência das redes.
+ A inserção de um hub aumenta o tamanho do domínio de 
+colisão. O ideal é que as redes LAN tenham domínios de 
+colisão pequenos.
+Hub e o domínio de colisão
+
+===== Página 21 =====
+ O switch opera na camada de enlace do modelo OSI, justamente porque ele possui o 
+conhecimento dos hosts que estão interligados em suas portas. 
+ O conhecimento do switch é baseado no endereço físico que cada host possui, conhecido 
+como endereço MAC.
+ O switch encaminha as informações apenas para o endereço físico de destino correto, 
+evitando tráfego desnecessário e aumentando a eficiência na comunicação de dados.
+ O switch constrói e armazena uma tabela interna dos 
+endereços MAC dos hosts interligados a suas portas, 
+habilitando o processo de tomada de decisão sobre o correto 
+encaminhamento das informações que por ele trafegam.
+Switch
+
+===== Página 22 =====
+ O endereço MAC, ou endereço físico, é expresso por 48 dígitos binários ou 12 dígitos 
+hexadecimais (4 bits formam um dígito hexadecimal). Assim, divididos em duas porções 
+iguais, em que a primeira porção (contendo 6 dígitos hexadecimais ou 24 bits) é conhecida 
+por Identificador Organizacional Único (OUI) e a segunda porção é a designada pelo 
+fabricante.
+ O endereço se encontra gravado na memória ROM da placa de rede do computador ou nas 
+memórias dos roteadores e switches que possuem porta ethernet.
+Endereço MAC
+
+===== Página 23 =====
+Comando IPCONFIG/ALL
+Fonte: livro-texto.
+
+===== Página 24 =====
+ Ao adicionar switches em uma rede LAN em substituição de hubs, consegue-se “quebrar” o 
+domínio de colisão, a partir da segmentação (divisão) de grandes domínios de colisão 
+gerados pelos hubs.
+ Todas as portas de um hub, na camada 1 (física), estão no mesmo domínio de colisão; 
+enquanto no switch de camada 2 (enlace), cada porta é um domínio de colisão diferente.
+Switch e os domínios de colisão
+
+===== Página 25 =====
+ Aprendizagem de endereços: registro de endereços MAC dos hosts que transmitem dados 
+em uma rede.
+ Decisões de filtragem e encaminhamento: decisões sobre qual porta deverá enviar um 
+determinado quadro.
+Tarefas do switch
+
+===== Página 26 =====
+ Store-and-Forward
+ Cut-Through
+ FragmentFree
+Modos de comutação
+Start of
+frame delimiter
+Lengh of
+data field
+Bytes 7 1 2 or 6 2 or 6 2 0 - 1500 0 - 46 4
+Preamble Destination
+address
+Sourse
+address Data Pad Checksum
+Cut-through Store and Forward
+FragmentFree
+Fonte: Adaptado de: livro-texto.
+
+===== Página 27 =====
+ Consiste em receber e armazenar todo o quadro e somente depois encaminhá-lo pela porta 
+correta.
+ Antes da retransmissão do quadro, ocorre, nesse tipo de comutação, uma checagem de 
+erros a partir do último campo do quadro ethernet.
+ Caso o cálculo de redundância cíclica executado a partir do checksum apresente problemas, 
+o quadro é descartado.
+Store-and-Forward
+
+===== Página 28 =====
+ Utilizado em switches que desejam uma menor latência (atraso) e alta performance na 
+transmissão de quadros.
+ Esse modo consiste em receber e examinar o quadro até o endereço MAC de destino para 
+imediatamente encaminhá-lo pela porta adequada.
+ O ponto negativo desse método é o encaminhamento antes da checagem de erros do 
+quadro, que é executada pelo cálculo de redundância cíclica feito no checksum.
+Cut-Through
+
+===== Página 29 =====
+ Conhecido como Cut-Through modificado.
+ Nesse modo, o encaminhamento acontece após a passagem da “janela de colisão”, que se 
+refere aos 64 bytes iniciais de quadro ethernet.
+ A partir do uso desse método, é possível detectar se, na verdade, tem-se um quadro ou um 
+fragmento de colisão.
+FragmentFree
+
+===== Página 30 =====
+Qual dos modos de comutação consiste em receber e armazenar todo o quadro e somente 
+depois encaminhá-lo pela porta correta?
+a) Store-and-Forward.
+b) Cut-Through.
+c) FragmentFree.
+d) ISL.
+e) Dot1Q.
+Interatividade
+
+===== Página 31 =====
+Qual dos modos de comutação consiste em receber e armazenar todo o quadro e somente 
+depois encaminhá-lo pela porta correta?
+a) Store-and-Forward.
+b) Cut-Through.
+c) FragmentFree.
+d) ISL.
+e) Dot1Q.
+Resposta
+
+===== Página 32 =====
+ Um switch já vem pronto de fábrica, com todas as configurações para
+funcionar adequadamente. 
+ Não obstante, para criar padrões, aumentar a segurança e gerenciar melhor uma rede, 
+convém estabelecermos mais configurações do que aquelas que são básicas.
+Configuração de switch
+
+===== Página 33 =====
+ Quando o switch inicia suas operações ou quando ele for reinicializado, a sua tabela de 
+endereços MAC se encontra vazia, ou seja, ele não tem qualquer informação sobre os hosts 
+que estão conectados a ele. 
+ Esse primeiro estágio do switch o faz parecer com um hub, que também nada “sabe” sobre 
+os dispositivos interligados a suas portas. 
+ Assim, se qualquer dispositivo transmitir algum quadro para o 
+switch, ele vai retransmiti-lo para todas as portas, justamente 
+porque a sua tabela MAC está vazia, sem qualquer informação 
+sobre os hosts.
+Processo de aprendizagem de endereços do switch
+
+===== Página 34 =====
+ Após receber quaisquer quadros por uma porta, o switch inicia o aprendizado com base no 
+endereço MAC de origem, preenchendo a tabela MAC.
+ Da mesma forma que o switch aprende novos endereços MAC, relacionando-os a interfaces 
+para preencher a sua tabela MAC, ele também poderá esquecer tudo. 
+ Basta que os hosts parem de transmitir por um tempo para que todos os registros inativos 
+sejam retirados. Com isso, a tabela MAC permanece sempre atualizada.
+Processo de aprendizagem de endereços do switch
+
+===== Página 35 =====
+Processo de aprendizagem de endereços do switch
+PC-Fa0
+MARIA
+PC-PT
+JOSÉ
+Fa0
+Fa0/3
+Fa0/2Fa0/1
+2950-24
+SWITCH PC-PT
+JOÃO
+Fa0
+Fonte: autoria própria.
+
+===== Página 36 =====
+ Ao chegar a uma interface, o quadro é recepcionado pelo switch, que verifica a existência de 
+um registro na tabela MAC que o ajude na tomada de decisão.
+ Caso haja, ele filtrará a transmissão apenas pela interface informada pela tabela MAC.
+ Se não houver registro na tabela MAC que o auxilie na filtragem, o quadro será enviado para 
+todas as suas interfaces ativas, com exceção da interface da qual o quadro foi originado.
+ Esse processo de encaminhamento ocorre no switch porque 
+todas as suas portas estão no mesmo domínio de broadcast.
+Processo de decisão de filtragem e encaminhamento do switch
+
+===== Página 37 =====
+ O domínio de broadcast é um segmento lógico, em que um computador ou qualquer outro 
+dispositivo conectado à rede pode receber pacotes de broadcast.
+ Ele simplifica a comunicação entre dispositivos em uma rede local, permitindo a descoberta 
+de dispositivos, anúncios de serviços e atualizações de configuração.
+ Somente um dispositivo de camada 3 (ou camada de rede) pode dividir um domínio de 
+broadcast de camada 2. Os roteadores são usados para segmentar tanto domínios de 
+broadcast como domínios de colisão.
+Switch e o domínio de broadcast
+
+===== Página 38 =====
+ O roteador opera na camada de rede do modelo OSI, justamente porque ele possui o 
+conhecimento das redes que estão interligadas em suas portas.
+ O conhecimento do roteador é baseado no endereço lógico que cada rede possui, conhecido 
+como endereço IP.
+ O roteador encaminha os pacotes para o endereço IP da rede de destino, esteja esta rede 
+diretamente ou indiretamente conectada à uma de suas interfaces. Caso o roteador não 
+tenha “aprendido” esta rede por nenhuma de suas interfaces, o pacote é descartado.
+Roteador
+
+===== Página 39 =====
+ O roteador constrói e armazena uma tabela interna com os endereços IP das redes 
+interligadas a suas portas ou das redes conhecidas através destas portas, formando uma 
+tabela de rotas. Esta tabela conta também com métricas que possibilitam o processo de 
+tomada de decisão sobre o melhor caminho para a rede de destino.
+Roteador
+
+===== Página 40 =====
+ Ao adicionar um roteador em uma rede, consegue-se “quebrar” o domínio de broadcast a 
+partir da segmentação (divisão) das redes. 
+ O roteador é a interface entre a rede LAN e a rede WAN.
+ Todas as portas de um switch de camada 2 (enlace), estão no mesmo domínio de broadcast; 
+enquanto no roteador, camada 3 (rede), cada porta é um domínio de broadcast diferente.
+Roteador e os domínios de broadcast
+
+===== Página 41 =====
+Roteador e os domínios de broadcast
+PC-PT
+PC0
+PC-PT
+PC1
+Hub-PT
+Hub
+1841
+Roteador
+2950-24
+Switch
+PC-PT
+PC2
+PC-PT
+PC3
+Fonte: autoria própria.
+
+===== Página 42 =====
+Qual é o equipamento que quebra o domínio de broadcast em uma rede, definindo o melhor 
+caminho para os pacotes chegarem ao destino?
+a) Repetidor.
+b) Roteador.
+c) Hub.
+d) Switch.
+e) Modem.
+Interatividade
+
+===== Página 43 =====
+Qual é o equipamento que quebra o domínio de broadcast em uma rede, definindo o melhor 
+caminho para os pacotes chegarem ao destino?
+a) Repetidor.
+b) Roteador.
+c) Hub.
+d) Switch.
+e) Modem.
+Resposta
+
+===== Página 44 =====
+ O Modelo TCP/IP, também conhecido como modelo DoD (Departamento de Defesa norte-
+americano), foi criado para atender à necessidade de criação da rede de computadores da 
+ARPA (Agência de Pesquisas e Projetos Avançados do Departamento de Defesa).
+ É um modelo aberto e relativamente simples. Concebido como projeto em 1970, que traduz 
+toda a problemática das redes em quatro camadas: camada de aplicação, camada de 
+transporte, camada da internet e camada de acesso à rede.
+Modelo TCP/IP
+
+===== Página 45 =====
+Modelo TCP/IP
+Fonte: livro-texto.
+Aplicação
+Transporte
+Internet
+Acesso à rede
+
+===== Página 46 =====
+ Camada de aplicação – conhecida como camada de processo, lida com aplicativos e 
+dispositivos de origem/destino. É a camada mais próxima do usuário.
+ Camada de transporte – conhecida como camada de host-a-host, gerenciando o fluxo de 
+informações entre dispositivos, gerenciando o tipo de transmissão.
+ Camada de internet – executa o processo de roteamento de pacotes e endereçamento 
+lógico.
+ Camada de acesso à rede – responsável por gerenciar a 
+transmissão da informação no meio físico.
+Camadas do modelo TCP/IP
+
+===== Página 47 =====
+Comparação modelos OSI e TCP/IP 
+Aplicação
+Apresentação
+Sessão
+Transporte
+Rede
+Enlace
+Física
+Aplicação
+Transporte
+Internet
+Acesso à rede
+Fonte: livro-texto.
+
+===== Página 48 =====
+ Os dois modelos são organizados em camadas.
+ Ambos os modelos possuem camadas de Aplicação
+ Ambos os modelos possuem camadas de Transporte e de Rede (inter-rede) com
+funções comparáveis
+ Os dois modelos pressupõe o fluxo de pacotes e o encapsulamento dos dados
+ Os profissionais da área precisam conhecer ambos
+Semelhanças entre os modelos OSI e TCP/IP
+
+===== Página 49 =====
+ O TCP/IP combina os aspectos das camadas de Apresentação e de Sessão dentro da sua 
+camada de Aplicação.
+ O TCP/IP combina as camadas Física e de Enlace do Modelo OSI em uma camada de 
+Acesso à Rede. 
+ O modelo OSI é uma padronização, um modelo mais conceitual que serve como guia.
+ Os protocolos TCP/IP são os padrões em torno dos quais a Internet se desenvolveu, 
+enquanto que o modelo OSI foi desenvolvido para padronizar interconexões de redes 
+diversas.
+Diferenças entre os modelos OSI e TCP/IP
+
+===== Página 50 =====
+ O HTTP define como o cliente web (browser) requisita uma página web a um servidor e 
+como esse servidor transfere a página para o cliente. 
+ O HTTP utiliza o protocolo TCP na camada de Transporte, por isso é orientado à conexão.
+Protocolos de aplicação – HTTP (HyperText Transfer Protocol)
+
+===== Página 51 =====
+ É um protocolo que tem como finalidade principal transferir arquivos de um computador para 
+o outro, copiando e movendo arquivos dos servidores para os clientes e vice-versa. 
+ Por ser um protocolo confiável e orientado à conexão, o FTP carrega a garantia de serviço 
+de que as informações serão entregues ao destino.
+Protocolos de aplicação – FTP (File Transfer Protocol)
+
+===== Página 52 =====
+ São utilizados para estabelecer conexão on-line com uma máquina remota.
+ Trata-se de uma emulação de terminal que permite o acesso de forma remota a outro 
+computador, sendo suportado por inúmeras aplicações.
+ Por razões de segurança, o Telnet vem sendo amplamente substituído pelo SSH, que 
+oferece uma versão mais segura e criptografada da mesma funcionalidade.
+Protocolos de aplicação – Telnet e SSH
+
+===== Página 53 =====
+ Protocolo utilizado para identificar de forma facilitada hosts da internet.
+ O DNS pode ser visto como um grande banco de dados distribuído e integrado por meio de 
+uma hierarquização de servidores de nomes, chamados de servidores DNS. 
+ Tem a assistência de um protocolo da camada de aplicação que permite que hosts 
+consultem o banco de dados de informações.
+Protocolos de aplicação – DNS (Domain Name System)
+
+===== Página 54 =====
+ Esses protocolos são usados especificamente para o serviço e transferência de e-mails.
+ O SMTP (Simple Mail Transfer Protocol) é o protocolo usado para transferir e-mails entre 
+servidores e também pelo aplicativo cliente para enviar e-mails. 
+ Os protocolos POP (Post Office Protocol) e IMAP (Internet Message Access Protocol) são 
+usados pelo aplicativo cliente para baixar um e-mail do servidor local.
+Protocolos de aplicação – SMTP, POP e IMAP
+
+===== Página 55 =====
+ É um protocolo que tem a função de trocar informações de gerenciamento entre os 
+dispositivos de uma determinada rede. 
+ O SNMP ajuda os administradores de rede a gerenciá-la de forma otimizada. Mensagens de 
+alerta são enviadas para o computador que gerencia a rede e são armazenadas em base de 
+dados de coleta de informações para registro histórico de atividade dos ativos e serviços por 
+ele (protocolo) gerenciados.
+Protocolos de aplicação – SNMP (Simple Network Management Protocol)
+
+===== Página 56 =====
+Qual é o protocolo que define como o cliente web (browser) requisita uma página web a um 
+servidor e como esse servidor transfere a página para o cliente?
+a) IP.
+b) TCP.
+c) UDP.
+d) HTTP.
+e) DNS.
+Interatividade
+
+===== Página 57 =====
+Qual é o protocolo que define como o cliente web (browser) requisita uma página web a um 
+servidor e como esse servidor transfere a página para o cliente?
+a) IP.
+b) TCP.
+c) UDP.
+d) HTTP.
+e) DNS.
+Resposta
+
+===== Página 58 =====
+ATÉ A PRÓXIMA!

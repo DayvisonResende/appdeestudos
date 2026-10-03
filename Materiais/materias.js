@@ -4,4 +4,5 @@
 window.MATERIAS = [
   "DireitosHumanos",
   "PesquisaTecnologiaEInovação",
+  "Redes",
 ];
